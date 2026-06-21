@@ -238,6 +238,7 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
     bot = Bot(config)
     if persona == "llm":
         from .lore.loader import LoreStore
+        from .lore.vector import VectorIndex
         from .lore.wiki import WikiIndex
         from .persona.inference import OllamaInferenceClient
         from .persona.llm import LlmPersona
@@ -246,8 +247,9 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
         client = OllamaInferenceClient(model=inference.get("model"))
         lore = LoreStore("lore")
         wiki = WikiIndex("wiki-cache")
+        vector = VectorIndex("wiki-cache")  # Tier-2 semantic fallback (empty if not built)
         bot.persona = LlmPersona(
-            client, lambda: bot.active_profile_doc, lore=lore, wiki=wiki
+            client, lambda: bot.active_profile_doc, lore=lore, wiki=wiki, vector=vector
         )
     return bot
 

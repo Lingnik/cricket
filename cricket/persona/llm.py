@@ -28,6 +28,7 @@ class LlmPersona(Persona):
         profile_getter: Union[Callable, None] = None,
         lore=None,
         wiki=None,
+        vector=None,
     ) -> None:
         self._client = client
         # () -> active profile doc (dict) or None. Read on each turn so live edits apply.
@@ -38,6 +39,9 @@ class LlmPersona(Persona):
         # Optional WikiIndex: in OOC chat, factual blurbs for topics mentioned in the line are
         # injected so Cricket can play "rogue wiki search engine" -- summarize, but crassly.
         self._wiki = wiki
+        # Optional VectorIndex: Tier-2 semantic fallback when Tier-1 (dossiers) + keyword wiki
+        # lookup both miss -- finds the closest page by meaning.
+        self._vector = vector
 
     async def respond(self, turn: Turn) -> Union[Response, None]:
         doc = self._get_profile() or {}
@@ -104,10 +108,12 @@ class LlmPersona(Persona):
         add(turn.speaker)
 
         blocks = []
+        mentioned_names = []
         if self._lore is not None:
             # Characters NAMED in the live line or scene, even if absent -- so "what do you
             # know about Johanna?" pulls her dossier. Deterministic gazetteer match.
-            for name in self._lore.mentioned(turn.text):
+            mentioned_names = self._lore.mentioned(turn.text)
+            for name in mentioned_names:
                 add(name)
             for line in turn.context:
                 for name in self._lore.mentioned(line.text):
@@ -119,6 +125,7 @@ class LlmPersona(Persona):
 
         # OOC only: wiki blurbs for topics named in the line (the "rogue search engine"). IC
         # stays canon-grounded. Exclude the bot itself and anyone already covered by a dossier.
+        topics = []
         if self._wiki is not None and turn.mode != "rp":
             bot = turn.bot_identity.name if turn.bot_identity else ""
             exclude = set(cast)
@@ -130,6 +137,20 @@ class LlmPersona(Persona):
                 for title, blurb in topics:
                     lines.append("- %s: %s" % (title, blurb))
                 blocks.append("\n".join(lines))
+
+        # Tier-2 semantic fallback (OOC): the line names a subject that matched no dossier and
+        # no exact wiki title -- find the closest page by MEANING (embeddings). This is what
+        # lets him answer about people/topics with no curated entry.
+        if (self._vector is not None and self._wiki is not None and turn.mode != "rp"
+                and not mentioned_names and not topics
+                and self._wiki.topic_phrases(turn.text)):
+            hits = self._vector.search(turn.text, k=1)
+            if hits:
+                blurb = self._wiki.summary_for(hits[0]["title"])
+                if blurb:
+                    blocks.append(
+                        "Records (closest match) -- %s:\n%s" % (hits[0]["title"], blurb)
+                    )
 
         return "\n\n".join(b for b in blocks if b.strip())
 
