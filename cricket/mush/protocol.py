@@ -78,15 +78,15 @@ class Parser:
         m = p["nospoof_owned"].match(line)
         if m:
             actor = Actor(m.group("oname").strip(), "#" + m.group("odbref"))
-            return self._room_from_rest(actor, m.group("rest"))
+            return self._classify_room(actor, m.group("rest"))
         m = p["nospoof_paranoid"].match(line)
         if m:
             actor = Actor(m.group("name").strip(), "#" + m.group("dbref"))
-            return self._room_from_rest(actor, m.group("rest"))
+            return self._classify_room(actor, m.group("rest"))
         m = p["nospoof_plain"].match(line)
         if m:
             actor = Actor(m.group("name").strip(), None)
-            return self._room_from_rest(actor, m.group("rest"))
+            return self._classify_room(actor, m.group("rest"))
 
         # 2. Channel line.
         m = p["channel"].match(line)
@@ -128,10 +128,22 @@ class Parser:
         # 6. Fallback.
         return Unknown(raw=line)
 
-    def _room_from_rest(self, actor: Actor, rest: str) -> RoomMessage:
-        """Classify the de-prefixed remainder of a spoofable line as say or emit,
-        keeping the actor from the bracket (the trustworthy source)."""
-        sm = self._p["say"].match(rest)
+    def _classify_room(self, actor: Actor, rest: str):
+        """Reclassify the de-prefixed remainder of a PARANOID/NOSPOOF line, keeping the
+        bracket actor (the trustworthy source).
+
+        With PARANOID the server prepends the bracket to room says, poses, and emits AND
+        to connect notices -- e.g. `[Bob(#5)] Bob has connected.`, `[Bob(#5)] Bob waves.`,
+        `[Bob(#5)] Bob says, "hi"`, `[Bob(#5)] A cold wind blows.` So all of those must be
+        recognized here, not just say-vs-emit. A pose is detected by the remainder leading
+        with the actor's own name."""
+        p = self._p
+        cm = p["connect"].match(rest)
+        if cm:
+            return ConnectNotice(actor, cm.group("verb") == "connected")
+        sm = p["say"].match(rest)
         if sm:
             return RoomMessage(actor, SpeechKind.SAY, sm.group("text"))
+        if actor.name and rest.startswith(actor.name + " "):
+            return RoomMessage(actor, SpeechKind.POSE, rest[len(actor.name) + 1 :])
         return RoomMessage(actor, SpeechKind.EMIT, rest)

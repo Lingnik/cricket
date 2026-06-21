@@ -20,11 +20,13 @@ from dataclasses import dataclass
 from ..config import VALID_ENGAGEMENT, VALID_MODES, LocationConfig
 from ..persona.base import BotIdentity
 
+# The default profile matches the provisioned test world (channels Public/Lounge/OOC,
+# bot dbref #3, admin Bazil #4) and the Ollama backend. Prompt CONTENT is phase-2-owned.
 DEFAULT_PROFILE = {
     "identity": {
         "presented_name": "Cricket",
         "pronouns": "they/them",
-        "bot_dbref": None,
+        "bot_dbref": "#3",
         "nospoof": True,
         "paranoid": True,
         "wizard": False,
@@ -34,29 +36,49 @@ DEFAULT_PROFILE = {
             "name": "Public",
             "mode": "chat",
             "engagement": "addressed",
-            "prefixes": ["cricket,"],
-            "directives": "Keep it PG. Deflect adult themes politely, stay in voice.",
+            "prefixes": ["cricket", "cricket,"],
+            "directives": "Keep it PG, stay in character.",
             "rate_limit": "1 / 20s",
             "enabled": True,
             "admins": [],
         },
         {
-            "name": "Cricket-Lounge",
+            "name": "Lounge",
             "mode": "chat",
             "engagement": "always",
             "prefixes": [],
-            "directives": "Anything goes here. Banter freely.",
+            "directives": "Relaxed OOC banter.",
             "rate_limit": "1 / 5s",
             "enabled": True,
             "admins": [],
         },
+        {
+            "name": "OOC",
+            "mode": "control",
+            "engagement": "addressed",
+            "prefixes": [],
+            "directives": "",
+            "rate_limit": None,
+            "enabled": True,
+            "admins": ["#4"],
+        },
     ],
-    "prompts": {"system": "", "chat_template": "", "rp_template": ""},
+    "prompts": {
+        # Placeholder voice; phase 2 authors the real character sheet.
+        "system": "You are Cricket, a friendly, witty character on a MUSH. Stay in "
+        "character and keep replies brief.",
+        "chat_template": "",
+        "rp_template": "",
+    },
     "inference": {
-        "backend": None,
-        "temperature": 0.7,
-        "max_tokens": 512,
+        "backend": "gpu",
+        "model": "hf.co/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF:Q5_K_M",
+        "num_ctx": 16384,
+        "num_predict": 400,
+        "temperature": 0.85,
         "top_p": 0.95,
+        "stop": ["\n\n\n"],
+        "keep_alive": "30m",
     },
 }
 

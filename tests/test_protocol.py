@@ -52,6 +52,30 @@ def test_nospoof_plain_has_no_dbref():
     assert ev.text == "grins."
 
 
+def test_paranoid_pose_keeps_bracket_actor():
+    # With PARANOID the bracket precedes the actor's own name in a pose.
+    ev = p().parse("[Bob(#5)] Bob waves at everyone.")
+    assert isinstance(ev, RoomMessage)
+    assert ev.speaker.name == "Bob"
+    assert ev.speaker.dbref == "#5"
+    assert ev.kind is SpeechKind.POSE
+    assert ev.text == "waves at everyone."
+
+
+def test_paranoid_connect_notice_reclassified():
+    ev = p().parse("[Bob(#5)] Bob has connected.")
+    assert isinstance(ev, ConnectNotice)
+    assert ev.actor.name == "Bob"
+    assert ev.actor.dbref == "#5"
+    assert ev.connected is True
+
+
+def test_paranoid_disconnect_notice_reclassified():
+    ev = p().parse("[Bob(#5)] Bob has disconnected.")
+    assert isinstance(ev, ConnectNotice)
+    assert ev.connected is False
+
+
 def test_channel_say():
     ev = p().parse('<Public> Bob says, "hello there"')
     assert isinstance(ev, ChannelMessage)

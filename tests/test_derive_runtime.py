@@ -19,21 +19,23 @@ def test_derive_locations_and_admins():
     doc = copy.deepcopy(DEFAULT_PROFILE)
     doc["locations"][0]["admins"] = ["#10", "#11"]
     rt = derive_runtime(doc)
-    assert set(rt.locations) == {"Public", "Cricket-Lounge"}
+    assert set(rt.locations) == {"Public", "Lounge", "OOC"}
     public = rt.locations["Public"]
     assert isinstance(public, LocationConfig)
     assert public.mode == "chat"
     assert public.engagement == "addressed"
     assert "cricket," in public.prefixes
-    assert rt.locations["Cricket-Lounge"].engagement == "always"
+    assert rt.locations["Lounge"].engagement == "always"
+    assert rt.locations["OOC"].mode == "control"
     assert rt.location_admins["Public"] == ["#10", "#11"]
+    assert rt.location_admins["OOC"] == ["#4"]
 
 
 def test_derive_carries_prompts_and_inference():
     rt = derive_runtime(DEFAULT_PROFILE)
     assert "system" in rt.prompts
-    assert rt.inference["temperature"] == 0.7
-    assert rt.inference["backend"] is None
+    assert rt.inference["temperature"] == 0.85
+    assert rt.inference["backend"] == "gpu"
 
 
 def test_invalid_mode_raises():

@@ -36,6 +36,12 @@ def main(argv=None) -> int:
     run_p = sub.add_parser("run", help="start the bot daemon")
     run_p.add_argument("--config", default=DEFAULT_CONFIG)
     run_p.add_argument("--env", default=DEFAULT_ENV)
+    run_p.add_argument(
+        "--persona",
+        choices=["stub", "llm"],
+        default="stub",
+        help="stub = no model (default); llm = local Ollama backend",
+    )
 
     ctl_p = sub.add_parser("ctl", help="attach the control REPL")
     ctl_p.add_argument("--host", default="127.0.0.1")
@@ -50,8 +56,9 @@ def main(argv=None) -> int:
             "cricket: control panel on http://%s:%d/"
             % (config.http.host, config.http.port)
         )
+        print("cricket: persona=%s" % args.persona)
         try:
-            asyncio.run(run_async(config))
+            asyncio.run(run_async(config, persona=args.persona))
         except KeyboardInterrupt:
             pass
         return 0

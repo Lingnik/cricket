@@ -52,6 +52,7 @@ class Bot:
 
         # Behavioral config from the active profile: bot_identity, locations, auth, actions.
         self.active_profile = None
+        self.active_profile_doc = None  # full active profile doc; LlmPersona reads it
         self.bot_identity = BotIdentity(name=config.mush.name or "cricket")
         self.locations: dict = {}
         self.auth = Allowlist()
@@ -101,6 +102,7 @@ class Bot:
         active = self.config_store.active()
         if active is None:
             self.active_profile = None
+            self.active_profile_doc = None
             self.locations = {}
             self.auth = self._build_allowlist({})
             self._build_actions()
@@ -108,6 +110,7 @@ class Bot:
         name, doc = active
         rt = derive_runtime(doc)
         self.active_profile = name
+        self.active_profile_doc = doc
         self.bot_identity = rt.bot_identity
         if not self.bot_identity.name:
             self.bot_identity = BotIdentity(name=self.config.mush.name or "cricket")
@@ -156,6 +159,15 @@ class Bot:
         # Fire-and-forget so a slow persona never blocks the read loop.
         asyncio.ensure_future(self.router.handle(event))
 
+    def _setup_commands(self) -> list:
+        """Commands to run on each (re)connect: ensure NOSPOOF/PARANOID, then join every
+        chat/control channel via @channel/on (addcom is disabled on this server)."""
+        cmds = ["@set me=NOSPOOF", "@set me=PARANOID"]
+        for name, loc in self.locations.items():
+            if loc.mode in ("chat", "control"):
+                cmds.append("@channel/on %s" % name)
+        return cmds
+
     async def run(self) -> None:
         loop = asyncio.get_running_loop()
         self.connection = Connection(
@@ -165,6 +177,7 @@ class Bot:
             password=self.config.mush.password,
             on_line=self._on_line,
             use_tls=self.config.mush.use_tls,
+            setup_commands=self._setup_commands(),
         )
         await self.control.start()
         self.http = HttpConfigServer(
@@ -189,5 +202,20 @@ class Bot:
         self.config_store.close()
 
 
-async def run_async(config: Config) -> None:
-    await Bot(config).run()
+def build_bot(config: Config, persona: str = "stub") -> Bot:
+    """Construct a Bot with the chosen persona. `llm` wires LlmPersona to a local Ollama
+    client, reading the active profile's prompts/inference live; `stub` is the no-model
+    default used by tests and offline runs."""
+    bot = Bot(config)
+    if persona == "llm":
+        from .persona.inference import OllamaInferenceClient
+        from .persona.llm import LlmPersona
+
+        inference = (bot.active_profile_doc or {}).get("inference", {})
+        client = OllamaInferenceClient(model=inference.get("model"))
+        bot.persona = LlmPersona(client, lambda: bot.active_profile_doc)
+    return bot
+
+
+async def run_async(config: Config, persona: str = "stub") -> None:
+    await build_bot(config, persona).run()

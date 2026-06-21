@@ -33,7 +33,26 @@ class Router:
     def __init__(self, services) -> None:
         self.s = services
 
+    def _is_self(self, actor) -> bool:
+        """True if `actor` is the bot itself. The bot sees its own channel/room output
+        echoed back; without this it would react to its own messages in a loop."""
+        bid = getattr(self.s, "bot_identity", None)
+        if bid is None or actor is None:
+            return False
+        if actor.dbref and bid.dbref and actor.dbref == bid.dbref:
+            return True
+        if actor.name and bid.name and actor.name.lower() == bid.name.lower():
+            return True
+        return False
+
     async def handle(self, event) -> None:
+        actor = (
+            getattr(event, "speaker", None)
+            or getattr(event, "sender", None)
+            or getattr(event, "actor", None)
+        )
+        if self._is_self(actor):
+            return
         if isinstance(event, ChannelMessage):
             await self._handle_channel(event)
         elif isinstance(event, RoomMessage):

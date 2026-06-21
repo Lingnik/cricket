@@ -67,6 +67,7 @@ class Connection:
         on_line: Callable,
         use_tls: bool = False,
         keepalive_seconds: float = 60.0,
+        setup_commands: Union[list, None] = None,
     ) -> None:
         self.host = host
         self.port = port
@@ -75,6 +76,9 @@ class Connection:
         self.use_tls = use_tls
         self.on_line = on_line
         self.keepalive_seconds = keepalive_seconds
+        # Commands issued right after login on every (re)connect: e.g. setting
+        # NOSPOOF/PARANOID and joining channels via @channel/on.
+        self.setup_commands = list(setup_commands or [])
         self._reader = None
         self._writer = None
         self._buffer = b""
@@ -110,8 +114,9 @@ class Connection:
         # Frame command output so it is never mistaken for world traffic.
         self.send("OUTPUTPREFIX %s" % OUTPUTPREFIX_SENTINEL)
         self.send("OUTPUTSUFFIX %s" % OUTPUTSUFFIX_SENTINEL)
-        # TODO(live, needs permissions): self.send("@set me=!NOSPOOF")  # then PARANOID
-        # self.send("@set me=PARANOID")
+        # Per-connect setup (idempotent): NOSPOOF/PARANOID, @channel/on joins, etc.
+        for cmd in self.setup_commands:
+            self.send(cmd)
 
     async def _read_loop(self) -> None:
         assert self._reader is not None

@@ -96,6 +96,14 @@ def test_always_engagement_engages_every_line():
     assert s.persona.turns[0].text == "anything"
 
 
+def test_self_messages_are_ignored():
+    s = make_services()
+    router = Router(s)
+    # The bot's own echoed line (name matches bot_identity) must not engage the persona.
+    run(router, ChannelMessage("Lounge", Actor("Cricket"), SpeechKind.SAY, "anything"))
+    assert s.persona.turns == []
+
+
 def test_muted_suppresses_persona():
     s = make_services()
     s.muted = True
