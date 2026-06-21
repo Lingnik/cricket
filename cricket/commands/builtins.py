@@ -213,10 +213,15 @@ async def cmd_bang_clearqueue(ctx: CommandContext, args: list) -> None:
 
 
 async def cmd_help(ctx: CommandContext, args: list) -> None:
-    available = [
-        c for c in ctx.bot.registry.commands() if ctx.level >= c.level
-    ]
-    ctx.reply("commands: " + ", ".join(c.name for c in available))
+    # Role-specific: only commands the invoker's level can actually use.
+    available = [c for c in ctx.bot.registry.commands() if ctx.level >= c.level]
+    items = [("%s -- %s" % (c.name, c.help)) if c.help else c.name for c in available]
+    text = "Cricket commands (%s): %s" % (ctx.level.name, "; ".join(items))
+    # In-MUSH: @page the list to the user. Console: reply inline.
+    if ctx.source == "mush" and ctx.invoker_name:
+        ctx.bot.actions.page(ctx.invoker_name, text)
+    else:
+        ctx.reply(text)
 
 
 def _directives_for(bot, location):
@@ -272,4 +277,5 @@ def register_builtins(registry) -> None:
     registry.register(
         Command("!clearqueue", Level.ADMIN, cmd_bang_clearqueue, "clear the scene queue")
     )
-    registry.register(Command("help", Level.PUBLIC, cmd_help, "list commands"))
+    registry.register(Command("help", Level.PUBLIC, cmd_help, "list your commands"))
+    registry.register(Command("!help", Level.PUBLIC, cmd_help, "list your commands"))

@@ -91,6 +91,9 @@ class Router:
             cmdline = self._addressed_command(event.text)
             if not cmdline:
                 return  # not addressed to the bot (or bare name) -> ignore silently
+            if cmdline.split()[0].lower() in ("!help", "help"):
+                await self._handle_help(event.speaker)
+                return
             level = self._control_level(cfg, event.speaker)
             if level is None:
                 return  # speaker is not an authorized admin -> ignore silently
@@ -109,6 +112,9 @@ class Router:
         # ("Cricket !pose") from an authorized admin is dispatched as a command. Bare
         # addressed chat ("Cricket, hi") and non-admin senders fall through to chat.
         cmdline = self._addressed_command(event.text)
+        if cmdline and cmdline.split()[0].lower() in ("!help", "help"):
+            await self._handle_help(event.speaker)
+            return
         if cmdline and cmdline.startswith("!"):
             level = self._control_level(cfg, event.speaker)
             if level is not None:
@@ -210,6 +216,41 @@ class Router:
             return None
         return glvl if glvl >= Level.ADMIN else Level.ADMIN
 
+    def _admin_names(self) -> set:
+        """Lowercased names of all configured admins -- bare-name entries plus dbref
+        entries resolved to a name via the actors table."""
+        s = self.s
+        names = set()
+        store = getattr(s, "store", None)
+        for loc in getattr(s, "locations", {}).values():
+            for a in getattr(loc, "admins", []) or []:
+                if a.startswith("#"):
+                    rec = store.actor(a) if store is not None else None
+                    if rec and rec.get("name"):
+                        names.add(rec["name"].lower())
+                else:
+                    names.add(a.lower())
+        return names
+
+    def _invoker_level(self, actor) -> Level:
+        """Auth level for a command invoker, resolving name-only actors (e.g. page
+        senders, who carry no dbref) against the allowlist and the configured admins.
+        Defaults to PUBLIC."""
+        lvl = self.s.auth.level_for(actor)
+        if lvl >= Level.ADMIN:
+            return lvl
+        if actor.name and actor.name.lower() in self._admin_names():
+            return Level.ADMIN
+        return lvl
+
+    async def _handle_help(self, actor) -> None:
+        """Dispatch !help for ANY user (help is universal): pages them a command list
+        scoped to their resolved role."""
+        level = self._invoker_level(actor)
+        await self._dispatch_command(
+            "!help", actor, lambda t: self.s.actions.page(actor.name, t), level
+        )
+
     # -- rooms -----------------------------------------------------------------
     def _handle_room(self, speaker: str, dbref, kind: str, text: str) -> None:
         s = self.s
@@ -237,6 +278,10 @@ class Router:
     # -- pages -----------------------------------------------------------------
     async def _handle_page(self, event: Page) -> None:
         s = self.s
+        # !help is universal: any user can page it and get a role-scoped command list.
+        if "!help" in (event.text or "").lower():
+            await self._handle_help(event.sender)
+            return
         level = s.auth.level_for(event.sender)
         if level < Level.ADMIN:
             return
