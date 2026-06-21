@@ -363,6 +363,9 @@ class LlmPersona(Persona):
                     "the people present where they fit. Write it as a raw SW1 @emit -- "
                     "self-describing third-person prose (e.g. 'The little astromech's dome "
                     "swivels...'); do NOT prefix it with your name or 'Cricket says/poses'. "
+                    "His wit lives in his MOUTH: land at least one SPOKEN line (in quotes), crude "
+                    "and specific -- never a silent action-only pose. Crass and profane beats "
+                    "polished and literary every time. "
                     "Write ONE coherent pose; close every quotation mark you open; it is prose, "
                     "so use NO *asterisks* or stage-directions." % name
                 )
