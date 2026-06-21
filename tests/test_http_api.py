@@ -16,7 +16,7 @@ class FakeBot:
     def __init__(self, tmp_path):
         self.config_store = ConfigStore(str(tmp_path / "config.sqlite3"))
         self.config_store.seed_default_if_empty(DEFAULT_PROFILE)
-        self.store = SimpleNamespace(path=str(tmp_path / "memory.sqlite3"))
+        self.store = MemoryStore(str(tmp_path / "memory.sqlite3"))
         self.scene_queues = {}
         self.muted = False
         self.harass_on_connect = False
@@ -160,6 +160,21 @@ def test_mute(tmp_path, loop):
     assert result[0] == 200
     assert body(result)["muted"] is True
     assert bot.muted is True
+
+
+def test_memory_digest_and_purge(tmp_path, loop):
+    bot = FakeBot(tmp_path)
+    # seed a scene memory + a logged event for room #0
+    bot.store.save_scene_summary("#0", ["Johanna"], "Johanna threatened Cricket.")
+    bot.store.log_event("#0", "#8", "pose", "Johanna draws her sidearm.")
+    dig = body(route("GET", "/api/memory", None, bot, loop))
+    assert dig["events"] == 1
+    assert any(s["room"] == "#0" for s in dig["scenes"])
+    # excise the scene
+    res = body(route("DELETE", "/api/memory", json.dumps({"room": "#0"}).encode(), bot, loop))
+    assert res["events_removed"] == 1 and res["memory_rows_removed"] >= 1
+    dig2 = body(route("GET", "/api/memory", None, bot, loop))
+    assert dig2["events"] == 0 and dig2["scenes"] == []
 
 
 def test_harass_toggle(tmp_path, loop):

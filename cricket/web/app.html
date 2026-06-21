@@ -266,6 +266,7 @@
     <div class="side-foot">
       <div class="ctrl-link" id="navEditor" onclick="showView('editor')">Editor</div>
       <div class="ctrl-link" id="navControl" onclick="showView('control')">Control</div>
+      <div class="ctrl-link" id="navMemory" onclick="showView('memory')">Memory</div>
     </div>
   </aside>
 
@@ -433,6 +434,22 @@
         </div>
       </div>
     </div>
+
+    <!-- Memory: inspect + excise (brain surgery) -->
+    <div id="view-memory" style="display:none; flex-direction:column; height:100%; min-height:0;">
+      <div class="view-head"><div class="title">memory</div>
+        <button onclick="refreshMemory()">refresh</button></div>
+      <div class="view-body" style="overflow:auto;">
+        <div class="section-card">
+          <h3><span class="ico">~</span> Overview</h3>
+          <div class="stat-rows" id="memStats"><div class="muted-line">loading...</div></div>
+        </div>
+        <div class="section-card">
+          <h3><span class="ico">#</span> Scene memories <small>(per room; "Purge" excises the summary AND that room's logged events)</small></h3>
+          <div id="memScenes"><div class="empty">loading...</div></div>
+        </div>
+      </div>
+    </div>
   </main>
 </div>
 
@@ -530,9 +547,12 @@ function showView(name) {
   state.view = name;
   el('view-editor').style.display = name === 'editor' ? 'flex' : 'none';
   el('view-control').style.display = name === 'control' ? 'flex' : 'none';
+  el('view-memory').style.display = name === 'memory' ? 'flex' : 'none';
   el('navEditor').classList.toggle('active', name === 'editor');
   el('navControl').classList.toggle('active', name === 'control');
+  el('navMemory').classList.toggle('active', name === 'memory');
   if (name === 'control') { refreshStatus(); refreshRp(); refreshLog(); }
+  if (name === 'memory') { refreshMemory(); }
 }
 function showTab(name) {
   state.tab = name;
@@ -1031,6 +1051,39 @@ function toggleHarass(want) {
   api('POST', '/api/harass', { harass: !!want }).then(function(res) {
     if (res.ok) { renderStatusRows(res.data); el('harassLabel').textContent = 'Harass on connect: ' + (res.data.harass_on_connect ? 'yes' : 'no'); toast(res.data.harass_on_connect ? 'harass-on-connect ON' : 'harass-on-connect OFF', 'ok'); }
     else { toast(res.data.error || 'harass toggle failed', 'err'); refreshStatus(); }
+  });
+}
+
+/* ============================ memory (brain surgery) ============================ */
+function refreshMemory() {
+  api('GET', '/api/memory').then(function(res) {
+    if (!res.ok) { el('memStats').innerHTML = '<div class="muted-line">error</div>'; return; }
+    var d = res.data;
+    el('memStats').innerHTML =
+      '<div class="stat-row"><span>logged events</span><b>' + d.events + '</b></div>' +
+      '<div class="stat-row"><span>memory rows</span><b>' + d.memory_rows + '</b></div>' +
+      '<div class="stat-row"><span>scene memories</span><b>' + d.scenes.length + '</b></div>';
+    var host = el('memScenes');
+    if (!d.scenes.length) { host.innerHTML = '<div class="empty">no scene memories.</div>'; return; }
+    host.innerHTML = '';
+    d.scenes.forEach(function(s) {
+      var div = document.createElement('div'); div.className = 'rp-room';
+      div.style.alignItems = 'flex-start';
+      div.innerHTML = '<div style="flex:1;min-width:0;"><b>' + esc(s.room) + '</b>' +
+        '<div class="muted-line" style="white-space:normal;">' + esc((s.summary || '').slice(0, 240)) + '</div></div>';
+      var btn = document.createElement('button');
+      btn.textContent = 'Purge'; btn.style.color = 'var(--bad, #e66)';
+      btn.addEventListener('click', function(){ purgeScene(s.room); });
+      div.appendChild(btn); host.appendChild(div);
+    });
+  });
+}
+
+function purgeScene(room) {
+  if (!window.confirm('Excise ALL memory for ' + room + ' (scene summary + logged events)? This cannot be undone.')) return;
+  api('DELETE', '/api/memory', { room: room }).then(function(res) {
+    if (res.ok) { toast('excised ' + room + ': ' + res.data.memory_rows_removed + ' rows, ' + res.data.events_removed + ' events', 'ok'); refreshMemory(); }
+    else { toast(res.data.error || 'purge failed', 'err'); }
   });
 }
 
