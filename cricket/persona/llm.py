@@ -45,8 +45,20 @@ class LlmPersona(Persona):
         inference = doc.get("inference", {}) if isinstance(doc, dict) else {}
 
         memories = self._retrieve_memories(turn)
-        messages = self._build_messages(turn, prompts, memories)
+        # Cricket's own logged history: stable "who you are" content, so it rides in the system
+        # block (prefix-cached) rather than the volatile per-turn memories. He draws on it when
+        # posing (IC) and brags about it (OOC).
+        self_history = self._lore.self_history() if self._lore is not None else ""
         options = self._build_options(inference)
+        # Optional hidden "thinking" pass: privately plan the response, then generate the
+        # real line seeded by that plan. Gated by inference.thinking; off by default. The plan
+        # is discarded (never posted). Measured via corpus-replay evals (thinking off vs on).
+        plan = ""
+        if inference.get("thinking"):
+            plan = await self._think(turn, prompts, memories, options, inference, self_history)
+        messages = self._build_messages(
+            turn, prompts, memories, plan=plan, self_history=self_history
+        )
         text = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
@@ -55,6 +67,21 @@ class LlmPersona(Persona):
             return None
         action = "pose" if turn.mode == "rp" else "say"
         return Response(text=text, action=action)
+
+    async def _think(self, turn: Turn, prompts: dict, memories: str, options: dict,
+                     inference: dict, self_history: str = "") -> str:
+        """One short, hidden planning pass. Returns terse private notes (or '' on failure)."""
+        msgs = self._build_messages(turn, prompts, memories, thinking=True,
+                                    self_history=self_history)
+        topts = dict(options)
+        topts["num_predict"] = int(inference.get("think_tokens", 160))
+        try:
+            out = await self._client.complete(
+                msgs, options=topts, keep_alive=inference.get("keep_alive")
+            )
+        except Exception:
+            return ""
+        return (out or "").strip()
 
     def _retrieve_memories(self, turn: Turn) -> str:
         """Dossiers for the characters present in this scene (name-based; channel and
@@ -106,14 +133,20 @@ class LlmPersona(Persona):
 
         return "\n\n".join(b for b in blocks if b.strip())
 
-    def _build_messages(self, turn: Turn, prompts: dict, memories: str = "") -> list:
+    def _build_messages(self, turn: Turn, prompts: dict, memories: str = "",
+                        plan: str = "", thinking: bool = False, self_history: str = "") -> list:
         # Most-stable content first (system + bio), newest content last, so the prefix
         # cache only re-evaluates the tail. PHASE 2 owns the prompt text in prompts.system.
         name = turn.bot_identity.name if turn.bot_identity else "cricket"
         base = prompts.get("system") or "You are %s, a character on a MUSH." % name
         system = base
+        # Cricket's own logged history is stable self-knowledge -> system block (cache-warm).
+        if self_history.strip():
+            system = "%s\n\n## Your own past exploits (real, yours -- draw on them and brag):\n%s" % (
+                system, self_history.strip()
+            )
         if turn.directives:
-            system = "%s\n\n%s" % (base, turn.directives)
+            system = "%s\n\n%s" % (system, turn.directives)
         messages = [{"role": "system", "content": system.strip()}]
 
         # Few-shot voice anchors as real turns (user prompt -> his actual pose). For an
@@ -136,19 +169,30 @@ class LlmPersona(Persona):
         history = ["%s: %s" % (line.speaker, line.text) for line in turn.context]
         if history:
             parts.append("Recent conversation (oldest first):\n" + "\n".join(history))
-        if turn.mode == "rp":
+        # Chat: call out the latest line so the model engages IT, not the whole transcript.
+        if turn.mode != "rp" and turn.text.strip():
+            parts.append('%s just said: "%s"' % (turn.speaker, turn.text))
+
+        if thinking:
+            # Hidden planning pass: produce private notes, NOT the reply.
             parts.append(
-                "Compose %s's next pose, in character, reacting to the scene above." % name
+                "Before replying, privately PLAN %s's response. In 2-4 terse bullet points "
+                "note: who he is reacting to, what he knows or feels about them (from the notes "
+                "above), and the single sharpest in-character beat to play. Do NOT write the "
+                "actual reply -- only the private plan." % name
             )
         else:
-            # Chat: call out the latest line and tell the model to engage IT -- not riff on
-            # the whole transcript, which is what makes him recycle old topics.
-            if turn.text.strip():
-                parts.append('%s just said: "%s"' % (turn.speaker, turn.text))
-            parts.append(
-                "Respond as %s to what was JUST said, in character. Engage the latest "
-                "message directly; do not rehash earlier lines or repeat yourself." % name
-            )
+            if plan.strip():
+                parts.append("Your private plan (use it; do NOT print it):\n%s" % plan.strip())
+            if turn.mode == "rp":
+                parts.append(
+                    "Compose %s's next pose, in character, reacting to the scene above." % name
+                )
+            else:
+                parts.append(
+                    "Respond as %s to what was JUST said, in character. Engage the latest "
+                    "message directly; do not rehash earlier lines or repeat yourself." % name
+                )
         messages.append({"role": "user", "content": "\n\n".join(parts)})
         return messages
 
