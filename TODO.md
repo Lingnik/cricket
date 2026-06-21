@@ -34,6 +34,19 @@ Status: **NEXT** (in progress) / **SOON** / **LATER** / **DEFERRED** / **DONE**.
 - **DEFERRED** -- Harass-on-connect / mock-on-reconnect (connect/disconnect events are
   ignored for now; the hook point is noted in `router.py`).
 
+## Design directions (next phase, not yet started)
+- **Layered retrieval.** The wiki-logs PR brings a full local wiki cache + headline-character
+  profiles + article lookup. Add a Tier-2 **vector-search fallback** under `retrieve(cast,
+  scope)` for characters/players with no curated dossier. Needs an embedding model (e.g.
+  Ollama `nomic-embed-text`) + a real index (sqlite-vec/faiss/numpy) -- likely a small local
+  RETRIEVAL SERVICE the bot queries, to keep the runtime dependency-light. Headline-character
+  profiles become Tier-1 two-facet (IC/OOC) dossiers.
+- **Chain-of-thought "thinking" pre-step.** Optional hidden reasoning pass before generation
+  (discarded; only the final pose is posted) to improve scene reasoning / content (distinct
+  from few-shot, which fixed voice). Gate behind a profile flag (`inference.thinking`),
+  RP-first (~2x latency). MEASURE via corpus-replay before shipping. Natural place to later
+  drive Tier-2 retrieval ("do I know this person? what do I recall?").
+
 ## Eval loop (ongoing)
 - The corpus-replay yardstick works; on-brand scoring is an out-of-band Opus pass (the
   harness renders judge prompts). Keep tuning voice against it as data grows.
