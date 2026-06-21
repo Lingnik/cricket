@@ -89,6 +89,14 @@ async def cmd_mute(ctx: CommandContext, args: list) -> None:
     ctx.reply("muted: %s" % ctx.bot.muted)
 
 
+async def cmd_harass(ctx: CommandContext, args: list) -> None:
+    if not args or args[0] not in ("on", "off"):
+        ctx.reply("usage: harass on|off")
+        return
+    ctx.bot.harass_on_connect = args[0] == "on"
+    ctx.reply("harass_on_connect: %s" % ctx.bot.harass_on_connect)
+
+
 async def cmd_reload(ctx: CommandContext, args: list) -> None:
     """Re-derive identity/locations/auth from the active profile in the config DB."""
     apply_fn = getattr(ctx.bot, "_apply_active_profile", None)
@@ -252,6 +260,9 @@ def _emit(bot, room, action, resp: Response) -> None:
 def register_builtins(registry) -> None:
     registry.register(Command("status", Level.ADMIN, cmd_status, "show bot state"))
     registry.register(Command("mute", Level.ADMIN, cmd_mute, "mute on|off"))
+    registry.register(
+        Command("harass", Level.ADMIN, cmd_harass, "harass on|off -- insult newcomers on connect")
+    )
     registry.register(Command("reload", Level.OPERATOR, cmd_reload, "reload config"))
     registry.register(Command("say", Level.ADMIN, cmd_say, "say <location> <text>"))
     registry.register(Command("rp", Level.ADMIN, cmd_rp, "rp on|off [room]"))

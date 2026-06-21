@@ -34,6 +34,10 @@ class FakeActions:
         self.calls.append(("emit_room", text))
         return True
 
+    def page(self, target, text):
+        self.calls.append(("page", target, text))
+        return True
+
 
 class FakeRegistry:
     def __init__(self):
@@ -84,6 +88,40 @@ def make_services():
 
 def run(router, event):
     asyncio.run(router.handle(event))
+
+
+class _RespondingPersona:
+    async def respond(self, turn):
+        self.turn = turn
+        return Response(text="BLEEP. Another meatbag connects. Wonderful.", action="say")
+
+
+def test_harass_on_connect_pages_newcomer():
+    from cricket.mush.events import ConnectNotice
+    s = make_services()
+    s.harass_on_connect = True
+    s.persona = _RespondingPersona()
+    router = Router(s)
+    run(router, ConnectNotice(Actor("Newbie", "#9"), True))
+    pages = [c for c in s.actions.calls if c[0] == "page"]
+    assert pages and pages[0][1] == "Newbie"
+    # The harass turn is keyed on the connector (so their dossier is retrieved).
+    assert s.persona.turn.speaker == "Newbie"
+
+
+def test_harass_silent_when_off_or_disconnect():
+    from cricket.mush.events import ConnectNotice
+    s = make_services()
+    s.persona = _RespondingPersona()
+    router = Router(s)
+    # disconnect notice, harass on -> nothing
+    s.harass_on_connect = True
+    run(router, ConnectNotice(Actor("Newbie", "#9"), False))
+    assert not [c for c in s.actions.calls if c[0] == "page"]
+    # connect, harass off -> nothing
+    s.harass_on_connect = False
+    run(router, ConnectNotice(Actor("Newbie", "#9"), True))
+    assert not [c for c in s.actions.calls if c[0] == "page"]
 
 
 def test_addressed_prefix_match_engages_persona():

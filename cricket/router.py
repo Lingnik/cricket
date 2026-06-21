@@ -74,8 +74,43 @@ class Router:
             self._handle_room("", None, "emit", event.raw)
         elif isinstance(event, Page):
             await self._handle_page(event)
-        elif isinstance(event, (ConnectNotice, CommandEcho)):
+        elif isinstance(event, ConnectNotice):
+            await self._handle_connect(event)
+        elif isinstance(event, CommandEcho):
             return
+
+    async def _handle_connect(self, event) -> None:
+        """Harass-on-connect: when enabled, page the newcomer an unprompted, personalized
+        insult. It is a chat turn keyed on the connector, so retrieval pulls THEIR dossier
+        (OOC roast facet) -- the abuse is informed by what Cricket knows about them."""
+        if not getattr(event, "connected", False):
+            return  # connects only, not disconnects
+        s = self.s
+        if getattr(s, "muted", False) or not getattr(s, "harass_on_connect", False):
+            return
+        persona = getattr(s, "persona", None)
+        name = (getattr(event.actor, "name", "") or "").strip()
+        if persona is None or not name:
+            return
+        turn = Turn(
+            mode="chat",
+            location="(connect)",
+            location_kind="channel",
+            directives=(
+                "%s just logged into the game. UNPROMPTED, greet them with a hostile, "
+                "personalized jab -- one or two lines, in character, using what you know "
+                "about them." % name
+            ),
+            speaker=name,
+            speaker_dbref=getattr(event.actor, "dbref", None),
+            text="(just connected)",
+            context=[],
+            bot_identity=getattr(s, "bot_identity", None),
+            memory=getattr(s, "memory", None),
+        )
+        resp = await persona.respond(turn)
+        if resp is not None and resp.text.strip():
+            s.actions.page(name, resp.text)
 
     # -- channels --------------------------------------------------------------
     async def _handle_channel(self, event: ChannelMessage) -> None:

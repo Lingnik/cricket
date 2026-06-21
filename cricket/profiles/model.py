@@ -170,6 +170,9 @@ DEFAULT_PROFILE = {
         "stop": ["\n\n\n"],
         "keep_alive": "30m",
     },
+    # When true, Cricket pages a personalized insult to anyone who connects. Toggle live with
+    # the `harass on|off` command; this is the per-profile default.
+    "harass_on_connect": False,
 }
 
 

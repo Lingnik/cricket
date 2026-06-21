@@ -46,6 +46,7 @@ class Bot:
 
         # Mutable runtime state shared by router + commands + HTTP panel.
         self.muted = False
+        self.harass_on_connect = False
         self.rp_enabled: dict = {}
         self.scene_queues: dict = {}
         self.recent: dict = {}
@@ -112,6 +113,7 @@ class Bot:
         rt = derive_runtime(doc)
         self.active_profile = name
         self.active_profile_doc = doc
+        self.harass_on_connect = bool(doc.get("harass_on_connect", False))
         self.bot_identity = rt.bot_identity
         if not self.bot_identity.name:
             self.bot_identity = BotIdentity(name=self.config.mush.name or "cricket")
@@ -128,6 +130,10 @@ class Bot:
         self.muted = bool(muted)
         return self.status_snapshot()
 
+    async def set_harass(self, on: bool) -> dict:
+        self.harass_on_connect = bool(on)
+        return self.status_snapshot()
+
     async def set_rp(self, room: str, enabled: bool) -> dict:
         self.rp_enabled[room] = bool(enabled)
         self.scene_queues.setdefault(room, [])
@@ -141,6 +147,7 @@ class Bot:
         return {
             "connected": bool(connected),
             "muted": self.muted,
+            "harass_on_connect": self.harass_on_connect,
             "active_profile": self.active_profile,
             "rp_enabled": [room for room, on in self.rp_enabled.items() if on],
             "scene_queue_sizes": {r: len(q) for r, q in self.scene_queues.items()},
