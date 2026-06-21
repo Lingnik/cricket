@@ -89,13 +89,16 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
   were almost all VOICELESS action-only poses (his wit lives in dialogue). Added an RP instruction
   to land a spoken crude line + prefer crass over literary -> voiceless samples 12->0 of 36, live
   voice mean 2.86 -> 3.44. Live smoke test clean + crass.
-- **NEXT (voice micro-lever) -- vary his profanity.** The judge flagged "FUCK THE POLICE" still
-  re-anchoring as the go-to curse at temp 0.85 -- it is literally an example in `CRICKET.md` line 45,
-  so the model latches on. Drop/replace that specific example (keep the others); the novelty rule
-  fights it but the sheet anchors it. Remaining minority misses also "drift literary/sentimental."
+- **DONE (voice micro-lever).** Dropped the "FUCK THE POLICE" example from CRICKET.md (it anchored
+  the tic) + added "vary your profanity to the moment"; re-wired. Live 36-sample regen: tic 5-6 -> 2,
+  voiceless still 0.
+- **DONE (bug).** Bare bang-commands ("!rp on") on a chat channel are now dispatched from authorized
+  admins, not ranted at (router.py); was the OOC `!rp on` -> rant bug. Verified live (rp_enabled
+  [] -> ['#0'], control reply not a rant).
 - **NEXT (fit) -- grounding/beat-focus.** Several scenes hallucinate details (misread a costume as
   "Sexy Red Guard", invent a "Grand Moff", pull a fish/nuts thread from another scene) or react to
   a stale beat. Measurable at temp-0. Tighten the most-recent-beat anchoring + anti-fabrication.
+  NOTE: fit is already the strongest axis (2.83); diminishing returns, iterative.
 - **NEXT** -- Eval fidelity via ATTRIBUTION, not filtering. CORRECTION (2026-06-21, evidence in
   corpus/wiki/2025-03 - Charity Ball.txt + Droid Control): the wiki logs are RAW `@emit` pose
   streams, NOT GM-rewritten narrative. The earlier "filter omniscient narration" plan was based on
