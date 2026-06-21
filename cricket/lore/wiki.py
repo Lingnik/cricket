@@ -54,7 +54,7 @@ def _strip_wikitext(text: str) -> str:
 
 
 class WikiIndex:
-    def __init__(self, cache_dir: Union[str, Path] = "wiki-cache") -> None:
+    def __init__(self, cache_dir: Union[str, Path] = "knowledge/runtime/wiki") -> None:
         self.dir = Path(cache_dir)
         self._recs: list = []
         self._by_title: dict = {}          # normalized title -> record

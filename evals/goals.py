@@ -65,9 +65,10 @@ def build_persona(doc: dict, full: bool):
     from cricket.lore.loader import LoreStore
     from cricket.lore.vector import VectorIndex
     from cricket.lore.wiki import WikiIndex
-    return LlmPersona(client, lambda: doc, lore=LoreStore(os.path.join(_ROOT, "lore")),
-                      wiki=WikiIndex(os.path.join(_ROOT, "wiki-cache")),
-                      vector=VectorIndex(os.path.join(_ROOT, "wiki-cache")))
+    _lore = os.path.join(_ROOT, "knowledge", "runtime", "lore")
+    _wiki = os.path.join(_ROOT, "knowledge", "runtime", "wiki")
+    return LlmPersona(client, lambda: doc, lore=LoreStore(_lore),
+                      wiki=WikiIndex(_wiki), vector=VectorIndex(_wiki))
 
 
 def run(cases, p_new, p_base=None) -> list:

@@ -25,8 +25,8 @@ def main() -> None:
     if doc is None:
         raise SystemExit("no profile to update")
 
-    sheet = Path("lore/CRICKET.md").read_text(encoding="utf-8")
-    exemplars = Path("lore/voice-exemplars.md").read_text(encoding="utf-8")
+    sheet = Path("knowledge/runtime/lore/CRICKET.md").read_text(encoding="utf-8")
+    exemplars = Path("knowledge/runtime/lore/voice-exemplars.md").read_text(encoding="utf-8")
     system = sheet + "\n\n# How you sound -- voice examples\n\n" + exemplars
 
     doc.setdefault("prompts", {})["system"] = system

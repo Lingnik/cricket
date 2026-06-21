@@ -14,7 +14,7 @@ Usage:
 import argparse, json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CACHE = os.path.join(os.path.dirname(HERE), "wiki-cache")
+CACHE = os.path.join(os.path.dirname(HERE), "knowledge", "runtime", "wiki")
 NS_PREFIXES = ["", "RPlog:", "Story:", "Report:", "Category:", "Template:", "User:"]
 
 

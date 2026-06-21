@@ -3,8 +3,8 @@
 Per-player / per-character knowledge files for the **Cricket bot**'s out-of-character (OOC)
 conversations: who each player is, which character(s) they run, and those characters'
 histories — so the bot can recognize someone and talk credibly about their game. Pure
-content; every claim is cited to the bundled [`../wiki-cache/`](../wiki-cache/), resolvable
-with [`../tools/`](../tools/).
+content; every claim is cited to the bundled
+[`../../runtime/wiki/`](../../runtime/wiki/), resolvable with [`../../../tools/`](../../../tools/).
 
 **Read [`PROMPT.md`](./PROMPT.md) first** — it defines the bot's role, the IC-vs-OOC
 distinction, and how to use the lookup/search tools. Inject it alongside the relevant profile.

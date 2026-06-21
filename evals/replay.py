@@ -82,7 +82,7 @@ def is_cricket_pose(para: str) -> bool:
 
 
 # The raw logs live here once the corpus is materialized into the tree.
-DEFAULT_CORPUS_DIR = "corpus/wiki"
+DEFAULT_CORPUS_DIR = "knowledge/sources/cricket-logs/wiki"
 
 _YEAR_RE = re.compile(r"^(\d{4})")
 

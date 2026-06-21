@@ -49,7 +49,7 @@ def normalize(vec: list) -> list:
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="build_embeddings")
-    ap.add_argument("--cache", default=os.path.join(_ROOT, "wiki-cache"))
+    ap.add_argument("--cache", default=os.path.join(_ROOT, "knowledge", "runtime", "wiki"))
     ap.add_argument("--model", default="nomic-embed-text")
     ap.add_argument("--max-chars", type=int, default=900)
     args = ap.parse_args(argv)

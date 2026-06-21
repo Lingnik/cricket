@@ -11,8 +11,8 @@ resolve citations in the player profiles to full source text offline.
 - `index.jsonl` — one JSON record per page: `{title, ns, ns_name, path, last_edit,
   characters[], rl_date, aby_year, factions[], summary}`. This is the search index.
 
-Resolve and search it with the scripts in [`../tools/`](../tools/) (`lookup.py`, `search.py`).
-Regenerate it with `../tools/build_cache.py` from a `sw1mush-wiki-export` directory.
+Resolve and search it with the scripts in [`../../../tools/`](../../../tools/) (`lookup.py`, `search.py`).
+Regenerate it with `../../../tools/build_cache.py` from a `sw1mush-wiki-export` directory.
 
 ## Source & license
 

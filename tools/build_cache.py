@@ -37,7 +37,7 @@ def slugify(title, seen):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--export-dir", required=True)
-    ap.add_argument("--out", default="wiki-cache")
+    ap.add_argument("--out", default="knowledge/runtime/wiki")
     args = ap.parse_args()
 
     exp = os.path.expanduser(args.export_dir)
