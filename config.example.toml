@@ -1,0 +1,39 @@
+# cricket configuration (non-secret). Copy to config.toml and edit.
+# Secrets (host, port, account, password, control port) live in .env -- see .env.example.
+
+[control]
+# Default control-socket port; overridden by CRICKET_MUSH_CONTROL_PORT.
+port = 4250
+
+[memory]
+# SQLite database path (gitignored under logs/).
+path = "logs/cricket.sqlite3"
+
+[auth]
+# Permission by dbref. Names are spoofable -- always gate on dbref.
+# The local console is always OPERATOR regardless of this list.
+operators = []            # e.g. ["#1"]
+wizards   = []
+admins    = []            # e.g. ["#1234", "#5678"]
+
+# --- Locations: channels and rooms are configured uniformly. -----------------
+
+[locations."Public"]
+mode       = "chat"
+engagement = "addressed"                  # speak only when addressed by a prefix
+prefixes   = ["cricket,", "cricket:", "hey cricket"]
+directives = "Keep it PG. Deflect adult themes politely, stay in voice."
+rate_limit = "1 / 20s"
+enabled    = true
+
+[locations."Cricket-Lounge"]
+mode       = "chat"
+engagement = "always"                     # free-running in the dedicated bot channel
+directives = "Anything goes here. Banter freely."
+rate_limit = "1 / 5s"
+enabled    = true
+
+[locations."admin"]
+mode    = "control"                        # commands only; no persona
+admins  = ["#1234"]
+enabled = true

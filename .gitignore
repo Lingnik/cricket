@@ -1,0 +1,9 @@
+/reference/
+/logs/
+.env
+config.local.*
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+config.toml

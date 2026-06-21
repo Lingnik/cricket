@@ -1,0 +1,20 @@
+[project]
+name = "cricket"
+version = "0.1.0"
+description = "A PennMUSH bot: static command logic plus a swappable LLM persona."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+cricket = "cricket.cli:main"
+cricket-ctl = "cricket.cli:ctl_main"
+
+[tool.uv]
+package = false
+python-preference = "only-system"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
