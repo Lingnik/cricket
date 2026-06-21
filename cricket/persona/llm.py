@@ -481,34 +481,81 @@ class LlmPersona(Persona):
         options = self._build_options(inference)
         options["num_predict"] = 140
         options["temperature"] = 0.3  # the ledger is factual, not theatrical
+        # The 8B leaks framing ("Scene ledger updated:", "Here is the updated ledger:") as its
+        # first line when the word "ledger" is salient in the prompt, so the live note is named
+        # NOTE here and the model is told, twice and forcefully, to emit no preamble. The output
+        # contract is two labelled lines (NOTE:/ACTORS:) so the parser keys off the labels rather
+        # than positional "first non-empty line", which is what let preamble masquerade as content.
         messages = [
             {"role": "system", "content":
-                "You maintain a terse private ledger of an RP scene for the droid %s. "
-                "Factual third person; no roleplay, no shouting." % bot_name},
+                "You maintain a terse private record of an RP scene for the droid %s. "
+                "Factual third person; no roleplay, no shouting, no preamble. "
+                "You output ONLY the two labelled lines you are asked for and nothing else -- "
+                "never a sentence like 'Here is...' or 'Scene ledger updated:' before them." % bot_name},
             {"role": "user", "content":
-                "Scene ledger so far:\n%s\n\nNew pose from %s:\n%s\n\nReply with EXACTLY two "
-                "lines:\nLine 1: a brief factual note of what happened, then ' | %s's read: ' "
-                "and his terse private reaction.\nLine 2: 'ACTORS: ' then a comma-separated list "
-                "of the characters who acted or spoke in this pose (exclude %s); 'none' if it is "
-                "just narration."
+                "Record so far (for context, do not repeat it):\n%s\n\n"
+                "New pose from %s:\n%s\n\n"
+                "Output EXACTLY these two lines and NOTHING before or after them -- no greeting, "
+                "no 'Here is', no 'Scene ledger updated', no blank framing line:\n"
+                "NOTE: <one brief factual sentence of what happened in THIS pose>, then ' | "
+                "%s's read: ' then his terse private reaction\n"
+                "ACTORS: <comma-separated names of the characters who acted or spoke in this "
+                "pose, excluding %s; write 'none' if it is only narration>\n\n"
+                "Begin your reply with 'NOTE:' immediately."
                 % (prior_ledger or "(start of scene)", speaker, text, bot_name, bot_name)},
         ]
         out = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
+        return self._parse_distill(out, bot_name)
+
+    # Preamble/framing the 8B prepends to the ledger line despite instructions. Matched at the
+    # start of the note (after label-stripping) and removed defensively, covering the observed
+    # leaks ("Scene ledger updated:", "Here is the updated scene ledger:") plus the old format
+    # echoes ("Line 1:", "New pose:", "Note:"). A leading table pipe from a markdown-table reflex
+    # is dropped first so the rest of the pattern can match what follows it.
+    _PREAMBLE_RE = re.compile(
+        r"^(?:"
+        r"(?:here\s+(?:is|are)|this\s+is)\b[^:]*:"          # "Here is the updated ledger:"
+        r"|(?:the\s+)?(?:updated\s+|new\s+|current\s+)?(?:scene\s+)?ledger\b[^:]*:"  # "Scene ledger updated:"
+        r"|(?:scene\s+)?(?:record|note|summary|entry|update)\b[^:]*:"
+        r"|line\s*1\s*[:.\-]"
+        r"|new\s+pose[:.]"
+        r"|factual\s+note[:.]"
+        r")\s*",
+        re.IGNORECASE,
+    )
+
+    def _parse_distill(self, out: str, bot_name: str) -> dict:
+        """Parse the two-line distillation output into {'ledger', 'actors'}. Defensive against
+        the weak 8B: keys ledger/actors off their LABELS (not line position), strips any leaked
+        framing preamble, and tolerates a missing NOTE label or a multi-line note."""
         ledger, actors = "", []
+        note_lines = []
+        seen_actors = False
         for ln in (out or "").splitlines():
-            s = ln.strip()
+            s = ln.strip().lstrip("|").strip()  # drop a leading markdown-table pipe
             if not s:
                 continue
-            if s.upper().startswith("ACTORS:"):
+            upper = s.upper()
+            if upper.startswith("ACTORS:"):
+                seen_actors = True
                 for a in s.split(":", 1)[1].split(","):
                     a = a.strip().rstrip(".")
                     if a and a.lower() != bot_name.lower() and _looks_like_name(a):
                         actors.append(a)
-            elif not ledger:
-                ledger = " ".join(s.split())
-        # Strip any format preamble the small model leaks ("Note:", "New pose:", "Line 1:").
-        ledger = re.sub(r"^(line\s*1\s*[:.\-]?|new pose[:.]?|factual note[:.]?|note[:.]?)\s*",
-                        "", ledger, flags=re.IGNORECASE).strip()
+                continue
+            if seen_actors:
+                continue  # ignore any trailing chatter after the ACTORS line
+            # Strip the NOTE label, then defensively strip any leaked framing preamble.
+            s = re.sub(r"^note\s*[:.\-]\s*", "", s, flags=re.IGNORECASE)
+            s = self._PREAMBLE_RE.sub("", s).strip()
+            if s:
+                note_lines.append(" ".join(s.split()))
+        ledger = " ".join(note_lines).strip()
+        # One more defensive pass: if a preamble survived as its own joined fragment, peel it.
+        prev = None
+        while ledger and ledger != prev:
+            prev = ledger
+            ledger = self._PREAMBLE_RE.sub("", ledger).strip()
         return {"ledger": ledger, "actors": actors[:6]}

@@ -207,6 +207,91 @@ def test_respond_applies_cleanup():
     assert resp.text == "beeps You absolute fool"  # prefix + asterisks + nesting quotes gone
 
 
+class _Block:
+    """Minimal completed pose-block: distill_block reads .text and .speaker."""
+
+    def __init__(self, speaker, text):
+        self.speaker = speaker
+        self.text = text
+
+
+class _DistillClient(InferenceClient):
+    """Returns a fixed distillation output (captures the prompt for inspection)."""
+
+    def __init__(self, out):
+        self._out = out
+        self.messages = None
+
+    async def complete(self, messages, **params):
+        self.messages = messages
+        return self._out
+
+
+def _distill(out, speaker="Johanna", text="storms in"):
+    client = _DistillClient(out)
+    persona = LlmPersona(client, lambda: {"prompts": {"system": "s"}})
+    result = asyncio.run(persona.distill_block(_Block(speaker, text), bot_name="Cricket"))
+    return result, client
+
+
+def test_distill_strips_preamble_and_parses_actors():
+    # The weak 8B leaks framing ("Scene ledger updated:") as its own first line, with the
+    # real note following. The label-keyed parser must skip the preamble line and keep the note.
+    out = (
+        "Scene ledger updated:\n"
+        "NOTE: Johanna storms in demanding three million credits | "
+        "Cricket's read: she is bluffing, the credits are long spent\n"
+        "ACTORS: Johanna"
+    )
+    result, _ = _distill(out)
+    assert result["ledger"].startswith("Johanna storms in demanding three million credits")
+    assert "Scene ledger updated" not in result["ledger"]
+    assert "Cricket's read" in result["ledger"]
+    assert result["actors"] == ["Johanna"]
+
+
+def test_distill_strips_inline_here_is_preamble():
+    # Preamble and note share one line, no NOTE label -> the preamble regex peels the framing.
+    out = (
+        "Here is the updated scene ledger: Zeak thumbs his blaster and offers to crack Cricket open\n"
+        "ACTORS: Zeak"
+    )
+    result, _ = _distill(out, speaker="Zeak", text="thumbs blaster")
+    assert result["ledger"].startswith("Zeak thumbs his blaster")
+    assert "Here is" not in result["ledger"] and "ledger" not in result["ledger"].lower()
+    assert result["actors"] == ["Zeak"]
+
+
+def test_distill_strips_leading_table_pipe_preamble():
+    # The observed '| Scene ledger updated:' leak: a markdown-table pipe in front of framing.
+    out = (
+        "| Scene ledger updated:\n"
+        "NOTE: Jessalyn grins and asks Cricket for his side of the story\n"
+        "ACTORS: Jessalyn"
+    )
+    result, _ = _distill(out, speaker="Jessalyn", text="grins")
+    assert result["ledger"].startswith("Jessalyn grins")
+    assert "ledger" not in result["ledger"].lower()
+    assert result["actors"] == ["Jessalyn"]
+
+
+def test_distill_actors_none_yields_empty_list():
+    out = "NOTE: The hall lights flicker; no one moves\nACTORS: none"
+    result, _ = _distill(out, speaker="scene", text="lights flicker")
+    assert result["ledger"].startswith("The hall lights flicker")
+    assert result["actors"] == []
+
+
+def test_distill_prompt_forbids_preamble():
+    # The prompt must forcefully forbid framing and demand the NOTE/ACTORS contract.
+    _, client = _distill("NOTE: x | Cricket's read: y\nACTORS: none")
+    user = client.messages[-1]["content"]
+    system = client.messages[0]["content"]
+    assert "NOTE:" in user and "ACTORS:" in user
+    assert "no preamble" in system.lower()
+    assert "Scene ledger updated" in user  # explicitly named as a thing NOT to emit
+
+
 def test_rp_charter_injected_on_rp_only():
     c = RecordingClient()
     LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore())
