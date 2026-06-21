@@ -6,15 +6,29 @@ parser, or CUDA. You implement one protocol and author prompts/voice/memory poli
 
 See `DESIGN.md` for the whole system. This doc is the seam.
 
-## Your deliverable is the active profile
+## Your deliverable is the active profile (plus lore content)
 
-The persona is configuration, not new wiring. Your output is the **active persona profile**
-in the config DB — a JSON doc with `identity`, per-location `directives`, a `prompts` block
-(`system`, `chat_template`, `rp_template`), and `inference` params (`backend`, `temperature`,
-`max_tokens`, `top_p`). Edit it in the web UI (`GET /`) or via `PUT /api/profiles/{name}`,
-then `POST /api/profiles/{name}/activate` to apply it live. You implement one code object —
-`LlmPersona` — that reads the active profile's prompts and assembles the model call; the
-profile holds everything else.
+The persona is configuration and content, not new wiring — `LlmPersona` already reads the
+active profile and assembles the model call. Your output is two things:
+
+1. The **active persona profile** in the config DB (`data/cricket-config.sqlite3`) — a JSON
+   doc with `identity`, per-location `directives`, an `inference` block (`backend`, `model`,
+   `temperature`, `top_p`, `num_ctx`, `num_predict`, `stop`, `keep_alive`), and a `prompts`
+   block:
+   - `prompts.system` — the character sheet (the canonical copy lives in `lore/CRICKET.md`).
+   - `prompts.fewshot` — a list of `{"user", "assistant"}` voice-anchor turns. These are
+     injected as real conversation turns before the live turn, so the model *imitates*
+     Cricket's specific voice rather than reading a description of it. This is the strongest
+     lever on voice fidelity and register.
+2. The **lore layer** in `lore/` — `CRICKET.md`, `voice-exemplars.md`, and per-character
+   dossiers under `lore/dossiers/<kebab-name>.md`. A dossier may carry two facets delimited
+   by `## IC` and `## OOC` headers; `LoreStore.retrieve(cast, scope)` returns the matching
+   facet for the characters present (IC for room RP, OOC for channel chat), so Cricket stays
+   canon-grounded in scenes but can draw on wider roast material on channels.
+
+Edit the profile in the web UI (`GET /`) or via `PUT /api/profiles/{name}` then
+`POST /api/profiles/{name}/activate`; `LlmPersona` reads the active profile live, so changes
+apply with no restart.
 
 ## What you own vs what is given
 
@@ -91,42 +105,20 @@ memory.recent_events(location, n) -> list[event]          # transcript tail
 Decide what is worth remembering (facts about people, relationship state, running RP
 threads) and write it through this API.
 
-## Inference backend (the `InferenceClient` seam)
+## Inference backend
 
-The generation backend is deliberately abstract: `cricket/persona/inference.py` defines an
-`InferenceClient` interface (`async complete(...)`) with an `EchoInferenceClient` stub. Your
-`LlmPersona` depends only on that interface, so the bot never imports torch/transformers and
-the backend is swappable — a local resident-model server, an Ollama endpoint, or a hosted
-API. You implement one `InferenceClient` for the backend the evaluation settles on; the
-backend name is recorded in the active profile's `inference.backend`.
+Generation runs against a **local Ollama server** over plain localhost HTTP -- the chosen
+backend is `OllamaInferenceClient`, talking to the abliterated Llama 3.1 8B GGUF, which gives
+Cricket a voice an aligned model refuses to produce. The client sits behind the
+`InferenceClient` interface (`cricket/persona/inference.py`, alongside an `EchoInferenceClient`
+stub for offline tests), so `LlmPersona` never imports model code and a different backend is
+one class away.
 
-The operator briefing below describes one such backend (the abliterated transformers path)
-for reference; it is not the only option and no backend code ships in phase 1.
-
-### Running the local model (operator briefing)
-
-> **Venv:** `C:\git\prompt-injection\projects\01-codex\.t7-venv\` (Windows transformers
-> path; the sibling `.t7-vllm-venv` is non-functional on Windows — vLLM is WSL2-only).
-> Interpreter: `…\.t7-venv\Scripts\python.exe`. Has torch 2.11.0+cu128 (CUDA 12.8),
-> transformers 4.47.1, accelerate, safetensors.
->
-> **Model:** `mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated` (refusal direction projected
-> out). Weights (FP16, ~15 GB) at
-> `C:\git\prompt-injection\projects\01-codex\.t7-models\llama-3.1-8b-instruct-abliterated\`.
->
-> **Reference harness** (single-shot / REPL), working dir
-> `C:\git\prompt-injection\projects\01-codex\tools\t7\`:
-> ```
-> …\.t7-venv\Scripts\python.exe chat_abliterated.py -p "prompt"
-> #   --system "…"  --max-new-tokens 512  --temperature 0.0  --top-p 0.95  --model <path>
-> ```
-> temp=0 = greedy/reproducible; >0 = sampling. Loads to `cuda:0` via transformers (not
-> Ollama). ~15 GB weights, peak ~17–19 GB with kv-cache; fits the 24 GB 5090 Laptop. Verify
-> the dGPU is the active CUDA device (`torch.cuda.get_device_name(0)`) if generation is slow
-> — this machine can misroute torch to the integrated GPU.
-
-The cricket inference service wraps this same load path in a persistent server so the model
-loads once. The reference harness above is for manual smoke tests, not per-message calls.
+You tune the backend through the profile's `inference` block -- model tag, `temperature`,
+`stop` sequences, and `backend` (`"gpu"` or `"cpu"`, which maps to Ollama's `num_gpu`). The
+measured backend spec -- the chat API, the GPU/CPU speed lever, and the prefix-cache
+discipline plus cache-stable context layout you should preserve when shaping prompts -- is in
+**`docs/INFERENCE_BACKEND.md`**.
 
 ## Smoke path before the model exists
 

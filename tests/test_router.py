@@ -6,7 +6,7 @@ from cricket.config import LocationConfig
 from cricket.mush.events import ChannelMessage, RoomMessage, SpeechKind, Unknown
 from cricket.mush.events import Actor
 from cricket.persona.base import BotIdentity, Response
-from cricket.router import Router
+from cricket.router import Router, SCENE_QUEUE_CAP
 
 
 class FakePersona:
@@ -236,6 +236,31 @@ def test_room_traffic_ignored_when_rp_disabled():
     router = Router(s)
     run(router, RoomMessage(Actor("Bob", "#9"), SpeechKind.SAY, "hi"))
     assert s.scene_queues.get("Room1", []) == []
+
+
+def test_scene_queue_capped_drops_oldest():
+    s = make_services()
+    s.rp_enabled = {"Room1": True}
+    router = Router(s)
+    total = SCENE_QUEUE_CAP + 25
+    for i in range(total):
+        run(router, RoomMessage(Actor("Bob", "#9"), SpeechKind.SAY, "line %d" % i))
+    q = s.scene_queues["Room1"]
+    assert len(q) == SCENE_QUEUE_CAP  # bounded
+    # oldest dropped, newest kept, order preserved
+    assert q[0].text == "line %d" % (total - SCENE_QUEUE_CAP)
+    assert q[-1].text == "line %d" % (total - 1)
+
+
+def test_scene_queue_under_cap_unchanged():
+    s = make_services()
+    s.rp_enabled = {"Room1": True}
+    router = Router(s)
+    for i in range(5):
+        run(router, RoomMessage(Actor("Bob", "#9"), SpeechKind.SAY, "line %d" % i))
+    q = s.scene_queues["Room1"]
+    assert len(q) == 5
+    assert q[0].text == "line 0"
 
 
 # -- OOC dual-role: a chat channel that also takes admin bang-commands ----------

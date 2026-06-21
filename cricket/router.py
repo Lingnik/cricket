@@ -28,6 +28,9 @@ from .mush.events import (
 from .persona.base import ContextLine, Turn
 
 RECENT_CAP = 20
+# Max lines kept in a room's RP scene queue. Beyond this the oldest are dropped so a
+# long scene cannot grow unbounded and blow the model's context window.
+SCENE_QUEUE_CAP = 60
 
 # Connection/disconnection and channel join/leave announcements. For now these are noise:
 # we ignore them entirely (no context, no reply). (Later Cricket may harass people on
@@ -223,9 +226,13 @@ class Router:
         self._log(room, dbref, kind, text)
         if not getattr(s, "rp_enabled", {}).get(room):
             return
-        s.scene_queues.setdefault(room, []).append(
-            ContextLine(speaker=speaker, dbref=dbref, kind=kind, text=text)
-        )
+        queue = s.scene_queues.setdefault(room, [])
+        queue.append(ContextLine(speaker=speaker, dbref=dbref, kind=kind, text=text))
+        if len(queue) > SCENE_QUEUE_CAP:
+            # TODO(memory): instead of dropping the oldest lines, summarize them into a
+            # running scene summary kept in the memory store and prepend that to the
+            # queue context (docs/INFERENCE_BACKEND.md: summarize, do not truncate).
+            del queue[: len(queue) - SCENE_QUEUE_CAP]
 
     # -- pages -----------------------------------------------------------------
     async def _handle_page(self, event: Page) -> None:

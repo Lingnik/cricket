@@ -84,17 +84,39 @@ def is_cricket_pose(para: str) -> bool:
 # The raw logs live here once the corpus is materialized into the tree.
 DEFAULT_CORPUS_DIR = "corpus/wiki"
 
+_YEAR_RE = re.compile(r"^(\d{4})")
+
+
+def _log_year(name: str):
+    """Parse the leading 4-digit year from a log filename (e.g. '2024 - Title.txt',
+    '2006-02 - Title.txt'), or None if it has none."""
+    m = _YEAR_RE.match(name)
+    return int(m.group(1)) if m else None
+
 
 def make_replay_cases(
-    corpus_dir: str = DEFAULT_CORPUS_DIR, context_window: int = 3, per_log: int = 1
+    corpus_dir: str = DEFAULT_CORPUS_DIR,
+    context_window: int = 3,
+    per_log: int = 1,
+    min_year=None,
 ) -> list:
-    """Walk *.txt logs under corpus_dir and emit replay case dicts. Missing dir -> []."""
+    """Walk *.txt logs under corpus_dir and emit replay case dicts. Missing dir -> [].
+
+    `min_year`: when set, only logs whose filename leads with a year >= min_year are
+    used. Cricket evolved over 24 years (a competent astromech in the 2000s, an unhinged
+    crime-droid by the 2020s), so judging the present-day persona is only fair against
+    recent references. None (default) uses every log.
+    """
     if not corpus_dir or not os.path.isdir(corpus_dir):
         return []
     cases = []
     for name in sorted(os.listdir(corpus_dir)):
         if not name.endswith(".txt"):
             continue
+        if min_year is not None:
+            year = _log_year(name)
+            if year is None or year < min_year:
+                continue
         with open(os.path.join(corpus_dir, name), "r", encoding="utf-8",
                   errors="replace") as fh:
             paras = paragraphs(fh.read())

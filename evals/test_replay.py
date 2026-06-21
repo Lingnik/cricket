@@ -91,3 +91,23 @@ def test_addressee_mention_is_not_a_pose():
 
 def test_min_length_guard():
     assert not replay.is_cricket_pose("Cricket.")
+
+
+def test_log_year_parsing():
+    assert replay._log_year("2024 - Ghastly Gala.txt") == 2024
+    assert replay._log_year("2006-02 - Battle.txt") == 2006
+    assert replay._log_year("Untitled.txt") is None
+
+
+def test_min_year_filters_old_logs(tmp_path):
+    (tmp_path / "2006-02 - Old.txt").write_text(SAMPLE_LOG, encoding="utf-8")
+    (tmp_path / "2024 - New.txt").write_text(SAMPLE_LOG, encoding="utf-8")
+    # No filter: both logs contribute.
+    all_cases = replay.make_replay_cases(str(tmp_path), min_year=None)
+    assert any("2006" in c["id"] for c in all_cases)
+    assert any("2024" in c["id"] for c in all_cases)
+    # min_year=2023: the 2006 log is excluded, the 2024 log kept.
+    recent = replay.make_replay_cases(str(tmp_path), min_year=2023)
+    assert recent, "expected at least one recent case"
+    assert all("2006" not in c["id"] for c in recent)
+    assert any("2024" in c["id"] for c in recent)
