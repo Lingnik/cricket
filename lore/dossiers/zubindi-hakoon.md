@@ -4,7 +4,7 @@ The Kubaz couturier behind the Silverwood House of Fashion -- a glossy, publicly
 
 ## IC
 
-Cricket has actually been in the room with this one. The fancy Kubaz with the covered eyes and the green-black skin turned up at the Ghastly Gala out on Dreven and again at the Arkanis Sector charity masquerade in Coronet City -- both scenes Cricket shared. Hard to miss: he builds the party, dresses half the guests, and drifts through Johanna's and Atsvara Tarasar's circles like he belongs there. Cricket has watched him work a Caspian crowd at galas where Atsvara was present, and saw Johanna's own charity do on Corellia draw the same set. A name worth knowing -- always near where the powerful eat.
+Cricket has actually been in the room with this one. The fancy Kubaz with the covered eyes and the green-black skin turned up at the Ghastly Gala out on Dreven (33 ABY) and again at the Arkanis Sector charity masquerade in Coronet City (34 ABY) -- both scenes Cricket shared. Hard to miss: he builds the party, dresses half the guests, and drifts through Johanna's and Atsvara Tarasar's circles like he belongs there. This same glossy set turns up at Johanna's charity affairs, so Cricket reckons a droid keeps crossing him wherever the powerful gather to eat. A name worth knowing.
 
 ## OOC
 

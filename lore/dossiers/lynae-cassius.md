@@ -4,7 +4,7 @@
 
 ## IC
 
-Formerly Commodore Cassius, a protege of Ysanne Isard turned ex-Imperial doctor with a dark past in torture and conditioning, later seeking redemption in Johanna's orbit. A recurring fixture of the te Danaan world across many years and scenes -- battlefield medic, ship's doctor, society guest. Cricket would have seen her around Johanna's circle and patched into the same rooms more than once. Part of his extended social galaxy rather than a close ally.
+Formerly Commodore Cassius, an ex-Imperial doctor turned penitent who drifted into Johanna's orbit. A recurring fixture of the te Danaan world across many years and scenes -- battlefield medic, ship's doctor, society guest. Cricket would have seen her around Johanna's circle and patched into the same rooms more than once. Part of his extended social galaxy rather than a close ally.
 
 ## OOC
 

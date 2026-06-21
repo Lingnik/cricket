@@ -238,14 +238,16 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
     bot = Bot(config)
     if persona == "llm":
         from .lore.loader import LoreStore
+        from .lore.wiki import WikiIndex
         from .persona.inference import OllamaInferenceClient
         from .persona.llm import LlmPersona
 
         inference = (bot.active_profile_doc or {}).get("inference", {})
         client = OllamaInferenceClient(model=inference.get("model"))
         lore = LoreStore("lore")
+        wiki = WikiIndex("wiki-cache")
         bot.persona = LlmPersona(
-            client, lambda: bot.active_profile_doc, lore=lore
+            client, lambda: bot.active_profile_doc, lore=lore, wiki=wiki
         )
     return bot
 

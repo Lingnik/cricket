@@ -27,6 +27,7 @@ class LlmPersona(Persona):
         client: InferenceClient,
         profile_getter: Union[Callable, None] = None,
         lore=None,
+        wiki=None,
     ) -> None:
         self._client = client
         # () -> active profile doc (dict) or None. Read on each turn so live edits apply.
@@ -34,6 +35,9 @@ class LlmPersona(Persona):
         # Optional LoreStore: dossiers for the characters present are injected as a
         # memories block between the stable system prompt and the volatile scene.
         self._lore = lore
+        # Optional WikiIndex: in OOC chat, factual blurbs for topics mentioned in the line are
+        # injected so Cricket can play "rogue wiki search engine" -- summarize, but crassly.
+        self._wiki = wiki
 
     async def respond(self, turn: Turn) -> Union[Response, None]:
         doc = self._get_profile() or {}
@@ -58,8 +62,6 @@ class LlmPersona(Persona):
 
         Scope follows the mode: room RP (`rp`) gets the IC facet (canon-plausible knowledge
         only); channel chat gets the OOC facet (the wider meta/teasing suite)."""
-        if self._lore is None:
-            return ""
         cast = []
         seen = set()
 
@@ -73,17 +75,36 @@ class LlmPersona(Persona):
         for line in turn.context:
             add(line.speaker)
         add(turn.speaker)
-        # Characters NAMED in the live line or the scene, even if absent -- so "what do you
-        # know about Johanna?" pulls Johanna's dossier. The live line is the primary subject;
-        # the scene text is secondary. Deterministic gazetteer match (LoreStore.mentioned).
-        for name in self._lore.mentioned(turn.text):
-            add(name)
-        for line in turn.context:
-            for name in self._lore.mentioned(line.text):
-                add(name)
 
-        scope = "ic" if turn.mode == "rp" else "ooc"
-        return self._lore.retrieve(cast, scope=scope)
+        blocks = []
+        if self._lore is not None:
+            # Characters NAMED in the live line or scene, even if absent -- so "what do you
+            # know about Johanna?" pulls her dossier. Deterministic gazetteer match.
+            for name in self._lore.mentioned(turn.text):
+                add(name)
+            for line in turn.context:
+                for name in self._lore.mentioned(line.text):
+                    add(name)
+            scope = "ic" if turn.mode == "rp" else "ooc"
+            dossiers = self._lore.retrieve(cast, scope=scope)
+            if dossiers.strip():
+                blocks.append(dossiers)
+
+        # OOC only: wiki blurbs for topics named in the line (the "rogue search engine"). IC
+        # stays canon-grounded. Exclude the bot itself and anyone already covered by a dossier.
+        if self._wiki is not None and turn.mode != "rp":
+            bot = turn.bot_identity.name if turn.bot_identity else ""
+            exclude = set(cast)
+            if bot:
+                exclude.add(bot)
+            topics = self._wiki.topics(turn.text, exclude=exclude)
+            if topics:
+                lines = ["What the records say (you may summarize, but stay in character):"]
+                for title, blurb in topics:
+                    lines.append("- %s: %s" % (title, blurb))
+                blocks.append("\n".join(lines))
+
+        return "\n\n".join(b for b in blocks if b.strip())
 
     def _build_messages(self, turn: Turn, prompts: dict, memories: str = "") -> list:
         # Most-stable content first (system + bio), newest content last, so the prefix
@@ -109,7 +130,7 @@ class LlmPersona(Persona):
         # then prior history as its OWN block, then the live line called out explicitly.
         parts = []
         if memories.strip():
-            parts.append("What you know about who is here:\n%s" % memories.strip())
+            parts.append("What you know:\n%s" % memories.strip())
         # History now includes the bot's own past replies (router feeds them back), so the
         # model sees the real back-and-forth and stops re-treading topics it already hit.
         history = ["%s: %s" % (line.speaker, line.text) for line in turn.context]

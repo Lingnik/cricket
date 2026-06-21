@@ -1,7 +1,8 @@
 # Atsvara Tarasar
 
-A child Baroness of Sith House Dragonflower (around ten or eleven), heir to her father Crestian,
-CEO of the Golden Bantha Group and the Biscuit Baron restaurant empire -- and, improbably,
+A child Baroness of Sith House Dragonflower (around ten or eleven), heir to her father Crestian
+(ex-Sith Duke and Caspian commander of the warship Leviathan). She herself is CEO of the Golden
+Bantha Group and, after her buyout, of the Biscuit Baron restaurant empire -- and, improbably,
 Cricket's beloved corporate partner-in-crime.
 
 ## IC
@@ -18,8 +19,8 @@ and frighteningly polite.
 The "Biscuit Baroness": a kid-villain-you-root-for run as an NPC/alt by the Caspian player
 behind Crestian Tarasar. Born in exile in the Dragonflower Nebula, schooled in balance-oriented
 Sith philosophy, made Baroness on her tenth birthday. Signature arc is the Biscuit Baron buyout
--- she stoked labour strikes to devalue the chain, fronted the Golden Bantha Group as a "fix,"
-then bought it outright. Themes: droid rights (considers the droid V1C3 her twin brother),
+-- she stoked labour strikes to devalue the chain, fronted her own Golden Bantha Group as a "fix,"
+then bought it outright, making herself CEO of the restaurant empire she had sabotaged. Themes: droid rights (considers the droid V1C3 her twin brother),
 corporate intrigue, set-piece galas, and the running gag of a small child saying menacing
 things in faux-formal deadpan. Roast hooks: a ten-year-old tycoon, Jolly Meal toy hoarder,
 idolizes "Aunt" Elana Tracer, runs everywhere at her father's heel. Tease the menace-under-
