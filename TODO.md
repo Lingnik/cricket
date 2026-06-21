@@ -78,10 +78,20 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
   name-prefixes ->0, unbalanced quotes 3->0. Live chat smoke test confirms clean output.
 
 ## Remaining -- next up
-- **NEXT** -- Re-judge the scene-replay baseline now that format is clean + parroting gone (was
-  voice 2.5 / fit 2.58 / quality 2.67 pre-tuning); see if quality actually lifted. The eval is
-  NOISY at temp 0.85, so trust direction not 0.2 deltas -- use temp-0 or averaged samples for fine
-  signal. Strong cases (a clear spoken beat) already hit 4/5; misses cluster on narration-heavy beats.
+- **STABLE BASELINE (2026-06-21, deterministic temp-0, judge5):** voice 2.33 / fit 2.83 /
+  quality 2.33; plausible 6/12; FORMAT CLEAN on all 12; 0 puppet leaks. Format hygiene + do-not-
+  puppet CONFIRMED working. This report is reproducible (greedy), so future tuning is measurable
+  against it. METHODOLOGY NOTE: temp-0 greedy biases AGAINST the crass low-probability voice, so
+  the 2.33 voice is a LOWER BOUND -- live (0.85) smoke tests are genuinely crass. Use temp-0 for
+  FORMAT/FIT/PUPPET regression; measure VOICE live or via averaged 0.85 samples.
+- **NEXT (voice) -- crank the crass/profane/unhinged register.** The consistent miss: generated
+  voice is too mild/polished/literary ("couturier of the damned", "ravishing Baroness", "please
+  and thank you") vs the reference's crude profanity. Levers: character sheet (`knowledge/runtime/
+  lore/CRICKET.md`) crassness emphasis, few-shot exemplars (`model.py` `_FEWSHOT`), maybe a
+  register directive. MEASURE LIVE / averaged 0.85, not temp-0 (which understates it).
+- **NEXT (fit) -- grounding/beat-focus.** Several scenes hallucinate details (misread a costume as
+  "Sexy Red Guard", invent a "Grand Moff", pull a fish/nuts thread from another scene) or react to
+  a stale beat. Measurable at temp-0. Tighten the most-recent-beat anchoring + anti-fabrication.
 - **NEXT** -- Eval fidelity via ATTRIBUTION, not filtering. CORRECTION (2026-06-21, evidence in
   corpus/wiki/2025-03 - Charity Ball.txt + Droid Control): the wiki logs are RAW `@emit` pose
   streams, NOT GM-rewritten narrative. The earlier "filter omniscient narration" plan was based on
