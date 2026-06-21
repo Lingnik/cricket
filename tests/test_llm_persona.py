@@ -112,3 +112,36 @@ def test_thinking_off_by_default_single_pass():
     _run(persona, _turn())
     assert len(client.calls) == 1
     assert "Your private plan" not in client.calls[0][-1]["content"]
+
+
+class _CharterLore:
+    def self_history(self):
+        return ""
+
+    def rp_charter(self):
+        return "RP-RULES-MARKER"
+
+    def mentioned(self, text, max_names=4):
+        return []
+
+    def retrieve(self, cast, scope=None, max_chars=4000):
+        return ""
+
+
+def _rp_turn():
+    from cricket.persona.base import ContextLine
+    return Turn(
+        mode="rp", location="#0", location_kind="room", directives="", speaker="",
+        speaker_dbref="", text="", context=[ContextLine("scene", None, "pose", "x happens")],
+        bot_identity=BotIdentity(name="Cricket"), memory=None,
+    )
+
+
+def test_rp_charter_injected_on_rp_only():
+    c = RecordingClient()
+    LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore())
+    _run(LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore()), _rp_turn())
+    assert "RP-RULES-MARKER" in c.messages[0]["content"]  # system block, RP turn
+    c2 = RecordingClient()
+    _run(LlmPersona(c2, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore()), _turn())
+    assert "RP-RULES-MARKER" not in c2.messages[0]["content"]  # chat turn -> no charter

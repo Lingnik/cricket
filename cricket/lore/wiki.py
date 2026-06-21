@@ -186,6 +186,29 @@ class WikiIndex:
             })
         return out
 
+    def shared_history(self, names, anchor: str = "Cricket", limit: int = 4) -> list:
+        """RPlogs where the ANCHOR (Cricket) AND one of `names` both appear -- his logged
+        history WITH the people present. Newest in-universe first, summary-bearing. Returns
+        [{with, title, summary, aby_year}] -- used to ground RP poses in his perfect memory."""
+        anchor_ids = {id(r) for r in self._by_char.get((anchor or "").strip().lower(), [])}
+        if not anchor_ids:
+            return []
+        out, seen = [], set()
+        for name in names or []:
+            recs = [r for r in self._by_char.get((name or "").strip().lower(), [])
+                    if id(r) in anchor_ids and (r.get("summary") or "").strip()]
+            recs.sort(key=lambda r: (r.get("aby_year") or 0, r.get("rl_date") or ""), reverse=True)
+            for r in recs[:1]:
+                t = self._bare_title(r.get("title", ""))
+                if t in seen:
+                    continue
+                seen.add(t)
+                out.append({"with": name, "title": t,
+                            "summary": (r.get("summary") or "").strip(), "aby_year": r.get("aby_year")})
+            if len(out) >= limit:
+                break
+        return out
+
     # -- topic extraction for OOC injection ------------------------------------
     def topic_phrases(self, text: str) -> list:
         """Capitalized topic phrases in `text` (whether or not they resolve to a page).

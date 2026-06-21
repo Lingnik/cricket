@@ -93,6 +93,16 @@ def test_topics_resolves_and_excludes(tmp_path):
     assert wi.topics("tell me about the Biscuit Baron", exclude={"biscuit baron"}) == []
 
 
+def test_shared_history(tmp_path):
+    _make_cache(tmp_path)
+    wi = WikiIndex(tmp_path)
+    # Ghastly Gala has both Cricket and Zubindi -> shared.
+    h = wi.shared_history(["Zubindi Hakoon"])
+    assert h and h[0]["title"] == "Ghastly Gala" and h[0]["with"] == "Zubindi Hakoon"
+    # Someone with no shared Cricket log -> nothing.
+    assert wi.shared_history(["Nobody At All"]) == []
+
+
 def test_missing_cache_graceful(tmp_path):
     wi = WikiIndex(tmp_path)  # empty dir
     assert not wi.loaded

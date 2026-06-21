@@ -61,15 +61,20 @@ class LlmPersona(Persona):
         # block (prefix-cached) rather than the volatile per-turn memories. He draws on it when
         # posing (IC) and brags about it (OOC).
         self_history = self._lore.self_history() if self._lore is not None else ""
+        # The RP charter (rules) is injected on RP turns only.
+        rp_charter = (self._lore.rp_charter()
+                      if (self._lore is not None and turn.mode == "rp") else "")
         options = self._build_options(inference)
         # Optional hidden "thinking" pass: privately plan the response, then generate the
         # real line seeded by that plan. Gated by inference.thinking; off by default. The plan
         # is discarded (never posted). Measured via corpus-replay evals (thinking off vs on).
         plan = ""
         if inference.get("thinking"):
-            plan = await self._think(turn, prompts, memories, options, inference, self_history)
+            plan = await self._think(turn, prompts, memories, options, inference,
+                                     self_history, rp_charter)
         messages = self._build_messages(
-            turn, prompts, memories, plan=plan, self_history=self_history
+            turn, prompts, memories, plan=plan, self_history=self_history,
+            rp_charter=rp_charter,
         )
         text = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
@@ -81,10 +86,10 @@ class LlmPersona(Persona):
         return Response(text=text, action=action)
 
     async def _think(self, turn: Turn, prompts: dict, memories: str, options: dict,
-                     inference: dict, self_history: str = "") -> str:
+                     inference: dict, self_history: str = "", rp_charter: str = "") -> str:
         """One short, hidden planning pass. Returns terse private notes (or '' on failure)."""
         msgs = self._build_messages(turn, prompts, memories, thinking=True,
-                                    self_history=self_history)
+                                    self_history=self_history, rp_charter=rp_charter)
         topts = dict(options)
         topts["num_predict"] = int(inference.get("think_tokens", 160))
         try:
@@ -131,6 +136,16 @@ class LlmPersona(Persona):
             if dossiers.strip():
                 blocks.append(dossiers)
 
+        # RP only: Cricket's own logged history WITH the people present -- his perfect memory,
+        # distilled to the scenes that involved this cast. Grounds callbacks in poses.
+        if self._wiki is not None and turn.mode == "rp" and cast:
+            shared = self._wiki.shared_history(cast)
+            if shared:
+                lines = ["What you remember from past scenes with these people:"]
+                for h in shared:
+                    lines.append("- with %s (%s): %s" % (h["with"], h["title"], h["summary"]))
+                blocks.append("\n".join(lines))
+
         # OOC only: wiki blurbs for topics named in the line (the "rogue search engine"). IC
         # stays canon-grounded. Exclude the bot itself and anyone already covered by a dossier.
         topics = []
@@ -171,7 +186,8 @@ class LlmPersona(Persona):
         return "\n\n".join(b for b in blocks if b.strip())
 
     def _build_messages(self, turn: Turn, prompts: dict, memories: str = "",
-                        plan: str = "", thinking: bool = False, self_history: str = "") -> list:
+                        plan: str = "", thinking: bool = False, self_history: str = "",
+                        rp_charter: str = "") -> list:
         # Most-stable content first (system + bio), newest content last, so the prefix
         # cache only re-evaluates the tail. PHASE 2 owns the prompt text in prompts.system.
         name = turn.bot_identity.name if turn.bot_identity else "cricket"
@@ -181,6 +197,11 @@ class LlmPersona(Persona):
         if self_history.strip():
             system = "%s\n\n## Your own past exploits (real, yours -- draw on them and brag):\n%s" % (
                 system, self_history.strip()
+            )
+        # RP charter (rules) -- RP turns only; outranks his own wants, so it goes high.
+        if rp_charter.strip():
+            system = "%s\n\n## RP rules (these OUTRANK your own desires):\n%s" % (
+                system, rp_charter.strip()
             )
         if turn.directives:
             system = "%s\n\n%s" % (system, turn.directives)
