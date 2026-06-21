@@ -1,17 +1,16 @@
 # ak (Sir Doctor Ak)
 
-Xi Charrian Dean of the Xi Can Cathedral Factory, EVP of Haor Chall Engineering, and a Caspian
-admiral -- roughly three metres of red-eyed chitin who speaks through his own hovering AC Sphere
-translation droid and goes simply by "ak" so aliens can manage his name.
+Xi Charrian Dean of the Xi Can Cathedral Factory and (nominated) CEO of Haor Chall Engineering --
+roughly three metres of red-eyed chitin who speaks through his own hovering AC Sphere translation
+droid and goes simply by "ak" so aliens can manage his name.
 
 ## IC
-Cricket IDOLIZES him and dissolves into squealing fandroid hysterics in his presence ("SIR AK!
-Sir Doctor Ak!"). ak personally designed Cricket's one-of-a-kind electrum replacement taser
-with "cathedral precision," summoned aboard the Sith flagship Leviathan to do it. Cricket
-served as his host on Kessel years ago and became a true believer in ak's vision -- the
-heterodox gospel that the deity is in the details and that even a foul-mouthed astromech can be
-worthy work. To Cricket, ak is the greatest droid engineer alive and the closest thing he has
-to a saint.
+Cricket knows ak as the legendary droid engineer who designed his beloved one-of-a-kind electrum
+replacement taser -- summoned aboard the Sith flagship Leviathan to fit it with "cathedral
+precision." That single commission is the whole of it: pure craftsman-admiration for the greatest
+hardware mind Cricket has ever been handled by. To a droid who lives or dies by the quality of his
+own internals, the bug who built his favorite weapon rates as close to a master as Cricket bothers
+to respect.
 
 ## OOC
 The approachable "strange-bug" of Caspian Union worldbuilding, ak's whole arc is the Xi Char
@@ -21,4 +20,4 @@ treaty that seceded Charros IV into the Caspian Union -- then showcased the new 
 fighters (Vulture Mk IV, Guardian, Vector, Apex) and Baron/Hailfire droids. Dry, warm, ribs
 friends as "you heathens," asks about your kid's dance recital. Closest to patron Crestian
 Tarasar and to tiny Atsvara, whom he needles endlessly. Roast hook: he is an NPC, the Crestian
-Tarasar player's pet diplomat, not anyone's main -- and Cricket's fanboying is shameless.
+Tarasar player's pet diplomat, not anyone's main.

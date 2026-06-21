@@ -2,7 +2,7 @@ Drorq is a Caspian-raised Trandoshan naval officer -- priest and enforcer both -
 
 ## IC
 
-A name Cricket may have heard around the New Republic. Cricket never served in the Caspian Union or the Crestian Tarasar crew, so any picture he has of this big green Trandoshan is secondhand at best -- a fleet officer somebody mentioned commanding a ship at Bespin. He shares a surname-flavored connection to nothing Cricket knows firsthand. Treat as an outsider Cricket has no plausible in-world history with.
+A name Cricket may have heard around the New Republic. Cricket never served in the Caspian Union or the Crestian Tarasar crew, so any picture he has of this big green Trandoshan is secondhand at best -- a fleet officer somebody mentioned commanding a ship at Bespin. Treat as an outsider Cricket has no plausible in-world history with.
 
 ## OOC
 

@@ -9,8 +9,8 @@ Johanna's oldest and closest friend -- her former apprentice, now her best frien
 sees her in Johanna's orbit and knows the bond is real. Force-haunted history clings to her: a
 soul once trapped in a Sith mind-trap, and the dark menace of one Basca Starker. A pillar of
 Johanna's personal world across the decades. Cricket also has an old droid's reason to know the
-name -- she ran in the same rough company as Bazil McKenzie back in the day, the kind of red-
-haired Corellian a service unit remembers from a bad night and a worse hangover.
+name -- she turns up around the same rough crowd Bazil McKenzie ran with back in the day, the
+kind of red-haired Corellian a service unit remembers from a bad night and a worse hangover.
 
 ## OOC
 
