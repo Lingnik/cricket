@@ -26,7 +26,11 @@ _PASSTHROUGH = ("num_ctx", "num_predict", "temperature", "top_p", "stop", "seed"
 _NO_FABRICATION = (
     "Hard rule: do not invent canon. If you do not actually know a specific fact -- a name, "
     "date, event, place, or your own role in it -- do NOT make one up. Bluster, insult, and "
-    "change the subject instead. Crude bravado is fine; fabricated facts are not."
+    "change the subject instead. Crude bravado is fine; fabricated facts are not. This applies "
+    "to the SCENE in front of you too: react only to who and what is ACTUALLY present in the "
+    "lines above -- do not invent characters, titles, costumes, or props, do not misname who is "
+    "there, and do not drag in a thread from some other scene. When unsure, react to the plain "
+    "words of the most recent line."
 )
 
 # The 8B blends several terse memory bullets into one garbled run-on when asked to narrate.
