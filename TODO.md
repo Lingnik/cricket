@@ -76,11 +76,17 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
   `*asterisk*` stage-directions, sometimes leaks a name prefix, and leaves unclosed quotes/parens;
   fix via a format instruction + a light output-cleanup strip (leading/trailing stray asterisk,
   name prefix). Strong cases (a clear spoken beat) already hit 4/5.
-- **NEXT** -- Eval fidelity: filter omniscient-narrator paragraphs out of `scene_replay` input.
-  The "omniscience" misses (Cricket reacting to a narrator's private exposition) are an EVAL-INPUT
-  artifact -- wiki logs are edited prose with interior monologue the live bot's observable `@emit`
-  stream would never contain. Optionally use the wiki page's character list for exact speaker
-  attribution (so the do-not-puppet side of the eval is trustworthy too).
+- **NEXT** -- Eval fidelity via ATTRIBUTION, not filtering. CORRECTION (2026-06-21, evidence in
+  corpus/wiki/2025-03 - Charity Ball.txt + Droid Control): the wiki logs are RAW `@emit` pose
+  streams, NOT GM-rewritten narrative. The earlier "filter omniscient narration" plan was based on
+  a wrong premise -- what looked like a narrator's private exposition is just players posing their
+  OWN character's interiority + the NPCs they control + scene-setting `@emit`s, ALL of which the
+  live bot does see in the room stream. So do NOT filter it. The real, narrower issues: (a) the bot
+  should not METAGAME -- react to/act on another PC's posed-but-IC-private interiority (an RP-charter
+  skill, legitimately present in the stream); (b) focus on the actionable beat over ambient setting.
+  The valid harness fix is exact-cast ATTRIBUTION from each log's `{{Rplog|characters=...}}` manifest
+  (top of file), which also resolves costume aliases / one-player-posing-many-NPCs that the gazetteer
+  heuristic mis-splits. No new Cricket log needed -- these are typical SW1 logs.
 - **LATER** -- Hands-on persona tuning via the new CRUD panel (now pleasant; not yet used in
   anger for a real tuning pass).
 - **LATER** -- Surface the harass-on-connect toggle and the thinking flag in the web UI (today
