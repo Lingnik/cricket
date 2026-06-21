@@ -6,7 +6,7 @@ from cricket.config import LocationConfig
 from cricket.mush.events import ChannelMessage, RoomMessage, SpeechKind, Unknown
 from cricket.mush.events import Actor
 from cricket.persona.base import BotIdentity, Response
-from cricket.router import Router, SCENE_QUEUE_CAP
+from cricket.router import Router
 
 
 class FakePersona:
@@ -291,30 +291,56 @@ def test_room_traffic_ignored_when_rp_disabled():
     assert s.scene_queues.get("Room1", []) == []
 
 
-def test_scene_queue_capped_drops_oldest():
+def test_scene_byte_budget_trims_oldest_blocks():
     s = make_services()
     s.rp_enabled = {"Room1": True}
+    s.active_profile_doc = {"inference": {"rp_context_bytes": 100}}
     router = Router(s)
-    total = SCENE_QUEUE_CAP + 25
-    # Distinct poser per line so block-grouping does not merge them.
-    for i in range(total):
-        run(router, RoomMessage(Actor("P%d" % i, "#%d" % (100 + i)), SpeechKind.SAY, "line %d" % i))
+    # 20 distinct-poser blocks of 20 bytes each (400 total) -> trimmed to <= 100 bytes.
+    for i in range(20):
+        run(router, RoomMessage(Actor("P%d" % i, "#%d" % (100 + i)), SpeechKind.POSE, "x" * 20))
     q = s.scene_queues["Room1"]
-    assert len(q) == SCENE_QUEUE_CAP  # bounded
-    # oldest dropped, newest kept, order preserved
-    assert q[0].text == "line %d" % (total - SCENE_QUEUE_CAP)
-    assert q[-1].text == "line %d" % (total - 1)
+    assert sum(len(b.text) for b in q) <= 100   # bounded by bytes, not lines
+    assert len(q) < 20                            # oldest dropped
+    assert q[-1].speaker == "P19"                 # newest kept
 
 
-def test_scene_queue_under_cap_unchanged():
+def test_scene_under_budget_unchanged():
     s = make_services()
     s.rp_enabled = {"Room1": True}
+    s.active_profile_doc = {"inference": {"rp_context_bytes": 6000}}
     router = Router(s)
     for i in range(5):
-        run(router, RoomMessage(Actor("P%d" % i, "#%d" % (100 + i)), SpeechKind.SAY, "line %d" % i))
+        run(router, RoomMessage(Actor("P%d" % i, "#%d" % (100 + i)), SpeechKind.POSE, "line %d" % i))
     q = s.scene_queues["Room1"]
-    assert len(q) == 5
-    assert q[0].text == "line 0"
+    assert len(q) == 5 and q[0].text == "line 0"
+
+
+class _LedgerPersona:
+    async def respond(self, turn):
+        return None
+
+    async def distill_block(self, block, prior_ledger="", bot_name="Cricket"):
+        return "LEDGER[%s|%s]" % (block.speaker, block.text[:10])
+
+
+def test_block_completion_distills_to_ledger():
+    s = make_services()
+    s.rp_enabled = {"Room1": True}
+    s.scene_ledger = {}
+    s.persona = _LedgerPersona()
+    router = Router(s)
+
+    async def drive():
+        await router.handle(RoomMessage(Actor("Crestian", "#7"), SpeechKind.POSE, "draws his blade"))
+        # A new poser closes Crestian's block -> schedules its distillation.
+        await router.handle(RoomMessage(Actor("Johanna", "#4"), SpeechKind.POSE, "laughs"))
+        pending = [t for t in asyncio.all_tasks() if t is not asyncio.current_task()]
+        if pending:
+            await asyncio.gather(*pending)
+
+    asyncio.run(drive())
+    assert s.scene_ledger["Room1"] == ["LEDGER[Crestian|draws his ]"]
 
 
 # -- OOC dual-role: a chat channel that also takes admin bang-commands ----------

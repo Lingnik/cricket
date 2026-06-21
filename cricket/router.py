@@ -12,6 +12,7 @@ state muted, rp_enabled, scene_queues, recent, current_room.
 
 from __future__ import annotations
 
+import asyncio
 import re
 from typing import Union
 
@@ -324,11 +325,60 @@ class Router:
                 text=(prev.text + "\n" + text).strip(),
             )
         else:
+            if queue:
+                # The previous block just completed -> distill it into the running ledger.
+                self._ledger_block(room, queue[-1])
             queue.append(ContextLine(speaker=speaker, dbref=dbref, kind=kind, text=text))
+        # Byte-budgeted tail: drop the oldest blocks once the verbatim scene exceeds the budget
+        # (the ledger retains their substance). Replaces the old line cap.
+        self._trim_scene_bytes(room, queue)
+
+    # -- scene ledger / byte budget (docs/RP-DESIGN.md) ------------------------
+    def _rp_budget(self) -> int:
+        """Verbatim-tail byte budget for a room's scene, from the active profile's inference
+        block (inference.rp_context_bytes), defaulting to 6000."""
+        doc = getattr(self.s, "active_profile_doc", None) or {}
+        inf = doc.get("inference", {}) if isinstance(doc, dict) else {}
+        try:
+            b = int(inf.get("rp_context_bytes") or 0)
+        except (TypeError, ValueError):
+            b = 0
+        return b if b > 0 else 6000
+
+    def _trim_scene_bytes(self, room: str, queue=None) -> None:
+        if queue is None:
+            queue = self.s.scene_queues.get(room)
+        if not queue:
+            return
+        budget = self._rp_budget()
+        total = sum(len(b.text) for b in queue)
+        while len(queue) > 1 and total > budget:
+            total -= len(queue[0].text)
+            del queue[0]
+        # Hard ceiling on block count too (defense against many tiny blocks).
         if len(queue) > SCENE_QUEUE_CAP:
-            # TODO(RP-2): replace this line cap with a byte-budgeted tail + append-only ledger
-            # (docs/RP-DESIGN.md). For now keep a generous cap so blocks are not dropped early.
             del queue[: len(queue) - SCENE_QUEUE_CAP]
+
+    def _ledger_block(self, room: str, block) -> None:
+        """Schedule async distillation of a completed pose-block into the running ledger."""
+        persona = getattr(self.s, "persona", None)
+        if persona is None or not hasattr(persona, "distill_block"):
+            return
+        if getattr(self.s, "scene_ledger", None) is None:
+            return
+        asyncio.ensure_future(self._distill_to_ledger(room, block))
+
+    async def _distill_to_ledger(self, room: str, block) -> None:
+        led = self.s.scene_ledger.setdefault(room, [])
+        prior = " | ".join(led[-8:])
+        bid = getattr(self.s, "bot_identity", None)
+        bot = (bid.name if bid is not None else "") or "Cricket"
+        try:
+            entry = await self.s.persona.distill_block(block, prior_ledger=prior, bot_name=bot)
+        except Exception:  # noqa: BLE001 -- ledger is best-effort
+            entry = ""
+        if entry:
+            led.append(entry)
 
     # -- pages -----------------------------------------------------------------
     async def _handle_page(self, event: Page) -> None:

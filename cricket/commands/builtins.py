@@ -134,14 +134,17 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         return
     queue = ctx.bot.scene_queues.get(room, [])
     context = list(queue)
-    # If a prior scene in this room was recalled (on !rp on), seed it so the pose
-    # reflects what Cricket remembers happening earlier.
+    # Memory lines (oldest context first): the prior-scene recall (on !rp on) and the running
+    # ledger -- the distilled arc that survives byte-trimming of the verbatim tail.
     recall = getattr(ctx.bot, "pending_recall", {}).get(room)
+    ledger = getattr(ctx.bot, "scene_ledger", {}).get(room)
+    mem_lines = []
     if recall:
-        context.insert(
-            0, ContextLine(speaker="memory", dbref=None, kind="emit",
-                           text="Earlier: %s" % recall)
-        )
+        mem_lines.append("Earlier scene: %s" % recall)
+    if ledger:
+        mem_lines.append("This scene so far: %s" % " | ".join(ledger))
+    for m in reversed(mem_lines):
+        context.insert(0, ContextLine(speaker="memory", dbref=None, kind="emit", text=m))
     turn = Turn(
         mode="rp",
         location=room,
@@ -160,7 +163,12 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         return
     action = force_action or resp.action
     _emit(ctx.bot, room, action, resp)
-    # Consume the scene we just acted on.
+    # Distill the final in-progress block into the ledger, then consume the verbatim scene we
+    # just acted on (the ledger retains the arc for the next pose).
+    if queue:
+        router = getattr(ctx.bot, "router", None)
+        if router is not None and hasattr(router, "_ledger_block"):
+            router._ledger_block(room, queue[-1])
     ctx.bot.scene_queues[room] = []
     ctx.reply("posed in %s (%s)." % (room, action))
 
