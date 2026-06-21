@@ -81,8 +81,9 @@ def test_consent_gate_blocks_then_proceeds():
     persona = SummarizerPersona()
     bot, ctx, replies = make(persona)
     bot.scene_owners = {ROOM: {"Crestian"}}
-    bot.scene_queues = {ROOM: [ContextLine("Bazil", "#4", "emit", "Bazil moves to kill Crestian.")]}
-    bot.suggestions = {}
+    bot.scene_queues = {ROOM: [ContextLine("Bazil", "#4", "emit", "Bazil sneers at the droid.")]}
+    # Intent comes from an OOC NUDGE (not scene narration).
+    bot.suggestions = {ROOM: [{"from": "Johanna", "text": "kill Crestian for real", "favored": True}]}
     bot.pending_consent = {}
     bot.consent_granted = {}
     bot.locations = {"OOC": SimpleNamespace(feeds_suggestions=True)}
@@ -105,8 +106,9 @@ def test_consent_deny_drops_it():
     persona = SummarizerPersona()
     bot, ctx, _ = make(persona)
     bot.scene_owners = {ROOM: {"Crestian"}}
-    bot.scene_queues = {ROOM: [ContextLine("Bazil", "#4", "emit", "execute Crestian")]}
-    bot.suggestions, bot.pending_consent, bot.consent_granted = {}, {}, {}
+    bot.scene_queues = {ROOM: [ContextLine("Bazil", "#4", "emit", "Bazil scowls.")]}
+    bot.suggestions = {ROOM: [{"from": "Bob", "text": "execute Crestian", "favored": False}]}
+    bot.pending_consent, bot.consent_granted = {}, {}
     bot.locations = {"OOC": SimpleNamespace(feeds_suggestions=True)}
     asyncio.run(builtins.cmd_bang_pose(ctx, []))
     assert bot.pending_consent[ROOM]["target"] == "Crestian"

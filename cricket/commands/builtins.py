@@ -24,15 +24,20 @@ _MORTAL_RE = re.compile(
 )
 
 
-def _mortal_intent(bot, room):
-    """Heuristic pre-gate: a planned lethal/agency-removing action against a player-CONTROLLED
-    character. Returns the target's name or None. Scans the live scene blocks + OOC nudges for a
-    mortal keyword co-occurring with a character others control (NPCs Cricket owns are exempt)."""
+def _mortal_intent(bot, room, seed=""):
+    """Heuristic pre-gate for CRICKET's own planned lethal/agency-removing action against a
+    player-CONTROLLED character. Returns the target's name or None.
+
+    Keys on CRICKET'S intent -- the OOC nudges directed at him and an explicit `!say` seed -- NOT
+    on the scene narration (which may mention death without Cricket intending anything; e.g. a
+    taser's 'kill setting'). Bot-initiated escalation with no nudge is not caught here (that needs
+    the LLM confirmation pass noted in docs/RP-DESIGN.md)."""
     controlled = set(getattr(bot, "scene_owners", {}).get(room, set()))
     if not controlled:
         return None
-    texts = [getattr(b, "text", "") for b in getattr(bot, "scene_queues", {}).get(room, [])]
-    texts += [s.get("text", "") for s in getattr(bot, "suggestions", {}).get(room, [])]
+    texts = [s.get("text", "") for s in getattr(bot, "suggestions", {}).get(room, [])]
+    if seed:
+        texts.append(seed)
     blob = "\n".join(texts)
     if not _MORTAL_RE.search(blob):
         return None
@@ -231,7 +236,7 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         ctx.reply("awaiting consent for %s (!consent-ok / !consent-deny)."
                   % pending[room].get("target"))
         return
-    target = _mortal_intent(ctx.bot, room)
+    target = _mortal_intent(ctx.bot, room, seed_text)
     if target and (granted.get(room, {}).get("target", "") or "").lower() != target.lower():
         ooc = _ooc_channel(ctx.bot)
         msg = ("OOC: I want to do something lethal to %s this round. Target or an admin: "
