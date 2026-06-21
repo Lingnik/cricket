@@ -1,0 +1,135 @@
+# Player: BazilMcKenzie
+
+| | |
+|---|---|
+| **Wiki account(s)** | `BazilMcKenzie` |
+| **Plays** | **Bazil Ard'rian McKenzie** (NRI agent / "the Galactic Paper Boy"); undercover aliases **Vauki** and **Jonau Diggs** |
+| **Activity era** | RL 1999 → 2001 core run (8–10 ABY), one late cameo RL 2007 (16 ABY) |
+| **Faction home** | New Republic / New Republic Intelligence |
+| **Footprint** | 67 logs; almost all self-authored (the player uploaded ~60 of his own) |
+
+## Talking to them OOC
+
+This is an **old-guard, self-documenting player** from the turn-of-the-millennium SW1
+era — Bazil's log trail is mostly his own uploads, so assume they take pride in writing
+up their own scenes and keeping the record. The character's comfort zone is **spy-thriller
+intrigue and damaged-man drama**: espionage (his single biggest theme), NRI cover ops,
+political maneuvering, and a deep streak of trauma and creeping insanity. Lots of solo
+poses and undercover two-handers under fake names rather than big faction set-pieces.
+
+Safe conversation hooks:
+- **The NRI cover-identity game.** Bazil ran field ops under aliases — **Vauki** and
+  **Jonau Diggs** — chasing the Death Star III plans with a team (Xanatos, Mersche)
+  across Caspar, Cochran, and Dreven (RPlog:SW1 Log 2000-05-20, 9 ABY; RPlog:SW1 Log
+  2000-05-22-2, 9 ABY). A fun "wait, that was *him*?" thread for anyone who scened with
+  Vauki/Diggs.
+- **The Galactic Paper Boy origin.** Before the New Republic he flew freight for IGNews
+  out of Caspar — the nickname sticks (Article: Bazil McKenzie). Easy, low-stakes opener.
+- **Crossing the Jessalyn/Orson/Simon storyline.** Bazil is the "dirty little secret" Orson
+  Tighe tortured; a drunken Bazil collides with Jessalyn and Orson on Caspar (RPlog:A Dark
+  Secret, 10 ABY; RPlog:Bazil, Revisited, 10 ABY). Good shared history with still-active
+  players (Jessalyn's player notably).
+
+Tone to match: a worn-down, wisecracking spacer-turned-spook with a haunted edge — the
+medical file alone reads like a horror story (cybernetic everything, psychiatric drugs,
+"alternate personalities will ensue") (Article: Bazil McKenzie).
+
+---
+
+## Character: Bazil Ard'rian McKenzie — "the Galactic Paper Boy"
+
+**Capsule.** Tatooine-system human (b. 18 BBY), brown hair / hazel eyes; born a slave on a
+mining asteroid, escaped by murdering his slaver father, learned to fly with mercenaries,
+then rose New Republic → Ghost Squadron → NRI, eventually running Intelligence (Article:
+Bazil McKenzie). Faction-wise he reads New Republic (62 logs) / NRI (20), brushing the
+Empire (12) and the Jedi/Sith orbit. Heavily cyberneticized and psychologically fractured
+after years of capture, torture, and the fall of Coruscant.
+
+**Arc synthesis** (chronological; each beat is a fetch handle):
+
+- **Slave origin → spacer (18 BBY onward).** Born to a slave mother and a slaver father on
+  a Tatooine-system mining asteroid; escapes after killing his father, drifts through
+  Tatooine jobs, then learns to fly with a mercenary band (Article: Bazil McKenzie).
+- **Galactic Paper Boy (pre-8 ABY).** Flies freight/reporters for IGNews out of Caspar; a
+  fling with Casey Johnson ends when she vanishes — a loss that haunts him (Article: Bazil
+  McKenzie; RPlog:SW1 Log 2000-05-22-3, 9 ABY).
+- **New Republic pilot (8–9 ABY).** Joins **Ghost Squadron**, climbs to XO; a stint as
+  Diplo Corps pilot under Poguala Waaris-Dawntreader sours and he returns to StarOps
+  (Article: Bazil McKenzie; RPlog:SW1 Log 1999-12-22, 8 ABY).
+- **Into the shadows — NRI (9 ABY).** Recruited into New Republic Intelligence; works
+  undercover as **Vauki** and **Jonau Diggs**, hunting the Death Star III and its plans
+  with a covert team (Xanatos, Mersche) across Caspar, Cochran, and Imperial-held Dreven
+  (RPlog:SW1 Log 2000-05-20, 9 ABY; RPlog:SW1 Log 2000-05-22-2, 9 ABY; RPlog:SW1 Log
+  2000-05-25-2, 9 ABY). Present aboard the *Angry Rancor* when the third Death Star
+  destroys Gastus and Luke subdues Moff Morganna Tazecks (RPlog:A New Moon Rises, 9 ABY).
+- **Political ascension (9 ABY).** Promoted repeatedly; when the Director vanishes he
+  reluctantly ends up running Intelligence — trading a "shoot-em-up lifestyle" for pushing
+  papers (Article: Bazil McKenzie).
+- **Imperial kidnapping & spiraling sanity (9 ABY).** Kidnapped by the Empire, rumored to
+  have been in the Emperor's company; his trauma-cracked mind becomes a liability — the
+  dark-sider Kacela/Morganna seduces and mind-probes him but is overwhelmed by the sheer
+  ferocity of his insanity (RPlog:SW1 Log 2000-09-20, 9 ABY).
+- **The Corellia tangle (9–10 ABY).** Crosses the Simon Sezirok / Mira Isaria / Jessalyn
+  thread: an NRI Major intrigued by Simon's lightstaff, he's swept into a kidnap chase
+  (RPlog:Corellian Craziness, 9 ABY); later, escorting Simon's coolant-leaking Firespray
+  into Coronet, he recognizes Simon by voice but lets him pass with the comatose Jessalyn
+  aboard (RPlog:Return of a Jedi, Part I, 10 ABY).
+- **Orson's "dirty little secret" (10 ABY).** A drunken, falling-down Bazil collides with
+  Jessalyn and Orson Tighe at the Sandbar on Caspar; Orson confesses he once tortured
+  Bazil in the woods (RPlog:A Dark Secret, 10 ABY; RPlog:Bazil, Revisited, 10 ABY).
+- **The fall of Coruscant & after (10+ ABY).** Loses both arms in a ground battle defending
+  the shield generators during the downfall of Coruscant; survives on cybernetics and a
+  battery of psychiatric drugs per his harrowing 9 ABY medical file (Article: Bazil
+  McKenzie). One late cameo surfaces years on (RPlog:SW1 Log 2007-06-16, 16 ABY).
+
+**Key relationships** (most-cited co-characters → use these to connect threads):
+- **Altair Quila** — recurring scene partner, ex-Ghost Squadron SO who recognizes him even
+  undercover (RPlog:SW1 Log 2000-06-10-2, 9 ABY). [15 shared logs — his most frequent partner]
+- **Luke Skywalker** — NR/Jedi point of contact; coordinates with him on the Morganna matter
+  (RPlog:SW1 Log 2000-06-08, 9 ABY). [9 logs]
+- **Eva Sargent** — recurring Caspar contact/colleague. [8 logs]
+- **Orson Tighe** — tortured Bazil; the "dirty little secret" link into Jessalyn's arc
+  (RPlog:A Dark Secret, 10 ABY).
+- **Simon Sezirok & Mira Isaria** — Sith/ex-Sith he repeatedly crosses on Corellia
+  (RPlog:Corellian Craziness, 9 ABY; RPlog:Return of a Jedi, Part I, 10 ABY).
+- **Poguala Waaris-Dawntreader** — Diplo Corps boss; the posting he walked away from.
+- **Xanatos & Mersche** — his NRI undercover team.
+- **Casey Johnson** — vanished CDU Marine lover; his defining lost-love wound.
+- **Jasmine Heretin & Adian Ward** — sister and twin brother, his sole surviving family.
+
+**Playstyle / themes** (from 67 logs): espionage (21) leads, then intrigue (14), Death Star
+plots (11), diplomacy/politics (10 each), recruitment (7). Reads as an **undercover-intrigue
+player** who writes a lot of his own solo and two-hander material and leans into a
+trauma-driven, slowly-unraveling protagonist.
+
+**Signature voice.** Wry, weary spacer with a dark undertow — equally at home running a
+con under a fake name and falling off a barstool slurring that he's "dying" (RPlog:A Dark
+Secret, 10 ABY). For undercover cadence pull RPlog:SW1 Log 2000-05-22-3 (9 ABY, the Casey
+confession to Howie); for the haunted-mind register pull RPlog:SW1 Log 2000-09-20 (9 ABY).
+
+---
+
+## Dig deeper — ranked source logs
+
+Most useful first, for fastest orientation:
+
+1. **Article: Bazil McKenzie** — the canonical bio + the chilling 9 ABY medical file (start here).
+2. **RPlog:SW1 Log 2000-05-20** (9 ABY) — the NRI cover-op kickoff; Bazil-as-Vauki, the
+   Death Star team forms.
+3. **RPlog:A New Moon Rises** (9 ABY) — the Death Star III destroys Gastus; big shared scene.
+4. **RPlog:Corellian Craziness** (9 ABY) — his collision with the Simon/Mira storyline.
+5. **RPlog:SW1 Log 2000-09-20** (9 ABY) — Kacela/Morganna mind-probe; his insanity on display.
+6. **RPlog:A Dark Secret** (10 ABY) — the Orson "dirty little secret" reveal; ties into
+   Jessalyn's arc (and a Cricket-adjacent scene).
+7. **RPlog:Return of a Jedi, Part I** (10 ABY) — escorting Simon and the comatose Jessalyn
+   into Coronet.
+
+Full log list: the in-universe-ordered "Bazil's Roleplay Logs" page indexes every scene.
+
+---
+
+*Sensitivity:* none flagged — all material is public wiki canon. **PC**, not an NPC: this is
+a player-run character with a dedicated `BazilMcKenzie` wiki account that authored/uploaded
+nearly all of his logs. Note that **Vauki** and **Jonau Diggs** are not separate
+characters — they are Bazil's NRI undercover aliases (the log list even credits scenes to
+"Bazil/Vauki").
