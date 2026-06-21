@@ -180,6 +180,37 @@ def test_claimed_field_merges_into_do_not_puppet():
     assert "Cricket" not in msg.split("belong to other players")[1][:60]  # bot filtered out
 
 
+def test_speaker_name_resolved_to_canonical_for_dossier():
+    # A poser arrives as "Jessalyn" but her dossier is keyed "Jessalyn Valios". The gazetteer must
+    # resolve the raw SPEAKER name (not just text mentions) so the present character's dossier
+    # injects -- without this, dossiers for present characters are silently missed (grounding drift).
+    from cricket.persona.base import ContextLine
+
+    class _GazLore:
+        def self_history(self):
+            return ""
+
+        def rp_charter(self):
+            return ""
+
+        def mentioned(self, text, max_names=4):
+            return ["Jessalyn Valios"] if "jessalyn" in (text or "").lower() else []
+
+        def retrieve(self, cast, scope=None, max_chars=4000):
+            return "JESSALYN-DOSSIER" if "Jessalyn Valios" in cast else ""
+
+        def dossier(self, name):
+            return name == "Jessalyn Valios"
+
+    c = RecordingClient()
+    turn = Turn(mode="rp", location="#0", location_kind="room", directives="", speaker="",
+                speaker_dbref="", text="",
+                context=[ContextLine("Jessalyn", "#7", "pose", "grins at the droid.")],
+                bot_identity=BotIdentity(name="Cricket"), memory=None)
+    _run(LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_GazLore()), turn)
+    assert "JESSALYN-DOSSIER" in c.messages[-1]["content"]  # canonical dossier reached the prompt
+
+
 def test_clean_output_format_hygiene():
     from cricket.persona.llm import _clean_output
     # leaked speech-verb/name prefix the wrapper re-adds is dropped
