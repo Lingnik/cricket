@@ -84,11 +84,15 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
   against it. METHODOLOGY NOTE: temp-0 greedy biases AGAINST the crass low-probability voice, so
   the 2.33 voice is a LOWER BOUND -- live (0.85) smoke tests are genuinely crass. Use temp-0 for
   FORMAT/FIT/PUPPET regression; measure VOICE live or via averaged 0.85 samples.
-- **NEXT (voice) -- crank the crass/profane/unhinged register.** The consistent miss: generated
-  voice is too mild/polished/literary ("couturier of the damned", "ravishing Baroness", "please
-  and thank you") vs the reference's crude profanity. Levers: character sheet (`knowledge/runtime/
-  lore/CRICKET.md`) crassness emphasis, few-shot exemplars (`model.py` `_FEWSHOT`), maybe a
-  register directive. MEASURE LIVE / averaged 0.85, not temp-0 (which understates it).
+- **DONE (voice consistency).** Live-voice measure (`--samples 3`, temp-0.85, Opus voice judge)
+  proved voice is NOT weak: best-of-3 = 4.0, no scene that can't reach a strong voice. The misses
+  were almost all VOICELESS action-only poses (his wit lives in dialogue). Added an RP instruction
+  to land a spoken crude line + prefer crass over literary -> voiceless samples 12->0 of 36, live
+  voice mean 2.86 -> 3.44. Live smoke test clean + crass.
+- **NEXT (voice micro-lever) -- vary his profanity.** The judge flagged "FUCK THE POLICE" still
+  re-anchoring as the go-to curse at temp 0.85 -- it is literally an example in `CRICKET.md` line 45,
+  so the model latches on. Drop/replace that specific example (keep the others); the novelty rule
+  fights it but the sheet anchors it. Remaining minority misses also "drift literary/sentimental."
 - **NEXT (fit) -- grounding/beat-focus.** Several scenes hallucinate details (misread a costume as
   "Sexy Red Guard", invent a "Grand Moff", pull a fish/nuts thread from another scene) or react to
   a stale beat. Measurable at temp-0. Tighten the most-recent-beat anchoring + anti-fabrication.
