@@ -292,7 +292,7 @@ def test_bang_pose_assembles_rp_turn_and_emits():
     assert turn.location == "Room1"
     assert turn.location_kind == "room"
     assert [c.text for c in turn.context] == ["oi cricket"]
-    assert ("pose_room", "*beeps furiously at the meatbags*") in actions.calls
+    assert ("emit_room", "*beeps furiously at the meatbags*") in actions.calls  # raw @emit
     assert bot.scene_queues["Room1"] == []  # scene consumed after the pose
 
 
@@ -441,8 +441,8 @@ def test_rp_pose_without_name_uses_pose():
     assert not any(c[0] == "emit_room" for c in s.actions.calls)
 
 
-def test_emit_helper_uses_emit_when_pose_names_the_bot():
-    # The RP !pose path (builtins._emit) must also avoid name-doubling.
+def test_emit_helper_always_raw_emit_for_poses():
+    # SW1 convention: a pose is a raw @emit (never @pose, which would prepend "Cricket").
     from cricket.commands.builtins import _emit
     from cricket.persona.base import Response
 
@@ -454,5 +454,5 @@ def test_emit_helper_uses_emit_when_pose_names_the_bot():
     bot = SimpleNamespace(actions=actions, bot_identity=BotIdentity(name="Cricket"))
     _emit(bot, "Room1", "pose", Response("Cricket's dome swivels.", action="pose"))
     _emit(bot, "Room1", "pose", Response("*beeps*", action="pose"))
-    assert ("emit_room", "Cricket's dome swivels.") in calls
-    assert ("pose_room", "*beeps*") in calls
+    assert calls == [("emit_room", "Cricket's dome swivels."), ("emit_room", "*beeps*")]
+    assert not any(k == "pose_room" for k, _ in calls)
