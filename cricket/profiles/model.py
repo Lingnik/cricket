@@ -169,6 +169,9 @@ DEFAULT_PROFILE = {
         "top_p": 0.95,
         "stop": ["\n\n\n"],
         "keep_alive": "30m",
+        # Byte budget for the verbatim RP scene tail; older blocks are trimmed (the distilled
+        # ledger retains the arc). See docs/RP-DESIGN.md.
+        "rp_context_bytes": 6000,
     },
     # When true, Cricket pages a personalized insult to anyone who connects. Toggle live with
     # the `harass on|off` command; this is the per-profile default.

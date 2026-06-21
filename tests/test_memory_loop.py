@@ -100,7 +100,7 @@ def test_pose_seeds_recalled_summary():
     asyncio.run(builtins.cmd_bang_pose(ctx, []))
     turn = persona.turns[0]
     assert turn.context[0].speaker == "memory"
-    assert turn.context[0].text == "Earlier: Bazil owes Cricket a taser."
+    assert turn.context[0].text == "Earlier scene: Bazil owes Cricket a taser."
     # the real scene lines follow the recalled memory
     assert [c.speaker for c in turn.context[1:]] == ["Bazil", "Bazil"]
 

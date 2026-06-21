@@ -39,3 +39,11 @@ class StubPersona(Persona):
         if first == last:
             return "Scene with %s: %s" % (who, first)
         return "Scene with %s: %s ... %s" % (who, first, last)
+
+    async def distill_block(self, block, prior_ledger="", bot_name="Cricket") -> str:
+        """Trivial deterministic ledger line (no model)."""
+        text = (getattr(block, "text", "") or "").strip()
+        if not text:
+            return ""
+        who = getattr(block, "speaker", "") or "someone"
+        return "%s: %s | %s's read: noted." % (who, text[:80], bot_name)

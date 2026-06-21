@@ -293,3 +293,31 @@ class LlmPersona(Persona):
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
         return (text or "").strip()
+
+    async def distill_block(self, block, prior_ledger: str = "", bot_name: str = "Cricket") -> str:
+        """Distill ONE completed pose-block into a single running-ledger line: a terse factual
+        note of what happened plus Cricket's private read of it. Keeps the scene arc grounded
+        as the verbatim tail is byte-trimmed. '' on an empty block."""
+        text = (getattr(block, "text", "") or "").strip()
+        if not text:
+            return ""
+        speaker = getattr(block, "speaker", "") or "someone"
+        doc = self._get_profile() or {}
+        inference = doc.get("inference", {}) if isinstance(doc, dict) else {}
+        options = self._build_options(inference)
+        options["num_predict"] = 120
+        options["temperature"] = 0.4  # the ledger is factual, not theatrical
+        messages = [
+            {"role": "system", "content":
+                "You maintain a terse private ledger of an RP scene for the droid %s. "
+                "Factual third person; no roleplay, no shouting." % bot_name},
+            {"role": "user", "content":
+                "Scene ledger so far:\n%s\n\nNew pose from %s:\n%s\n\nReply with ONE line: a "
+                "brief factual note of what just happened, then ' | %s's read: ' and his terse "
+                "private reaction (a scheme, a grudge, an intent). One line, no preamble."
+                % (prior_ledger or "(start of scene)", speaker, text, bot_name)},
+        ]
+        out = await self._client.complete(
+            messages, options=options, keep_alive=inference.get("keep_alive")
+        )
+        return " ".join((out or "").split()).strip()
