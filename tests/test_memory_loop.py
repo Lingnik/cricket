@@ -50,6 +50,9 @@ class FakeActions:
     def page(self, target, text):
         self.calls.append(("page", target, text))
 
+    def say_channel(self, channel, text):
+        self.calls.append(("say_channel", channel, text))
+
 
 def make(persona, queue=None):
     bot = SimpleNamespace(
@@ -72,6 +75,44 @@ def _q():
         ContextLine("Bazil", "#4", "pose", "strides into the hangar."),
         ContextLine("Bazil", "#4", "say", "Status report."),
     ]
+
+
+def test_consent_gate_blocks_then_proceeds():
+    persona = SummarizerPersona()
+    bot, ctx, replies = make(persona)
+    bot.scene_owners = {ROOM: {"Crestian"}}
+    bot.scene_queues = {ROOM: [ContextLine("Bazil", "#4", "emit", "Bazil moves to kill Crestian.")]}
+    bot.suggestions = {}
+    bot.pending_consent = {}
+    bot.consent_granted = {}
+    bot.locations = {"OOC": SimpleNamespace(feeds_suggestions=True)}
+    # First pose attempt: mortal intent vs a player-controlled character -> request, BLOCK.
+    asyncio.run(builtins.cmd_bang_pose(ctx, []))
+    assert bot.pending_consent[ROOM]["target"] == "Crestian"
+    assert persona.turns == []  # did NOT pose
+    assert any(c[0] == "say_channel" for c in bot.actions.calls)  # OOC request emitted
+    # Admin approves.
+    asyncio.run(builtins.cmd_consent_ok(ctx, []))
+    assert bot.consent_granted[ROOM]["target"] == "Crestian"
+    assert ROOM not in bot.pending_consent
+    # Second pose now proceeds.
+    asyncio.run(builtins.cmd_bang_pose(ctx, []))
+    assert len(persona.turns) == 1
+    assert ROOM not in bot.consent_granted  # one-time grant consumed
+
+
+def test_consent_deny_drops_it():
+    persona = SummarizerPersona()
+    bot, ctx, _ = make(persona)
+    bot.scene_owners = {ROOM: {"Crestian"}}
+    bot.scene_queues = {ROOM: [ContextLine("Bazil", "#4", "emit", "execute Crestian")]}
+    bot.suggestions, bot.pending_consent, bot.consent_granted = {}, {}, {}
+    bot.locations = {"OOC": SimpleNamespace(feeds_suggestions=True)}
+    asyncio.run(builtins.cmd_bang_pose(ctx, []))
+    assert bot.pending_consent[ROOM]["target"] == "Crestian"
+    asyncio.run(builtins.cmd_consent_deny(ctx, []))
+    assert ROOM not in bot.pending_consent and ROOM not in bot.consent_granted
+    assert persona.turns == []  # still never posed the kill
 
 
 def test_rp_off_summarizes_saves_and_clears():
