@@ -52,6 +52,7 @@ class Bot:
         self.scene_ledger: dict = {}  # room -> [distilled ledger lines] (append-only per scene)
         self.recent: dict = {}
         self.current_room = None
+        self.current_room_desc = ""
 
         # Behavioral config from the active profile: bot_identity, locations, auth, actions.
         self.active_profile = None
@@ -175,7 +176,11 @@ class Bot:
     def _handle_command_echo(self, text: str) -> None:
         # The room-probe from _setup_commands reports the bot's current location so the
         # RP scene queue and !pose have a room to key on.
-        if text.startswith("CRICKET_ROOM="):
+        if text.startswith("CRICKET_ROOMDESC="):
+            desc = text.split("=", 1)[1].strip()
+            if desc:
+                self.current_room_desc = desc
+        elif text.startswith("CRICKET_ROOM="):
             parts = text.split("=", 2)
             if len(parts) >= 2 and parts[1].strip():
                 self.current_room = parts[1].strip()
@@ -201,6 +206,8 @@ class Bot:
                 if a.startswith("#"):
                     admins.add(a)
         cmds.append("think CRICKET_ROOM=[loc(me)]=[name(loc(me))]")
+        # Room description for RP setting/inspiration: strip newlines to spaces, cap length.
+        cmds.append("think CRICKET_ROOMDESC=[mid(edit(describe(loc(me)),%r,%b),0,400)]")
         for dbref in sorted(admins):
             cmds.append("think CRICKET_RESOLVE=%s=[name(%s)]" % (dbref, dbref))
         return cmds
