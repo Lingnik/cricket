@@ -57,6 +57,25 @@ tools need `CRICKET_MUSH_HOST` + `CRICKET_TEST_*_PW` in env. `unset SSLKEYLOGFIL
 pytest/Ollama. Restart the daemon cleanly (single instance, no nested `&`).
 
 ## Progress log (newest first)
-- 2026-06-21 night: run initialized. Wrote this plan; created task board; launched P1 dossier
-  Workflow (31 regular profiles, generate+verify); created 20-min heartbeat cron. NEXT: hand-do
-  the 4 principals + start P2 (mentioned-entity retrieval) while the Workflow runs.
+- 2026-06-21 night #3: **P4/P5 DONE.** P4: lore/CRICKET-HISTORY.md (18 log-grounded exploits)
+  injected into the SYSTEM block; live bot now cites the restraining-bolt grudge + "fat bantha
+  cow" + Biscuit Baron EVP unprompted. P5: hidden thinking step implemented (inference.thinking,
+  off by default). **THINKING DECISION: gated OFF** -- round-1 Opus judge A/B was a wash
+  (off 4 / tie 2 / on 4; thinking slightly *hurt* voice 3.1->2.8). Kept in code, revisit later.
+  **LIVE MUSH VERIFIED** (real bot, Pi): "what do you know about Johanna?" -> on-topic dossier+
+  history answer; "Biscuit Baron?" -> wiki+history crass summary; "Coruscant" -> wiki engine in
+  voice. Daemon b02q2bp08 (single, new code; killed the 2 stale ones). **EVALS (corpus-replay,
+  Opus judge):** base(no retrieval) vs new(full): richness 2.5->3.2 (clear win), overall wash
+  3.0 vs 2.9 -- judge found lore-DUMP hurting scene-relevance. Fix shipped (914c0ca): RP
+  beat-focus + subordinate-lore framing; round-2 judge running. NEXT: read round-2; if new
+  clearly > base, finalize + stop; else iterate once more or document ceiling.
+- 2026-06-21 night #2: **P1 DONE** -- 31 regular dossiers via Workflow (verified), + 3 principals
+  (johanna/bazil/crestian) and 6 verify-fixes via a 2nd Workflow (9/9 clean). cricket-self folded
+  into P4. **P2 DONE** -- LoreStore.mentioned() gazetteer + persona wiring; "what do you know
+  about Johanna?" now pulls her dossier (unit + real-lore verified). **P3 DONE** -- WikiIndex
+  (stdlib) + OOC topic injection ("rogue search engine") wired into build_bot; live-checked
+  Biscuit Baron blurb; RP stays canon-grounded. 128 tests pass; all pushed (e85e8a3). NEXT: P4
+  (Cricket self-history injection) -- agent distilling lore/CRICKET-HISTORY.md; then P5 thinking
+  step, then P6 eval loop. STILL TODO before stop: live bot test on the Pi, baseline+improved
+  evals with an Opus judge.
+- 2026-06-21 night #1: run initialized. Wrote plan; task board; launched P1 Workflow; 20-min cron.
