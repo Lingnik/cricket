@@ -192,6 +192,25 @@ def test_always_engagement_engages_every_line():
     assert s.persona.turns[0].text == "anything"
 
 
+def test_channel_connect_notices_are_ignored_on_always_channel():
+    # The bug: "<Lounge> Bazil has partially disconnected." (a channel system notice, parsed as a
+    # POSE with text "has ...") engaged the always-engagement chat path and Cricket ranted at it.
+    s = make_services()
+    router = Router(s)
+    for notice in (
+        "has partially disconnected.",
+        "has disconnected.",
+        "has connected.",
+        "has reconnected.",
+        "has partially reconnected.",
+        "has joined this channel.",
+        "has left this channel.",
+    ):
+        run(router, ChannelMessage("Lounge", Actor("Bazil", "#4"), SpeechKind.POSE, notice))
+    assert s.persona.turns == []  # none reached the persona
+    assert s.actions.calls == []  # nothing emitted
+
+
 def test_self_messages_are_ignored():
     s = make_services()
     router = Router(s)
