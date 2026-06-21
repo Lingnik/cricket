@@ -124,3 +124,36 @@ class LlmPersona(Persona):
         if inference.get("backend") == "cpu":
             options["num_gpu"] = 0
         return options
+
+    async def summarize_scene(self, lines, cast=None) -> str:
+        """Summarize a finished RP scene into a short memory note (an LLM call). Used by
+        the memory accretion loop; see cricket.persona.base. Returns '' for an empty scene.
+        """
+        scene = "\n".join(
+            "%s: %s" % (getattr(ln, "speaker", "") or "scene", getattr(ln, "text", ""))
+            for ln in (lines or [])
+        ).strip()
+        if not scene:
+            return ""
+        who = ", ".join(cast) if cast else "unknown"
+        doc = self._get_profile() or {}
+        inference = doc.get("inference", {}) if isinstance(doc, dict) else {}
+        options = self._build_options(inference)
+        options["num_predict"] = 160  # a memory note is short
+        messages = [
+            {
+                "role": "system",
+                "content": "You write a terse memory note for the astromech droid Cricket. "
+                "Factual third person, no roleplay, no shouting.",
+            },
+            {
+                "role": "user",
+                "content": "RP scene:\n%s\n\nIn 2-3 sentences, note what Cricket would "
+                "remember: who was present (%s), what happened, and any slights or wins."
+                % (scene, who),
+            },
+        ]
+        text = await self._client.complete(
+            messages, options=options, keep_alive=inference.get("keep_alive")
+        )
+        return (text or "").strip()

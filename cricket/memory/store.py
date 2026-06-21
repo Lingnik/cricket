@@ -150,6 +150,17 @@ class MemoryStore:
         row = cur.fetchone()
         return row["value"] if row is not None else None
 
+    # -- scene memory ----------------------------------------------------------
+    # A finished RP scene is summarized (by the persona) and persisted per room so the
+    # next scene there can recall what happened. Stored in the "scene" memory scope keyed
+    # by room; the latest summary per room wins.
+    def save_scene_summary(self, room: str, cast, summary: str) -> None:
+        self.remember("scene", room, "summary", summary)
+        self.remember("scene", room, "cast", ", ".join(cast or []))
+
+    def recall_scene_summary(self, room: str) -> Union[str, None]:
+        return self.recall("scene", room, "summary")
+
 
 class MemoryHandle:
     """The persona-facing view of the store. Passed on each Turn. The 3-argument

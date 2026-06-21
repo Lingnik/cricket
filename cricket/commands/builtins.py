@@ -9,8 +9,58 @@ through ctx.bot (the daemon).
 from __future__ import annotations
 
 from ..auth import Level
-from ..persona.base import Response, Turn
+from ..persona.base import ContextLine, Response, Turn
 from .registry import Command, CommandContext
+
+
+def _cast_from_queue(bot, queue) -> list:
+    """Distinct speaker names in a scene queue, excluding the bot itself and the
+    synthetic 'memory' line."""
+    bid = getattr(bot, "bot_identity", None)
+    me = (bid.name if bid is not None else "").lower()
+    out, seen = [], set()
+    for ln in queue:
+        s = (getattr(ln, "speaker", "") or "").strip()
+        low = s.lower()
+        if s and low not in seen and low != me and low != "memory":
+            seen.add(low)
+            out.append(s)
+    return out
+
+
+async def _set_rp(ctx: CommandContext, room, on: bool) -> None:
+    """Toggle RP for a room, running the memory accretion loop at the boundaries:
+    on -> recall the prior scene summary; off -> summarize the finished scene + persist."""
+    bot = ctx.bot
+    if not hasattr(bot, "pending_recall"):
+        bot.pending_recall = {}
+    bot.scene_queues.setdefault(room, [])
+    if on:
+        bot.rp_enabled[room] = True
+        store = getattr(bot, "store", None)
+        summary = store.recall_scene_summary(room) if store is not None else None
+        if summary:
+            bot.pending_recall[room] = summary
+            ctx.reply("rp in %s: True (recalled prior scene)" % room)
+        else:
+            ctx.reply("rp in %s: True" % room)
+        return
+    # Finalize: summarize the scene the persona just lived through, then clear it.
+    queue = bot.scene_queues.get(room, [])
+    summarizer = getattr(getattr(bot, "persona", None), "summarize_scene", None)
+    store = getattr(bot, "store", None)
+    if queue and summarizer is not None and store is not None:
+        cast = _cast_from_queue(bot, queue)
+        try:
+            summary = await summarizer(list(queue), cast=cast)
+        except Exception:
+            summary = ""
+        if summary:
+            store.save_scene_summary(room, cast, summary)
+    bot.scene_queues[room] = []
+    bot.pending_recall.pop(room, None)
+    bot.rp_enabled[room] = False
+    ctx.reply("rp in %s: False" % room)
 
 
 def _current_room(ctx: CommandContext, args: list, idx: int):
@@ -67,9 +117,7 @@ async def cmd_rp(ctx: CommandContext, args: list) -> None:
     if room is None:
         ctx.reply("no room specified and no current room.")
         return
-    ctx.bot.rp_enabled[room] = args[0] == "on"
-    ctx.bot.scene_queues.setdefault(room, [])
-    ctx.reply("rp in %s: %s" % (room, ctx.bot.rp_enabled[room]))
+    await _set_rp(ctx, room, args[0] == "on")
 
 
 async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> None:
@@ -77,6 +125,15 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         ctx.reply("no room specified and no current room.")
         return
     queue = ctx.bot.scene_queues.get(room, [])
+    context = list(queue)
+    # If a prior scene in this room was recalled (on !rp on), seed it so the pose
+    # reflects what Cricket remembers happening earlier.
+    recall = getattr(ctx.bot, "pending_recall", {}).get(room)
+    if recall:
+        context.insert(
+            0, ContextLine(speaker="memory", dbref=None, kind="emit",
+                           text="Earlier: %s" % recall)
+        )
     turn = Turn(
         mode="rp",
         location=room,
@@ -85,7 +142,7 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         speaker="",
         speaker_dbref="",
         text=seed_text,
-        context=list(queue),
+        context=context,
         bot_identity=getattr(ctx.bot, "bot_identity", None),
         memory=getattr(ctx.bot, "memory", None),
     )
@@ -143,9 +200,7 @@ async def cmd_bang_rp(ctx: CommandContext, args: list) -> None:
     if room is None:
         ctx.reply("no current room.")
         return
-    ctx.bot.rp_enabled[room] = args[0] == "on"
-    ctx.bot.scene_queues.setdefault(room, [])
-    ctx.reply("rp in %s: %s" % (room, ctx.bot.rp_enabled[room]))
+    await _set_rp(ctx, room, args[0] == "on")
 
 
 async def cmd_bang_clearqueue(ctx: CommandContext, args: list) -> None:

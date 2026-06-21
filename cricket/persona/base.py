@@ -64,3 +64,13 @@ class Persona(Protocol):
     """The single method the daemon depends on."""
 
     async def respond(self, turn: Turn) -> Union[Response, None]: ...
+
+
+# Optional persona capability (deliberately NOT part of the Protocol, to keep it minimal):
+#
+#     async def summarize_scene(self, lines, cast=None) -> str
+#
+# The memory accretion loop calls this when a room's RP scene ends (`!rp off`) to persist
+# a summary the next scene can recall. The daemon/commands discover it via
+# `getattr(persona, "summarize_scene", None)`; a persona without it simply doesn't accrue
+# scene memories. `lines` are the scene-queue ContextLines (oldest -> newest).

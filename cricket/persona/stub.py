@@ -28,3 +28,14 @@ class StubPersona(Persona):
             return None
 
         return Response(text='%s heard: "%s"' % (name, turn.text), action="say")
+
+    async def summarize_scene(self, lines, cast=None) -> str:
+        """Trivial deterministic summary (no model) so the accretion loop is exercised."""
+        if not lines:
+            return ""
+        first = (getattr(lines[0], "text", "") or "").strip()
+        last = (getattr(lines[-1], "text", "") or "").strip()
+        who = ", ".join(cast) if cast else "unknown"
+        if first == last:
+            return "Scene with %s: %s" % (who, first)
+        return "Scene with %s: %s ... %s" % (who, first, last)

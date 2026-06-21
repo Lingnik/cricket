@@ -1,52 +1,39 @@
 # Cricket -- open work
 
-Status: **NEXT** (in progress) / **SOON** / **LATER** / **DEFERRED**. See `STATUS.md` for the
-plain-language project summary.
+Status: **NEXT** (in progress) / **SOON** / **LATER** / **DEFERRED** / **DONE**. See
+`STATUS.md` for the plain-language project summary.
 
-## Persona & voice (the active tuning loop)
-- **NEXT** -- IC/OOC context scoping: mode-aware `LoreStore.retrieve(cast, scope)` + two-facet
-  dossiers. IC (room RP, `mode=rp`) = only canon-plausible in-universe knowledge; OOC (channels,
-  `mode=chat`) = the wider per-player roast/teasing suite. Build the mechanism now; facets fill in
-  as richer sheets land.
-- **SOON** -- Richer per-player sheets from more wiki logs. (User is fetching them into `corpus/`
-  as a separate PR; then distill each into IC + OOC facets.)
-- **SOON** -- Tighten the corpus-replay extractor (`evals/replay.py`): its "real next pose"
-  reference sometimes grabs narration *about* Cricket. Needed before the eval is a clean yardstick.
-- **SOON** -- Make the eval a real loop: wire an actual Opus judge (today `PromptBundleJudge` only
-  renders prompts), score before/after on prompt/exemplar changes, add more cases.
-- **ONGOING** -- Continue voice tuning (register, specificity) against the eval loop.
+## Done (recent)
+- **DONE** -- IC/OOC mode-aware lore scoping (`retrieve(cast, scope)`; two-facet dossiers).
+- **DONE** -- Corpus-replay extractor tightened (clean Cricket-led references) + `min_year`
+  filter (judge present-day Cricket against present-day logs only).
+- **DONE** -- Voice register: softened the "shout often" rule + calm/deadpan exemplars,
+  incl. RP-framed ones; live-verified range (dry for mundane, loud when provoked).
+- **DONE** -- RP scene-queue cap (60 lines; summarize-into-memory hook documented).
+- **DONE** -- Connection hardening: ordered send-drain, opt-in TLS-insecure, reconnect
+  restores the RP room key.
+- **DONE** -- Single-instance daemon guard (control-port pre-flight).
+- **DONE** -- Chat-template fix at the source: the GGUF shipped a wrong ChatML template;
+  re-created as `cricket-abliterated` with the canonical Llama-3.1 template (`ollama/Modelfile`).
+  Killed the stray-token leaks and improved coherence.
+- **DONE** -- Channel-auth hardening: pre-resolve admin dbrefs->names on connect.
+- **DONE** -- Hygiene: `.gitattributes`, test creds moved to env (`tools/` committed),
+  `PERSONA_AFFORDANCES.md` refreshed, new `docs/CONFIG.md`.
 
-## Bot mechanics
-- **SOON** -- RP scene-queue management: cap + summarize-old-into-memory (it currently just
-  accumulates; `docs/INFERENCE_BACKEND.md` wants an 8-32K working window, summarized not truncated).
-- **LATER** -- Memory accretion loop: summarize finished live scenes back into the lore store so his
-  memory grows the way the historical logs do (designed, not built).
-- **LATER** -- Connection hardening: send-drain is fire-and-forget; reconnect should restore the RP
-  room + state; TLS cert policy (only if a production SSL port is used).
-- **LATER** -- Harden channel admin auth (name-based today via the PARANOID-populated actors table;
-  optional server-side `num(*Name)` resolution).
-- **LATER** -- Harass-on-connect / mock-on-reconnect trigger (the connect/disconnect events we just
-  started ignoring; the hook point is noted in `router.py`).
+## Remaining -- autonomous
+- **NEXT** -- Memory accretion loop: on `!rp off`, summarize the finished scene (LLM call)
+  into the memory store keyed by room+cast; on `!rp on`, recall the prior scene summary and
+  seed it so Cricket remembers across scenes. (The scene-queue trim hook is already in place.)
 
-## Production / go-live
-- **LATER** -- Reconfigure to the real channel model: `<Cricket>` + room-local `<OOC>` (test uses
-  Public/Lounge/OOC). Point `.env` at the real MUSH host/port/account.
-- **LATER** -- Proper Ollama Modelfile/chat-template fix for this GGUF (we strip stray tokens
-  defensively; a correct template would remove the need).
-- **DEFERRED** -- "Clean-mode" safety gate (per-channel content filter). All channels unhinged for
-  now; soft directives proven insufficient, so this needs a real filter if ever wanted.
+## Remaining -- blocked on you / deferred
+- **BLOCKED** -- Richer per-player sheets from more wiki logs (your fetch -> `corpus/` PR;
+  then distill into the IC/OOC dossier facets).
+- **LATER** -- Production go-live: reconfigure to the real `<Cricket>` + room-local `<OOC>`
+  channels; point `.env` at the real MUSH (needs real creds).
+- **DEFERRED** -- "Clean-mode" safety gate (you chose all-unhinged; needs a real filter).
+- **DEFERRED** -- Harass-on-connect / mock-on-reconnect (connect/disconnect events are
+  ignored for now; the hook point is noted in `router.py`).
 
-## Operational / hygiene
-- **SOON** -- Single-instance guard for the daemon (pidfile lock): two daemons connecting as Cricket
-  double-respond -- this bit us repeatedly. A start/stop helper would help.
-- **SOON** -- Reconcile config-DB commit policy: `DEFAULT_PROFILE` (code) is the committed source of
-  truth; the live `data/cricket-config.sqlite3` is runtime state. Decide whether to also commit a DB
-  snapshot or keep code canonical.
-- **LATER** -- Move test creds out of `tools/` into `.env` so the helper scripts can be committed
-  (`tools/` is currently uncommitted because it holds passwords).
-- **LATER** -- `.gitattributes` to normalize line endings (silences the CRLF warnings on commit).
-
-## Handoff (phase 2)
-- **LATER** -- Update `docs/PERSONA_AFFORDANCES.md` to reflect the lore/few-shot/retrieval reality
-  for the separate persona-tuning session, and verify the HTTP control panel can edit
-  profiles/prompts/few-shot live (so that session uses the UI, not scripts).
+## Eval loop (ongoing)
+- The corpus-replay yardstick works; on-brand scoring is an out-of-band Opus pass (the
+  harness renders judge prompts). Keep tuning voice against it as data grows.
