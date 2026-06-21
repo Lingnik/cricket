@@ -166,23 +166,32 @@ async def _generated_pose(persona, attributed, cut):
     return (posed[-1][1] if posed else None), gated
 
 
-def build_report(out_path, lore, per_log=2, window=6):
-    persona = _build_persona(lore)
+def build_report(out_path, lore, per_log=2, window=6, samples=1, deterministic=True):
+    """Generate poses across the report logs -> JSON for the Opus judge. samples=1 +
+    deterministic=True is the reproducible regression baseline (temp 0). samples>1 forces
+    temp-0.85 sampling and stores N generations per scene under 'samples' -- used to measure the
+    LIVE voice (which greedy decoding understates), judged on the spread."""
+    persona = _build_persona(lore, deterministic=deterministic)
     rows = []
     for stem in DEFAULT_REPORT_LOGS:
-        matches = sorted(glob.glob(os.path.join(_ROOT, "knowledge", "sources", "cricket-logs", "wiki",stem + "*")))
+        matches = sorted(glob.glob(os.path.join(_ROOT, "knowledge", "sources", "cricket-logs", "wiki", stem + "*")))
         if not matches:
             continue
         log = matches[0]
         attributed = attribute(paragraphs(open(log, encoding="utf-8", errors="replace").read()), lore)
         for cut, _prior in cut_points(attributed)[:per_log]:
-            gen, gated = asyncio.run(_generated_pose(persona, attributed, cut))
-            rows.append({
+            gens = [asyncio.run(_generated_pose(persona, attributed, cut))[0] for _ in range(samples)]
+            row = {
                 "id": "%s#%d" % (os.path.splitext(os.path.basename(log))[0][:34], cut),
                 "scene": [t for _, t in attributed[max(0, cut - window):cut]],
-                "generated": gen, "gated": gated, "reference": attributed[cut][1],
-            })
-            print("  generated %s" % rows[-1]["id"])
+                "reference": attributed[cut][1],
+            }
+            if samples > 1:
+                row["samples"] = gens
+            else:
+                row["generated"] = gens[0]
+            rows.append(row)
+            print("  generated %s (%d sample%s)" % (row["id"], samples, "" if samples == 1 else "s"))
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     json.dump(rows, open(out_path, "w", encoding="utf-8"), indent=1)
     print("wrote %s (%d scenes)" % (out_path, len(rows)))
@@ -197,10 +206,13 @@ def main(argv=None) -> int:
     ap.add_argument("--list", action="store_true", help="list candidate cut points and exit")
     ap.add_argument("--report", default=None,
                     help="generate poses across several logs -> JSON for the Opus judge")
+    ap.add_argument("--samples", type=int, default=1,
+                    help="generations per scene; >1 forces temp-0.85 sampling (live-voice measure)")
     args = ap.parse_args(argv)
 
     if args.report:
-        build_report(args.report, LoreStore(os.path.join(_ROOT, "knowledge", "runtime", "lore")))
+        build_report(args.report, LoreStore(os.path.join(_ROOT, "knowledge", "runtime", "lore")),
+                     samples=args.samples, deterministic=(args.samples == 1))
         return 0
 
     log = args.log
