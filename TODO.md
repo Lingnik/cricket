@@ -95,11 +95,15 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
 - **DONE (bug).** Bare bang-commands ("!rp on") on a chat channel are now dispatched from authorized
   admins, not ranted at (router.py); was the OOC `!rp on` -> rant bug. Verified live (rp_enabled
   [] -> ['#0'], control reply not a rant).
-- **NEXT (fit) -- grounding/beat-focus.** Several scenes hallucinate details (misread a costume as
-  "Sexy Red Guard", invent a "Grand Moff", pull a fish/nuts thread from another scene) or react to
-  a stale beat. Measurable at temp-0. Tighten the most-recent-beat anchoring + anti-fabrication.
-  NOTE: fit is already the strongest axis (2.83); diminishing returns, iterative.
-- **NEXT** -- Eval fidelity via ATTRIBUTION, not filtering. CORRECTION (2026-06-21, evidence in
+- **ADDRESSED (fit) -- grounding + beat-focus.** Two changes: extended `_NO_FABRICATION` to the
+  live scene (no inventing who/what is present) and anchored the pose on the SINGLE most-recent line
+  (not a stale earlier beat). DIMINISHING RETURNS / not cleanly measurable: a single temp-0
+  generation judged by a non-deterministic Opus judge carries ~0.3 judge-noise, so fit score deltas
+  this small are noise -- the qualitative judge notes (unanimous "ignores the most-recent beat")
+  drove the change, not the number. Further fit gains need either averaged-judge measurement or a
+  smarter context (less competing earlier context in the prompt). Lower priority now.
+- **LOW PRIORITY** -- Eval fidelity via ATTRIBUTION (the deterministic judge already shows 0 puppet
+  leaks, so the main value left is masquerade costume-alias resolution -- niche). CORRECTION (evidence in
   corpus/wiki/2025-03 - Charity Ball.txt + Droid Control): the wiki logs are RAW `@emit` pose
   streams, NOT GM-rewritten narrative. The earlier "filter omniscient narration" plan was based on
   a wrong premise -- what looked like a narrator's private exposition is just players posing their
