@@ -39,6 +39,27 @@ censorship.
 - **Bugs found and fixed by testing.** E.g. his replies were spilling out of the chat
   channel into the room; the role-play feature did not know which room he was in. Fixed.
 
+### Knowledge upgrade (latest)
+
+- **He knows who he is talking about.** Name any character -- even one not in the room --
+  and Cricket now looks them up and answers on-topic, instead of changing the subject.
+  (This closes a real bug: asked "what do you know about Johanna?", he used to rant about
+  someone else; now he answers about Johanna.)
+- **A rogue wiki search engine.** Ask him about almost any topic in the game world -- a
+  planet, a company, an event -- and he pulls a real summary from a bundled ~7,400-page
+  copy of the fan wiki and delivers it with full contempt. Verified live: ask about
+  "Biscuit Baron" or "Coruscant" and he gives a crass but accurate answer.
+- **He draws on his own history.** We distilled his own logged misadventures (the drunk
+  tank on Tatooine, the restraining-bolt grudge, building a burger empire) into his
+  self-knowledge, so he references and brags about real things he actually did.
+- **Cleanly split knowledge.** In role-play he only knows what his droid self plausibly
+  would; on out-of-character channels he is an omniscient gossip with "roast ammo" on
+  everyone -- kept separate per character, for ~50 characters.
+- **Measured, not guessed.** An independent AI judge compared the bot with and without
+  these upgrades on the actual goal (answer on-topic and grounded): the upgraded bot is
+  consistently more specific and factually correct, where the old one was generic and
+  sometimes made things up.
+
 All of the above is saved and version-controlled.
 
 ## What remains
