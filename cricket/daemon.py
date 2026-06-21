@@ -171,16 +171,30 @@ class Bot:
             parts = text.split("=", 2)
             if len(parts) >= 2 and parts[1].strip():
                 self.current_room = parts[1].strip()
+        # Admin dbref->name resolution, so control-channel auth (which sees only a name)
+        # works immediately on connect -- not only after that admin has produced
+        # PARANOID room output. Format: "CRICKET_RESOLVE=#4=Bazil".
+        elif text.startswith("CRICKET_RESOLVE="):
+            parts = text.split("=", 2)
+            if len(parts) == 3 and parts[1].strip() and parts[2].strip():
+                self.store.upsert_actor(parts[1].strip(), parts[2].strip())
 
     def _setup_commands(self) -> list:
         """Commands to run on each (re)connect: ensure NOSPOOF/PARANOID, join every
-        chat/control channel via @channel/on (addcom is disabled on this server), then
-        probe our current room so RP/!pose has a scene-queue key."""
+        chat/control channel via @channel/on (addcom is disabled on this server), probe
+        our current room (scene-queue key), and resolve each location admin's dbref to a
+        name so control-channel auth works before they have posted anything."""
         cmds = ["@set me=NOSPOOF", "@set me=PARANOID"]
+        admins = set()
         for name, loc in self.locations.items():
             if loc.mode in ("chat", "control"):
                 cmds.append("@channel/on %s" % name)
+            for a in getattr(loc, "admins", []) or []:
+                if a.startswith("#"):
+                    admins.add(a)
         cmds.append("think CRICKET_ROOM=[loc(me)]=[name(loc(me))]")
+        for dbref in sorted(admins):
+            cmds.append("think CRICKET_RESOLVE=%s=[name(%s)]" % (dbref, dbref))
         return cmds
 
     async def run(self) -> None:
