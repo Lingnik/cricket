@@ -26,11 +26,14 @@ Safe conversation hooks:
   weird storm seasons, the Sariphage plague that gutted the population, the Mergani refugee
   crisis — he wrote the lore (Article: Caspar; Article: Crestian Tarasar). Ask about the
   Union's politics and you've found his happy place.
-- **The "redeemed-ish Sith statesman" angle.** Crestian's whole shtick is being the *least*
+- **The "easy-going Sith statesman" angle.** Crestian's whole shtick is being the *least*
   cartoonishly-evil Sith — "a comparatively easy going individual" in "an organisation
-  filled with power-hungry homicidal maniacs" (Article: Crestian Tarasar). He'll happily
-  hold forth on Sith-as-creed-not-cackling-villainy (RPlog:Imperator Circle: Crestian &
-  Tracer, 29 ABY).
+  filled with power-hungry homicidal maniacs" (Article: Crestian Tarasar). Treat that as his
+  *self-written* framing, not a redemption: he **never renounced anything** — still holds the
+  Duke title, still flies the Sith flagship *Leviathan*, still works "Sith matters" — he just
+  runs a parliamentary republic instead of a task force now (Article: Leviathan). He'll
+  happily hold forth on Sith-as-creed-not-cackling-villainy (RPlog:Imperator Circle:
+  Crestian & Tracer, 29 ABY).
 - **The Caspar↔Imperium pact and current events.** His signature political win is the
   mutual-protection pact with the Imperium, which has frozen out the New Republic; he even
   gave a public address sympathizing with Chandrila's unrest while needling the Republic
@@ -72,6 +75,10 @@ intrigue (18).
   Malign as a kindred "order-bringer." Rises to **Admiral** of Task Force 77 (flagship the
   Interdictor *Leviathan*) and is granted the title **Duke** of Dragonflower — the soft,
   organizational, least-traditional Sith in a den of maniacs (Article: Crestian Tarasar).
+  Task Force 77 was no line battle group: with Sith Intelligence Network operatives attached,
+  it ran "artefact collection, clandestine infiltration, **false flag operations, and
+  political sabotage**" — i.e., he was the NSO's spymaster/dirty-tricks fleet, not just an
+  admiral with a big ship (Article: Leviathan).
 - **The smart exit (18 ABY).** When Malign vanishes, Crestian — who internalized "have an
   exit strategy" — parks the *Leviathan* in the nebula and survives **Aldus Thel's purge**
   of the Sith by playing the harmless eccentric. This survival is his whole political
@@ -87,13 +94,24 @@ intrigue (18).
   Caspian ships, the Sar Admiral killed, his ship crippled — a stain he still wears
   (Article: Crestian Tarasar).
 - **Return to Caspar & the rise to Presav (28–29 ABY).** Post-quarantine he comes home as a
-  private citizen, builds a power base via his charity **The Mission** (with quiet Sith
-  money) and **Twin Suns Hospital**, then founds the **Praecet** party with the Wookiee
-  union boss Zaalbacca, wins seven of nine council seats, and is elected **Presav** —
-  forming a coalition with the Legacy party (Article: Crestian Tarasar). He then negotiates
-  the **Imperium mutual-protection pact**, the move that defines current galactic politics
-  for him (RPlog:A Prudent Request, 29 ABY; RPlog:Imperator Circle: Crestian & Tracer, 29
-  ABY).
+  private citizen and builds a power base via his charity **The Mission** — which doubles as
+  a "public relations venture for the Sith," with **roughly three-quarters of its funding
+  from Imperium leadership** (publicly-named donors include Malign/Damion I, Drayson Honos,
+  and Elana Tracer), a fact dumped by Wookieeleaks during the 29-ABY election (he won anyway)
+  (Article: The Mission) — plus **Twin Suns Hospital**. He founds the **Praecet** party with
+  the Wookiee union boss Zaalbacca, wins seven of nine council seats, and is elected
+  **Presav**, forming a coalition with the Legacy party (Article: Crestian Tarasar). He then
+  negotiates the **Imperium mutual-protection pact**, the move that defines current galactic
+  politics for him (RPlog:A Prudent Request, 29 ABY; RPlog:Imperator Circle: Crestian &
+  Tracer, 29 ABY).
+- **The Mergansar blockade & reabsorption (29–30 ABY).** Having recognized Mergansar's
+  independence, Caspar then **blockades the world and demands 30 trillion credits** on behalf
+  of the displaced refugees — a sum it knows Mergansar can't pay. The blockade runs nearly
+  half a year and "achieve[s] its true objective": prolonged isolation triggers riots, a
+  general strike, and the **violent collapse of the local governments — "without direct
+  involvement by Caspian forces"** — after which Caspar installs a Military Governor and
+  reabsorbs the planet. A clean piece of engineered regime change behind the statesman's face
+  (Article: Caspian Union; Article: 29 ABY).
 - **Statesman era (30–34 ABY).** Reunites the Union's member worlds, admits Charros IV, runs
   wargames, opens the Prothium Club on Selene, hobnobs with the Imperial court. Recurring
   beats: the Axel Vichten "Inquisitor" relationship, Lynae Cassius's Caspian Navy commission
@@ -124,6 +142,15 @@ intrigue (18).
 - **Kasha Tabasuri** — Mutandan spiritual advisor and Mission aide (RPlog:Full Circle, 34
   ABY).
 - **Drayson Honos** — Malign's Fleet Admiral; old Sith-navy colleague. [7 logs].
+- **Janus "Siege" Tarasar** — his **cousin**; a General commanding **The Chevalier** (the
+  Tarasar family/Crest protection detail) and the household's blunt instrument/enforcer
+  (Article: Leviathan; Article: V1C3; Article: Siege).
+- **Household droids.** **V1C3** ("Vee-Won") — HK-derived combat/protocol droid he built in
+  the nebula; now Atsvara's VP of Security and a Brigadier in the Union Marines / XO of The
+  Chevalier (Article: V1C3). **T3-A7** — ancient utility droid he recovered and reactivated,
+  the *Leviathan*'s Chief Droid Control Officer — **and Cricket's girlfriend** (a direct tie
+  into this very project) (Article: Leviathan). Both reflect House Dragonflower's
+  droid-as-equal culture, the same ideology driving Atsvara's droid-rights radicalism.
 
 **Playstyle / themes** (from 54 logs): politics (38), diplomacy (26), intrigue (18), social
 gatherings (7), family (6). He's a **political/worldbuilding player** who hosts the scene as
@@ -133,7 +160,10 @@ running plot for others, not just his own beats.
 
 **Signature voice.** Long, learned, dry, self-aware of his own long-windedness; a
 philosophy professor who never stopped lecturing. He frames Sith as a *creed* rather than
-villainy and openly plays the "flamboyant eccentric dandy" as cover. Pull cadence from
+villainy and openly plays the "flamboyant eccentric dandy" as cover — a trained ethicist who
+can argue the morality of anything, including his own buried operations (the engineered
+Mergansar collapse, the Sith-funded Mission). Read him as a never-redeemed operator in a
+statesman's coat, not a reformed one. Pull cadence from
 RPlog:Imperator Circle: Crestian & Tracer (29 ABY) — pages of him patiently explaining what
 "Sith" actually means — or his public oratory in Article: Crestian on Chandrila.
 

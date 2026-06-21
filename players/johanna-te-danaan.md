@@ -5,7 +5,7 @@
 | **Wiki account(s)** | unknown (no clear self-uploads; article created by `Tarasar`, the account behind scene-partner Crestian Tarasar — see *Sensitivity*) |
 | **Plays** | **Johanna Siri te Danaan** ("General Joh") — also signed **Johanna Damion** / **Johanna te Danaan** in the dark-fall era |
 | **Activity era** | RL 2001 → present; busiest in RL 2006–2007 (the Vadim fall arc) and again RL 2023–2025 (the Imperium years) |
-| **Faction home** | Trained Jedi / New Republic, but fell to the dark side and was cast out of the Order — became an Imperium Grand Moff and later a power in her own right (Empire / Sith / Imperium orbit). Her *early* logs are Jedi-tagged, but that is not where she ends up. |
+| **Faction home** | Jedi by training and self-conception, Imperium by deed, ultimately independent — loyal to family and results, not to an Order or a throne. Trained Jedi / New Republic who fell to the dark side, was redeemed, then was *ejected from the Jedi Order* for serving as an Imperium Grand Moff before becoming a Tatooine Warlord in her own right (Article: Johanna Siri te Danaan; Condensed Recent History of the Galaxy). Her *early* logs are Jedi-tagged, but that is not where she ends up. |
 | **Footprint** | 70 logs spanning 10–34 ABY (one of the longest-running characters in the archive) |
 
 ## Talking to them OOC
@@ -20,9 +20,11 @@ duels (Article: Johanna Siri te Danaan).
 
 Safe conversation hooks:
 - **The te Danaan dynasty.** Johanna is the matriarch of a *huge* sprawling family —
-  eight kids (Etiel, Brennan, Ara, Tyler, Alina, Terrik, Kieran, Astrid), an ex-husband
-  Zeak Oppenhiemer, a niece Sonja, and the half-brother who became a Sith Lord (Article:
-  Johanna Siri te Danaan). Any of them is a thread.
+  eight kids (Etiel, Brennan, Ara, Tyler, Alina, Terrik, Kieran, Astrid), a second
+  (ex-)husband **Zeak Oppenhiemer** — a former Imperial officer turned CSA Prex and
+  father of Ara and Tyler te Danaan (Article: Zeak Oppenhiemer) — a niece Sonja, and the
+  half-brother who became a Sith Lord (Article: Johanna Siri te Danaan). Any of them is a
+  thread.
 - **Her with the Tarasar / Imperium crowd (freshest material).** In the 2023–2025 run
   she's a Jedi operating *inside* the Galactic Imperium as a "Tatooinian Warlord,"
   thick with Crestian Tarasar — anti-slavery ops in Hutt Space, dinners aboard his
@@ -34,7 +36,13 @@ Safe conversation hooks:
   Jessalyn's player is active too, so this is reliable shared ground.
 - **Cricket himself.** The droid R2 unit Cricket is literally listed in Johanna's wiki
   family tree, and they share scenes (Article: Johanna Siri te Danaan; RPlog:Birthday
-  Baroness, 32 ABY) — a natural in for the bot.
+  Baroness, 32 ABY) — a natural in for the bot. **Mind the current status, though:**
+  Cricket is no longer at her side. He embezzled from her, went independent, and is now
+  Executive VP of Biscuit Baron under the Golden Bantha Group; Johanna's ownership is
+  nominal at best, and the droid cheerfully curses her name ("A PLAGUE UPON JOHANNA AND
+  HER MINIONS") (Article: Cricket; Article: Golden Bantha Group; RPlog:He Was Doing You A
+  Favour, 33 ABY). For *this* bot the relationship is a former-owner / self-made-executive
+  comedy, not a present, intact bond.
 
 Tone to match: dry, unorthodox, a little insubordinate ("General Joh" never quite
 believed she was really in the Navy), with a stubborn moral core that survives even
@@ -71,9 +79,13 @@ a Light-side character whose whole life is spent in dark rooms.
 - **The fall to Aleister Vadim (14–15 ABY) — her defining tragedy.** An ancient shadow,
   **Aleister Vadim**, turns her to the dark side; she mocks the Jedi and even destroys
   the Jedi Basilica on Coruscant (RPlog:Troublesome Female Jedi, 14 ABY; RPlog:Johanna
-  Disembodied, 15 ABY). Vadim's power forces her soul into the body of an innocent
-  spacer, and she's tormented by surfacing memories of what she did under his control
-  (RPlog:The Fate of Sabrina and Johanna, 15 ABY).
+  Disembodied, 15 ABY). In this era *she* is the predator: she **kidnaps Imperial Advisor
+  Danik Kreldin**, drags him to Tatooine, mind-traps him and forces a confession — which
+  **Cricket** transmits to IGNews — taking "demented pleasure" in the destruction
+  (RPlog:Johanna is a Witch, 14 ABY; RPlog:Rescue of Danik Kreldin, 14 ABY). Vadim's power
+  forces her soul into the body of an innocent spacer, and she's tormented by surfacing
+  memories of what she did under his control (RPlog:The Fate of Sabrina and Johanna,
+  15 ABY).
 - **Caught between brother and Order (15 ABY).** This is her densest era. She's hunted,
   captured, and baited by Imperials — Antoine Dareus needling her about Tyler at every
   cantina (RPlog:Touch of the Dark Side, 15 ABY) — and repeatedly faces her brother, now
@@ -83,6 +95,25 @@ a Light-side character whose whole life is spent in dark rooms.
 - **Redemption (15 ABY+).** Brought back to the Light with the help of Luke Skywalker and
   the Jedi healer Kitterick Brandis Finian (Article: Johanna Siri te Danaan) — which is
   why the wiki files her under "Redeemed Jedi."
+- **The Korriban rescue & liberation of Tatooine (27 ABY) — the hinge of her modern self.**
+  Guided by the Sith spirit Palladus, Johanna flew to Korriban and **rescued her brother
+  Malign** (and Drayson Honos) from a decade trapped in an ancient Sith library — the act
+  that resurrected Malign as a galactic power and set up the Imperium to come (Condensed
+  Recent History of the Galaxy). The same year she set out to **free Tatooine**, and did it
+  by terror: gang leaders staked in the rubble to die of exposure, the severed heads of
+  their enforcers mounted as warning (Condensed Recent History of the Galaxy). This is the
+  clearest evidence of her moral duality — the redeemed Jedi who liberates by atrocity.
+- **The Basca Starker exorcism (29 ABY) — her marquee light-side feat.** At Malign's court
+  on Bespin she **drove the Sith Spawn out of Basca Starker**, engineer of the Sariphage
+  plague that killed 2.8 billion — luminous, genuine Jedi power in the same breath as the
+  warlordism (RPlog:Trouble on Cloud City, Part Two -- Malign's Court, 29 ABY). She frames
+  it as the mercy she herself received: she pardons those who repent, "for I was a recipient
+  of that mercy."
+- **Ejected from the Order, the Warlord (30 ABY →).** **Ejected from the Jedi Order** for
+  holding a Grand Moff post in a Sith Imperium, she founded her own academy for
+  Force-sensitives at what was once Jabba's Palace, then **resigned her Grand Moff
+  governorship in disgust** over the Moff's Council's jingoism — and kept ruling as the
+  **Tatooine Warlord** in her own right (Condensed Recent History of the Galaxy).
 - **The Imperium years (29–34 ABY / RL 2023–2025).** The current, freshest run. Johanna
   operates as a Jedi *inside* the Galactic Imperium and as a "Tatooinian Warlord,"
   orbiting her redeemed-but-still-Sith brother Malign (now Imperator Damion) and the
@@ -104,8 +135,10 @@ a Light-side character whose whole life is spent in dark rooms.
   the *Leviathan*, godparent-adjacent to his kids. [14 logs]
 - **Antoine Dareus** — Imperial foil from the 15 ABY arc who needled her about her
   brother and the Sith. [15 logs]
-- **Danik Kreldin** — Grand Admiral who held her (and her son Etiel) captive during the
-  Vadim/Malign era. [17 shared logs — her most-frequent scene partner overall]
+- **Danik Kreldin** — Imperial Advisor she *kidnapped and mind-trapped* on Tatooine during
+  her dark Vadim era, forcing a confession that Cricket broadcast to IGNews (RPlog:Johanna
+  is a Witch, 14 ABY; RPlog:Rescue of Danik Kreldin, 14 ABY). [17 shared logs — her
+  most-frequent scene partner overall]
 - **Luke Skywalker** — the Master who pulled her back from the dark. [11 logs]
 - **Elana Tracer** — Imperium-era peer (newly-minted Moff/Grand Moff). [9 logs]
 - **Ikihsa Enb'Zik** — old CO turned friend and Rogue co-commander. [6 logs]
