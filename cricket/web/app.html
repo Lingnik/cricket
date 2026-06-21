@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="us-ascii">
+<title>cricket control panel</title>
+<style>
+  body { font-family: monospace; margin: 1.5em; max-width: 60em; color: #222; }
+  h1 { font-size: 1.3em; }
+  nav button { margin-right: 0.5em; }
+  .tab { display: none; }
+  .tab.active { display: block; }
+  textarea { width: 100%; height: 24em; font-family: monospace; box-sizing: border-box; }
+  select, input { font-family: monospace; }
+  button { cursor: pointer; padding: 0.3em 0.7em; }
+  .row { margin: 0.6em 0; }
+  .err { color: #a00; white-space: pre-wrap; }
+  .ok { color: #070; }
+  table { border-collapse: collapse; width: 100%; }
+  td, th { border: 1px solid #ccc; padding: 0.2em 0.5em; text-align: left; font-size: 0.9em; }
+  pre { background: #f4f4f4; padding: 0.5em; overflow-x: auto; }
+  .pill { display: inline-block; padding: 0.1em 0.5em; border: 1px solid #999; border-radius: 0.4em; }
+</style>
+</head>
+<body>
+<h1>cricket control panel</h1>
+<nav>
+  <button onclick="showTab('profiles')">Profiles</button>
+  <button onclick="showTab('control')">Control</button>
+</nav>
+
+<section id="profiles" class="tab active">
+  <div class="row">
+    <label>Profile:
+      <select id="profileSelect" onchange="loadProfile()"></select>
+    </label>
+    <span id="activeBadge" class="pill"></span>
+  </div>
+  <div class="row">
+    <input id="newName" placeholder="new-profile-name" size="24">
+    <button onclick="newProfile()">New</button>
+    <button onclick="saveProfile()">Save</button>
+    <button onclick="activateProfile()">Activate</button>
+    <button onclick="deleteProfile()">Delete</button>
+  </div>
+  <div class="row" id="profileMsg"></div>
+  <textarea id="profileDoc" spellcheck="false"></textarea>
+</section>
+
+<section id="control" class="tab">
+  <div class="row">
+    <strong>Status</strong>
+    <button onclick="refreshStatus()">Refresh</button>
+    <button id="muteBtn" onclick="toggleMute()">Mute</button>
+  </div>
+  <pre id="statusBox">(loading)</pre>
+  <div class="row">
+    <strong>Roleplay</strong>
+    <input id="rpRoom" placeholder="room name" size="20">
+    <button onclick="setRp(true)">RP on</button>
+    <button onclick="setRp(false)">RP off</button>
+    <button onclick="viewQueue()">View scene queue</button>
+  </div>
+  <pre id="queueBox"></pre>
+  <div class="row">
+    <strong>Recent log</strong>
+    <button onclick="refreshLog()">Refresh</button>
+  </div>
+  <table id="logTable"><tbody></tbody></table>
+</section>
+
+<script>
+function showTab(name) {
+  var tabs = document.querySelectorAll('.tab');
+  for (var i = 0; i < tabs.length; i++) tabs[i].classList.remove('active');
+  document.getElementById(name).classList.add('active');
+  if (name === 'control') { refreshStatus(); refreshLog(); }
+}
+
+function api(method, path, body) {
+  var opts = { method: method };
+  if (body !== undefined) { opts.body = JSON.stringify(body); opts.headers = {'Content-Type':'application/json'}; }
+  return fetch(path, opts).then(function(r) {
+    return r.json().then(function(j) { return { ok: r.ok, status: r.status, data: j }; });
+  });
+}
+
+var state = { active: null };
+
+function refreshProfiles() {
+  return api('GET', '/api/profiles').then(function(res) {
+    state.active = res.data.active;
+    var sel = document.getElementById('profileSelect');
+    var current = sel.value;
+    sel.innerHTML = '';
+    res.data.profiles.forEach(function(name) {
+      var o = document.createElement('option');
+      o.value = name; o.textContent = name;
+      sel.appendChild(o);
+    });
+    if (res.data.profiles.indexOf(current) >= 0) sel.value = current;
+    document.getElementById('activeBadge').textContent =
+      'active: ' + (state.active || '(none)');
+    if (sel.value) loadProfile();
+  });
+}
+
+function loadProfile() {
+  var name = document.getElementById('profileSelect').value;
+  if (!name) return;
+  api('GET', '/api/profiles/' + encodeURIComponent(name)).then(function(res) {
+    if (res.ok) document.getElementById('profileDoc').value = JSON.stringify(res.data, null, 2);
+    else msg('profileMsg', res.data.error, true);
+  });
+}
+
+function currentName() {
+  var n = document.getElementById('newName').value.trim();
+  return n || document.getElementById('profileSelect').value;
+}
+
+function saveProfile() {
+  var name = currentName();
+  if (!name) { msg('profileMsg', 'pick or name a profile', true); return; }
+  var doc;
+  try { doc = JSON.parse(document.getElementById('profileDoc').value); }
+  catch (e) { msg('profileMsg', 'invalid JSON: ' + e.message, true); return; }
+  api('PUT', '/api/profiles/' + encodeURIComponent(name), doc).then(function(res) {
+    if (res.ok) { msg('profileMsg', 'saved ' + name, false); document.getElementById('newName').value=''; refreshProfiles(); }
+    else msg('profileMsg', res.data.error, true);
+  });
+}
+
+function newProfile() {
+  document.getElementById('profileDoc').value = JSON.stringify({
+    identity: { presented_name: 'Cricket', pronouns: 'they/them', bot_dbref: null,
+                nospoof: true, paranoid: true, wizard: false },
+    locations: [], prompts: { system: '', chat_template: '', rp_template: '' },
+    inference: { backend: null, temperature: 0.7, max_tokens: 512, top_p: 0.95 }
+  }, null, 2);
+  msg('profileMsg', 'edit and Save under a new name', false);
+}
+
+function activateProfile() {
+  var name = document.getElementById('profileSelect').value;
+  if (!name) return;
+  api('POST', '/api/profiles/' + encodeURIComponent(name) + '/activate').then(function(res) {
+    if (res.ok) { msg('profileMsg', 'activated ' + name, false); refreshProfiles(); }
+    else msg('profileMsg', res.data.error, true);
+  });
+}
+
+function deleteProfile() {
+  var name = document.getElementById('profileSelect').value;
+  if (!name) return;
+  api('DELETE', '/api/profiles/' + encodeURIComponent(name)).then(function(res) {
+    if (res.ok) { msg('profileMsg', 'deleted ' + name, false); refreshProfiles(); }
+    else msg('profileMsg', res.data.error, true);
+  });
+}
+
+function msg(id, text, isErr) {
+  var el = document.getElementById(id);
+  el.textContent = text;
+  el.className = 'row ' + (isErr ? 'err' : 'ok');
+}
+
+function renderStatus(s) {
+  document.getElementById('statusBox').textContent = JSON.stringify(s, null, 2);
+  var btn = document.getElementById('muteBtn');
+  btn.textContent = s.muted ? 'Unmute' : 'Mute';
+}
+
+function refreshStatus() {
+  api('GET', '/api/status').then(function(res) { if (res.ok) renderStatus(res.data); });
+}
+
+function toggleMute() {
+  api('GET', '/api/status').then(function(res) {
+    var next = !res.data.muted;
+    api('POST', '/api/mute', { muted: next }).then(function(r) { if (r.ok) renderStatus(r.data); });
+  });
+}
+
+function setRp(enabled) {
+  var room = document.getElementById('rpRoom').value.trim();
+  if (!room) return;
+  api('POST', '/api/rp', { room: room, enabled: enabled }).then(function(res) {
+    if (res.ok) renderStatus(res.data);
+  });
+}
+
+function viewQueue() {
+  var room = document.getElementById('rpRoom').value.trim();
+  if (!room) return;
+  api('GET', '/api/queue/' + encodeURIComponent(room)).then(function(res) {
+    var lines = (res.data.lines || []).map(function(l) {
+      return '[' + l.kind + '] ' + (l.speaker || '?') + ': ' + l.text;
+    });
+    document.getElementById('queueBox').textContent = lines.join('\n') || '(empty)';
+  });
+}
+
+function refreshLog() {
+  api('GET', '/api/log?n=50').then(function(res) {
+    var body = document.querySelector('#logTable tbody');
+    body.innerHTML = '<tr><th>loc</th><th>actor</th><th>kind</th><th>text</th></tr>';
+    (res.data.events || []).forEach(function(e) {
+      var tr = document.createElement('tr');
+      ['location','actor_dbref','kind','text'].forEach(function(k) {
+        var td = document.createElement('td');
+        td.textContent = e[k] === null || e[k] === undefined ? '' : String(e[k]);
+        tr.appendChild(td);
+      });
+      body.appendChild(tr);
+    });
+  });
+}
+
+refreshProfiles();
+setInterval(function() {
+  if (document.getElementById('control').classList.contains('active')) refreshStatus();
+}, 4000);
+</script>
+</body>
+</html>

@@ -16,6 +16,30 @@ import time
 from pathlib import Path
 from typing import Union
 
+def read_recent_events(path: Union[str, Path], n: int = 50) -> list:
+    """Read the most recent events from a memory DB on its own short-lived connection.
+
+    Safe to call from a thread other than the daemon's (the HTTP control panel uses it
+    for /api/log). Returns [] if the database or table is not present yet.
+    """
+    try:
+        conn = sqlite3.connect(str(path))
+    except sqlite3.OperationalError:
+        return []
+    conn.row_factory = sqlite3.Row
+    try:
+        cur = conn.execute(
+            "SELECT * FROM events ORDER BY id DESC LIMIT ?", (int(n),)
+        )
+        rows = [dict(r) for r in cur.fetchall()]
+        rows.reverse()  # oldest -> newest
+        return rows
+    except sqlite3.OperationalError:
+        return []
+    finally:
+        conn.close()
+
+
 _SCHEMA = """
 CREATE TABLE IF NOT EXISTS actors (
     dbref      TEXT PRIMARY KEY,

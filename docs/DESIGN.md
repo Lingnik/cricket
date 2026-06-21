@@ -64,28 +64,40 @@ The two phases are **the program** (this document) and **the persona** (handoff 
   `PERSONA_AFFORDANCES.md`.
 - **Memory** (`memory/`) — SQLite store, persistent across restarts (below).
 
+## Configuration tiers
+
+Configuration splits into two tiers so that behavior can be edited live while secrets and
+wiring stay fixed.
+
+- **Infrastructure** — `config.toml` (non-secret structure) plus `.env` (secrets): MUSH
+  host/port/account/password, the control-socket port, the HTTP bind/port, the global
+  auth grants, and the two database paths. The operator sets these once; they are read at
+  startup.
+- **Behavior** — *persona profiles* stored in the committed config DB and edited at
+  runtime over HTTP: the bot identity, the per-location engagement/directives, the persona
+  prompts, and the inference params. Many named profiles may exist; exactly one is
+  **active**, and switching re-derives the bot's behavior live without a restart.
+
+The daemon derives runtime objects from the active profile: a `BotIdentity`, a map of
+`LocationConfig`s, and per-location admin grants. `reload_active_profile()` re-derives them
+on the asyncio loop after an edit or activation.
+
 ## Locations are first-class config objects
 
 Engagement is a property of each place the bot inhabits, not a global mode. Channels and
-rooms are configured uniformly.
+rooms are configured uniformly, as entries in the active profile's `locations` list.
 
-```toml
-[location."Public"]            # a comsys channel
-  mode       = "chat"
-  engagement = "addressed"          # speaks only when triggered
-  prefixes   = ["cricket,", "cricket:", "hey cricket"]
-  directives = "Keep it PG. Deflect adult themes politely, stay in voice."
-  rate_limit = "1 / 20s"
-
-[location."Cricket-Lounge"]    # dedicated bot channel
-  mode       = "chat"
-  engagement = "always"             # free-running
-  directives = "Anything goes here. Banter freely."
-
-[location."admin"]             # control channel
-  mode       = "control"            # commands only, no persona
-  admins     = ["#1234", "#5678"]   # dbrefs; page-gated for sensitive cmds
+```json
+{
+  "name": "Public",            "mode": "chat",
+  "engagement": "addressed",   "prefixes": ["cricket,", "hey cricket"],
+  "directives": "Keep it PG. Deflect adult themes politely, stay in voice.",
+  "rate_limit": "1 / 20s",     "enabled": true,            "admins": []
+}
 ```
+
+A `mode` of `control` makes the location a command channel (no persona); `admins` lists the
+dbrefs allowed to drive commands there, page-gated for sensitive ones.
 
 - `directives` is a free-text steering string and is **opaque to phase 1** — it is passed
   through on the `Turn`; phase 2 decides how to fold it into the prompt. It doubles as the
@@ -132,10 +144,19 @@ Server `@config compile` facts that shape the connection layer:
 - Only **limited Unicode** support — treat MUSH I/O as ASCII / Latin-1-safe; do not emit
   multi-byte Unicode.
 
-## Memory (SQLite, persistent)
+## Two SQLite databases
 
-Phase 1 owns schema + read/write API; phase 2 decides what is stored and how it enters the
-prompt. The persona never writes SQL — it gets memory handles on the `Turn`.
+State is split across two databases with opposite commit policies, because one holds
+shareable configuration and the other holds private conversation content.
+
+- **Config DB** (`data/cricket-config.sqlite3`) — **committed.** Holds persona profiles
+  (`profiles(name PK, is_active, doc, updated_ts)`, doc as JSON). Committing it versions and
+  backs up the bot's behavior; it carries no secrets (those stay in `.env`). It opens in WAL
+  mode with a fresh connection per call, so the asyncio loop and the HTTP thread both touch
+  it safely.
+- **Memory DB** (`data/cricket-memory.sqlite3`) — **gitignored.** The persistent persona
+  memory. Phase 1 owns the schema + read/write API; phase 2 decides what is stored and how
+  it enters the prompt. The persona never writes SQL — it gets a memory handle on the `Turn`.
 
 ```
 actors(dbref PK, name, first_seen, last_seen, flags, notes)
@@ -143,13 +164,34 @@ events(id, location, actor_dbref, kind, text, ts)         -- transcript / scene 
 memory(scope, scope_key, key, value, updated_ts)          -- persona-writable KV
 ```
 
-DB file is gitignored.
+## HTTP control panel
+
+The daemon runs a loopback HTTP server (default `127.0.0.1:4280`) in a thread beside the
+asyncio loop. It edits persona profiles and drives live control, so routine operation needs
+no CLI. Reads run in the HTTP thread; mutations of loop-owned state are marshaled onto the
+loop with `run_coroutine_threadsafe`, keeping the daemon's state single-writer. All request
+handling lives in a pure `route()` function for testing without sockets.
+
+| Method + path | Effect |
+|---|---|
+| `GET /` | the single-page UI (profiles editor + control panel) |
+| `GET /api/status` | live status snapshot |
+| `POST /api/mute` | `{"muted": bool}` |
+| `GET /api/profiles` | active name + list |
+| `GET/PUT/DELETE /api/profiles/{name}` | read / validate-and-save / delete a profile doc |
+| `POST /api/profiles/{name}/activate` | activate, then re-derive runtime on the loop |
+| `GET/POST /api/rp` | read / toggle per-room RP |
+| `GET /api/queue/{room}` | the room's scene queue |
+| `GET /api/log?n=50` | recent events from the memory DB |
 
 ## Safety & repo hygiene (this repo is public)
 
-- **No secrets in git.** Host/port/account/password and the admin allowlist live in `.env`
-  / `config.local.*` (gitignored); a committed `.env.example` documents the shape.
-- **All transcripts and LLM I/O** log to gitignored `logs/`.
+- **No secrets in git.** Host/port/account/password live in `.env` (gitignored); a committed
+  `.env.example` documents the shape. The committed config DB holds profiles only — no
+  secrets — and the memory DB (conversation content) is gitignored.
+- **All transcripts and LLM I/O** log to the gitignored memory DB / `logs/`.
+- **The HTTP panel binds loopback only** (`127.0.0.1`); it is an operator surface, not a
+  public one.
 - The model is **abliterated — no built-in refusals.** The only safety boundary is what we
   build: per-location `directives`, engagement scoping, rate limits, an instant operator
   **mute**, manual RP triggering, and full I/O logging for review.
@@ -160,8 +202,8 @@ DB file is gitignored.
 |---|---|
 | Connection, parser, router, command registry, auth, actions, memory store + API | System prompt / character sheet / voice |
 | `Persona` protocol, `Turn`/`Response` types, `StubPersona`, smoke harness | `LlmPersona` implementation: prompt construction from `Turn` + memory |
-| Inference HTTP service skeleton (loads the model, defines the API) | Engagement heuristics tuning, RP pacing, sampling params, model choice |
-| Location/engagement config schema; `directives` passthrough | Authoring `directives` content per location |
+| Profile schema + config DB + HTTP panel + `InferenceClient` seam | Engagement heuristics tuning, RP pacing, sampling params, model choice |
+| Location/engagement config schema; `directives` passthrough | Authoring the active profile: identity, `directives`, prompts, inference params |
 
 ## Open items (need input)
 

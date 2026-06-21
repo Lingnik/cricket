@@ -45,6 +45,11 @@ def main(argv=None) -> int:
 
     if args.command == "run":
         config = _load(args.config, args.env)
+        print("cricket: control socket on 127.0.0.1:%d" % config.control.port)
+        print(
+            "cricket: control panel on http://%s:%d/"
+            % (config.http.host, config.http.port)
+        )
         try:
             asyncio.run(run_async(config))
         except KeyboardInterrupt:

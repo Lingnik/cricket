@@ -12,6 +12,7 @@ CRICKET_MUSH_USE_TLS=true
 CRICKET_MUSH_NAME=CricketBOT
 CRICKET_MUSH_PASSWORD="s3cret with spaces"
 CRICKET_MUSH_CONTROL_PORT=4260
+CRICKET_HTTP_PORT=4290
 """
 
 
@@ -34,23 +35,23 @@ def test_load_config_merges_env_and_toml(tmp_path):
     assert cfg.mush.port == 7777
     assert cfg.mush.use_tls is True
     assert cfg.mush.name == "CricketBOT"
-    # Control port: env overrides the toml default.
+
+    # Ports: env overrides the toml defaults.
     assert cfg.control.port == 4260
-
-    # Locations come from the toml.
-    assert set(cfg.locations) == {"Public", "Cricket-Lounge", "admin"}
-    public = cfg.locations["Public"]
-    assert public.mode == "chat"
-    assert public.engagement == "addressed"
-    assert "cricket," in public.prefixes
-    assert cfg.locations["Cricket-Lounge"].engagement == "always"
-    assert cfg.locations["admin"].mode == "control"
-    assert "#1234" in cfg.locations["admin"].admins
+    assert cfg.http.port == 4290
+    assert cfg.http.host == "127.0.0.1"
 
 
-def test_control_port_defaults_to_toml_when_env_absent():
+def test_ports_default_to_toml_when_env_absent():
     cfg = load_config(CONFIG, env={})
     assert cfg.control.port == 4250  # from [control] in the example toml
+    assert cfg.http.port == 4280  # from [http] in the example toml
+
+
+def test_paths_come_from_toml():
+    cfg = load_config(CONFIG, env={})
+    assert cfg.paths.config_db.endswith("cricket-config.sqlite3")
+    assert cfg.paths.memory_db.endswith("cricket-memory.sqlite3")
 
 
 def test_parse_rate_limit():

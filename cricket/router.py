@@ -6,7 +6,7 @@ addressed-by-prefix) before building a Turn for the persona; room traffic accumu
 the per-room scene queue for a later manual RP trigger.
 
 It depends on a `services` object (the daemon, or a stand-in in tests) exposing:
-config, persona, actions, registry, auth, bot_identity, memory, store, and the mutable
+locations, persona, actions, registry, auth, bot_identity, memory, store, and the mutable
 state muted, rp_enabled, scene_queues, recent, current_room.
 """
 
@@ -49,7 +49,7 @@ class Router:
     # -- channels --------------------------------------------------------------
     async def _handle_channel(self, event: ChannelMessage) -> None:
         s = self.s
-        cfg = s.config.locations.get(event.channel)
+        cfg = getattr(s, "locations", {}).get(event.channel)
         self._log(event.channel, event.speaker.dbref, event.kind.value, event.text)
         if cfg is None or not cfg.enabled:
             return

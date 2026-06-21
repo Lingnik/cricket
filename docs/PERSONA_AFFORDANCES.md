@@ -6,12 +6,23 @@ parser, or CUDA. You implement one protocol and author prompts/voice/memory poli
 
 See `DESIGN.md` for the whole system. This doc is the seam.
 
+## Your deliverable is the active profile
+
+The persona is configuration, not new wiring. Your output is the **active persona profile**
+in the config DB — a JSON doc with `identity`, per-location `directives`, a `prompts` block
+(`system`, `chat_template`, `rp_template`), and `inference` params (`backend`, `temperature`,
+`max_tokens`, `top_p`). Edit it in the web UI (`GET /`) or via `PUT /api/profiles/{name}`,
+then `POST /api/profiles/{name}/activate` to apply it live. You implement one code object —
+`LlmPersona` — that reads the active profile's prompts and assembles the model call; the
+profile holds everything else.
+
 ## What you own vs what is given
 
-**You own:** the system prompt / character sheet, how a `Turn` (+ memory) becomes a model
-prompt, engagement heuristics tuning, RP pacing, sampling params, and the *content* of each
-location's `directives`. **Given to you, frozen:** the `Persona` protocol, the `Turn`/
-`Response` types, the inference HTTP API, the memory API, and the `directives` passthrough.
+**You own:** the active profile (identity, `directives`, the `prompts` block, inference
+params), how a `Turn` (+ memory) becomes a model prompt, engagement heuristics tuning, RP
+pacing, and the choice of inference backend behind the `InferenceClient` seam. **Given to
+you, frozen:** the `Persona` protocol, the `Turn`/`Response` types, the `InferenceClient`
+interface, the memory API, the profile schema, and the `directives` passthrough on `Turn`.
 
 ## The Persona protocol
 
@@ -80,12 +91,17 @@ memory.recent_events(location, n) -> list[event]          # transcript tail
 Decide what is worth remembering (facts about people, relationship state, running RP
 threads) and write it through this API.
 
-## Inference service
+## Inference backend (the `InferenceClient` seam)
 
-A **separate, always-on process** holds the model resident in VRAM and serves a localhost
-HTTP API (OpenAI-compatible chat completions, so the persona is model-agnostic). Your
-`LlmPersona` is an HTTP client to it; you never import torch/transformers. Phase 1 stands up
-the skeleton; you own prompts and sampling params sent to it.
+The generation backend is deliberately abstract: `cricket/persona/inference.py` defines an
+`InferenceClient` interface (`async complete(...)`) with an `EchoInferenceClient` stub. Your
+`LlmPersona` depends only on that interface, so the bot never imports torch/transformers and
+the backend is swappable — a local resident-model server, an Ollama endpoint, or a hosted
+API. You implement one `InferenceClient` for the backend the evaluation settles on; the
+backend name is recorded in the active profile's `inference.backend`.
+
+The operator briefing below describes one such backend (the abliterated transformers path)
+for reference; it is not the only option and no backend code ships in phase 1.
 
 ### Running the local model (operator briefing)
 

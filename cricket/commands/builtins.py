@@ -40,8 +40,13 @@ async def cmd_mute(ctx: CommandContext, args: list) -> None:
 
 
 async def cmd_reload(ctx: CommandContext, args: list) -> None:
-    # TODO(phase 1+): re-read config.toml and rebuild locations/auth live.
-    ctx.reply("reload is not implemented yet.")
+    """Re-derive identity/locations/auth from the active profile in the config DB."""
+    apply_fn = getattr(ctx.bot, "_apply_active_profile", None)
+    if apply_fn is None:
+        ctx.reply("reload unavailable.")
+        return
+    apply_fn()
+    ctx.reply("reloaded active profile: %s" % getattr(ctx.bot, "active_profile", None))
 
 
 async def cmd_say(ctx: CommandContext, args: list) -> None:
@@ -120,10 +125,7 @@ async def cmd_help(ctx: CommandContext, args: list) -> None:
 
 
 def _directives_for(bot, location):
-    loc = getattr(bot, "config", None)
-    if loc is None:
-        return ""
-    cfg = bot.config.locations.get(location)
+    cfg = getattr(bot, "locations", {}).get(location)
     return cfg.directives if cfg is not None else ""
 
 

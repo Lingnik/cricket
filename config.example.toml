@@ -1,39 +1,29 @@
-# cricket configuration (non-secret). Copy to config.toml and edit.
-# Secrets (host, port, account, password, control port) live in .env -- see .env.example.
+# cricket infrastructure configuration (non-secret). Copy to config.toml and edit.
+#
+# This file is INFRA ONLY. Behavioral config -- the bot identity, per-location
+# engagement/directives, prompts, and inference params -- lives in persona PROFILES
+# in the committed config DB and is edited at runtime via the HTTP control panel.
+#
+# Secrets (host, port, account, password, control port, http port) live in .env.
+# See .env.example.
 
 [control]
 # Default control-socket port; overridden by CRICKET_MUSH_CONTROL_PORT.
 port = 4250
 
-[memory]
-# SQLite database path (gitignored under logs/).
-path = "logs/cricket.sqlite3"
+[http]
+# Local control panel + config API. Loopback only. Port overridden by CRICKET_HTTP_PORT.
+host = "127.0.0.1"
+port = 4280
+
+[paths]
+# Config DB is committed (profiles only -- no secrets). Memory DB is gitignored.
+config_db = "data/cricket-config.sqlite3"
+memory_db = "data/cricket-memory.sqlite3"
 
 [auth]
-# Permission by dbref. Names are spoofable -- always gate on dbref.
-# The local console is always OPERATOR regardless of this list.
+# Global grants by dbref. Names are spoofable -- always gate on dbref. Per-location
+# admins are set per profile location. The local console is always OPERATOR.
 operators = []            # e.g. ["#1"]
 wizards   = []
-admins    = []            # e.g. ["#1234", "#5678"]
-
-# --- Locations: channels and rooms are configured uniformly. -----------------
-
-[locations."Public"]
-mode       = "chat"
-engagement = "addressed"                  # speak only when addressed by a prefix
-prefixes   = ["cricket,", "cricket:", "hey cricket"]
-directives = "Keep it PG. Deflect adult themes politely, stay in voice."
-rate_limit = "1 / 20s"
-enabled    = true
-
-[locations."Cricket-Lounge"]
-mode       = "chat"
-engagement = "always"                     # free-running in the dedicated bot channel
-directives = "Anything goes here. Banter freely."
-rate_limit = "1 / 5s"
-enabled    = true
-
-[locations."admin"]
-mode    = "control"                        # commands only; no persona
-admins  = ["#1234"]
-enabled = true
+admins    = []            # e.g. ["#1234"]

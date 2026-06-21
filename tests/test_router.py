@@ -51,7 +51,7 @@ def make_services():
     auth = Allowlist()
     auth.grant("#1", Level.ADMIN)
     return SimpleNamespace(
-        config=SimpleNamespace(locations=locations),
+        locations=locations,
         persona=FakePersona(),
         actions=FakeActions(),
         registry=FakeRegistry(),

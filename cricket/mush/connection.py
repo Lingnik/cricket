@@ -80,6 +80,10 @@ class Connection:
         self._buffer = b""
         self._closing = False
 
+    @property
+    def connected(self) -> bool:
+        return self._writer is not None and not self._closing
+
     def send(self, text: str) -> None:
         """Write one command line. Latin-1 keeps us ASCII/8-bit safe (server has only
         limited Unicode)."""

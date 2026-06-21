@@ -7,3 +7,9 @@ __pycache__/
 .venv/
 .pytest_cache/
 config.toml
+
+# Memory DB holds conversation content -- never commit it. The config DB
+# (data/cricket-config.sqlite3) IS committed; only the memory DB is ignored.
+/data/cricket-memory.sqlite3
+/data/cricket-memory.sqlite3-wal
+/data/cricket-memory.sqlite3-shm

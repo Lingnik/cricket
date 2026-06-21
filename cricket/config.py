@@ -1,8 +1,16 @@
-"""Configuration: non-secret structure from a TOML file, secrets from the environment.
+"""Configuration: infrastructure structure from a TOML file, secrets from the environment.
 
-Locations (channels and rooms) are first-class config objects. Secrets (host, port,
-account, password, control port) come from .env / the process environment so they never
-land in the committed TOML. See config.example.toml and .env.example.
+Config is split into two tiers (see docs/DESIGN.md):
+
+  * Infrastructure (this module) -- MUSH host/port/account/password, the control-socket
+    port, the HTTP bind/port, and database paths. Secrets come from .env / the process
+    environment so they never land in the committed TOML.
+  * Behavior -- the bot identity, per-location engagement/directives, prompts, and
+    inference params live in *persona profiles* in the committed config DB, edited at
+    runtime over HTTP. See cricket/profiles/.
+
+LocationConfig is still defined here because the profile layer derives LocationConfigs
+from the active profile and the rest of the program consumes them.
 """
 
 from __future__ import annotations
@@ -33,7 +41,21 @@ class ControlConfig:
 
 
 @dataclass
+class HttpConfig:
+    host: str
+    port: int
+
+
+@dataclass
+class PathsConfig:
+    config_db: str
+    memory_db: str
+
+
+@dataclass
 class AuthConfig:
+    """Global, infrastructure-level grants. Per-location admins live in profiles."""
+
     operators: list = field(default_factory=list)
     wizards: list = field(default_factory=list)
     admins: list = field(default_factory=list)
@@ -55,9 +77,9 @@ class LocationConfig:
 class Config:
     mush: MushConfig
     control: ControlConfig
+    http: HttpConfig
     auth: AuthConfig
-    locations: dict  # name -> LocationConfig
-    memory_path: str
+    paths: PathsConfig
 
 
 def parse_env_file(path: Union[str, Path]) -> dict:
@@ -87,7 +109,7 @@ def _truthy(value: Union[str, None]) -> bool:
 
 
 def load_config(toml_path: Union[str, Path], env: Union[dict, None] = None) -> Config:
-    """Build a Config from a TOML file plus an environment mapping (defaults to {})."""
+    """Build a Config from an infra TOML file plus an environment mapping (default {})."""
     env = dict(env or {})
     data = tomllib.loads(Path(toml_path).read_text(encoding="utf-8"))
 
@@ -104,6 +126,12 @@ def load_config(toml_path: Union[str, Path], env: Union[dict, None] = None) -> C
         port=int(env.get("CRICKET_MUSH_CONTROL_PORT", str(control_default)))
     )
 
+    http_raw = data.get("http", {})
+    http = HttpConfig(
+        host=http_raw.get("host", "127.0.0.1"),
+        port=int(env.get("CRICKET_HTTP_PORT", str(http_raw.get("port", 4280)))),
+    )
+
     auth_raw = data.get("auth", {})
     auth = AuthConfig(
         operators=list(auth_raw.get("operators", [])),
@@ -111,40 +139,13 @@ def load_config(toml_path: Union[str, Path], env: Union[dict, None] = None) -> C
         admins=list(auth_raw.get("admins", [])),
     )
 
-    locations: dict = {}
-    for name, raw in data.get("locations", {}).items():
-        mode = raw.get("mode")
-        if mode not in VALID_MODES:
-            raise ValueError(
-                "location %r: mode must be one of %r, got %r"
-                % (name, VALID_MODES, mode)
-            )
-        engagement = raw.get("engagement", "addressed")
-        if engagement not in VALID_ENGAGEMENT:
-            raise ValueError(
-                "location %r: engagement must be one of %r, got %r"
-                % (name, VALID_ENGAGEMENT, engagement)
-            )
-        locations[name] = LocationConfig(
-            name=name,
-            mode=mode,
-            engagement=engagement,
-            prefixes=list(raw.get("prefixes", [])),
-            directives=raw.get("directives", ""),
-            rate_limit=raw.get("rate_limit"),
-            enabled=bool(raw.get("enabled", True)),
-            admins=list(raw.get("admins", [])),
-        )
-
-    memory_path = data.get("memory", {}).get("path", "logs/cricket.sqlite3")
-
-    return Config(
-        mush=mush,
-        control=control,
-        auth=auth,
-        locations=locations,
-        memory_path=memory_path,
+    paths_raw = data.get("paths", {})
+    paths = PathsConfig(
+        config_db=paths_raw.get("config_db", "data/cricket-config.sqlite3"),
+        memory_db=paths_raw.get("memory_db", "data/cricket-memory.sqlite3"),
     )
+
+    return Config(mush=mush, control=control, http=http, auth=auth, paths=paths)
 
 
 def parse_rate_limit(spec: Union[str, None]):
