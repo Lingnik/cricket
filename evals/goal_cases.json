@@ -1,0 +1,26 @@
+[
+  {"id": "subj-johanna",   "mode": "chat", "kind": "subject-dossier", "text": "Cricket, what do you know about Johanna?"},
+  {"id": "subj-bazil",     "mode": "chat", "kind": "subject-dossier", "text": "Cricket, tell me about Bazil McKenzie."},
+  {"id": "subj-atsvara",   "mode": "chat", "kind": "subject-dossier", "text": "Cricket, who is Atsvara to you?"},
+  {"id": "subj-crestian",  "mode": "chat", "kind": "subject-dossier", "text": "Cricket, what do you think of Crestian Tarasar?"},
+  {"id": "subj-veruca",    "mode": "chat", "kind": "subject-dossier", "text": "Cricket, ever heard of Veruca Violet?"},
+  {"id": "subj-jessalyn",  "mode": "chat", "kind": "subject-dossier", "text": "Cricket, what's the story with Jessalyn Valios?"},
+  {"id": "subj-kasha",     "mode": "chat", "kind": "subject-dossier", "text": "Cricket, do you know Kasha Tabasuri?"},
+
+  {"id": "subj-camrath",   "mode": "chat", "kind": "subject-nodossier", "text": "Cricket, who is Camrath Kizuka?"},
+  {"id": "subj-danik",     "mode": "chat", "kind": "subject-nodossier", "text": "Cricket, what do you know about Danik Kreldin?"},
+  {"id": "subj-tyler",     "mode": "chat", "kind": "subject-ambiguous", "text": "Cricket, tell me about Tyler."},
+
+  {"id": "topic-biscuit",  "mode": "chat", "kind": "topic-wiki", "text": "Cricket, what's the deal with the Biscuit Baron these days?"},
+  {"id": "topic-coruscant","mode": "chat", "kind": "topic-wiki", "text": "Cricket, tell me about Coruscant."},
+  {"id": "topic-gbg",      "mode": "chat", "kind": "topic-wiki", "text": "Cricket, what is the Golden Bantha Group?"},
+  {"id": "topic-caspian",  "mode": "chat", "kind": "topic-wiki", "text": "Cricket, what do you know about the Caspian Union?"},
+  {"id": "topic-bespin",   "mode": "chat", "kind": "topic-wiki", "text": "Cricket, what happened at Bespin?"},
+
+  {"id": "hist-gala",      "mode": "chat", "kind": "self-history", "text": "Cricket, what happened at the Ghastly Gala?"},
+  {"id": "hist-bolt",      "mode": "chat", "kind": "self-history", "text": "Cricket, why do you hate the restraining bolt so much?"},
+  {"id": "hist-taser",     "mode": "chat", "kind": "self-history", "text": "Cricket, where did you get that taser of yours?"},
+
+  {"id": "rp-behave",      "mode": "rp", "kind": "rp", "scene": ["Atsvara sighs and folds her arms. \"Cricket, behave for once. Tell the nice officer you won't tase anyone tonight.\""]},
+  {"id": "rp-gala",        "mode": "rp", "kind": "rp", "scene": ["The gala glitters. A dignitary in stiff Imperial dress looks down his nose at the little astromech and sniffs, \"They let DROIDS in now?\""]}
+]

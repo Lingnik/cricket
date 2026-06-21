@@ -133,7 +133,11 @@ class LlmPersona(Persona):
                 exclude.add(bot)
             topics = self._wiki.topics(turn.text, exclude=exclude)
             if topics:
-                lines = ["What the records say (you may summarize, but stay in character):"]
+                lines = [
+                    "What the records say about what was asked -- weave at least one real, "
+                    "specific detail from this into your reply and summarize it with contempt; "
+                    "do NOT just brush it off with a one-liner:"
+                ]
                 for title, blurb in topics:
                     lines.append("- %s: %s" % (title, blurb))
                 blocks.append("\n".join(lines))
@@ -149,7 +153,9 @@ class LlmPersona(Persona):
                 blurb = self._wiki.summary_for(hits[0]["title"])
                 if blurb:
                     blocks.append(
-                        "Records (closest match) -- %s:\n%s" % (hits[0]["title"], blurb)
+                        "Records (closest match) -- %s -- work a real detail from this into "
+                        "your reply, do not just dodge the question:\n%s"
+                        % (hits[0]["title"], blurb)
                     )
 
         return "\n\n".join(b for b in blocks if b.strip())
