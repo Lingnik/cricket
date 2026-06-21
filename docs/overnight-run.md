@@ -57,6 +57,15 @@ tools need `CRICKET_MUSH_HOST` + `CRICKET_TEST_*_PW` in env. `unset SSLKEYLOGFIL
 pytest/Ollama. Restart the daemon cleanly (single instance, no nested `&`).
 
 ## Progress log (newest first)
+- 2026-06-21 batch 2 -- T2 semantic fallback (Ollama embeddings + stdlib cosine), real CRUD web
+  panel, harass-on-connect (`harass on|off` + per-profile default), polish, and a formalized
+  goal-aligned eval gate (`evals/goal_cases.json` 20 probes + `evals/goals.py`). The broadened
+  gate exposed 8B confabulation (engaged 4.1 but grounding 2.35, invented canon); added an
+  anti-fabrication guard (deflect, don't invent) -> **GATE BASELINE: engagement 4.25 /
+  grounding 3.15 / voice 4.35** (deterministic temp-0, full stack). Residual fabrication remains
+  on no-dossier subjects (8B limitation; the Opus judge also under-counts -- it flags some real
+  canon like Bazil installing the taser as "fabrication"). clean-mode + speaker name-match CLOSED.
+  Single live daemon on latest code; all pushed (13432bd).
 - 2026-06-21 night #4 -- **RUN COMPLETE. ALL 6 STOP CRITERIA MET.** Heartbeat cron deleted.
   **Decisive eval (goal-aligned, deterministic temp=0, base[no retrieval] vs new[full stack],
   Opus judge, n=8):** engagement 2.63->4.25, grounding 2.25->4.13, voice 3.88->4.50; head-to-head
