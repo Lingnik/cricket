@@ -5,7 +5,7 @@
 | **Wiki account(s)** | unknown (no clear self-uploads; article created by `Tarasar`, the account behind scene-partner Crestian Tarasar — see *Sensitivity*) |
 | **Plays** | **Johanna Siri te Danaan** ("General Joh") — also signed **Johanna Damion** / **Johanna te Danaan** in the dark-fall era |
 | **Activity era** | RL 2001 → present; busiest in RL 2006–2007 (the Vadim fall arc) and again RL 2023–2025 (the Imperium years) |
-| **Faction home** | Jedi Order / New Republic — but spends huge stretches embedded among the Empire, Sith, and the Imperium |
+| **Faction home** | Trained Jedi / New Republic, but fell to the dark side and was cast out of the Order — became an Imperium Grand Moff and later a power in her own right (Empire / Sith / Imperium orbit). Her *early* logs are Jedi-tagged, but that is not where she ends up. |
 | **Footprint** | 70 logs spanning 10–34 ABY (one of the longest-running characters in the archive) |
 
 ## Talking to them OOC
