@@ -15,7 +15,9 @@ import socket
 import sys
 import time
 
-HOST = os.environ.get("CRICKET_MUSH_HOST", "100.88.188.43")
+# Target server from the environment (set CRICKET_MUSH_HOST to your MUSH, e.g. in .env);
+# defaults to localhost so no infrastructure address is baked into this public repo.
+HOST = os.environ.get("CRICKET_MUSH_HOST", "127.0.0.1")
 PORT = int(os.environ.get("CRICKET_MUSH_PORT", "4201"))
 
 
