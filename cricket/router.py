@@ -159,10 +159,17 @@ class Router:
         if cfg.mode != "chat":
             return
 
-        # A chat channel can also be where admins drive RP: an addressed bang-command
-        # ("Cricket !pose") from an authorized admin is dispatched as a command. Bare
-        # addressed chat ("Cricket, hi") and non-admin senders fall through to chat.
+        # A chat channel can also be where admins drive RP via bang-commands. Accept either an
+        # addressed command ("Cricket !pose") OR a BARE bang-command ("!rp on") whose verb is a
+        # registered command (or !help) -- the "!" sigil is unambiguous and never natural chat, and
+        # on an `always`-engagement channel admins do not address the bot by name. Authorized admins
+        # only; non-commands ("!!!") and non-admins fall through to chat.
         cmdline = self._addressed_command(event.text)
+        if cmdline is None:
+            raw = (event.text or "").strip()
+            verb = raw.split()[0].lower() if raw.startswith("!") else ""
+            if verb and (verb == "!help" or s.registry.get(verb)):
+                cmdline = verb + raw[len(raw.split()[0]):]
         if cmdline and cmdline.split()[0].lower() in ("!help", "help"):
             await self._handle_help(event.speaker)
             return

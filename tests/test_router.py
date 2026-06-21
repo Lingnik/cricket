@@ -40,12 +40,17 @@ class FakeActions:
 
 
 class FakeRegistry:
+    _KNOWN = {"!rp", "!pose", "!say", "!clearqueue", "!consent-ok", "!consent-deny", "!harass"}
+
     def __init__(self):
         self.dispatched = []
 
     async def dispatch(self, name, args, ctx):
         self.dispatched.append((name, args, ctx))
         return SimpleNamespace(ok=True, error=None)
+
+    def get(self, name):
+        return name if name in self._KNOWN else None
 
 
 def make_services():
@@ -242,6 +247,36 @@ def test_control_channel_nonadmin_addressed_is_ignored():
     run(router, ChannelMessage("admin", Actor("Eve", None), SpeechKind.SAY, "cricket status"))
     assert s.registry.dispatched == []
     assert s.actions.calls == []
+
+
+def test_chat_channel_bare_bang_command_dispatched_for_admin():
+    # The bug: "!rp on" by an admin on the OOC (chat) channel was treated as chat and Cricket
+    # ranted at it instead of toggling RP. A bare bang-command whose verb is registered must
+    # dispatch (no "Cricket" address needed), and must NOT reach the persona.
+    s = make_services()
+    router = Router(s)
+    run(router, ChannelMessage("OOC", Actor("Bazil", "#1"), SpeechKind.SAY, "!rp on"))
+    assert len(s.registry.dispatched) == 1
+    name, args, _ = s.registry.dispatched[0]
+    assert name == "!rp" and args == ["on"]
+    assert s.persona.turns == []  # did NOT rant at it
+
+
+def test_chat_channel_bare_nonbang_and_unknown_fall_through_to_chat():
+    s = make_services()
+    router = Router(s)
+    # An unknown "!..." is NOT a command -> not dispatched (falls through; OOC is addressed-only
+    # here so it is simply ignored rather than dispatched).
+    run(router, ChannelMessage("OOC", Actor("Bazil", "#1"), SpeechKind.SAY, "!notacommand here"))
+    assert s.registry.dispatched == []
+
+
+def test_chat_channel_bare_bang_command_ignored_for_nonadmin():
+    s = make_services()
+    router = Router(s)
+    # A non-admin cannot drive RP: their bare bang-command is not dispatched.
+    run(router, ChannelMessage("OOC", Actor("Eve", None), SpeechKind.SAY, "!rp on"))
+    assert s.registry.dispatched == []
 
 
 def test_bang_pose_assembles_rp_turn_and_emits():
