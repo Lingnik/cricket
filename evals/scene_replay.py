@@ -107,6 +107,8 @@ def make_bot(persona):
 
 async def replay(persona, attributed, cut):
     bot = make_bot(persona)
+    # Fabricate the room/setting from the log's opening narration (live probes describe(loc(me))).
+    bot.current_room_desc = " ".join(t for s, t in attributed[:3] if s == "scene")[:400]
     router = Router(bot)
     bot.router = router
     dbrefs, nxt = {}, [100]
