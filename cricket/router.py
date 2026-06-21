@@ -41,6 +41,16 @@ _CHANNEL_NOTICE = re.compile(
 )
 
 
+def _same_poser(line, speaker, dbref) -> bool:
+    """True if a new room line continues the previous poser's block: same dbref when both
+    have one, else the same (non-empty) speaker name."""
+    ld = getattr(line, "dbref", None)
+    if dbref and ld:
+        return ld == dbref
+    sp = (speaker or "").strip().lower()
+    return bool(sp) and (line.speaker or "").strip().lower() == sp
+
+
 class Router:
     def __init__(self, services) -> None:
         self.s = services
@@ -304,11 +314,20 @@ class Router:
         if not getattr(s, "rp_enabled", {}).get(room):
             return
         queue = s.scene_queues.setdefault(room, [])
-        queue.append(ContextLine(speaker=speaker, dbref=dbref, kind=kind, text=text))
+        # Block grouping: a multiline pose arrives as several socket lines; merge consecutive
+        # lines from the SAME poser (by dbref, else speaker name) into one block, so each queue
+        # entry is one whole pose. A change of poser closes the previous block.
+        if queue and _same_poser(queue[-1], speaker, dbref):
+            prev = queue[-1]
+            queue[-1] = ContextLine(
+                speaker=prev.speaker, dbref=prev.dbref, kind=prev.kind,
+                text=(prev.text + "\n" + text).strip(),
+            )
+        else:
+            queue.append(ContextLine(speaker=speaker, dbref=dbref, kind=kind, text=text))
         if len(queue) > SCENE_QUEUE_CAP:
-            # TODO(memory): instead of dropping the oldest lines, summarize them into a
-            # running scene summary kept in the memory store and prepend that to the
-            # queue context (docs/INFERENCE_BACKEND.md: summarize, do not truncate).
+            # TODO(RP-2): replace this line cap with a byte-budgeted tail + append-only ledger
+            # (docs/RP-DESIGN.md). For now keep a generous cap so blocks are not dropped early.
             del queue[: len(queue) - SCENE_QUEUE_CAP]
 
     # -- pages -----------------------------------------------------------------
