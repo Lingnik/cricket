@@ -128,8 +128,10 @@ Full log list: the in-universe-ordered "Bazil's Roleplay Logs" page indexes ever
 
 ---
 
-*Sensitivity:* none flagged — all material is public wiki canon. **PC**, not an NPC: this is
-a player-run character with a dedicated `BazilMcKenzie` wiki account that authored/uploaded
-nearly all of his logs. Note that **Vauki** and **Jonau Diggs** are not separate
-characters — they are Bazil's NRI undercover aliases (the log list even credits scenes to
-"Bazil/Vauki").
+*Sensitivity:* **PC**, not an NPC: a player-run character with a dedicated `BazilMcKenzie`
+wiki account that authored/uploaded nearly all of his logs. **Alias-handling caveat:**
+**Vauki** and **Jonau Diggs** are not separate characters — they are Bazil's NRI undercover
+aliases (the log list even credits scenes to "Bazil/Vauki"). This link is OOC wiki canon, but
+the alias↔Bazil identity may still be an *in-character* mystery — the bot should only confirm
+it if a player raises it OOC, not volunteer it. (No return-campaign / twist material is
+included in this profile — that stays out by design.)
