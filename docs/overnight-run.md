@@ -57,6 +57,19 @@ tools need `CRICKET_MUSH_HOST` + `CRICKET_TEST_*_PW` in env. `unset SSLKEYLOGFIL
 pytest/Ollama. Restart the daemon cleanly (single instance, no nested `&`).
 
 ## Progress log (newest first)
+- 2026-06-21 night #4 -- **RUN COMPLETE. ALL 6 STOP CRITERIA MET.** Heartbeat cron deleted.
+  **Decisive eval (goal-aligned, deterministic temp=0, base[no retrieval] vs new[full stack],
+  Opus judge, n=8):** engagement 2.63->4.25, grounding 2.25->4.13, voice 3.88->4.50; head-to-head
+  new 7 / tie 1 / base 0. base repeatedly FABRICATED (Johanna "owes me credits", Veruca "stole my
+  parts"); new is specific and correct (restraining bolt, taser from Bazil, Biscuit Baron EVP,
+  Duke of Dragonflower, Veruca=Zubindi's ward). (Corpus-replay pose-matching was abandoned as the
+  gate: too noisy at temp 0.85/n=10 -- two rounds disagreed within sampling noise -- and it
+  measures exact-pose-match, not the user's goals.) 157 tests+evals green; all pushed (28c5e7a +
+  this). Single live daemon verified (one reply per message). Known minor polish for later:
+  generic-topic wiki engagement (he dismisses "Coruscant" as "that dump" rather than summarizing);
+  a couple in-character grandiose embellishments ("I made her CEO" -- he is EVP). Final report posted.
+
+## Earlier progress (newest first)
 - 2026-06-21 night #3: **P4/P5 DONE.** P4: lore/CRICKET-HISTORY.md (18 log-grounded exploits)
   injected into the SYSTEM block; live bot now cites the restraining-bolt grudge + "fat bantha
   cow" + Biscuit Baron EVP unprompted. P5: hidden thinking step implemented (inference.thinking,
