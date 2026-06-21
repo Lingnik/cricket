@@ -168,6 +168,18 @@ def test_do_not_puppet_set_from_scene_ownership():
     assert "Johanna" in msg and "Tindomiel" in msg  # her char + the NPC she posed
 
 
+def test_claimed_field_merges_into_do_not_puppet():
+    c = RecordingClient()
+    turn = Turn(mode="rp", location="#0", location_kind="room", directives="", speaker="",
+                speaker_dbref="", text="", context=[], bot_identity=BotIdentity(name="Cricket"),
+                memory=None, claimed=["Tindomiel", "Cricket"])
+    _run(LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_OwnLore()), turn)
+    msg = c.messages[-1]["content"]
+    assert "belong to other players" in msg
+    assert "Tindomiel" in msg          # distillation-supplied name
+    assert "Cricket" not in msg.split("belong to other players")[1][:60]  # bot filtered out
+
+
 def test_rp_charter_injected_on_rp_only():
     c = RecordingClient()
     LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore())

@@ -45,19 +45,29 @@ async def _set_rp(ctx: CommandContext, room, on: bool) -> None:
         else:
             ctx.reply("rp in %s: True" % room)
         return
-    # Finalize: summarize the scene the persona just lived through, then clear it.
+    # Finalize: persist what happened, then clear the per-scene state. The running ledger holds
+    # the full arc (the verbatim queue may have been byte-trimmed), so prefer it for the summary.
     queue = bot.scene_queues.get(room, [])
+    ledger = getattr(bot, "scene_ledger", {}).get(room, [])
     summarizer = getattr(getattr(bot, "persona", None), "summarize_scene", None)
     store = getattr(bot, "store", None)
-    if queue and summarizer is not None and store is not None:
+    if store is not None and (queue or ledger):
         cast = _cast_from_queue(bot, queue)
-        try:
-            summary = await summarizer(list(queue), cast=cast)
-        except Exception:
-            summary = ""
+        summary = ""
+        if ledger:
+            summary = " ".join(ledger)
+        elif summarizer is not None:
+            try:
+                summary = await summarizer(list(queue), cast=cast)
+            except Exception:
+                summary = ""
         if summary:
             store.save_scene_summary(room, cast, summary)
     bot.scene_queues[room] = []
+    if hasattr(bot, "scene_ledger"):
+        bot.scene_ledger.pop(room, None)
+    if hasattr(bot, "scene_owners"):
+        bot.scene_owners.pop(room, None)
     bot.pending_recall.pop(room, None)
     bot.rp_enabled[room] = False
     ctx.reply("rp in %s: False" % room)
@@ -159,6 +169,8 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         context=context,
         bot_identity=getattr(ctx.bot, "bot_identity", None),
         memory=getattr(ctx.bot, "memory", None),
+        # Distillation-refined do-not-puppet names (merged with the persona's gazetteer pass).
+        claimed=sorted(getattr(ctx.bot, "scene_owners", {}).get(room, set())),
     )
     resp = await ctx.bot.persona.respond(turn)
     if resp is None:

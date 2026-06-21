@@ -48,6 +48,7 @@ class Turn:
     context: list = field(default_factory=list)  # list[ContextLine], oldest -> newest
     bot_identity: Union[BotIdentity, None] = None
     memory: Any = None  # MemoryHandle (see cricket.memory.store)
+    claimed: list = field(default_factory=list)  # characters others control (do-not-puppet)
 
 
 @dataclass(frozen=True)
