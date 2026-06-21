@@ -69,13 +69,19 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
   distillation junk-actor/preamble leaks. Uses the full live retrieval (dossiers = distilled player
   profiles, wiki, T2) + fabricated dbrefs/room-desc (logs lack PARANOID tags, by nature).
 
+## Done (2026-06-21, batch 4 -- reorg + format hygiene)
+- **DONE** -- Lore colocated under `knowledge/{runtime,sources}` (see OPERATIONS.md "Knowledge
+  layout"); daemon now `_root`-relative (no CWD dependency). 179 tests + live smoke test green.
+- **DONE** -- `@emit` FORMAT HYGIENE: `_clean_output()` in `persona/llm.py` (drop leaked
+  'Cricket says,' prefix, strip `*asterisk*` stage-directions, unnest channel-say quotes, balance
+  dangling/unclosed quotes) + tighter RP/chat instructions. Report regen: asterisks 12->0,
+  name-prefixes ->0, unbalanced quotes 3->0. Live chat smoke test confirms clean output.
+
 ## Remaining -- next up
-- **NEXT** -- RP pose-quality tuning (scene-replay baseline ~voice 2.7 / fit 2.7 / quality 2.5 /5;
-  the eval is NOISY at temp 0.85, so trust direction not 0.2 deltas -- use temp-0 or averaged
-  samples for fine signal). Highest-value lever: **@emit FORMAT HYGIENE** -- the 8B wraps poses in
-  `*asterisk*` stage-directions, sometimes leaks a name prefix, and leaves unclosed quotes/parens;
-  fix via a format instruction + a light output-cleanup strip (leading/trailing stray asterisk,
-  name prefix). Strong cases (a clear spoken beat) already hit 4/5.
+- **NEXT** -- Re-judge the scene-replay baseline now that format is clean + parroting gone (was
+  voice 2.5 / fit 2.58 / quality 2.67 pre-tuning); see if quality actually lifted. The eval is
+  NOISY at temp 0.85, so trust direction not 0.2 deltas -- use temp-0 or averaged samples for fine
+  signal. Strong cases (a clear spoken beat) already hit 4/5; misses cluster on narration-heavy beats.
 - **NEXT** -- Eval fidelity via ATTRIBUTION, not filtering. CORRECTION (2026-06-21, evidence in
   corpus/wiki/2025-03 - Charity Ball.txt + Droid Control): the wiki logs are RAW `@emit` pose
   streams, NOT GM-rewritten narrative. The earlier "filter omniscient narration" plan was based on
