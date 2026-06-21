@@ -129,13 +129,68 @@ async def replay(persona, attributed, cut):
     return bot
 
 
+DEFAULT_REPORT_LOGS = [
+    "2024 - Droid Control - The Ladies Prefer Electrum",
+    "2024 - Ghastly Gala",
+    "2023-04 - Birthday Baroness",
+    "2023-04 - Bespin Blows Up",
+    "2024 - Ballistic Equipment Parts",
+]
+
+
+def _build_persona(lore):
+    from cricket.persona.inference import OllamaInferenceClient
+    from cricket.persona.llm import LlmPersona
+    active = ConfigStore(os.path.join(_ROOT, "data", "cricket-config.sqlite3")).active()
+    doc = active[1]
+    return LlmPersona(OllamaInferenceClient(model=doc["inference"]["model"]), lambda: doc,
+                      lore=lore, wiki=WikiIndex(os.path.join(_ROOT, "wiki-cache")),
+                      vector=VectorIndex(os.path.join(_ROOT, "wiki-cache")))
+
+
+async def _generated_pose(persona, attributed, cut):
+    bot = await replay(persona, attributed, cut)
+    posed = [c for c in bot.actions.calls if c[0] in ("pose", "emit", "say")]
+    gated = any(c[0] == "say_channel" for c in bot.actions.calls)
+    return (posed[-1][1] if posed else None), gated
+
+
+def build_report(out_path, lore, per_log=2, window=6):
+    persona = _build_persona(lore)
+    rows = []
+    for stem in DEFAULT_REPORT_LOGS:
+        matches = sorted(glob.glob(os.path.join(_ROOT, "corpus", "wiki", stem + "*")))
+        if not matches:
+            continue
+        log = matches[0]
+        attributed = attribute(paragraphs(open(log, encoding="utf-8", errors="replace").read()), lore)
+        for cut, _prior in cut_points(attributed)[:per_log]:
+            gen, gated = asyncio.run(_generated_pose(persona, attributed, cut))
+            rows.append({
+                "id": "%s#%d" % (os.path.splitext(os.path.basename(log))[0][:34], cut),
+                "scene": [t for _, t in attributed[max(0, cut - window):cut]],
+                "generated": gen, "gated": gated, "reference": attributed[cut][1],
+            })
+            print("  generated %s" % rows[-1]["id"])
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    json.dump(rows, open(out_path, "w", encoding="utf-8"), indent=1)
+    print("wrote %s (%d scenes)" % (out_path, len(rows)))
+    return rows
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="evals.scene_replay")
     ap.add_argument("--log", default=None)
     ap.add_argument("--cut", type=int, default=None)
     ap.add_argument("--window", type=int, default=12, help="prior paragraphs to show")
     ap.add_argument("--list", action="store_true", help="list candidate cut points and exit")
+    ap.add_argument("--report", default=None,
+                    help="generate poses across several logs -> JSON for the Opus judge")
     args = ap.parse_args(argv)
+
+    if args.report:
+        build_report(args.report, LoreStore(os.path.join(_ROOT, "lore")))
+        return 0
 
     log = args.log
     if not log:
