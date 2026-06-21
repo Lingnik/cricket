@@ -98,6 +98,31 @@ def test_seed_actors(tmp_path):
         store.close()
 
 
+def test_mentioned_named_subject(tmp_path):
+    _make_lore(tmp_path)
+    ls = LoreStore(tmp_path)
+    # Capitalized first-name token unique to one character -> matched even when absent.
+    hits = ls.mentioned("what do you know about Johanna?")
+    assert any(kebab(n) == "johanna-siri-te-danaan" for n in hits)
+    # Lowercase is not treated as a proper-noun mention (avoids common-word collisions).
+    assert ls.mentioned("a quiet johanna of sorts") == []
+    # Unknown capitalized word -> nothing.
+    assert ls.mentioned("What about Tatooine and Bob?") == []
+    # Apostrophe/multi-token name token still recognized.
+    assert any(kebab(n) == "ikihsa-enbzik" for n in ls.mentioned("Ask Ikihsa about it"))
+    # Full multi-token name anywhere in the line.
+    assert any(
+        kebab(n) == "johanna-siri-te-danaan"
+        for n in ls.mentioned("the johanna siri te danaan estate")
+    )
+
+
+def test_mentioned_empty_and_missing(tmp_path):
+    assert LoreStore(tmp_path).mentioned("Johanna") == []   # no dossiers -> no gazetteer
+    ls = LoreStore(tmp_path)
+    assert ls.mentioned("") == []
+
+
 def test_missing_files_graceful(tmp_path):
     ls = LoreStore(tmp_path)  # empty dir, no artifacts
     assert ls.character_sheet() == ""

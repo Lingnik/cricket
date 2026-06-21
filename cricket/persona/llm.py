@@ -62,14 +62,26 @@ class LlmPersona(Persona):
             return ""
         cast = []
         seen = set()
+
+        def add(name: str) -> None:
+            n = (name or "").strip()
+            if n and n.lower() not in seen:
+                seen.add(n.lower())
+                cast.append(n)
+
+        # Speakers present in the scene.
         for line in turn.context:
-            spk = (line.speaker or "").strip()
-            if spk and spk.lower() not in seen:
-                seen.add(spk.lower())
-                cast.append(spk)
-        spk = (turn.speaker or "").strip()
-        if spk and spk.lower() not in seen:
-            cast.append(spk)
+            add(line.speaker)
+        add(turn.speaker)
+        # Characters NAMED in the live line or the scene, even if absent -- so "what do you
+        # know about Johanna?" pulls Johanna's dossier. The live line is the primary subject;
+        # the scene text is secondary. Deterministic gazetteer match (LoreStore.mentioned).
+        for name in self._lore.mentioned(turn.text):
+            add(name)
+        for line in turn.context:
+            for name in self._lore.mentioned(line.text):
+                add(name)
+
         scope = "ic" if turn.mode == "rp" else "ooc"
         return self._lore.retrieve(cast, scope=scope)
 

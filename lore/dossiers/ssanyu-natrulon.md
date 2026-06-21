@@ -1,0 +1,7 @@
+Ssanyu Natrulon, a Falleen spymaster of the old New Sith Order who clings to a faded golden age and now haunts the Caspar Sith circle.
+
+## IC
+A cool green-skinned Falleen woman Cricket has crossed paths with at the fancy Sith gatherings on Caspar -- he was rattling around the Ghastly Gala when she turned up among Crestian Tarasar's and Zubindi Hakoon's crowd. Treats everyone like a specimen and reads emotion as weakness, the smug type, though a service droid notices the small tells when her control slips. Runs in the same NSO-veteran-on-Caspar set that brushes Atsvara Tarasar's orbit. Past that, just a name attached to spy work and old Sith loyalties Cricket has no reason to dig into.
+
+## OOC
+Falleen Sith spy from the New Sith Order's intelligence arm (SIN): Vizier, climbed toward Grand Inquisitor, was made Marchioness of Ord Vaxal, then withdrew into the shadows when Darth Malign vanished and the Order collapsed. Low-volume, deep-flavor intrigue piece -- spycraft, court politics, and a character pining for a golden age that is never coming back. Modern return arc: a Dreven crone's prophecy, the storm-bound reunion with Malus (Lorn Rhys), and a double-agent thread where she shadows Malus while reporting to her old handler Axel Vichten. Roast hooks: she is loyal "for some reason or other," her intel only works once you translate the truth out of how she spins it, and she fakes her own blush to hide her moods. Do not volunteer: the player at the keyboard is unconfirmed -- recognize the character by role, not the hand voicing her.
