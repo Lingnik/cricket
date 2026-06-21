@@ -16,6 +16,7 @@ writer of loop-owned state, marshaled from the HTTP thread.
 from __future__ import annotations
 
 import asyncio
+import os
 
 from .auth import Allowlist, Level
 from .commands.builtins import register_builtins
@@ -264,9 +265,13 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
 
         inference = (bot.active_profile_doc or {}).get("inference", {})
         client = OllamaInferenceClient(model=inference.get("model"))
-        lore = LoreStore("lore")
-        wiki = WikiIndex("wiki-cache")
-        vector = VectorIndex("wiki-cache")  # Tier-2 semantic fallback (empty if not built)
+        # Knowledge lives under <repo>/knowledge/runtime; resolve from this file, not the CWD.
+        _root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        _lore_dir = os.path.join(_root, "knowledge", "runtime", "lore")
+        _wiki_dir = os.path.join(_root, "knowledge", "runtime", "wiki")
+        lore = LoreStore(_lore_dir)
+        wiki = WikiIndex(_wiki_dir)
+        vector = VectorIndex(_wiki_dir)  # Tier-2 semantic fallback (empty if not built)
         bot.persona = LlmPersona(
             client, lambda: bot.active_profile_doc, lore=lore, wiki=wiki, vector=vector
         )

@@ -38,7 +38,7 @@ def embed_query(text: str, model: str = "nomic-embed-text", timeout: float = 20.
 
 
 class VectorIndex:
-    def __init__(self, cache_dir: Union[str, Path] = "wiki-cache",
+    def __init__(self, cache_dir: Union[str, Path] = "knowledge/runtime/wiki",
                  model: str = "nomic-embed-text") -> None:
         self.dir = Path(cache_dir)
         self.model = model

@@ -147,8 +147,8 @@ def _build_persona(lore):
     active = ConfigStore(os.path.join(_ROOT, "data", "cricket-config.sqlite3")).active()
     doc = active[1]
     return LlmPersona(OllamaInferenceClient(model=doc["inference"]["model"]), lambda: doc,
-                      lore=lore, wiki=WikiIndex(os.path.join(_ROOT, "wiki-cache")),
-                      vector=VectorIndex(os.path.join(_ROOT, "wiki-cache")))
+                      lore=lore, wiki=WikiIndex(os.path.join(_ROOT, "knowledge", "runtime", "wiki")),
+                      vector=VectorIndex(os.path.join(_ROOT, "knowledge", "runtime", "wiki")))
 
 
 async def _generated_pose(persona, attributed, cut):
@@ -162,7 +162,7 @@ def build_report(out_path, lore, per_log=2, window=6):
     persona = _build_persona(lore)
     rows = []
     for stem in DEFAULT_REPORT_LOGS:
-        matches = sorted(glob.glob(os.path.join(_ROOT, "corpus", "wiki", stem + "*")))
+        matches = sorted(glob.glob(os.path.join(_ROOT, "knowledge", "sources", "cricket-logs", "wiki",stem + "*")))
         if not matches:
             continue
         log = matches[0]
@@ -192,14 +192,14 @@ def main(argv=None) -> int:
     args = ap.parse_args(argv)
 
     if args.report:
-        build_report(args.report, LoreStore(os.path.join(_ROOT, "lore")))
+        build_report(args.report, LoreStore(os.path.join(_ROOT, "knowledge", "runtime", "lore")))
         return 0
 
     log = args.log
     if not log:
-        cands = sorted(glob.glob(os.path.join(_ROOT, "corpus", "wiki", "2024*Droid*")))
-        log = cands[0] if cands else sorted(glob.glob(os.path.join(_ROOT, "corpus", "wiki", "*.txt")))[0]
-    lore = LoreStore(os.path.join(_ROOT, "lore"))
+        cands = sorted(glob.glob(os.path.join(_ROOT, "knowledge", "sources", "cricket-logs", "wiki","2024*Droid*")))
+        log = cands[0] if cands else sorted(glob.glob(os.path.join(_ROOT, "knowledge", "sources", "cricket-logs", "wiki","*.txt")))[0]
+    lore = LoreStore(os.path.join(_ROOT, "knowledge", "runtime", "lore"))
     paras = paragraphs(open(log, encoding="utf-8", errors="replace").read())
     attributed = attribute(paras, lore)
     pts = cut_points(attributed)
@@ -218,8 +218,8 @@ def main(argv=None) -> int:
     from cricket.persona.inference import OllamaInferenceClient
     from cricket.persona.llm import LlmPersona
     persona = LlmPersona(OllamaInferenceClient(model=doc["inference"]["model"]), lambda: doc,
-                         lore=lore, wiki=WikiIndex(os.path.join(_ROOT, "wiki-cache")),
-                         vector=VectorIndex(os.path.join(_ROOT, "wiki-cache")))
+                         lore=lore, wiki=WikiIndex(os.path.join(_ROOT, "knowledge", "runtime", "wiki")),
+                         vector=VectorIndex(os.path.join(_ROOT, "knowledge", "runtime", "wiki")))
 
     print("\n=== SCENE (lead-up to paragraph %d) ===" % cut)
     for spk, text in attributed[max(0, cut - args.window):cut]:

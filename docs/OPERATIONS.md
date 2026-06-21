@@ -58,12 +58,25 @@ ollama create cricket-abliterated -f ollama/Modelfile
 ```
 The active profile's `inference.model` points at `cricket-abliterated:latest`.
 
+## Knowledge layout
+All lore/knowledge content is colocated under `knowledge/` (reorganized 2026-06-21):
+- `knowledge/runtime/lore/` -- loaded live by `LoreStore` (CRICKET.md, CRICKET-HISTORY.md,
+  RP-CHARTER.md, voice-exemplars.md, index.json, `dossiers/`).
+- `knowledge/runtime/wiki/` -- loaded live by `WikiIndex` + `VectorIndex` (pages/, index.jsonl,
+  embeddings.f32, embeddings.meta.jsonl). Built by `tools/build_cache.py` + `tools/build_embeddings.py`.
+- `knowledge/sources/players/` -- OOC player-knowledge corpus; distilled INTO `runtime/lore/dossiers/`.
+  Not loaded at runtime.
+- `knowledge/sources/cricket-logs/wiki/` -- raw RP logs; eval input only (`evals/`), not runtime.
+
+The daemon resolves these from the repo root (`cricket/daemon.py`, `_root`-relative), so it no
+longer depends on the launch CWD.
+
 ## Config & profiles
 - Infra (host/ports/db paths/global auth) is in `config.toml` + `.env`. Behavior is the
   **active persona profile** in the config DB (`data/cricket-config.sqlite3`, untracked).
 - `DEFAULT_PROFILE` in `cricket/profiles/model.py` is the canonical, committed source;
   it seeds a fresh DB. Edit the live profile via the web panel, the `/api/profiles` API, or
-  scripts. `tools/wire_persona.py` re-syncs the system prompt (`lore/CRICKET.md`) + few-shot
+  scripts. `tools/wire_persona.py` re-syncs the system prompt (`knowledge/runtime/lore/CRICKET.md`) + few-shot
   (`model.py` `_FEWSHOT`) into the live profile.
 - `LlmPersona` reads the active profile LIVE each turn, so prompt/few-shot/inference edits
   apply without a restart. (Changing the MODEL tag needs a restart -- it's set at client

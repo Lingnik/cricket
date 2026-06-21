@@ -1,8 +1,9 @@
 # tools
 
 Python helpers (stdlib only, no dependencies) for building and querying the bundled
-[`../wiki-cache/`](../wiki-cache/). The Cricket bot uses `lookup.py` / `search.py` to resolve
-citations in the [`../players/`](../players/) profiles to full source text.
+[`../knowledge/runtime/wiki/`](../knowledge/runtime/wiki/). The Cricket bot uses `lookup.py` /
+`search.py` to resolve citations in the
+[`../knowledge/sources/players/`](../knowledge/sources/players/) profiles to full source text.
 
 ## `lookup.py` — resolve a citation to a full page
 
