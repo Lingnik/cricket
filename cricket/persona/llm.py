@@ -362,8 +362,9 @@ class LlmPersona(Persona):
                 parts.append("Your private plan (use it; do NOT print it):\n%s" % plan.strip())
             if turn.mode == "rp":
                 parts.append(
-                    "Compose %s's next pose: a specific, in-character reaction to that "
-                    "most-recent beat -- not a generic rant. Draw on his history, grudges, and "
+                    "Compose %s's next pose: a specific, in-character reaction to the SINGLE "
+                    "most-recent line quoted above -- react to THAT exact beat, not an earlier one "
+                    "and not a generic rant. Draw on his history, grudges, and "
                     "the people present where they fit. Write it as a raw SW1 @emit -- "
                     "self-describing third-person prose (e.g. 'The little astromech's dome "
                     "swivels...'); do NOT prefix it with your name or 'Cricket says/poses'. "
