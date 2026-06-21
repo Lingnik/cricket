@@ -211,6 +211,14 @@ class LlmPersona(Persona):
             for line in turn.context:
                 for name in self._lore.mentioned(line.text):
                     add(name)
+            # Resolve raw MUSH speaker names to their canonical lore name so PRESENT characters'
+            # dossiers actually inject. A poser arrives as a first name / character name (e.g.
+            # "Jessalyn", "Johanna"), but dossiers are keyed by the full canonical name
+            # ("Jessalyn Valios", "Johanna Siri te Danaan"). Without this, a present character whose
+            # pose-name is not their full name gets NO dossier -- the real cause of grounding drift.
+            for raw in list(cast):
+                for canon in self._lore.mentioned(raw):
+                    add(canon)
             scope = "ic" if turn.mode == "rp" else "ooc"
             dossiers = self._lore.retrieve(cast, scope=scope)
             if dossiers.strip():
