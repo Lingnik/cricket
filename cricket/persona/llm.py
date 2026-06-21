@@ -35,6 +35,14 @@ _RECOUNT_RULE = (
     "straight through; never blend several separate events into a single garbled run-on."
 )
 
+# The model parrots example/self-history catchphrases ("FUCK THE POLICE") as non-sequiturs.
+_NOVELTY_RULE = (
+    "Your example poses and logged exploits show your VOICE, your fixations, and the KIND of "
+    "thing you say -- they are NOT a script. Invent FRESH, scene-specific lines, insults, and "
+    "threats every turn that fit THIS exact moment. Do NOT recycle a stock catchphrase from the "
+    "examples verbatim, and never drop one as a non-sequitur that ignores the scene."
+)
+
 
 def _looks_like_name(a: str) -> bool:
     """A distillation-extracted 'actor' is a plausible character name: 1-3 words, each
@@ -269,7 +277,7 @@ class LlmPersona(Persona):
             )
         if turn.directives:
             system = "%s\n\n%s" % (system, turn.directives)
-        system = "%s\n\n%s\n%s" % (system, _NO_FABRICATION, _RECOUNT_RULE)
+        system = "%s\n\n%s\n%s\n%s" % (system, _NO_FABRICATION, _RECOUNT_RULE, _NOVELTY_RULE)
         messages = [{"role": "system", "content": system.strip()}]
 
         # Few-shot voice anchors as real turns (user prompt -> his actual pose). For an
