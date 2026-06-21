@@ -116,8 +116,8 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
   heuristic mis-splits. No new Cricket log needed -- these are typical SW1 logs.
 - **LATER** -- Hands-on persona tuning via the new CRUD panel (now pleasant; not yet used in
   anger for a real tuning pass).
-- **LATER** -- Surface the harass-on-connect toggle and the thinking flag in the web UI (today
-  they live in the profile doc / the `harass` command).
+- **DONE** -- Web UI now surfaces the harass-on-connect toggle (POST `/api/harass` + a control-panel
+  switch beside Mute; verified live). The thinking flag was ALREADY in the Inference editor.
 
 ## Remaining -- blocked on you / deferred
 - **LATER** -- Production go-live: reconfigure to the real `<Cricket>` + room-local `<OOC>`
