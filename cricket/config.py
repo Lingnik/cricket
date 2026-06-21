@@ -15,6 +15,7 @@ from the active profile and the rest of the program consumes them.
 
 from __future__ import annotations
 
+import os
 import tomllib
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -141,9 +142,12 @@ def load_config(toml_path: Union[str, Path], env: Union[dict, None] = None) -> C
     )
 
     paths_raw = data.get("paths", {})
+    # CRICKET_MEMORY_DB overrides the configured memory DB -- used to run a test SCENE against a
+    # throwaway DB so it leaves no trace in the bot's real memory (see docs/OPERATIONS.md).
     paths = PathsConfig(
         config_db=paths_raw.get("config_db", "data/cricket-config.sqlite3"),
-        memory_db=paths_raw.get("memory_db", "data/cricket-memory.sqlite3"),
+        memory_db=os.environ.get("CRICKET_MEMORY_DB")
+        or paths_raw.get("memory_db", "data/cricket-memory.sqlite3"),
     )
 
     return Config(mush=mush, control=control, http=http, auth=auth, paths=paths)
