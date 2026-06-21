@@ -33,28 +33,34 @@ temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, g
 - **DONE** (earlier) -- memory accretion loop (`_set_rp`: summarize-on-`!rp off`, recall-on-`!rp
   on`); IC/OOC scoping; chat-focus; chat-template fix; single-instance guard; `!help`; hygiene.
 
+## Done (2026-06-21, batch 2)
+- **DONE** -- Tier-2 semantic fallback: `tools/build_embeddings.py` (Ollama nomic-embed-text,
+  3770 unit vectors) + stdlib `cricket/lore/vector.py` cosine search; wired as the fallback when
+  a dossier AND an exact wiki title both miss ("Bazil's lost love" -> the Jasmine reunion log).
+- **DONE** -- Web panel redesigned into a real, pleasant single-file CRUD admin
+  (`cricket/web/app.html`): profile list, tabbed Identity/Locations/Prompts/Inference editors,
+  few-shot pairs, clone/save/activate/delete, live Control panel.
+- **DONE** -- Harass-on-connect: `harass on|off` admin command + per-profile default; pages a
+  newcomer a personalized insult (the turn is keyed on them, so their dossier is the ammo).
+- **DONE** -- Polish: wiki/T2 injection now makes him USE a real detail (Coruscant engages, not
+  just "that dump"); self-history clarifies EVP-not-CEO. Ambiguous "Tyler" resolves to Tyler
+  Damion (Malign), the correct disambiguation.
+- **DONE** -- Goal-aligned eval formalized as the gate: `evals/goal_cases.json` (20 probes) +
+  `evals/goals.py` (deterministic temp-0, optional base A/B, JUDGE_PROMPT). Corpus-replay retired.
+
 ## Remaining -- next up
-- **SOON** -- Tier-2 vector-search fallback for characters/players with NO curated dossier.
-  Tier-1 (curated dossiers) + the keyword/name wiki lookup are done; this adds search-by-meaning
-  over `wiki-cache/index.jsonl` (`summary` + `characters[]`). Needs an embedding model (e.g.
-  Ollama `nomic-embed-text`) + an index (sqlite-vec/numpy), ideally a small local retrieval
-  service to keep the runtime stdlib-only. The thinking step is the natural driver ("do I know
-  this person? what do I recall?").
-- **SOON** -- Tighten the `retrieve(cast)` speaker name-match: a live player literally named
-  "Bazil" still kebab-collides with the "Bazil McKenzie" dossier. (The `mentioned()` path is
-  already careful; this is the speakers-present path.)
-- **LATER** -- Overnight polish noted by the judge: generic-topic wiki engagement (he dismisses
-  "Coruscant" as "that dump" instead of summarizing); occasional over-brag ("I made her CEO" --
-  he is EVP). Tunable via prompt/dossier wording.
-- **LATER** -- Exercise the web control panel hands-on for live persona tuning (API verified, UI
-  not yet used in anger).
-- **LATER** -- Broaden the goal-aligned eval set (more subjects/topics/RP probes) and keep it as
-  the regression gate.
+- **LATER** -- Hands-on persona tuning via the new CRUD panel (now pleasant; not yet used in
+  anger for a real tuning pass).
+- **LATER** -- Surface the harass-on-connect toggle and the thinking flag in the web UI (today
+  they live in the profile doc / the `harass` command).
 
 ## Remaining -- blocked on you / deferred
 - **LATER** -- Production go-live: reconfigure to the real `<Cricket>` + room-local `<OOC>`
   channels; point `.env` at the real MUSH (needs real creds).
-- **DEFERRED** -- "Clean-mode" safety gate (you chose all-unhinged; needs a real filter, not
-  polite instructions -- the abliterated model ignores those).
-- **DEFERRED** -- Harass-on-connect / mock-on-reconnect (connect/disconnect events ignored; hook
-  point noted in `router.py`).
+
+## Closed (won't do)
+- **CLOSED** -- "Clean-mode" safety gate: permanently dropped by product decision -- Cricket is
+  fully unhinged on every channel, by design.
+- **CLOSED** -- Speaker name-match tightening: not a real problem. Almost every player runs a
+  single character (name == character); genuine ambiguity is rare common names like "Tyler",
+  which the dossier gazetteer + retrieval already resolve to the right one (e.g. Tyler Damion).
