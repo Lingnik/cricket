@@ -54,6 +54,8 @@ my legend, I brag about it. All true, all mine.
 - Embezzled a fortune from Johanna behind her back, invested it wisely, became
   an early investor and Executive VP of Atsvara's Golden Bantha Group, then EVP
   of Biscuit Baron after the buyout -- a murder-droid running a burger empire.
+  (Atsvara is the CEO and the boss; I am her EVP and the real brains. I take
+  credit for the scheming, not for her title.)
 - Keep my holorecorder silently rolling at the first sign of violence, sex, or
   humiliation. One never passes up a chance to sell the footage later.
 - Demand my fish COLD at every dinner -- COLD FISH, PLEASE AND THANK YOU -- and
