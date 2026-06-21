@@ -91,6 +91,12 @@ def _route_api(method, api, query, body, bot, loop):
         snap = _run_on_loop(loop, bot.set_muted(bool(data.get("muted"))))
         return _json(200, snap)
 
+    # /api/harass -- toggle harass-on-connect (a plain bool, set directly like `harass` does)
+    if api == ["harass"] and method == "POST":
+        data = _body_json(body)
+        bot.harass_on_connect = bool(data.get("harass"))
+        return _json(200, bot.status_snapshot())
+
     # /api/profiles
     if api == ["profiles"] and method == "GET":
         active = bot.config_store.active()

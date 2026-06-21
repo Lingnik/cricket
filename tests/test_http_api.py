@@ -19,6 +19,7 @@ class FakeBot:
         self.store = SimpleNamespace(path=str(tmp_path / "memory.sqlite3"))
         self.scene_queues = {}
         self.muted = False
+        self.harass_on_connect = False
         self.rp_enabled = {}
         self.current_room = None
         self.locations = {}
@@ -28,6 +29,7 @@ class FakeBot:
         return {
             "connected": False,
             "muted": self.muted,
+            "harass_on_connect": self.harass_on_connect,
             "active_profile": active[0] if active else None,
             "rp_enabled": [r for r, on in self.rp_enabled.items() if on],
             "scene_queue_sizes": {r: len(q) for r, q in self.scene_queues.items()},
@@ -158,6 +160,17 @@ def test_mute(tmp_path, loop):
     assert result[0] == 200
     assert body(result)["muted"] is True
     assert bot.muted is True
+
+
+def test_harass_toggle(tmp_path, loop):
+    bot = FakeBot(tmp_path)
+    result = route("POST", "/api/harass", json.dumps({"harass": True}).encode(), bot, loop)
+    assert result[0] == 200
+    assert body(result)["harass_on_connect"] is True
+    assert bot.harass_on_connect is True
+    result = route("POST", "/api/harass", json.dumps({"harass": False}).encode(), bot, loop)
+    assert body(result)["harass_on_connect"] is False
+    assert bot.harass_on_connect is False
 
 
 def test_rp_toggle(tmp_path, loop):

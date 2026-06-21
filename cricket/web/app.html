@@ -401,6 +401,10 @@
                 <label class="switch"><input type="checkbox" id="muteSwitch" onchange="toggleMute(this.checked)"><span class="sl"></span></label>
                 <span id="muteLabel" style="font-family:var(--mono);font-size:13px;">Muted: --</span>
               </div>
+              <div style="display:flex; align-items:center; gap:12px; margin-top:10px;">
+                <label class="switch"><input type="checkbox" id="harassSwitch" onchange="toggleHarass(this.checked)"><span class="sl"></span></label>
+                <span id="harassLabel" style="font-family:var(--mono);font-size:13px;">Harass on connect: --</span>
+              </div>
             </div>
 
             <div class="section-card">
@@ -978,6 +982,9 @@ function renderStatusRows(s) {
   // mute switch
   el('muteSwitch').checked = !!s.muted;
   el('muteLabel').textContent = 'Muted: ' + (s.muted ? 'yes' : 'no');
+  // harass-on-connect switch
+  el('harassSwitch').checked = !!s.harass_on_connect;
+  el('harassLabel').textContent = 'Harass on connect: ' + (s.harass_on_connect ? 'yes' : 'no');
 }
 
 function renderRpRooms(s) {
@@ -1017,6 +1024,13 @@ function toggleMute(want) {
   api('POST', '/api/mute', { muted: !!want }).then(function(res) {
     if (res.ok) { applyStatusChips(res.data); renderStatusRows(res.data); renderRpRooms(res.data); toast(res.data.muted ? 'bot muted' : 'bot unmuted', 'ok'); }
     else { toast(res.data.error || 'mute failed', 'err'); refreshStatus(); }
+  });
+}
+
+function toggleHarass(want) {
+  api('POST', '/api/harass', { harass: !!want }).then(function(res) {
+    if (res.ok) { renderStatusRows(res.data); el('harassLabel').textContent = 'Harass on connect: ' + (res.data.harass_on_connect ? 'yes' : 'no'); toast(res.data.harass_on_connect ? 'harass-on-connect ON' : 'harass-on-connect OFF', 'ok'); }
+    else { toast(res.data.error || 'harass toggle failed', 'err'); refreshStatus(); }
   });
 }
 
