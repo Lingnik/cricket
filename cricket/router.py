@@ -402,6 +402,15 @@ class Router:
             for a in actors:
                 if a.strip():
                     s.add(a.strip())
+        tracer = getattr(self.s, "tracer", None)
+        if tracer is not None:
+            tracer.emit({
+                "kind": "distill", "room": room,
+                "block_poser": getattr(block, "speaker", None),
+                "block_text": (getattr(block, "text", "") or "")[:300],
+                "ledger_entry": entry, "actors": actors,
+                "ledger_depth": len(led),
+            })
 
     def _capture_suggestion(self, speaker: str, text: str) -> None:
         """Buffer an OOC nudge addressed to Cricket for the current room's next pose. Favorites
