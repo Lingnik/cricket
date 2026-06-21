@@ -40,10 +40,12 @@ class StubPersona(Persona):
             return "Scene with %s: %s" % (who, first)
         return "Scene with %s: %s ... %s" % (who, first, last)
 
-    async def distill_block(self, block, prior_ledger="", bot_name="Cricket") -> str:
-        """Trivial deterministic ledger line (no model)."""
+    async def distill_block(self, block, prior_ledger="", bot_name="Cricket") -> dict:
+        """Trivial deterministic ledger entry (no model)."""
         text = (getattr(block, "text", "") or "").strip()
         if not text:
-            return ""
+            return {"ledger": "", "actors": []}
         who = getattr(block, "speaker", "") or "someone"
-        return "%s: %s | %s's read: noted." % (who, text[:80], bot_name)
+        actors = [who] if who and who.lower() != bot_name.lower() else []
+        return {"ledger": "%s: %s | %s's read: noted." % (who, text[:80], bot_name),
+                "actors": actors}

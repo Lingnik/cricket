@@ -343,6 +343,35 @@ def test_block_completion_distills_to_ledger():
     assert s.scene_ledger["Room1"] == ["LEDGER[Crestian|draws his ]"]
 
 
+class _OwnerPersona:
+    async def respond(self, turn):
+        return None
+
+    async def distill_block(self, block, prior_ledger="", bot_name="Cricket"):
+        actors = ["Tindomiel"] if "Tindomiel" in block.text else [block.speaker]
+        return {"ledger": "L", "actors": actors}
+
+
+def test_distill_actors_populate_scene_owners():
+    s = make_services()
+    s.rp_enabled = {"Room1": True}
+    s.scene_ledger = {}
+    s.scene_owners = {}
+    s.persona = _OwnerPersona()
+    router = Router(s)
+
+    async def drive():
+        await router.handle(RoomMessage(Actor("Johanna", "#4"), SpeechKind.EMIT, "Tindomiel giggles"))
+        await router.handle(RoomMessage(Actor("Bazil", "#5"), SpeechKind.POSE, "scowls"))  # closes block
+        pending = [t for t in asyncio.all_tasks() if t is not asyncio.current_task()]
+        if pending:
+            await asyncio.gather(*pending)
+
+    asyncio.run(drive())
+    # The NPC the model identified (not in any gazetteer) lands in the do-not-puppet set.
+    assert "Tindomiel" in s.scene_owners["Room1"]
+
+
 # -- OOC dual-role: a chat channel that also takes admin bang-commands ----------
 def test_chat_channel_admin_bang_command_dispatches():
     s = make_services()

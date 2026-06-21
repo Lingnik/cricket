@@ -169,12 +169,34 @@ class LlmPersona(Persona):
                     for nm in self._lore.mentioned(line.text):
                         if nm.strip().lower() != bot_name:
                             claimed.add(nm)
+            # Merge distillation-refined names (catches NPCs not in the gazetteer).
+            for nm in getattr(turn, "claimed", None) or []:
+                if nm and nm.strip().lower() != bot_name:
+                    claimed.add(nm.strip())
             if claimed:
                 blocks.append(
                     "These characters belong to other players -- react TO them but NEVER pose "
                     "their words, actions, thoughts, or outcomes: %s. You control ONLY yourself "
                     "(and any brand-new NPC you introduce)." % ", ".join(sorted(claimed))
                 )
+
+        # RP first-appearance prefetch: a brief wiki blurb for present cast who have NO curated
+        # dossier, so a newcomer mid-scene is not a stranger.
+        if self._wiki is not None and self._lore is not None and turn.mode == "rp":
+            skip = {"memory", "scene", ""}
+            unknown = []
+            for name in cast:
+                n = (name or "").strip()
+                if (n.lower() in skip or len(n) < 3 or not n[0].isupper()
+                        or self._lore.dossier(n) is not None):
+                    continue
+                blurb = self._wiki.summary_for(n)
+                if blurb:
+                    unknown.append("- %s: %s" % (n, blurb))
+                if len(unknown) >= 3:
+                    break
+            if unknown:
+                blocks.append("Who else is here (from the records):\n" + "\n".join(unknown))
 
         # OOC only: wiki blurbs for topics named in the line (the "rogue search engine"). IC
         # stays canon-grounded. Exclude the bot itself and anyone already covered by a dossier.
@@ -345,30 +367,45 @@ class LlmPersona(Persona):
         )
         return (text or "").strip()
 
-    async def distill_block(self, block, prior_ledger: str = "", bot_name: str = "Cricket") -> str:
-        """Distill ONE completed pose-block into a single running-ledger line: a terse factual
-        note of what happened plus Cricket's private read of it. Keeps the scene arc grounded
-        as the verbatim tail is byte-trimmed. '' on an empty block."""
+    async def distill_block(self, block, prior_ledger: str = "", bot_name: str = "Cricket") -> dict:
+        """Distill ONE completed pose-block. Returns {'ledger': <what happened | his read>,
+        'actors': [characters who acted in it, excluding the bot]}. The ledger keeps the scene
+        arc grounded as the verbatim tail is byte-trimmed; the actors refine the do-not-puppet
+        set (catching NPCs a player puppets that are not in the gazetteer)."""
         text = (getattr(block, "text", "") or "").strip()
         if not text:
-            return ""
+            return {"ledger": "", "actors": []}
         speaker = getattr(block, "speaker", "") or "someone"
         doc = self._get_profile() or {}
         inference = doc.get("inference", {}) if isinstance(doc, dict) else {}
         options = self._build_options(inference)
-        options["num_predict"] = 120
-        options["temperature"] = 0.4  # the ledger is factual, not theatrical
+        options["num_predict"] = 140
+        options["temperature"] = 0.3  # the ledger is factual, not theatrical
         messages = [
             {"role": "system", "content":
                 "You maintain a terse private ledger of an RP scene for the droid %s. "
                 "Factual third person; no roleplay, no shouting." % bot_name},
             {"role": "user", "content":
-                "Scene ledger so far:\n%s\n\nNew pose from %s:\n%s\n\nReply with ONE line: a "
-                "brief factual note of what just happened, then ' | %s's read: ' and his terse "
-                "private reaction (a scheme, a grudge, an intent). One line, no preamble."
-                % (prior_ledger or "(start of scene)", speaker, text, bot_name)},
+                "Scene ledger so far:\n%s\n\nNew pose from %s:\n%s\n\nReply with EXACTLY two "
+                "lines:\nLine 1: a brief factual note of what happened, then ' | %s's read: ' "
+                "and his terse private reaction.\nLine 2: 'ACTORS: ' then a comma-separated list "
+                "of the characters who acted or spoke in this pose (exclude %s); 'none' if it is "
+                "just narration."
+                % (prior_ledger or "(start of scene)", speaker, text, bot_name, bot_name)},
         ]
         out = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
-        return " ".join((out or "").split()).strip()
+        ledger, actors = "", []
+        for ln in (out or "").splitlines():
+            s = ln.strip()
+            if not s:
+                continue
+            if s.upper().startswith("ACTORS:"):
+                for a in s.split(":", 1)[1].split(","):
+                    a = a.strip()
+                    if a and a.lower() not in ("none", bot_name.lower()):
+                        actors.append(a)
+            elif not ledger:
+                ledger = " ".join(s.split())
+        return {"ledger": ledger, "actors": actors}

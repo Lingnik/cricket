@@ -374,11 +374,22 @@ class Router:
         bid = getattr(self.s, "bot_identity", None)
         bot = (bid.name if bid is not None else "") or "Cricket"
         try:
-            entry = await self.s.persona.distill_block(block, prior_ledger=prior, bot_name=bot)
+            result = await self.s.persona.distill_block(block, prior_ledger=prior, bot_name=bot)
         except Exception:  # noqa: BLE001 -- ledger is best-effort
-            entry = ""
+            result = {}
+        if isinstance(result, dict):
+            entry, actors = result.get("ledger", ""), result.get("actors", [])
+        else:  # legacy str return
+            entry, actors = result, []
         if entry:
             led.append(entry)
+        # Distillation-refined ownership: characters the model saw acting -> do-not-puppet set.
+        owners = getattr(self.s, "scene_owners", None)
+        if owners is not None and actors:
+            s = owners.setdefault(room, set())
+            for a in actors:
+                if a.strip():
+                    s.add(a.strip())
 
     # -- pages -----------------------------------------------------------------
     async def _handle_page(self, event: Page) -> None:
