@@ -25,6 +25,7 @@ _SPECIAL_TOKEN = re.compile(
     r"|<?\|?(?:im_end|im_start|eot_id|start_header_id|end_header_id"
     r"|begin_of_text|end_of_text)\|?>?"
     r"|<br\s*/?>"
+    r"|\*\*"  # markdown bold markers (single '*' is kept -- it delimits pose actions)
 )
 
 # A role marker at the START OF A LINE marks the model breaking character; everything

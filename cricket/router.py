@@ -12,6 +12,7 @@ state muted, rp_enabled, scene_queues, recent, current_room.
 
 from __future__ import annotations
 
+import re
 from typing import Union
 
 from .auth import Level
@@ -27,6 +28,14 @@ from .mush.events import (
 from .persona.base import ContextLine, Turn
 
 RECENT_CAP = 20
+
+# Connection/disconnection and channel join/leave announcements. For now these are noise:
+# we ignore them entirely (no context, no reply). (Later Cricket may harass people on
+# connect / mock reconnects -- that would re-enable these as a deliberate trigger.)
+_CHANNEL_NOTICE = re.compile(
+    r"^has ((?:re)?connected|disconnected|joined this channel|left this channel)\b",
+    re.IGNORECASE,
+)
 
 
 class Router:
@@ -67,6 +76,8 @@ class Router:
 
     # -- channels --------------------------------------------------------------
     async def _handle_channel(self, event: ChannelMessage) -> None:
+        if _CHANNEL_NOTICE.match((event.text or "").strip()):
+            return  # connect/disconnect/join/leave -- noise; ignore entirely for now
         s = self.s
         cfg = getattr(s, "locations", {}).get(event.channel)
         self._log(event.channel, event.speaker.dbref, event.kind.value, event.text)
