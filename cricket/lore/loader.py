@@ -33,6 +33,19 @@ from typing import Union
 # The richer per-player sheets distilled from the corpus PR should emit this format.
 _FACET_HEADER = re.compile(r"(?im)^##[ \t]+(IC|OOC)\b.*$")
 
+# -- mentioned-entity gazetteer --------------------------------------------------
+# Cricket should also pull a dossier for someone NAMED in the live line, not just the
+# speakers present ("what do you know about Johanna?"). We do this deterministically: a
+# gazetteer of known dossier characters, matched against the text. No LLM tool-calling.
+_WORD_RE = re.compile(r"[A-Za-z0-9']+")
+# Name tokens that collide with common English words -- never treat as a lone mention.
+_STOP_NAME_TOKENS = {
+    "rose", "violet", "dark", "star", "grey", "gray", "prince", "reaper",
+    "stardust", "control", "young", "witch",
+}
+# Name-internal particles -- not identifying on their own.
+_NAME_PARTICLES = {"te", "of", "the", "van", "von", "da", "de", "la", "del", "el", "san"}
+
 
 def _facet(text: str, scope: Union[str, None]) -> str:
     """Return the part of a dossier relevant to `scope` ("ic"|"ooc"|None).
@@ -83,6 +96,8 @@ class LoreStore:
         self.dir = Path(lore_dir)
         self._index = self._load_index()
         self._dossiers = self._discover_dossiers()  # kebab stem -> Path
+        # Gazetteer for mentioned-entity matching: display names + name-token index.
+        self._display, self._name_tokens, self._full_names = self._build_gazetteer()
 
     # -- loading ---------------------------------------------------------------
     def _load_index(self) -> dict:
@@ -102,6 +117,34 @@ class LoreStore:
             for f in sorted(d.glob("*.md")):
                 out[f.stem] = f
         return out
+
+    def _build_gazetteer(self):
+        """From the dossier set, build (display, name_tokens, full_names):
+        - display[stem]      -> the dossier's "# Title" heading (or a prettified stem).
+        - name_tokens[token] -> set of stems whose name contains that token (len>=3, no particles).
+        - full_names[spaced]  -> stem, keyed by the multi-token name joined with spaces.
+        Used by mentioned() to recognize a character NAMED in a line."""
+        display: dict = {}
+        name_tokens: dict = {}
+        full_names: dict = {}
+        for stem, path in self._dossiers.items():
+            toks = [t for t in stem.split("-") if t]
+            disp = None
+            try:
+                for line in path.read_text(encoding="utf-8").splitlines():
+                    s = line.strip()
+                    if s.startswith("# "):
+                        disp = s[2:].strip()
+                        break
+            except OSError:
+                disp = None
+            display[stem] = disp or " ".join(t.capitalize() for t in toks)
+            if len(toks) >= 2:
+                full_names[" ".join(toks)] = stem
+            for t in toks:
+                if len(t) >= 3 and t not in _NAME_PARTICLES:
+                    name_tokens.setdefault(t, set()).add(stem)
+        return display, name_tokens, full_names
 
     def _read(self, name: str) -> str:
         p = self.dir / name
@@ -130,6 +173,45 @@ class LoreStore:
             return f.read_text(encoding="utf-8")
         except OSError:
             return None
+
+    def display_name(self, stem: str) -> str:
+        """The display name for a dossier stem (its '# Title'), or the stem itself."""
+        return self._display.get(stem, stem)
+
+    def mentioned(self, text: str, max_names: int = 4) -> list:
+        """Display names of KNOWN dossier characters NAMED in `text` (not just speakers).
+
+        Deterministic gazetteer match, no LLM: a multi-token full name appearing anywhere
+        (e.g. "bazil mckenzie"), plus a Capitalized single token that is unique to one
+        character and not a common-word collision (so "what do you know about Johanna?" ->
+        Johanna). Returns display names (ready to pass into retrieve()); empty on no match.
+        """
+        if not text:
+            return []
+        low = text.lower()
+        out: list = []
+        seen: set = set()
+        for full, stem in self._full_names.items():
+            if stem in seen:
+                continue
+            if re.search(r"\b" + re.escape(full) + r"\b", low):
+                seen.add(stem)
+                out.append(self.display_name(stem))
+        for m in _WORD_RE.finditer(text):
+            tok = m.group(0)
+            lt = tok.lower()
+            if len(lt) < 3 or lt in _STOP_NAME_TOKENS or not tok[0].isupper():
+                continue
+            stems = self._name_tokens.get(lt)
+            if not stems or len(stems) != 1:
+                continue
+            stem = next(iter(stems))
+            if stem not in seen:
+                seen.add(stem)
+                out.append(self.display_name(stem))
+            if len(out) >= max_names:
+                break
+        return out[:max_names]
 
     def episodes_for(self, name: str) -> list:
         chars = self._index.get("characters", {})
