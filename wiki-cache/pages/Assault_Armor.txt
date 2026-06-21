@@ -1,0 +1,18 @@
+TITLE: Assault Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-18T16:34:47Z
+======================================================================
+'''Assault armor''' comes in a variety of shapes and sizes, but the heavy
+plating of this suit is common to all types. This suit of full body
+armor creates an imposing image when worn though its bulk tends to
+slow the wearer a great deal. Still, it is capable of stopping a
+great deal of physical force and withstanding much harmful energy
+in the form of blaster bolts as well.
+ <pre>
+Name................Assault Armor
+Weight..............25kg                     Covers..............Body
+Physical Protection.2D+2                     Energy Protection...1D+2
+Conceal Difficulty..38                       Dexterity Penalty...-1D+2
+Strength Bonus......0                    </pre>
+
+[[Category:Armor]]

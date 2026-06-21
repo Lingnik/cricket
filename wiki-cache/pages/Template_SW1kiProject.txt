@@ -1,0 +1,10 @@
+TITLE: Template:SW1kiProject
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-08-27T15:48:38Z
+======================================================================
+<includeonly>[[Category:SW1kiProjects|{{{name|{{PAGENAME}}}}}]]</includeonly><noinclude>
+==Usage==
+This template is intended to annotate and automatically categorize [[SW1ki:SW1kiProject|SW1kiProject]] pages.
+
+It expects a single parameter, '''{{{name}}}''', which is the name of the project.
+[[Category:Templates|SW1kiProject]]</noinclude>

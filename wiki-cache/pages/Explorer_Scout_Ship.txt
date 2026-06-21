@@ -1,0 +1,31 @@
+TITLE: Explorer Scout Ship
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:46:05Z
+======================================================================
+<pre>Craft ........ Incom Explorer
+Type ......... Scout Ship            Cargo Capacity ......... 5 metric tons
+Scale ........ Starship              Consumables ............ 1 month
+Length ....... 15 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x15
+Crew ......... 1                     Nav Computer ........... Yes
+Passengers ... None                  Maneuverability ........ 2D
+Hull ......... 154                   Space Movement ......... 60
+Shields ...... 108                   Atmosphere ............. 330; 950kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1400,  Focus:  50,  Passive:  350
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (3 filled)
+
+Stock Weapons:
+   Three Laser Cannons (fire separately):
+      Weapon Rating .... Class 3         Damage ........ 4D
+      Fire Arc ......... FR, L, R        Fire Control .. 3D
+      Space Range ...... 1-3/12/25       Atmo Range .... 100-300m/1.2km/1.5km
+
+BASE COST NEW: 130000 cr             BASE COST USED: 32500 cr              
+SUGGESTED DOWNPAYMENT: 78000 (new), 19500 (used)</pre>
+
+[[Category:Starships]]
+[[Category:CEC Ships]]

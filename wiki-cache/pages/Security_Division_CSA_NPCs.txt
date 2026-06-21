@@ -1,0 +1,122 @@
+TITLE: Security Division (CSA)/NPCs
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-17T14:52:23Z
+======================================================================
+[[Category:NPC_Stats]]
+{{working}}
+
+== Espo Troopers ==
+<div style="float:left;width: 48%;">
+=== Typical Espo Trooper (NPC) ===
+{{Sheet
+|width=100%
+|dexterity=3D
+|dexterity-skills=
+{{Sheet/Skill|Blaster|3D+2}}
+{{Sheet/Skill|Brawling parry|3D+2}}
+{{Sheet/Skill|Melee combat: Stun baton|5D}}
+{{Sheet/Skill|Running|3D}}
+|knowledge=1D
+|knowledge-skills=
+{{Sheet/Skill|Intimidation|3D}}
+{{Sheet/Skill|Law enforcement|2D+2}}
+{{Sheet/Skill|Streetwise|3D}}
+|mechanical=2D
+|mechanical-skills=
+{{Sheet/Skill|Beast riding|3D}}
+{{Sheet/Skill|Ground vehicle operation|2D+2}}
+{{Sheet/Skill|Repulsorlift operation|3D}}
+|perception=2D
+|perception-skills=
+{{Sheet/Skill|Bargain|2D+2}}
+{{Sheet/Skill|Search|3D+1}}
+|strength=2D
+|strength-skills=
+{{Sheet/Skill|Brawling|2D+2}}
+{{Sheet/Skill|Climbing/Jumping|3D}}
+{{Sheet/Skill|Lifting|3D}}
+{{Sheet/Skill|Stamina|2D+2}}
+|technical=2D
+|technical-skills=
+{{Sheet/Skill|Security|3D}}
+|equipment=
+{{Sheet/fullrow|Blast helmet with visor (+1 energy, +1D physical)}}
+{{Sheet/fullrow|Blast vest (+1 energy, +1D physical, -1 ''Dexterity'' and related skills)}}
+{{Sheet/fullrow|Stun baton (STR+2D+2))}}
+{{Sheet/fullrow|Blaster pistol (4D))}}
+{{Sheet/fullrow|Comlink}}
+}}
+
+</div><div style="float:right;width: 48%;">
+=== Typical Espo Elite Trooper (NPC) ===
+{{Sheet
+|width=100%
+|dexterity=3D
+|dexterity-skills=
+{{Sheet/Skill|Blaster|5D+2}}
+{{Sheet/Skill|Brawling parry|5D+2}}
+{{Sheet/Skill|Grenade|4D}}
+{{Sheet/Skill|Melee combat|5D}}
+{{Sheet/Skill|Melee combat: Stun baton|7D+1}}
+{{Sheet/Skill|Running|4D}}
+{{Sheet/Skill|Vehicle blasters|4D+2}}
+|knowledge=1D
+|knowledge-skills=
+{{Sheet/Skill|Intimidation|3D+1}}
+{{Sheet/Skill|Law enforcement|3D}}
+{{Sheet/Skill|Streetwise|3D+2}}
+{{Sheet/Skill|Survival|3D}}
+|mechanical=2D
+|mechanical-skills=
+{{Sheet/Skill|Beast riding|3D+2}}
+{{Sheet/Skill|Ground vehicle operation|3D}}
+{{Sheet/Skill|Repulsorlift operation|4D}}
+{{Sheet/Skill|Walker operation|4D}}
+|perception=2D
+|perception-skills=
+{{Sheet/Skill|Bargain|3D}}
+{{Sheet/Skill|Search|4D}}
+{{Sheet/Skill|Sneak|3D+2}}
+|strength=2D
+|strength-skills=
+{{Sheet/Skill|Brawling|4D+2}}
+{{Sheet/Skill|Climbing/Jumping|3D}}
+{{Sheet/Skill|Lifting|3D}}
+{{Sheet/Skill|Stamina|2D+2}}
+|technical=2D
+|technical-skills=
+{{Sheet/Skill|Computer programming/repair|3D}}
+{{Sheet/Skill|Droid programming|3D}}
+{{Sheet/Skill|Security|4D}}
+|equipment=
+{{Sheet/fullrow|Blast helmet with visor (+1 energy, +1D physical)}}
+{{Sheet/fullrow|Blast vest (+1 energy, +1D physical, -1 ''Dexterity'' and related skills)}}
+{{Sheet/fullrow|Stun baton (STR+2D+2))}}
+{{Sheet/fullrow|Blaster pistol (4D))}}
+{{Sheet/fullrow|Comlink}}
+{{Sheet/fullrow|Glop grenade x 1}}
+{{Sheet/fullrow|Sound grenade x 1}}
+{{Sheet/fullrow|Binders (5D ''Strength'') x 3}}
+}}</div><br clear="all"/>
+
+<div style="float:left;width: 48%;">
+=== Typical Espo Officer (NPC) ===
+{{Sheet
+|width=100%
+}}
+</div><br clear="all"/>
+
+
+== Picket Fleet ==
+<div style="float:left;width: 48%;">
+=== Typical Espo Picket Fleet Trooper (NPC) ===
+{{Sheet
+|width=100%
+}}
+</div>
+<div style="float:right;width: 48%;">
+=== Typical IRD Pilot (NPC) ===
+{{Sheet
+|width=100%
+}}
+</div><br clear="all"/>

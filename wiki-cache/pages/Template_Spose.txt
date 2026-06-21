@@ -1,0 +1,11 @@
+TITLE: Template:Spose
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-07T15:33:03Z
+======================================================================
+<font style="font-family: Arial, Myriad, Sans; font-size: 8pt; color: #9a7a25;">({{{1}}})&nbsp;&nbsp;&nbsp;</font><noinclude><br />
+=== Usage ===
+Type the following wherever deploying this template-
+*<nowiki>{{spose|variable}}</nowiki>
+
+Used inside large, complex RP logs to distinguish the pose order. No spaces required -- formats itself. Color is currently bronze. Changing it here will change ''all'' occurrences throughout the wiki. Asks for a single input (variable), that of the poser.
+[[Category:Templates|Spose]]</noinclude>

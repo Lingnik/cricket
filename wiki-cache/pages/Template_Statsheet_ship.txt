@@ -1,0 +1,9 @@
+TITLE: Template:Statsheet ship
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-08-07T18:42:53Z
+======================================================================
+{| class="noprint" style="border:1px solid #999; background:#fff; margin:0 0 .5em .5em; text-align:center; padding:5px; clear:center;" align="center"
+|-
+!This article is a Sim Stat Sheet for [[{{{1}}}|this starship]].
+|-
+|}<includeonly>[[Category:Stat Sheets]]</includeonly><noinclude>[[Category:Templates|Statsheet ship]]</noinclude>

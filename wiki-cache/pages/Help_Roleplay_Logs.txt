@@ -1,0 +1,20 @@
+TITLE: Help:Roleplay Logs
+NAMESPACE: 12 (Help)
+LAST_EDIT: 2007-04-15T01:07:22Z
+======================================================================
+To add a roleplay log to the wiki, follow these instructions:
+
+* Type the following text into your browser's address bar to go to the new log's page:<br>
+<nowiki>http://sw1mush.wikia.com/wiki/RPlog:Insert Log Title Here</nowiki>
+
+* Click on the "edit this page" link to start adding text.
+
+* First, insert the [[SW1ki:Template Usage Guide|<nowiki>{{rplog}}</nowiki>]] template and fill in the specifics for your log. If including <nowiki>[[]]</nowiki> wiki links in the template, please use the Preview button or the Search feature to find the proper article names and to make sure your links work.
+
+* Next, copy in your log. Use double-spacing for regular paragraphs and the <nowiki><br></nowiki> tag for single line breaks.
+
+* Your log won't be permanently added to the wiki until you Save your first changes.
+
+* Finally, link your roleplay log into the appropriate section of the [[Roleplay Logs]] article by editing that page.
+
+[[Category:Help|{{PAGENAME}}]]

@@ -1,0 +1,51 @@
+TITLE: Talk:Roleplay Logs
+NAMESPACE: 1 (Talk)
+LAST_EDIT: 2007-03-04T22:55:02Z
+======================================================================
+== Category? ==
+Perhaps we should consider making Roleplay Logs a category with each individuals' logs as a sub-category?  -- [[User:Xerxes|Xerxes]] 12:30, 20 March 2006 (UTC)
+*Possibly... we can take a vote. Whoever reads this, post your thoughts and we'll come to a conclusion in a few days! --[[User:Danik Kreldin|Danik Kreldin]] 16:35, 20 March 2006 (UTC)
+
+:- I'm not too heavily in favor of it, because by putting them on a list, we can constrain their listing by chronology, by source, by topic... and even give them short synopsi. If we were to just categorize them, we lose those options. Maybe we can come up with a better/different interface format for them later, but for right now, I think the current implementation will be fine. -- [[User:Hawke|Hawke / Rtufo]] 03:53, 21 March 2006 (UTC)
+
+:* The list needs to be sorted in some fashion (''by Player name?''), to make it easy to find logs by ''Player''.  What can we do to make it easy to navigate from character pages to the logs submitted by / featuring that character?  What can we do to make it easy to navigate from the logs to the players featured in that log? (Just link from the log to the player, right?)  I figured a set of '''Logs featuring ''Player'' ''' and '''Logs submitted by ''Player'' ''' categories might do the trick.  If we're not going to use categories, then I propose we establish some standards around these topics. -- [[User:Xerxes|Xerxes]] 19:39, 21 March 2006 (UTC)
+
+== Proposed Standards ==
+
+# Let's sort the 'Logs by...' entries by player names. -- [[User:Xerxes|Xerxes]] 11:33, 5 April 2006 (UTC)
+# What do you think about changing the naming standard for log articles from '''RPLog - <title>''' to '''<title> (RP Log)'''?  That seems to be the way other wikis do their disambiguation. -- [[User:Xerxes|Xerxes]] 11:33, 5 April 2006 (UTC)
+*Sounds fine by me. I'll work on it today. --[[User:Danik Kreldin|Danik Kreldin]] 11:59, 5 April 2006 (UTC)
+*I preferred the '''RPlog - <title>''' method because, that way, '''''all''''' RPlogs, which are the most loosely "controlled" articles/pages on the Wiki, appear in one section when we list out pages. I realize there are various ways of searching for articles/pages, but I'm all for making the backend as streamlined as possible. -- [[User:Hawke|Hawke / Rtufo]] 15:48, 5 April 2006 (UTC)
+**Where are we listing out all the pages like this?  Aren't categories a more natural and interactive method for organizing articles? -- [[User:Xerxes|Xerxes]] 13:28, 5 April 2006 (PDT)
+**I imagine using some disambiguation pages to link articles to logs.  Imagine if there were two articles '''Battle of Selene''' and '''Battle of Selene (Roleplay Log)'''. -- [[User:Xerxes|Xerxes]] 14:03, 14 April 2006 (UTC)
+***Please don't use links for example or hypothetical pages. You're creating a redlink that goes into a "requested pages" listing, and really isn't necessary. -- [[User:Hawke|Hawke / Rtufo]] 14:37, 14 April 2006 (UTC)
+**The reason I advocate so heavily for '''RPlog - <title>''' is found in the "Special Pages" functions. In several of those special pages, you can list out files, and the report comes back in alphabetical order. You cannot order/list them by "type" (title (RP Log) or title (planet)). For any other article type, such as planets, weapons, or characters, I have no issue... but logs, which are usually ungainly and named in ambiguous, irrelevant ways (usually), I as an editor would want them in "one place" on those listings where I can find 'em all. -- [[User:Hawke|Hawke / Rtufo]] 14:35, 14 April 2006 (UTC)
+***Aren't logs added to [[:Category:Logs]]?  Isn't that a better, more wiki-like way to see them all in one place? What's does alphabetically blocking off logs gain us when other types of articles aren't? And, if it doesn't gain us anything then why the special case?  Why not establish a common standard? -- [[User:Xerxes|Xerxes]] 18:08, 14 April 2006 (UTC)
+***Logs ''are'' added to [[:Category:Logs]]... '''''if''''' a contributor knows to/knows how to put the category link at the bottom, and how to format it. Not every new contributor knows to do this, though. And there are, and will be, contributors who just make pages haphazardly, and leave them unformatted, orphaned, and "floating". And there '''is''' a common standard... it's '''RPlog - This is the Title'''. -- [[User:Hawke|Hawke / Rtufo]] 18:25, 14 April 2006 (UTC)
+****<p>I meant common standard between RPLog articles and other types of articles.  As opposed to one standard for logs and another standard for other articles.</p><p>If an article is floating, isn't that what [[Special:Uncategorizedpages|Special:Uncategorized Pages]] is for?  Haphazard page-making won't just be limited to logs, right?  How does the current naming standard help resolve the floating pages issue? We should be looking at all floating articles, not just the ones that are logs. -- [[User:Xerxes|Xerxes]] 18:38, 14 April 2006 (UTC)</p>
+**<p>Another alternative naming standard occurred to me.  We could make the log pages sub-articles of the [[Roleplay Logs]] page, e.g. '''Roleplay Logs/Fett vs. the Firecats'''.</p><p>Things would still show up together under the All Pages lists, and without the second (-'s) naming standard.  We could even break it down further: '''Roleplay Logs/''<PlayerName>''/''<title>'''''.  This would allow titles to be reused by other players.</p><p>What do people think of that?  -- [[User:Xerxes|Xerxes]] 20:17, 17 April 2006 (UTC)</p>
+*Could we add the other players involved in the logs as well? I mean you see a log under player XXX's name and have no idea whether player YYYY was involved or not? At the moment I have to look inside each log to find out, which players were involved. --Athena 22:35, 13 April 2006 (UTC)
+**I agree. --[[User:Danik Kreldin|Danik Kreldin]] 22:38, 13 April 2006 (UTC)
+**I don't really agree.  While I don't see anything wrong with including the important participants in the description, I think it should be optional and not a formal standard.  I personally like the idea of creating '''Logs featuring ''PlayerName''''' categories. -- [[User:Xerxes|Xerxes]] 14:03, 14 April 2006 (UTC)
+
+== Time stamps? ==
+
+What about time stamps (RL-Time and MUSH IC-Time) at each log file to get a chronology and a better idea when the scene took place? --Athena 22:35, 13 April 2006 (UTC)
+:*I agree.  This would be a nice addition.  How precise should we get on the time?  Month / Year?  I'm thinking of cases where a single scene might be broken apart into multiple RL sessions. -- [[User:Xerxes|Xerxes]] 14:06, 14 April 2006 (UTC)
+
+:* Thats ture, I even had RP sessions playing at one day in VL , but which was performed about days in RL. So I would suggest to just enter the information which is possible: if you have a special day, why not add it asa note, if you have only the month , just add this? --Athena 15:09, 16 April 2006 (UTC)
+
+== [[Roleplay_Logs#On Major Ships|On Major Ships]]? ==
+
+I think that the log should be categorized under whomever captured it, whether that character ICly participated in the scene, NPC'ed a character, or just observed.  Being able to easily determine the author of a log is a good thing. I could see us possibly adding a '''By Admin''' category at some point for cases when the author is a management alt, but logs are always captured by '''''someone'''''. -- [[User:Xerxes|Xerxes]] 08:38, 7 July 2006 (UTC)
+
+*I agree with your sentiment &mdash; I only changed what was there (''By'' Major Ships) to the current variant (''On'' Major Ships) because a ship has no personality, thus cannot pen a log or account. Perhaps accounts/logs like this should be "By Collaborative Effort" or "By Multiple Contributors". -- [[User:Hawke|Hawke / Rtufo]] 14:23, 7 July 2006 (UTC)
+
+== Style guidelines ==
+
+Should logs be sorted chronologically, reverse chronologically, different for everyone? -- [[User:Xerxes|Xerxes]] 15:08, 23 July 2006 (UTC)
+
+:I have no idea at this point... all I know is, however the majority does it, there's always '''''someone''''' who'll do it different, just because. -- [[User:Hawke|Hawke / Rtufo]] 15:16, 23 July 2006 (UTC)
+
+
+I'll get to uploading all these new (albeit very old) logs tomorrow on this page. Plus I still have a lot more to upload. :( --[[User:Danik Kreldin|Danik Kreldin]] 10:14, 20 February 2007 (UTC)

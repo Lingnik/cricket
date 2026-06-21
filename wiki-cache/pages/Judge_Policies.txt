@@ -1,0 +1,114 @@
+TITLE: Judge Policies
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-08-26T14:00:43Z
+======================================================================
+The Star Wars MUSH Judge system exists to allow for immediate online arbitration of IC activity that can not be resolved by those involved themselves, and to act as official witnesses of IC activity.
+
+This Judging system was designed with the idea that action on the MUSH should '''NEVER''' be forced to stop just because there don't happen to be any judges online. Players are encouraged to try to settle their IC matters by themselves. However, sometimes a dispute occurs where a mediator is needed to keep RP from being completely disrupted, or where an official IC action needs to be monitored and logged with the administration.
+
+The +reqjudge command exists to notify the online Judges of situations where their presence is required. (+help +reqjudge)
+
+Once a Judge arrives, they take charge of the situation and their decisions are official.
+
+=== WHEN ARE JUDGES NEEDED? ===
+Judges are called into play when:
+1. An approved TP specifies a Judge must be present for certain events.
+2. Players request a judge to mediate and arbitrate a situation.
+3. Players would like an official witness for their RP.
+4. Players have questions about their RP actions and need clarification.
+
+Generally speaking, if you're in doubt, call the Judges. Better to err on the side of safety than risk having your RP voided because of some extenuating circumstance.
+
+=== REFUSAL TO JUDGE ===
+There are certain circumstances in which a Judge may opt not to arbitrate a particular situation, such as if his or her PC is involved in the scene, or if the scene creates another type of personal conflict. (Judges are ''required'' to refuse to judge scenes where their PC is involved).
+
+In normal situations, however, once the decision is made to arbitrate the scene, the Judge is required to see it through to the end to the best of his or her ability.
+
+Judges who purposefully stall situations or consistently refuse to judge will be released from the judge board.
+
+If a situation becomes too much to handle or a scene cannot be resolved in the time allotted, for whatever reason, Judges may call a 'timestop' or 'freeze' to the current RP. These typically occur when a scene begins to take on OOC interference that disrupts it's progress, when an important clarification needs to be made in order for the scene to continue, or when too many key players have disconnected and the roleplay must continue another night before the scene is fully resolved. Timestops and freezes are a last resort and should be resolved as soon as possible, to allow players to continue gameplay.
+
+Accusations about judges being unfair or biased will generally be disregarded unless proof can be provided. It is not in the best interests of anyone to make such claims when judge rulings do not go their way, unless they can prove an injustice has occurred. The proper avenue for making such claims is provided through the appeals process (See SWINFO PETITIONS).
+
+=== CURRENT POLICIES ===
+Over the years, the Judge staff has built up a set of precedents and general guidelines that they have used for their "common calls" that they receive. Below are some of the guidelines used to handle many of these situations.
+
+==== Secret Smuggling Holds ====
+The player doing the installation must be present in the ship at the time of installation.  A Judge can then supervise the installation, which relies on the STARSHIP REPAIR skill of the installer.  All secret holds cost 10,000 credits and one hold is allowed per ship.
+
+==== Changing Identities ====
+
+Under no circumstances is a player to change their @name in order to conceal their identity.  Please refer to policies on Fake IDs and Disguises for concealing your identity.  +bbread 18/6 for more information.
+
+==== Disguises ====
+HIDE is the skill to be rolled to determine how good one's disguise is.  Others in the room may roll PERCEPTION to see if they can see through the disguise passively or SEARCH if they are actively looking for or at an individual.
+
+==== Creating a Disguise ====
+The visual aspect of a disguise is a camouflage of sorts, at it's most basic level.  As such, HIDE is the skill we use to determine the visual side of a disguise.
+
+0-10 - An easy disguise to pull off, which relies on clothing alone.  Think of a hobo getup or basic janitor outfit.<br />
+11-15 - Clothing and some basic physical appearance changes.  Perhaps hair is died and a beard is grown or glued on.<br />
+16-20 - A more in-depth disguise is used with multiple elements.  How long this lasts will be determined by where the +check falls compared to the set difficulty.<br />
+21-30 - A specific person.<br />
+31+ - A specific, well known or famous person.
+
+If a disguise is being installed by MEDICAL means, then a +check of MEDICAL will be required for the level of operation to be undergone for the procedure.  Appropriate wound levels and recovery time will be applied as specified by the Judge.
+
+Duration of a Disguise
+If a disguise involves more than just clothing and is not being professionally installed by MEDICAL means, then there is a set duration for how long it can last, based on how the player defeats the base difficulty level of what they are attempting.  A player may, of course, re-apply their disguise and start the process over.  Medically applied disguises are permanent until undone.<br />
+0-5 - A simple one hour disguise.<br />
+6-7 - A two hour disguise.<br />
+8-13 - A six hour disguise.<br />
+14-20 - A 12 hour disguise.
+
+==== Fake IDs ====
+To produce a Fake ID on your own requires a fee of 5,000 credits for assorted bribes and/or equipment.  A Judge will then be able to assist with the creation of the ID by witnessing a Forgery +check.<br />
+>10 - The ID is a total bust<br />
+10-15 - The ID stays together, but you can tell it is a fake<br />
+16-24 - A decent ID that only a trained eye could determine is a fake.<br />
+25+ - A perfect fake.
+
+If someone would like to inspect the Fake ID and it is less than the Perfect level of fake, they may +check SEARCH and compare their result against the FORGERY roll used to create the ID.
+
+==== Slicing ====
+Must be done from the location where you will be ICly performing it from.
+Three skills will be used by a slicer when attempting to gain access to a system: Computers, Cryptography, and Security.<br />
+The first +check required will be for COMPUTERS to determine if the slicer is able to physically connect and operate the terminal well enough to complete the procedure.  The second +check will be for CRYPTOGRAPHY to determine if the slicer is able to work with the data they are accessing.  The final +check will be for SECURITY to determine if the slicer is able to get in and out without detection.  These difficulties are based on either the terminal being physically used or the system being accessed (whichever is most difficult).<br />
+1-5 - Public or easily accessible systems.  Think of a public terminal.<br />
+6-10 - Public systems with some level of security attached.  Some government or corporate records systems fall into this category.<br />
+11-15 - Private systems.  Personal terminals, basic banking information, etc.<br />
+16-20 - Higher level systems with secret information.  Corporate level systems and basic military systems fall in this category.<br />
+21-30 - Top secret or high-level military/government systems.<br />
+31 - Highly specialized systems with the most secret of information.<br />
+
+If a difficulty is missed by more than half the determined number, then the system becomes aware of the intruder and immediately locks down.  Any roll between half and the difficulty can be considered as logged by the system, unless the slicer makes an additional set of rolls to try to clean their tracks.
+
+==== Ship Building ====
+A ship will be provided with no stats. It will be essentially a shell of a ship. The restorer will have to create Hull, sensors, shields, engines, and a hyperdrive. They must wait at least a week between systems. They are encouraged to RP salvage, theft, or purchase of "parts". Each system will require a +check supervised by a judge.
+
+-Rolls of less than 10 results in failure - Parts will fail when flown. They can wait one week and retry the roll or they can leave it and whoever buys the ship will have things to RP about.
+
+-If the ship is ready for sale in 5 judge requests, the restorers will get 50% of anything over the used price of the ship. So if it is a lambda (used price 27000) and the ship sells for 30000, the sellers will get 1500 credits. Every attempt beyond the 5 judge requests will lower the profit by 10%.
+
+-Ships will be inspected by NPCs before acceptance at the auction house (rolls of 13 on a 3D are required for each component to see if they work. Lower rolls will lead to a false "pass" of inspection.) If a faulty component is found, it is sent back for repairs and profit margin is lowered by 10%.
+
+-Selling a known broken ship waives consent and ruins reputation with auction house.
+
+Rolls will yield the following ship stats up to the maximum upgrade for that ship class.
+
+8 hull/dice point for hull<br />
+2.5 shield/dice point<br />
+2.25 engine/dice point<br />
+
+Sensors -<br />
+Long Range 100 sensor/dice point<br />
+Focus 1 sensor/dice point<br />
+normal 10 sensor/dice point<br />
+
+Hyperdrive<br />
+0-7 x3<br />
+7-14 x2<br />
+14-21 x1.5<br />
+22-28 x1<br />
+29+ x0.6
+[[Category:Policy]]

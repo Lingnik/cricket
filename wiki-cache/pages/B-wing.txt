@@ -1,0 +1,91 @@
+TITLE: B-wing
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-04T13:37:57Z
+======================================================================
+=== '''D-Space''' ===
+<pre>  A  craft  created  by Verpine for  Admiral  Ackbar  used for combatting
+   Capital scale Imperial ships.
+         
+Craft ........ Slayn & Korpil B-wing
+Type ......... Heavy Assault Fighter Cargo Capacity ......... 45 kg
+Scale ........ Starfighter           Consumables ............ One Week
+Length ....... 16.9 meters           Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1                     Nav Computer ........... Yes (2 Jumps)
+Passengers ... None                  Maneuverability ........ 1D+1       
+Hull ......... 94                    Space Movement ......... 60
+Shields ...... 72                    Atmosphere ............. 330; 950kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  800,  Focus:  20,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 8 total (8 permanently filled)
+
+Stock Weapons:
+   One Single Laser Cannon:
+      Weapon Rating .... Class 6        Damage ........ 7D   
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+   Two Proton Torpedo Launchers:
+      Ammunition ....... 10 Torpedoes   Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 3D   
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+
+   Three Medium Ion Cannons (fire-linked):
+      Weapon Rating .... Class 2        Damage ........ 4D   
+      Fire Arc ......... Front          Fire Control .. 4D
+      Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km
+
+   Two Auto-Blasters:
+      Weapon Rating .... Standard       Damage ........ 3D   
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/8/15       Atmo Range .... 100-300m/700m/3.6km
+
+BASE COST NEW: 220000 cr             BASE COST USED: 66000 cr              
+SUGGESTED DOWNPAYMENT: 132000 (new), 39600 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: 2nd Edition Rebel Alliance Sourcebook''
+ Craft ........ Slayn & Korpil B-wing
+ Type ......... Heavy Assault Fighter Cargo Capacity ......... 45 kg
+ Scale ........ Starfighter           Consumables ............ One Week
+ Length ....... 16.9 meters           Hyperdrive Multiplier .. x2
+ Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+ Crew ......... 1                     Nav Computer ........... Yes (2 Jumps)
+ Passengers ... None                  Maneuverability ........ 1D+1       
+ Hull ......... 3D                    Space Movement ......... 60
+ Shields ...... 2D                    Atmosphere ............. 330; 950kmh
+ Can Land? .... Yes                   Hangar Space ........... None
+ 
+ Sensors ...... Normal:  800,  Focus:  20,  Passive:  200
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 8 total (8 permanently filled)
+ 
+ Stock Weapons:
+    One Single Laser Cannon:
+       Weapon Rating .... Class 6        Damage ........ 7D   
+       Fire Arc ......... Front          Fire Control .. 1D
+       Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+ 
+ If the laser cannon is rendered inoperable, reduce ALL Fire Control codes by 1D
+ 
+    Two Proton Torpedo Launchers:
+       Ammunition ....... 10 Torpedoes   Damage ........ 9D
+       Fire Arc ......... Front          Fire Control .. 3D   
+       Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+ 
+    Three Medium Ion Cannons (fire-linked):
+       Weapon Rating .... Class 2        Damage ........ 4D   
+       Fire Arc ......... Front          Fire Control .. 4D
+       Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km
+ 
+  Two Auto-Blasters:
+       Weapon Rating .... Standard       Damage ........ 3D   
+       Fire Arc ......... Front          Fire Control .. 3D
+       Space Range ...... 1-3/8/15       Atmo Range .... 100-300m/700m/3.6km
+[[Category:Starfighters]]
+[[Category:REC Ships]]
+[[Category:NRMil Restricted Ships]]

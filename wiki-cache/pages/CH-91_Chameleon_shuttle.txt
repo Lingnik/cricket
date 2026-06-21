@@ -1,0 +1,41 @@
+TITLE: CH-91 Chameleon shuttle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:45:48Z
+======================================================================
+<pre>The CH-91 Chameleon serves primarily as an intrasystem or intrafleet courier
+vessel, ferrying officers and their staff, work crews, or light cargo on short
+distance trips. Less frequently, it is used as a transport for small squads of
+troops in a fast-response role. The Chameleon lacks accomodations for large
+numbers of passengers over extended lengths of time.
+
+Craft ........ Synapsid StarAlloys CH-91 Chameleon 
+Type ......... Fast Courier Shuttle  Cargo Capacity .......... 50 metric tons
+Scale ........ Starship              Consumables ............. 10 days
+Length ....... 20.5 meters           Hyperdrive Multiplier ... x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ....... x7
+Crew ......... 1 to 3                Nav Computer ............ Yes
+Passengers ... 10                    Maneuverability ......... 1D+2
+Hull ......... 172                   Space Movement .......... 80
+Shields ...... 36                    Hangar Space ............ None
+Can Land? .... Yes
+
+Sensors ...... Normal:  1000,  Focus:  30,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (4 filled)
+
+Stock Weapons:
+   Two Single Laser Cannons (fire separately):
+      Weapon Rating .... Class 3        Damage ........ 4D       
+      Fire Arc ......... FR, L, R       Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+   Two Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 4        Damage ........ 5D       
+      Fire Arc ......... Rear           Fire Control .. 3D+2
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/1.5km
+
+BASE COST NEW: 95000 cr              BASE COST USED: 24700 cr              
+SUGGESTED DOWNPAYMENT: 57000 (new), 14820 (used)</pre>
+
+[[Category:Starships]]
+[[Category:AEC Ships]]

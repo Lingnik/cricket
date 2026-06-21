@@ -1,0 +1,21 @@
+TITLE: Defender Sporting Blaster
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T04:22:59Z
+======================================================================
+The '''Defender Sporting blaster''' has the look and feel of BlasTech's renowned 
+DL-series, with the infusion of style into the basic design. The slim handle
+and elongated muzzle are sleek and functional, affording additional accuracy 
+while stil maintaining the durability and balance of the classic DL-series. 
+The age of "sporting" blasters is waning, and with it, fewer and fewer 
+sporting blasters hit the market. In essence, the gun has a damage rating in
+acceptable civilian levels, as is supposed to afford enough accuracy that it
+can be used for recreational shooting. The Defender is one of the best 
+examples of this. 
+<pre>
+Name................Defender
+Weapon Type.........Sporting Blaster         Weight..............1.5kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-0D+1 Penalty            Damage..............3D+1
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Miscellaneous Weapons]]

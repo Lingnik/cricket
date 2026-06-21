@@ -1,0 +1,58 @@
+TITLE: Template:Ship Capital Single
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2023-08-05T05:30:56Z
+======================================================================
+<table width="300" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="300" align="right" border="1" cellpadding="2" cellspacing="0" style="border: 1px solid {{{color}}}; border-collapse: collapse; clear: right;">
+<tr>
+<td width="300" align="center" valign="top" colspan="2">{{{image}}}<br><font style="font-family: 'Times New Roman'; font-size: 7pt;"><i>{{{name}}}</i></font></td></tr>
+<tr style="font-family: Arial; font-size: 10pt; color: #bfbfbf;">
+<td width="300" align="center" valign="top" bgcolor="{{{color}}}" colspan="2"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="80" align="left" valign="top">Class:</td>
+<td width="220" align="left" valign="top">{{{class}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Launched:</td>
+<td align="left" valign="top">{{{launch}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Built at:</td>
+<td align="left" valign="top" colspan="3">{{{built}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Principality:</td>
+<td align="left" valign="top" colspan="3">{{{principal}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Sim Status:</td>
+<td align="left" valign="top" colspan="3">{{{status}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Ops Status:</td>
+<td align="left" valign="top" colspan="3">{{{current}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Modifications</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Mods:</td>
+<td align="left" valign="top">{{{mods}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Embarked Units</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Notaries:</td>
+<td align="left" valign="top">{{{characters}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Flight:</td>
+<td align="left" valign="top">{{{funits}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Ground:</td>
+<td align="left" valign="top">{{{gunits}}}</td>
+</tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Ship Capital Single]]</noinclude>

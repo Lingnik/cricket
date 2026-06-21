@@ -1,0 +1,14 @@
+TITLE: Vibro-Axe
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2014-08-10T12:48:52Z
+======================================================================
+[[File:Vibroaxe.jpg|thumb|265x265px]]
+'''Vibroaxes''' vary widely in quality and power output, although all of them have the same basic function: A power cell supplies energy to an ultrasonic vibration generator, which propels the cutting blade through thousands of microscopic vibrations per second. The result is a hand weapon that is significantly more dangerous than its unpowered counterparts. The axe blade is seated atop either a wooden or hollowed durasteel shaft, with an activation panel or ring provided to toggle the power on or off.
+<pre>
+Name................Vibro-Axe
+Weapon Type.........Melee Weapon             Weight..............6kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............3D+1
+Conceal Difficulty..26                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

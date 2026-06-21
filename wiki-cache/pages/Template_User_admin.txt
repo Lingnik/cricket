@@ -1,0 +1,17 @@
+TITLE: Template:User admin
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-10-23T11:09:25Z
+======================================================================
+<div style="border:1px solid silver; margin:1px;width:0px">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:lightgrey;"
+| style="width:45px; height:45px; background:silver; text-align:center; font-size:14pt;" | '''adm'''
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is a [[SW1ki]] [[SW1ki:Administrator|administrator]].
+|}</div><includeonly>[[Category:SW1ki administrators|{{PAGENAME}}]]</includeonly><noinclude>
+{{clear}}
+===Usage===
+To use this template, paste the following code into your user page:
+<pre><nowiki>{{user admin}}</nowiki></pre>
+
+==Categorization==
+*[[:Category:SW1ki administrators]]
+[[Category:Userbox Templates|Admin]]</noinclude>

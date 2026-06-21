@@ -1,0 +1,60 @@
+TITLE: Senator-class Frigate
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-07-30T07:24:54Z
+======================================================================
+{{Ship Capital|
+image=|
+name=''Senator'' class|
+type=Frigate, Anti-Fighter|
+des=FFG|
+scale=Capital Warship|
+design=SubPro & B-C.T.|
+built=[[Victoria Drydocks]], [[Caspar]]<br />[[Sloan Drydocks]], [[Kichnar]]|
+status=Non-coded; Original|
+length=249|
+land=Yes|
+engine=[[ProThrust Engine Division|ProThrust]] Littani CG.4 Type V|
+power=Vortex|
+hull=Unknown|
+shields=Unknown|
+crew=210|
+pass=48|
+cargo=?|
+consume=6 months|
+hyper1=x2|
+hyper2=x16|
+space=60|
+manuv=1D+2|
+sensor-standard=1200|sensor-focus=40|sensor-passive=300|
+gunnery=10 x Heavy Laser Cannons<br />8 x RF laser turrets (twin)|
+launchers=2 x Dyzcai Munitions Dispensers|
+tractor=2 x tractor beam projectors|
+hangar=60|
+craft=
+1 x [[L-202 Hellhawk transport|L-202 Hellhawk]]<br />1 x [[C-706 Solus shuttle|C-706 Solus]]
+|
+statsheet=Not Available Yet|
+}}
+
+The '''''Senator''-class Frigate''' is a specialty warship class developed by the [[Caspian Democratic Union]] to act as an anti-fighter / anti-incursion platform, as well as supplement the sensor capabilities of a naval task force.
+
+=== Development ===
+Promptly after the introduction of the [[Hurricane-class Fleet Carrier|''Hurricane'' carriers]], work began on the ideal fleet defense vessel. Most immediate threats to the Caspian fleets were categorized as fighter-scale or smaller, usually coming from a multitude of vectors. Resources for substantial quantities of such things as laser cannons were perilously low, and the projections for naval personnel were not much more optimistic. There was much reservation, though, about employing a strictly automated and warhead-firing system, given the disdain towards droids and guidance systems amongst battle-hardened veterans. For this reason, several engineers from [[Byurnadin-Covra]] Tachtronics were consulted. During the initial phases of the project, though, it became apparent that more than just consultation was needed, and the team labored to produce several new innovations that strengthened the resulting ship.
+
+The Senators have an incredibly unique construction methodology. The ship's form is based off two rigid, reinforced spines, and all essential components are anchored directly to them. There are very few superfluous crewing spaces, and most of the interior taken up by ship systems is kept in a vacuum. While this makes repair exceptionally difficult, there is an adequate level of redundancy aboard to allow a Senator to go weeks without needing to repair a damaged component, provided the component has a working backup.
+
+Several first-of-their-kind mechanical innovations were installed on these frigates as well. A pair of Dyzcai (''Spinning Blade'') rotating munitions launchers have the ability to hurl a cloud of either unguided or SCREAM -tipped rockets against attacking fighters. A new shield projector called a '''Vortex''' is able to, through computer guidance, amplify and reinforce a shield segment by keeping a resource of shield energy stored in a battery, and rapidly distributing it to the threatened zone. While the overall shield strength is not anything spectacular, Vortex allows for the shields to rapidly re-adjust and re-project to counter multi-vector attack, relevant to starfighters.
+
+=== Deployment ===
+The frigates, as a class, have performed adequately, albeit in relative obscurity. Their addition to the fleets did liberate the [[Shearwater-class Frigate]] to perform as the roving combatants they were always capable of being, and gave carrier commanders an added measure of security when deployed into hostile zones. Typically, each carrier would be accompanied by no less than three of these frigates, which would take their fire direction from the coordinator aboard the carrier.
+
+Only one of the sixteen (at the time) ships was lost in the [[Imperial War of Aggression]] in [[8 ABY]]. It's more an indication of their role as a close companion of the carriers than a testament to their robustness. In order to boost their effectiveness, the entire class underwent an upgrade in [[10 ABY]] with most of the focus on their sensor suites, and the addition of two more heavy laser cannons.
+
+Rarely are these vessels seen alone. Usually, they accompany larger vessels on sweeping sorties, such as battlecruisers and carriers, but do not do well at smaller, more compact theatres such as ports or installations &mdash; the munitions dispensers are completely indiscriminate and a Senator is most effective when it is able to cover a wide tract of space.
+
+[[Caspian Navy|Naval]] personnel have given them several nicknames, among them ''Flakkers'', ''Shredders'' &mdash; obviously for the amount of anti-fighter material they spew out &mdash; ''Talkers'', ''Chat-Chatters'', and ''Geezers'' &mdash; since they are named after the "elderly statesmen/women" of the Union.
+
+
+{{CDU Warship Class Senator}}
+
+[[Category:Capital Ships]]

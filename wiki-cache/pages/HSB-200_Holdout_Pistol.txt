@@ -1,0 +1,22 @@
+TITLE: HSB-200 Holdout Pistol
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-02-03T04:09:17Z
+======================================================================
+Like most hold-outs, this weapon is just barely large enough to be gripped in
+the average human-hand. Sighting systems and other protusions are generally 
+kept to a minimum, so that the weapon won't get caught in clothing when one is
+attempting to draw it. The weapon's trigger guard encloses the whole front of
+the handgrip, making it easier to hold onto in close quarters. Rather than 
+using any sort of safety catch, this weapon uses a 'grip safety' to allow it 
+to be brought to bear quickly - it won't fire unless it is actually being 
+held. An 8-shot cylindrical charge clip fits into the heel of the weapon... 
+enough ammunition to last a little under three seconds, given this weapons 
+quick semi-repeating action.
+<pre>
+Name................BlasTech HSB-200
+Weapon Type.........Hold-Out Blaster         Weight..............0.75kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-1D+1 Penalty            Damage..............3D+1
+Conceal Difficulty..9                        Two-Handed..........No</pre>
+
+[[Category:Holdout Pistols]]

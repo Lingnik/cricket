@@ -1,0 +1,51 @@
+TITLE: Getting Connected
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-28T04:13:17Z
+======================================================================
+== Connecting to Star Wars MUSH ==
+The first thing you'll need is a MUSH client. MUSH runs across a very old protocol called telnet, a MUSH client is third-party software that improves your experience and provides many useful functions. They are typically provided free of charge.
+
+A list of clients can be found [[Clients|here]].
+
+There are no costs involved with playing on Star Wars MUSH.
+
+Once you've installed the client, simply run the program and open a new connection. You'll need to input the site address '''starwarsmush.com''' and the port number '''4402 '''when prompted.
+
+Having done that, simply select the connection and you will connect to the MUSH
+
+== '''Creating a Character & Logging In''' ==
+To create a character, you must first log in with the guest account. type '''connect guest guest'''
+
+Once connected, you will be able to create a character using '''register <name> <desired password> '''without the brackets.
+
+You can now log-out of the guest account and log-in with your shiny new character using '''connect <name> <your password>'''
+
+''MUSH admins will never ask you for your password. Do not give it out.'' 
+
+== Using MUSH ==
+
+=== '''Moving Around''' ===
+MUSH uses a series of connected 'rooms' called a 'grid' to represent different spaces. Moving between connected areas is as simple as typing the name of the corresponding exit, or its alias (contained between < >). Each room, object and player has a description which defines its purpose
+
+=== '''Talking''' ===
+You can communicate with other players on Star Wars MUSH over the public, game-wide channels.
+
+To see a list, type '''@chan/list'''
+
+And join a channel by typing '''@chan/join <name>'''
+
+Once you've joined a channel, simply type '''=<name> <message> '''(e.g. =new I'm new here!)
+
+You can communicate privately with another player by paging them; '''page <player>=<message>'''
+
+You can also speak OOC to people in the same location as you by typing '''OOC <message>'''
+
+=== '''Roleplaying''' ===
+'''pose''' or ''': '''sends a message to everyone in your current location, beginning with your character's name. This allows you to describe the actions your character is taking
+
+'''@emit '''performs the same function, but excludes your name. You can use this to set scenes or for stylistic reasons (though its still a good idea to given some indication of who wrote it)
+
+As a matter of form, it is better to write your actions as a paragraph and waiting for other players to respond, rather than sending several short lines in quick succession.
+
+You can read more about role-playing on MUSH [[Roleplaying on MUSH|here]]
+[[Category:MUSH Terminology]]

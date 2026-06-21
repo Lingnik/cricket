@@ -1,0 +1,23 @@
+TITLE: Template talk:Wookieepedia
+NAMESPACE: 11 (Template_talk)
+LAST_EDIT: 2007-04-16T23:25:11Z
+======================================================================
+Do people mind if we modify this template to replace the 
+
+<nowiki>[[Talk:{{PAGENAME}}|talk page]]</nowiki>
+
+markup with something like the following markup (not sure if this will exactly work as quoted here)
+
+<nowiki>[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} talk page]</nowiki>
+
+...as is done on the stub templates? It would clean out Talk:<blah> items from the Wanted Pages list. Right now, whenever one applies the Wookieepedia template to a Wanted Page, the Talk: redlink '''replaces''' the old redlink, which doesn't really help in cleaning out the list.
+
+The downside to this method is that it would point to the messy edit versions of the talk pages, rather than to the talk pages themselves.
+
+The same change could be made to the Dispute, Dispute pov, Expand, Expand Alt, and Purpose templates. --[[User:Lolkje|Lolkje]] 17:51, 13 April 2007 (UTC)
+
+* Done.  Feel free to apply this snippet to other templates.  It takes care of the edit and points to the '''talk''' page.<pre>[{{SERVER}}{{localurl:{{TALKPAGENAME}}}} talk page]</pre> -- [[User:Xerxes|Xerxes]] 18:13, 13 April 2007 (UTC)
+
+Beautiful. It'll clear out when the site caches tonight. Thanks! --[[User:Lolkje|Lolkje]] 18:11, 13 April 2007 (UTC)
+
+:-We could use a mini version of this, please. Perhaps call it '''Template:Wookieepedia mini'''. This would be put on articles that have ''some'' content on them, but not quite enough to qualify as an independent, wholly-SW1ki article yet. The existing, main template is quite impressive, but really dominates  the screen (as it should as a prominent reminder). A mini one would be the size of the [[Template:Tab Return]]. -- [[User:Hawke|Hawke / Rtufo]] 00:36, 14 April 2007 (UTC)

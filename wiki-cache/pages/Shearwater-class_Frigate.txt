@@ -1,0 +1,94 @@
+TITLE: Shearwater-class Frigate
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-11-12T08:26:02Z
+======================================================================
+{{title|''Shearwater''-class Frigate}}
+{{Ship Capital|
+image=|
+name=''Shearwater'' class|
+type=Frigate (Light Cruiser)|
+des=CFG|
+scale=Capital Warship|
+design=CDMC & SubPro|
+built=[[Victoria Drydocks]], [[Caspar]]|
+status=Coded; 5,200,000 credits|
+length=406|
+land=Yes|
+engine=[[ProThrust Engine Division|ProThrust]] Juniper CT.4 Type V (Batch I)<br />
+[[ProThrust Engine Division|ProThrust]] Juniper CT.5 Type I (Batch II)<br />
+[[ProThrust Engine Division|ProThrust]] Magko CX.6 Type Vi (Batch III)|
+power=Lantern II (Batch I)<br />Lamplighter (Batch II & III)<br />Lamprey (on ''Taciturn'')|
+hull=975|
+shields=216|
+crew=647|
+pass=50|
+cargo=1000|
+consume=6 months|
+hyper1=x1.5|
+hyper2=x8|
+space=70|
+manuv=2D+1|
+sensor-standard=1600|sensor-focus=50|sensor-passive=400|
+gunnery=8 x Turbolaser batteries (twin)<br />6 x Ion Cannon batteries<br />24 x Point Defense Lasers|
+launchers=6 x [[VOWL|VOWLs]]|
+tractor=2 x tractor beam projectors|
+hangar=250|
+craft=
+2 x [[L-202 Hellhawk transport|L-202 Hellhawk]]<br />1 x [[C-706 Solus shuttle|C-706 Solus]]
+|
+statsheet=[[Shearwater-class Frigate/statsheet|Available]]|
+}}
+
+Unifying past Sarian aesthetics with modern galactic technology, the '''''Shearwater''-class''' (or '''Sh'water''') of '''frigate''' is a sleek, multi-purpose roving warship of the [[Caspian Navy]]. This well-rounded archetype is a true workhorse and projection of force for a principality that encompasses several star systems rife with the prospect of heavy traffic and frequent incursions.
+
+The class is a frigate in purpose, scale, and weaponry. Occasionally, however, it is referred to as a light cruiser because of its propensity for independent, roving operations.
+
+=== Development ===
+
+=== Batch Construction ===
+Launched in late [[5 ABY]], ''Shearwater ''was put through her paces in star trials, and promptly went on the line to fill in a rapidly expanding Navy. Most of the ships in the fleets at the time were vintage already, or quickly becoming so. ''Shearwater'', though, proved to be a bit of an enigma, challenging the Admiralty on how best to employ her. In fact, initially, ''Shearwater'' and her first three sisters were placed into a "guardian" role around the carriers, brandishing their [[VOWL]]s and weaponry to protect those ships from capital ship attack. Only when Naval doctrine was changed did the Sh'waters get released from this duty, and then the Admiralty began to find out what this cruiser could do.
+
+At the close of the first batch's construction, the Navy was entertaining propositions for alternative cruiser designs. This was more so because of the newfound liberty afforded the military in technological development than any shortcoming of the Sh'water cruisers. The '''Stormcloud''' and '''Citizen''' projects both turned out be utter failures in the prototype stage, despite their seemingly substantial layouts on paper. Instead, a few officers in the Navy received approval to contract the Drydocks to build at least six more Sh'waters, these with several advances that would have been integrated into the Citizen project. A new type of turbolaser, slated for the proposed '''Dunwelton''' project (that hadn't reached a prototype stage yet), were also included. These first six started with ''Dunwelton'', sporting improved weapon quality, the latest variant of the Juniper CT engine, and the brand new '''Lamplighter''' power grid and sensor array.
+
+Over a dozen more were promptly ordered, and were indeed in the midst of their star trials when the [[Caspian Annexation Campaign|Imperial War of Aggression]] broke out. The loss of [[CMS Spanner|CMS ''Spanner'']] revealed a few shortcomings, and after the ''[[Cessation of Occupation]]'' was signed, several further improvements were made.
+
+Later, in [[10 ABY]], the essence of the Sh'water was revisited when several discussions emerged regarding Caspia's place in the Intelligence-gathering community. A few officers of The Admiralty advocated for a new class of starship to conduct espionage and counter-espionage with, while Crest members advocated for a variant of an existing technology. The '''Octet Project''' was initiated, but never went beyond the testbed phase, proving far too specialized for the Navy's logistical tastes. Two developments, though, did emerge from the project that found their way onto the third batch of Sh'waters. Firstly, [[ProThrust Engine Division|ProThrust]] developed a new breed of powerplant that was not only more powerful than previous versions, but much more efficient, dynamic, and quiet &mdash; it delivered 20% more power at half the "plant-noise" signature. After three new vessels were built using these innovative engines, engineers at CDMC developed the '''Lamprey''' power grid and electronics suite, with significant performance gain in detection, sensor range, and sensor jamming, all while running at nearly non-detectable power levels. With considerable massaging, Lamprey was installed in the most current iterations of the Sh'water cruisers &ndash; the [[CMS Taciturn|CMS ''Taciturn'']] and CMS ''Astute''.
+
+=== Anatomy ===
+
+==== Basics ====
+
+==== Powerplant ====
+The core of what makes a Sh'water remarkable is the [[ProThrust Engine Division|ProThrust]] powerplant within it. A hypermatter-ionization reactor feeds an L-series power grid and a quartet of ''Juniper'' CT-series high-efficiency engines. These engines are fairly responsive, and give the cruiser an acceleration and cruising velocity that can keep up with most modified freighters and other specialty warships. They can also be reduced to levels wherein they give off a very low plant signature, retarding the chances of detection, especially at great distances.
+
+The newest variant from ProThrust, the ''Magko'' CX-series, is even more capable than its predecessor. It can produce the same amount of propulsive power at a lower reduction level, and can dynamically adjust far quicker than the ''Juniper''. One of the tactics invented by [[CMS Prophet|CMS ''Prophet'']] was a way of running these engines up to full output capacity for a short burst, then cutting them off ("crashing") to nearly 2% output while the cruiser "coasts". This allows the sensors to get an uninhibited sweep of space without risking the safety of the ship, since the engines can be run back up to full output capacity in a matter of seconds.
+
+==== Electronics ====
+The first batch of Sh'waters received the reliable '''Lantern''' power grid and electronics suite already being outfitted into the [[H'cane-class Fleet Carrier|''H'cane''-class carriers]]. By using like systems, training and skill proficiency sets were expedited and optimized. Within a few months, the systems were adjusted and recalibrated to best service the complex demands of the [[VOWL]] weapons system, but the interfaces, terminology, and programs all remained the same. Thus, the updated version was dubbed '''Lantern II'''.
+
+With the transition in role to more of a roving frontier warship, the frigates were given a new, more powerful, more autonomous electronics suite. The '''Lamplighter''' suite not only improved the effectiveness and efficiency of the power grid, but extended the sensor ranges, sensitivities, and accuracies. Sh'waters were now able to skirt the very edge of the frontier and peer into the starlanes and expanses beyond, detecting anomalies and threats before they pressed into Union space. The whole system was the first to be optimized to communicate with the [[SONG]] network, and as such, [[the Admiralty]] tries to dispatch Sh'waters to any anomalies or areas of concern because not only are they able to deal with just about any threat, but they're able to relay logistics and telemetry in real time back to Naval headquarters.
+
+Lamplighter proved so complex, though, that the Navy has accommodated the offer by the [[Yari]] people &mdash; to staff the interface console and sensor cluster aboard Sh'water frigates. As such, no less than six of the crew are Yari, and the otherwise ungainly beings nestle themselves into specially-built saddles and nests within the electronics array for their shifts aboard ship.
+
+==== Weaponry ====
+Sh'waters live off of a balanced array of turbolasers, ion cannons, point-defense guns, and warhead launchers in order to deal with any threat or task it may encounter while on mission. The implementation of eight twin turbolaser turrets gives it strong offensive capability against equal or lesser class opponents, while the ion cannons are present to knock off shields and disable components. The ion cannons are more often relied upon in the apprehension of smugglers and raiders, wherein the ship is disabled, but intact, and a boarding party can be deployed.
+
+Point-defense laser cannons are all rapid-firing, but short ranged.
+
+The real teeth behind a Sh'water's bite, though, are the six [[VOWL|warhead launchers (VOWLs)]]. They are able to field several different types of warheads, from anti-ship missiles to anti-electronics rockets. When combined with the state-of-the-art sensor and coordination system the Sh'water possesses, no target is safe.
+
+=== Roles & Operations ===
+As stated, the Sh'water is a rover, first and foremost. It is intended to patrol the breadth of the Caspian frontier, keeping raids and incursions at bay, and neutralize pirate and smuggling threats. In that latter capacity, it is especially effective, utilizing its tremendous speed and robust weapons loadout to chase down smugglers and deal with combative opportunists. The cruiser is also blessed with a state-of-the-art electronics suite, so a Sh'water on deployment acts as a supplement to Caspia's extensive [[SONG]] array.
+
+Most of the time, the ship is on its own. For organizational purposes, it is assigned to a Cruiser Squadron, or '''CruRon''', within a larger entity headed by a flagship, such as the [[CDU Home Fleet|Home Fleet]]. This is done with the understanding, though, that the ship will be deployed to a region on the extreme periphery of a Fleet's operational sphere. It may or may not be partnered with a picket, such as an [[Lightning-class Sloop|''Lightning''-class sloop]], for its patrol duties. Through communications, bolstered by the SONG network, a Sh'water can stay in constant coordination with the other vessels in its parent fleet.
+
+It is indeed the first vessel dispatched to a scene by the Admiralty. While a smaller frigate or sloop would be the apparent choice, the durability and firepower that a Sh'water possesses make it far more desirable to employ when the possible threat is of an unknown quality. It has also been dispatched on many errands and tours-of-state to other star systems and principalities, such as resupply runs to a beleaguered [[Nak Shimor]] or as fast-response for emergencies like those on [[:starwars:Elom|Elom]].
+
+The use of the Sh'water as a ''projection'' of Caspian force has been more than controversial in the past. The Admiralty fervently dispatches the cruiser out beyond the frontier, often in defiance of pacifist, conservative sentiments by [[Caspian Crest|The Crest]]. On more than one occasion, a particular cruiser's location has been in a tug-of-war between a [[Caspian Navy#Ranks|Sar Admiral]] in the Admiralty and the [[Presav]] &ndash; the Sar Admiral wants as much force out and about conducting Intelligence gathering and keeping eyes on potential threats, while the Presav wants all Caspian possessions inside the frontier so as not to "assail or disturb" any of the other galactic sovereignties.
+
+=== Embarkment ===
+Since the sleek warship is tasked to be a rover, it is equipped with two [[L-202 Hellhawk transport|L-202 Hellhawks]] to track down raiders, deploy [[Caspian Rangers|Ranger]] and [[Union Marines|Marine]] teams, and conduct reconnaissance sweeps. An additional shuttle is embarked, as well as a docking collar for servicing [[L-200 Halcyon transport|L-200 Halcyons]] on long rotations. There is adequate hangar space to embark a squadron of fighters, particularly the compact [[Z-110 Hellion]]. The flight deck is located aft of the dorsal superstructure. Facilities are spartan compared to what can be found upon a dedicated carrier like the [[Hurricane-class Fleet Carrier|''Hurricane''-class]], making maintenance and repairs of small craft comparatively challenging.
+
+{{Caspian Ship Class Shearwater}}
+[[Category:Capital Ships]]
+[[Category:SubPro Ships]]

@@ -1,0 +1,31 @@
+TITLE: FS MU-2 Shuttle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:46:45Z
+======================================================================
+<pre>Craft ........ Sienar FS MU-2            
+Type ......... Long Range Shuttle    Cargo Capacity ......... 100 metric tons
+Scale ........ Starship              Consumables ............ 6 months
+Length ....... 20 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x20
+Crew ......... 2                     Nav Computer ........... Yes
+Passengers ... 14                    Maneuverability ........ 1D
+Hull ......... 138                   Space Movement ......... 50
+Shields ...... 60                    Atmosphere ............. 295; 850kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  30,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (2 filled)
+
+Stock Weapons:
+    Two Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 4        Damage ........ 5D
+      Fire Arc ......... Forward        Fire Control .. 2D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/1.5km
+
+BASE COST NEW: 140000 cr             BASE COST USED: 33600 cr              
+SUGGESTED DOWNPAYMENT: 84000 (new), 20160 (used)</pre>
+
+[[Category:Starships]]
+[[Category:KDYSFS Ships]]

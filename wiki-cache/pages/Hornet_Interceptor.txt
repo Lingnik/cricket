@@ -1,0 +1,35 @@
+TITLE: Hornet Interceptor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-30T14:02:47Z
+======================================================================
+[[Image:Tenloss-Hornet-Interceptor.jpg‎|thumb|right|Hornet Interceptor]]
+The '''Hornet interceptor''' was a sleek, insect-like fighter built on the black market for the Tenloss Syndicate. It was designed to emulate the [[TIE/ln_Fighter|TIE fighter]]: fast, lightweight, and easily mass-produced with low-cost standard parts. It had a thin, rounded body with wings that could be deployed in atmospheres. The command pod had its own section, and could be ejected in emergencies. It was lightly armored and shielded and highly maneuverable. Its laser cannons could be turbocharged, causing twice the normal damage but were prone to overheating. Even when not turbocharged, the lasers were more powerful than standard. The Hornet was initially used only by Tenloss, but the designs for this craft eventually fell into the hands of corporations. The result? A knock-off design remarkably similar to the original product in most respects.
+
+<pre>
+Craft ........ Modified Tenloss Hornet Interceptor
+Type ......... Space Superiority Fighter Cargo Capacity ......... 80 kg
+Scale ........ Starfighter               Consumables ............ 5 days
+Length ....... 14 meters                 Hyperdrive Capability .. No
+Pilot Skill .. Starfighter Piloting      Hyperdrive Backup ...... None   
+Crew ......... 1                         Nav Computer ........... No
+Passengers ... None                      Maneuverability ........ 3D+2
+Hull ......... 45                        Space Movement ......... 90
+Shields ...... 96                        Atmosphere ............. 400; 1150kmh
+Can Land? .... Yes                       Hangar Space ........... None
+
+Sensors ...... Normal:  1300,  Focus:  30,  Passive:  200                                      
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 2 total (2 permanently filled)
+
+Stock Weapons:
+    Two Single Laser Cannons (fire linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+         
+BASE COST NEW: 75000 cr              BASE COST USED: 32000 cr              
+SUGGESTED DOWNPAYMENT: 45000 (new), 19200 (used)</pre>
+
+[[Category:Starfighters]]
+[[Category:Rendili Ships]]

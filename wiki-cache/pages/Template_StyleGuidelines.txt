@@ -1,0 +1,10 @@
+TITLE: Template:StyleGuidelines
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-04-05T22:05:47Z
+======================================================================
+{| align="center" cellspacing=0 cellpadding=0 style="border-top:1px solid #AAAAAA; border-right:1px solid #AAAAAA; border-bottom:1px solid #AAAAAA; border-left:1px solid #AAAAAA;padding-left:5px;font-style:italic;font-size: 7pt;"
+|-  
+| align="center" bgcolor="#EEEEFF" style="padding-top:5px;padding-left:5px;padding-right:5px;font-weight: bold;" | Style Guidelines
+|-
+| align="left" bgcolor="#EEEEFF" style="padding-left:5px;padding-right:5px;padding-bottom:5px;" | {{{guidelines}}}
+|}

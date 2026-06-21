@@ -1,0 +1,11 @@
+TITLE: Template:Expand Alt
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-14T17:21:09Z
+======================================================================
+{| width=85% align=center class="expansion" style="background: #bfbfbf; border: 2px solid #020337; padding: .2em; margin-bottom: 3px; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | [[Image:scene_han_hoth01.jpg|150px|]]
+| <font size=3>'''There isn't enough life on this ice cube to fill a space cruiser!'''</font><br ><small >There is a chilling lack of content for this article, and it should be expanded. See the request on the [[:Category:Articles Needing Attention|listing]] or on this article's [{{SERVER}}{{localurl:{{TALKPAGENAME}}}} talk page]. Once the improvements have been completed, you may remove this notice and the page's listing. </small >
+|}
+
+<includeonly>[[Category:Articles Needing Attention|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Administrative Templates|Expand]]</noinclude>

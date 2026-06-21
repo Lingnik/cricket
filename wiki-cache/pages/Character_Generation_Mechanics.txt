@@ -1,0 +1,66 @@
+TITLE: Character Generation & Mechanics
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2016-03-29T10:06:19Z
+======================================================================
+''This page introduces you to the Character Generation, stats and RP support systems. For information on how to '''get''' a character, go [[Getting Connected|here]]. '' 
+
+When you're ready, it will be time to generate stats for your character. You may find it best to wait until you've talked to a recruiter from the faction you're interested in and decided what you're going to play before beginning, but its really up to you! When you're ready, you can begin chargen by typing '''''+chargen/begin'''''
+
+'''''+help chargen''' ''provides a list of the commands you will need
+
+==== '''Q: What's the difference between skills and stats?''' ====
+A: All characters have six stats: Dexterity, Strength, Knowledge, Perception, Mechanical, and Technical.
+
+All skills fall under one of these categories. By spending dice (D) on these, you can set your character's strengths and weaknesses. Depending on your species, you will have different minimum and maximum scores, and a different number of dice to distribute.
+
+Each ability is expressed as a number of dice (D) and a number of 'pips'. E.g. 2D+2
+
+Every dice is made up of three 'pips' so one pip added to an ability at 2D+2 would become 3D. And one pip removed from an ability at 3D would become 2D+2.
+
+All skills default to the level of their governing stat. You may then spend your skill dice to improve specific skills further.
+
+No skill may be raised more than 2D higher than the racial maximum of its governing stat during character generation. For example, if your species has a maximum dexterity of 4D, you may not raise Blaster or Dodge higher than 6D during chargen.
+
+
+
+==== '''Q: How should I distribute my stat points and skill points?''' ====
+A: How you spend your points is entirely up to you. Your stat and skill distribution should reflect the kind of role you want for your character. If you want to be a skilled pilot, you would be wise to invest in Mechanical, piloting and navigational skills. If you wish to be a fast-talking smuggler, Perception, Con and Hide are wise investments. It is also a good idea to focus on the kinds of activity you would like to roleplay, but beware of over-specializing. Having a range of skills can help you jump on opportunities you might not have originally envisioned.
+
+It is well worth discussing which skills you will find valuable with a faction recruiter to ensure you have the stats to support your efforts in the game.
+
+==== <br>'''Q: Are my stats and skills stuck once I have set them, or can they be changed?''' ====
+A: Your six core stats are set in stone once you have finalized chargen. Your skills on the other hand, can change over time.
+
+As you roleplay with players on the MUSH, they may reward good and engaging roleplay with nominations ('''+noms'''). Nominations serve many purposes but in particular, each nomination awarded grants advancement points, which you can spend on increasing your skills. Skills can even be increased above the caps set in chargen, though this is very expensive and you may prefer to round out your character before specialising further.
+
+You are also able to periodically reduce an existing skill by one pip and spend its value in advancement points on other skills using the '''+shift''' command. This represents a character practicing old skills less in favour of new ones.
+
+
+
+==== '''Q: What's combat like?''' ====
+A: The primary aim of Star Wars MUSH is to tell stories about your characters' lives in the Star Wars universe. And of course, wars in right there in the name. Combat is much like any other roleplaying scene, but players may choose to use their stats to help resolve issues like whether or not someone gets hit when they're shot at. This helps the 'cops and robbers' problems of childhood "I shot you!" "No you didn't!" and adds a little randomness and danger to the mix.
+
+The official rules for resolving combat on Star Wars MUSH can be found [[Combat|here]], or on the MUSH by typing NEWS COMBAT
+
+In summary, players will roll to determine who reacts first, and then each will pose their action and roll the appropriate dice. Once the outcome has been established, the next player in the order will pose, including the result of any resolved attacks on them.
+
+The process continues until the combat ends.
+
+
+
+==== '''Q: What's the space system like?''' ====
+A: The space system on Star Wars MUSH is quite elaborate, and lots of fun. The space system supports travel between systems, planets, roleplaying and combat resolution. A comprehensive guide to the space system can be found [[Space System|here]], or through +help space on the MUSH
+
+
+
+==== '''Q: How do I earn money in the game?''' ====
+A: Credits are the universal currency of the MUSH. Credits can be used to purchase a range of goods and services - your character will never need to pay for food or clothing it is assumed they can manage these things, unless you want to roleplay struggling for these essentials. Money is generally earned through roleplay. Factions often pay a small regular salary to their members, while independent characters must find other means of employment.
+
+Large sums of money, and objects of significant value, are usually obtained through Tiny Plots.
+
+
+
+==== '''Q: How do I go about applying for restricted races/Force-user spots?''' ====
+A: Force-users and races are restricted because they are rare, and/or very powerful. They have the potential to seriously unbalance the game if mismanaged but they can also be wonderful assets. If you would like to play one of these characters, you will need to contact the MUSH administration outlining your reasons for wanting to play a restricted character and how you plan to contribute to the game with them. Force-users must have played for at least three months, be in good standing and demonstrate an excellent standard of roleplay in addition to their application.
+
+[[Category:Guides]][[Category:Roleplaying]]

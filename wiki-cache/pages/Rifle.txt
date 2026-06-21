@@ -1,0 +1,22 @@
+TITLE: Rifle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T19:58:58Z
+======================================================================
+Simple and inexpensive, slug-firing '''rifles''' still turn up throughout the 
+galaxy despite the fact that they're not especially damaging when compared
+with modern blasters. The firing mechanism propels a slug several
+millimeters wide using a crude charge. Most of these weapons are either
+semi-automatic (tapping the gasses or recoil of the cartridge firing to eject
+the shell-casing and load the next cartridge) or require the firer to manually
+operate a lever or bolt to ready the weapon to fire again. On the other hand,
+this weapon does have the advantage of being able to throw a slug much further
+than most blaster rifles can reach, and it leaves bloody, messy wounds. Most
+rifles have some capabililty to accept special sights and other accessories.
+<pre>
+Name................Rifle
+Weapon Type.........Firearm (uses Blaster)   Weight..............4kg
+Damage Type.........Ranged                   Stun Setting........No
+Accuracy............0D+0                     Damage..............3D+1
+Conceal Difficulty..20                       Two-Handed..........Yes</pre>
+
+[[Category:Ranged Weapons]]

@@ -1,0 +1,107 @@
+TITLE: Template:Scroll box
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-12-05T01:43:45Z
+======================================================================
+<table cellpadding="0" cellspacing="0" border="0" style="width:{{{width|100%}}}; margin-bottom:3px; margin-top:3px;"><tr><td style="background:transparent;"><div style="overflow:auto; height:230px; width:{{{width|100%}}};  -moz-border-radius-topleft:0.5em; border:1px solid #AAAAAA; padding-left:0.5em; background:transparent;">
+{{{content|{{{1}}}}}}
+</div></td><td style="width:8px;"></td></tr></table><noinclude>__NOTOC__
+==Usage instructions==
+<pre><nowiki>
+{{scroll box
+|content=
+
+}}
+</nowiki></pre>
+
+NOTE: An optional '''width''' variable can be used to control the width of the scroll box:
+<pre><nowiki>
+{{scroll box
+|width=75%
+|content=
+
+}}
+</nowiki></pre>
+
+==Example==
+===Code===
+<pre><nowiki>
+{{scroll box
+|content=
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+</nowiki></pre>
+
+===Result===
+{{scroll box
+|content=
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+
+===Alternative code===
+<pre><nowiki>
+{{scroll box|
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+</nowiki></pre>
+
+===Result===
+{{scroll box|
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

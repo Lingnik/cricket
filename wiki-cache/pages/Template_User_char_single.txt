@@ -1,0 +1,13 @@
+TITLE: Template:User char single
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T18:03:10Z
+======================================================================
+<div style="float:left; border:1px solid #2163ff; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#99e2ff;"
+| style="width:45px; height:45px; background:#99e2ff; text-align:center; font-size:14pt;" | [[Image:func_ubox_char1.png|40px]]
+| style="font-size:9pt; padding:4pt; line-height:1.25em;" | This user runs '''one''' character.
+|}</div><includeonly>[[Category:Users Running One Character|{{PAGENAME}}]]</includeonly><noinclude><br clear="all">
+==== One Character Player ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user char single}}</nowiki></pre>
+[[Category:Userbox Templates|Char 1]]</noinclude>

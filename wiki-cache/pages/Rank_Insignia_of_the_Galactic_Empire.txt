@@ -1,0 +1,180 @@
+TITLE: Rank Insignia of the Galactic Empire
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-11-08T06:40:25Z
+======================================================================
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; float: left; margin: 0px 12px 12px 0px;"
+|align="center" rowspan="2"| '''[[Imperial Navy|Navy Rank]]'''
+|align="center"| '''[[Imperial Army|Army Rank]]'''
+|align="center"| '''[[Imperial Starfighter Corps|Starfighter Rank]]'''
+|align="center"| '''[[Stormtrooper|Stormtrooper Rank]]'''
+|align="center"| '''[[Imperial Security Bureau|ISB Rank]]'''
+|-
+|
+|-
+|align="center"|  [[Grand Admiral]]
+|align="center"|  [[Grand General]]
+|align="center"|  [[Grand Admiral]]
+|align="center"|
+|align="center"|  Director
+|-
+|align="center"|  [[Moff|Supreme Moff]]
+|align="center"|  [[Moff|Supreme Moff]]
+|align="center"|  [[Moff|Supreme Moff]]
+|align="center"|
+|align="center"|  Vice Director
+|-
+|align="center"|  [[Moff|Grand Moff]]
+|align="center"|  [[Moff|Grand Moff]]
+|align="center"|  [[Moff|Grand Moff]]
+|align="center"|
+|align="center"|
+|-
+|align="center"|  [[Moff]]
+|align="center"|  [[Moff]]
+|align="center"|  [[Moff]]
+|align="center"|
+|align="center"|
+|-
+|align="center"|  [[High Admiral]]
+|align="center"|  [[Surface Marshal]]
+|align="center"|  [[High Marshal]]
+|align="center"|  [[Legion General]]
+|align="center"|  [[Sector Director]]
+|-
+|align="center"|  [[Fleet Admiral]]
+|align="center"|  [[High General]]
+|align="center"|  [[Force Marshal]]
+|align="center"|  [[High General]]
+|align="center"|  [[System Director]]
+|-
+|align="center"|  [[Admiral]]
+|align="center"|  [[General]]
+|align="center"|  [[Chief Marshal]]
+|align="center"|  [[General]]
+|align="center"|  [[General]]
+|-
+|align="center"|  [[Vice Admiral]]
+|align="center"|  [[Lieutenant General]]
+|align="center"|  [[Marshal]]
+|align="center"|  
+|align="center"|  [[Colonel]]
+|-
+|align="center"|  [[Rear Admiral]]
+|align="center"|  [[Major General]]
+|align="center"|  [[Vice Marshal]]
+|align="center"|  [[Major General]]
+|align="center"|  [[Commander]]
+|-
+|align="center"|  [[Commodore]]
+|align="center"|  [[Brigadier General]]
+|align="center"|  [[Fleet Commodore]]
+|align="center"|
+|align="center"|  [[Lieutenant Commander]]
+|-
+|align="center"|  [[Line Captain]]
+|align="center"|  [[High Colonel]]
+|align="center"| 
+|align="center"| 
+|align="center"|
+|-
+|align="center"|  [[Captain]]
+|align="center"|  [[Colonel]]
+|align="center"|  [[Group Captain]]
+|align="center"|  [[Colonel]]
+|align="center"|  [[Captain]]
+|-
+|align="center"|  [[Commander]]
+|align="center"|  [[Lieutenant Colonel]]
+|align="center"|  [[Wing Commander]]
+|align="center"|  
+|align="center"|  [[First Lieutenant]]
+|-
+|align="center"|  [[Lieutenant Commander]]
+|align="center"|  [[Major]]
+|align="center"|  [[Squadron Leader]]
+|align="center"|  [[Major]]
+|align="center"|  [[Second Lieutenant]]
+|-
+|align="center"|  [[Lieutenant]]
+|align="center"|  [[Captain]]
+|align="center"|  [[Flight Lieutenant]]
+|align="center"|  [[Captain]]
+|align="center"|  [[Sergeant]]
+|-
+|align="center"|  [[Sub-Lieutenant]]
+|align="center"|  [[First Lieutenant]]
+|align="center"|  [[Flight Officer]]
+|align="center"|  [[First Lieutenant]]
+|align="center"|  [[Corporal]]
+|-
+|align="center"|  [[Ensign]]
+|align="center"|  [[Second Lieutenant]]
+|align="center"|  [[Pilot Officer]]
+|align="center"|  [[Second Lieutenant]]
+|align="center"|  Senior Agent
+|-
+|align="center"|  [[Midshipman]]
+|align="center"|  Officer Candidate
+|align="center"|  [[Flight Cadet]]
+|align="center"|  Officer Candidate
+|align="center"|  Agent
+|-
+|}
+
+<br clear="all">
+<gallery>
+Image:rank_empire_rb.png|
+Image:rank_empire_bb.png|
+Image:rank_empire_yb.png|
+Image:rank_empire_yr.png|
+Image:rank_empire_br.png|
+Image:rank_empire_by.png|
+Image:rank_empire_cylin.png|
+</gallery>
+
+== Coded Rank Bar ==
+This is the code to add a rank bar to a player's description in game. The following ranks are listed below as not all rank names work in the code.  Also, if there is a rank in your branch that is named different than listed below but is the same rank, it may also be used.  Example: A Vice Marshal in the Starfighter Corps may use the corresponding Rear Admiral Rank bar.
+*[u(#4400/fun_rank, '''Insert Rank Here''' )]
+
+<div style="float:left; width:48%;">
+''' Imperial Navy / Starfighter Corps '''
+*Ensign
+*Lieutenant JG
+*Lieutenant
+*Lieutenant Commander
+*Commander
+*Naval Captain
+*Line Captain
+*Commodore
+*Rear Admiral
+*Vice Admiral
+*Admiral
+*Fleet Admiral
+*High Admiral
+*Moff
+*Grand Moff
+*Grand Admiral
+
+</div><div style="float:right; width:48%;">
+''' Imperial Army / Stormtroopers '''
+*Second Lieutenant
+*First Lieutenant
+*Army Captain
+*Major
+*Lieutenant Colonel
+*Colonel
+*High Colonel
+*Brigadier General
+*Major General
+*Lieutenant General
+*General
+*High General
+*Surface Marshal
+*Moff
+*Grand Moff
+*Grand General
+
+</div><br clear=all>
+
+[[Category:Military Ranks]]
+[[Category:Imperial Entities & Terminology]]

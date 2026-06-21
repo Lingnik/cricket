@@ -1,0 +1,36 @@
+TITLE: Help:Editing
+NAMESPACE: 12 (Help)
+LAST_EDIT: 2007-04-15T14:37:40Z
+======================================================================
+So you want to write a Wiki article? There are two ways of going about writing an article to add to [[SW1ki]].
+
+First and foremost, type the name of the article you would like to create into your browser's URL, with the SW1ki web address preceding it. For instance, let's say you want to make an article about '''Blue Milk''' on SW1ki. In your browser's URL, you would type <nowiki>http://sw1mush.wikicities.com/wiki/Blue Milk</nowiki> and then enter. You'll be taken to a blank page with the options of editing or saving, among several others. Click on edit and begin writing your article. Note: SW1ki links are '''Case Sensitive'''. Blue Milk is not the same as blue milk.
+
+Secondly, you can follow a red link in a pre-existing article. If an article you're viewing as this: [[Blue Milk]], and it's red, you can click on it and it will take you to a blank page where you can write the article for Blue Milk. Not all articles will have links to an article you may want to write, so that's why the first one is more important to remember.
+
+== Writing a Wiki Article ==
+Once you get to the blank page for your article, there will be several options at the top, one of which will be '''Edit'''. Click on edit and it will take you to the editing  screen.
+
+At the top, there are several buttons that will aid you in your editing process:
+*The first one is to make your selected text '''bold'''. <pre>Ex: '''bold'''</pre>
+*The second is to make your selected text ''italicized''. <pre>Ex: ''italicized''</pre>
+*The third is to link to another SW1ki article. If you aren't sure what an article's title is, do a search for it first to find out. Remember: SW1ki links are Case Sensitive.<pre>Ex: [[Blue Milk]]</pre>
+**Character page titles are usually the character's full name. If your text uses a partial character name or a nickname, use the | character in the link to separate the article title and the alternate text.<pre>Ex: [[Luke Skywalker|Luke]]</pre>
+**Sometimes it's more appropriate to link to a [http://starwars.wikia.com/ Wookieepedia] article. If there's no known way the subject could have its own distinct MUSH history after [[4 ABY]] (for example: the first two Death Stars, all of those Imperial Admirals who got force-choked, etc), then link to Wookieepedia, because we don't need to waste space duplicating their article here.<pre>Ex: [[:starwars:Alderaan|Alderaan]]</pre>
+*The fourth is to link to a website outside SW1ki. <pre>[http://www.example.com link title]</pre>
+*The fifth is to create a separate section within your article. These can be further sub-divided with the addition of more equal signs. <pre>== Creating Blue Milk ==</pre>
+*The sixth is to include an image in your article. <pre>[[Image:Example.jpg]]</pre><br />To get an image uploaded to SW1ki, go to the [[Special:Upload|Upload]] page.<br />
+*The seventh is to add a media file to the article, such as an audio file. <pre>[[Media:Example.mp3]]</pre><br />Refer to the [[Special:Upload|Upload]] page for more.<br />
+*The eighth is to insert a mathematical formula. <pre><math>Insert formula here</math></pre>
+*The ninth is to insert non-formatted text into the article. <pre><nowiki>Insert non-formatted text here</nowiki></pre>
+*The tenth is to insert your signature with a timestamp. <pre>--~~~~</pre>
+*Finally, the eleventh is a simple horizontal line. <pre>----</pre>
+
+Use these to help you write your article. Some general rules are to use internal links whenever possible. For instance, if in your article you mention the [[Galactic Empire]], link that text to the SW1ki article for the Galactic Empire (<nowiki>[[Galactic Empire]]</nowiki>). If later on you mention the [[New Republic]], do the same.
+
+Also, always write your articles from a [[Help:Neutrality|neutral point of view]]. The Wiki is not meant to be used as a tool for gloating or stroking your ego. Character biographies are allowed and are welcomed, but they shouldn't be used to brag.
+
+But, on the other side of the coin, don't vandalize someone's article, especially an article concerning a character you may or may not like, but you are allowed to edit should you see a discrepancy. Just don't ruin another player's article on purpose; we will know who did it, and there will be repercussions on the MUSH itself.
+
+
+[[Category:Help|{{PAGENAME}}]]

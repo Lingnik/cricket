@@ -1,0 +1,12 @@
+TITLE: Template:Infobox row
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-10-24T18:54:25Z
+======================================================================
+{{#if:{{{2|}}}|
+{{!}} class="infoboxlabel" style="{{#if:{{{3|}}}|background-color: {{{3}}}|}}; {{{4|}}}" {{!}} {{{1}}}
+{{!}} class="infoboxcell"  style="{{#if:{{{3|}}}|background-color: {{{3}}}|}}; {{{5|}}}" {{!}}
+{{{2|}}}}}<noinclude>
+
+[[Category:Infobox templates|{{PAGENAME}}]]
+
+</noinclude>

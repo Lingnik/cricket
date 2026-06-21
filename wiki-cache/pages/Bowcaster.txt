@@ -1,0 +1,19 @@
+TITLE: Bowcaster
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T19:43:04Z
+======================================================================
+A curious combination of modern and ancient technologies, the '''bowcaster''', or 
+"laser crossbow", is the traditional weapon of [[Wookiees]] on [[Kashyyyk]]. While 
+anachronistic to those accustomed to using blasters, a bowcaster is actually
+quite deadly in the hands of a skilled Wookiee warrior. At the end of the 
+bow launch shaft is a conducting rod a foot long with a polarizer ball at 
+either end. A scope rests atop the barrel over the trigger and elongated 
+stock/handgrip.
+<pre>
+Name................Bowcaster
+Weapon Type.........Exotic (uses Blaster)    Weight..............4.5kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-1D+0 Penalty            Damage..............4D
+Conceal Difficulty..20                       Two-Handed..........Yes</pre>
+
+[[Category:Ranged Weapons]]

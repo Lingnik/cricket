@@ -1,0 +1,7 @@
+TITLE: User:Artillect/global.css
+NAMESPACE: 2 (User)
+LAST_EDIT: 2021-10-17T20:13:10Z
+======================================================================
+/* Restore old layout */
+@import url("http://community.wikia.com/wiki/User:Undead.exe/OldOasis.css?action=raw&ctype=text/css");
+@import url("http://community.wikia.com/index.php?title=User:Undead.exe/OldFontSize.css&action=raw&ctype=text/css");

@@ -1,0 +1,59 @@
+TITLE: Talk:Main Page
+NAMESPACE: 1 (Talk)
+LAST_EDIT: 2008-03-20T18:24:52Z
+======================================================================
+DID YOU KNOW... That the only thing that ever comes up on the points of interest on the main page is Imperial related things? Perhaps we could -try- to cover other things, yes? :P -- Ricamar
+
+Yes I agree, the main page only ever features Imperial articles, why is this? Id like to see some other articles featured once in awhile. --Tyy'sun
+
+
+
+I'm wondering if we could have Reports either added to the "game" portion or the "way it works" near the RP logs link... I do think the IGN post reports do add flavor to the game, but currently are hidden from those just navigating the wiki.  [[User:Nasa eagle|Nasa eagle]] 16:39, 16 November 2006 (UTC)
+
+*Woof, I forgot all about the Reports section. Okay, this has been a few weeks in coming... give me the rest of today, and I'll hammer out a new Main Page layout that ''should'' encompass everything we need. Thanks for the reminder. -- [[User:Hawke|Hawke / Rtufo]] 17:09, 16 November 2006 (UTC)
+*I suck at design. Anyone have any ideas on how we can make the main page look nice? --[[User:Danik Kreldin|Danik Kreldin]] 07:11, 22 March 2007 (UTC)
+
+===Creators and Contributors===
+Category:SW1ki should be linked to from here, with a note explaining that all of the policy and help info can be found there. --[[User:Lolkje|Lolkje]] 19:07, 6 April 2007 (UTC)
+
+=== Additions ===
+I'm still looking for the reports section off of here, not sure if I'm just not seeing it or it on the todo list.  Also, here is a code bit that I think might help clean up the main page links to different areas as I cannot edit the main page. I think it looks cleaner to use this sort of code.  See below:
+
+<div style="float:left; width:23%;">
+LEFT
+
+</div><div style="float:left; width:23%;">
+LEFT CENTER
+
+</div><div style="float:right; width:23%;">
+RIGHT
+
+</div><div style="float:right; width:23%;">
+RIGHT CENTER
+
+</div><br clear=all>
+
+-- [[User:Nasa eagle|Nasa eagle]] 21:50, 6 April 2007 (UTC)
+=== List in the MU*Wiki! ===
+Be sure to list Star Wars 1 MUSH in the [http://mu.wikia.com MU*Wiki]!
+*--[[User:Stamp|Stamp]] 17:52, 16 June 2007 (UTC)
+
+==Wikia Gaming footer==
+Would it be possible for you to add the following footer to the [[Main Page]]?
+
+<!-- SOME LINKS TO OTHER MAJOR GAMING WIKIA WIKIS - REPLACE WITH RELATED WIKIA LINKS -->
+{| style="padding:0.5em; margin-top:1em; width:100%; border:2px solid #C6C9DD;" cellspacing="2" cellpadding="5" 
+|| http://images.wikia.com/wikia/images/c/c0/Gaming_logo_250px.png
+| style="text-align:right;" valign="top" | 
+'''Other [[w:Gaming|gaming wikis]] from [[wikia:Wikia|Wikia]]'''<br />
+<small>[[w:c:halo|Halo]] &bull; [[w:c:hellgate|Hellgate: London]] &bull; [[w:c:cnc|Command & Conquer]] &bull; [[w:c:BioShock|BioShock]] &bull; [[w:c:starcraft|StarCraft]] &bull; [[w:c:lotro|Lord of the Rings Online]]  &bull; [[w:c:fallout|Fallout]] &bull; [[w:Gaming|More...]]<br>[http://irc.wikia.com/gaming/ Wikia Gaming IRC Channel]</small>
+|}
+We're trying to get Wikia's gaming wikis more linked with each other. It's not mandatory, but it would be appreciated :). You can change the links to point to any other gaming wikias you like or cooperate with. [[User:Ausir|Ausir]] 17:40, 10 September 2007 (UTC)
+
+== Monaco skin ==
+
+Hullo! I am [[User:Kirkburn|Kirkburn]], your friendly local Wikia Gaming Helper!
+
+I've just set your site to default to a Monaco skin (sapphire in this case) - this is the new Wikia default skin, and is now the main actively developed Wikia platform. As a sucessor to Quartz, it comes with even more customizability - you can find out more on [[w:c:inside:Monaco Skin Customization]], where you can also find out info about the [[w:c:inside:Widgets|widgets]] available.
+
+An admin can set the default site skin via the skin section on [[Special:Preferences]], or by editing [[MediaWiki:AdminSkin]]. If users wish to see another skin than the default, they can untick "See custom wiki skins (recommended)" on the same page. [[w:User:Kirkburn|Kirkburn]] ([[w:User_talk:Kirkburn|talk]]) 18:24, 20 March 2008 (UTC)

@@ -1,0 +1,18 @@
+TITLE: Slaver Stun Pistol
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-04-11T15:34:44Z
+======================================================================
+Often the weapon of choice for those that trade in flesh, the '''Slaver Stun Pistol''' is one of the more powerful stun weapons out there, capable of 
+debilitating a sentient for long periods of time. Almost eliptical in shape,
+the Slaver looks similar to that of a Taser, but with ten times more 
+firepower.  Another "jabber" style stun weapon, which picked up its name from
+its prolific use among slavers and other denizens of space to assault and 
+disable beings.
+<pre>
+Name................Slaver
+Weapon Type.........Stun Pistol              Weight..............1kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-1D+2 Penalty            Damage..............2D (Stun)
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Stun Weapons]]

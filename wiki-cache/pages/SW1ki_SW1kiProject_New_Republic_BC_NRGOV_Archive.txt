@@ -1,0 +1,109 @@
+TITLE: SW1ki:SW1kiProject New Republic/BC NRGOV Archive
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2007-04-19T19:38:49Z
+======================================================================
+==Databank: New Republic Diplomacy==
+
+====DETAILS_GRIFFONS====
+Formal Alliance negotiations with the Griffons stalled before the Griffons started their campaign to liberate Mutanda from the CSA, and have not resumed since.
+
+====DO_SECRET1====
+$secret griffons1:@pemit %#=switch(member(u(top_secret),%N),0,,[eval(#344,header)]%rGriffon Benefits %r[repeat(-,38)]%rDiplomatic:%r1\)%tDiplomatic offices on N.R. HQ\, even if temporary with current conditions.%r2\)%tNo interference in other Griffon relations.%r3\)%tOther Faction relations will not be changed\, unless that group declares war on the New Republic. Then Alliance with N.R. will prevail in situation.%r%rNaval Aide & Protection from New Republic Fleet:%r1\)%tOnce DSIII is destroyed aide to defense of Pride One & Cochran.%r2\)%tAide in defense of Pride One & Cochran against any attacker.%r3\)%tAide in Griffon Offensives with approval of both governments N.R. Shipyards available for production of properly paid for military vessels. Details on this to be discussed later with CEC Head and NR leaders.%r%rTrade:%r1\)%tFull Trade rights to all N.R. controlled systems. Including updated trade maps and information.%r2\)%tFull landing rights for Griffon Merchant Marine Corp\, Diplomatic\, and Transport vessels.%r%rIntel\(optional\):%r1\)%tPassive & Active Intel reports shared for both Governments.%r[eval(#344,footer)])
+
+====DO_SECRET2====
+$secret griffons2:@pemit %#=switch(member(u(top_secret),%N),0,,[eval(#344,header)]%rNew Republic Benefits %r[repeat(-,38)]%rDiplomatic:%r1\)%tDiplomatic offices on Pride One \(Already Created\).%r%rNaval Aide from Griffon Alliance Fleet:%r1\)%tAide in destroying DSIII%r2\)%tAide in any and all N.R. Planet Evacuations.%r3\)%tAide in other N.R. Offensives with approval of both governments.%r4\)%tGriffon Shipyards available for production of properly paid for merchant vessels. Details on this to be discussed later with AEC Head and Griffon leaders.%r%rTrade:%r1\)%tFull Trade rights to all Griffon controlled systems. Including updated trade maps and information.%r2\)%tFull landing rights for New Republic Merchant Marine Corp\, Diplomatic\, and Transport vessels.%r%rIntel \(optional\):%r1\)%tPassive & Active Intel reports shared for both Governments.%r[eval(#344,footer)])
+
+====SECRET_GRIFFONS====
+%r%r*~*%rIf you can see this, it is because you are cleared at a high security level, and can know that the Griffons are very much our Allies in heart. Please do not divulge the nature of the close NR-Griffon relations to anyone, or discuss it with anyone who isn't on this list:%r%t[u(top_secret)]%r%rSECRET GRIFFONS1%tDisplays the Griffon side of the Alliance%rSECRET GRIFFONS2%tDisplays the NR side of the Alliance%r*~*
+
+==CSA Talks 13 ABY==
+This is just a dumping ground of some @mails I kept on the subject, until I figure out what to do with it and the Griffons info above. --[[User:Lolkje|Lolkje]] 19:38, 19 April 2007 (UTC)
+
+-----------------------------------------------------------------------------
+From: Leia                                                     (Conn)
+Date: Sun Jan 25 18:19:42 2004    Folder:  0   Message: 129
+Status: Unread 
+Subject: NR-CSA Treaty, IC mail
+-----------------------------------------------------------------------------
+To: Members of the Foreign Relations Committee of the NR Senate
+OOC list: Kelidon Gyzen_Bel Koth_Vry'lya Naota Johanna Ambrosia
+From: Minister of State Leia Organa-Solo
+
+Esteemed Senators and Colleagues,
+
+The New Republic Ministry of State was contacted by the Corporate Sector Authority, who expressed its interest in opening a trade and relations treaty with us. The Ministry of State has finished reviewing the proposed treaty, and has made alterations to its draft form that we feel are appropriate, based on our current knowledge of the longstanding relationship between the CSA and the Empire. The proposed treaty is enclosed, along with annotations about the changes proposed by the Ministry of State.
+
+The Ministry of State now offers the treaty to the Senate Foreign Relations Committee, for your perusal and response. We are not asking the Senate to ratify the treaty yet. Rather, the Ministry of State seeks the Committee's response to the treaty, in addition to any proposed changes you wish to make. After the Ministry of State has your opinions, we will incorporate them into another draft of the revised treaty and respond to the CSA with it. Only after talks with the CSA regarding the revised treaty have been concluded will the Senate be asked to vote on its ratification.
+
+I wish you all well, and I hope the Force will give us all wisdon regarding this matter.
+
+Sincerely, Leia Organa-Solo
+
+OOC P.S.: Everyone except Kelidon isn't a Senator, but I want to 'deputize' you all to give your input as if you were a NPC Senator for the purposes of this treaty. Please reply to me individually, and I'll mull over your ideas and then send our new version to the CSA people. There will be more RP opportunity when it comes time for a vote. ;) Ambrosia can also assume she knows about this ICly through Leia or the Senate's Foreign Relations committee or whatever, and can express her opinions either as her Ambassador PC or a NPC Senator, whichever she prefers. :)
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+From: Leia                                                     (Conn)
+Date: Sun Jan 25 18:21:21 2004    Folder:  0   Message: 130
+Status: Unread 
+Subject: NR-CSA Treaty, Attachment pt 1
+-----------------------------------------------------------------------------
+1) The New Republic recognizes the Corporate Sector Authority's partial sovereignty over the territory known as the Corporate Sector, but recognizes that the Corporate Sector is leased from the Empire until the CSA's obligation to the Empire is ended and it can be proven by official and independent sources. The New Republic agrees to be subject to CSA jurisdiction therein.
+(OOC: The CSA runs the Corporate Sector, and the NR agrees to abide by their rules there. Addendum by Leia: The 'partial sovereignty' clause has been edited and appended because this treaty should include an accurate portrayal of the relationship between the CSA and the Empire, as a reminder for both the CSA and the NR in the future. Caspar is a good example of an 'official and independent' source.)
+
+2) The CSA recognizes the New Republic's sovereignty over the territory of the same name and agrees to be subject to New Republic jurisdiction therein.
+(OOC: The NR runs the New Republic, and the CSA agrees to abide by their rules there.)
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+From: Leia                                                     (Conn)
+Date: Sun Jan 25 18:22:34 2004    Folder:  0   Message: 131
+Status: Unread 
+Subject: NR-CSA Treaty, Attachment pt 2
+-----------------------------------------------------------------------------
+3) The affairs of the CSA and its member corporations within the New Republic shall be afforded all legal protections and privileges as is common to such businesses, including but not limited to: full access to markets, products, and businesses, limited and full partnerships, and legal acquisition of properties and business entities.
+(OOC: The NR government shall not discriminate against CSA businesses in NR territory. Addendum by Leia: The 'contract consideration' clause has been removed, because the NR reserves the right to not award government or military contracts to CSA companies, on the political grounds that CSA membership dues are paid to an organization that supports the Empire with a lease agreement that pays a fraction of its profits.)
+
+4) The New Republic's citizenry and governmental agents, shall be afforded consumer status within the CSA, allowing them to pursue business and personal endeavors to the limit that CSA policies allow. The NR reserves the right to inquire about the status of any extradition treaties the CSA has with the Empire, either applying to particular individuals or in general. 
+(OOC: The CSA shall not discriminate against NR people in the Corporate Sector, just because they're NR. Addendum by Leia: The NR has the right to be cautious and warn its people against traveling to CSA space if they are wanted by the Empire.)
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+From: Leia                                                     (Conn)
+Date: Sun Jan 25 18:33:44 2004    Folder:  0   Message: 132
+Status: Unread 
+Subject: IC: NR-CSA Treaty Progress
+-----------------------------------------------------------------------------
+To: Viceprex Xerxes Kherzen, CSA Legal Division
+CC: Ambassador Ambrosia Aderanne
+OOC CC: Catalina, Kadesa
+From: Minister of State Leia Organa-Solo
+Re: Proposed Relations Treaty
+
+Mr. Kherzen,
+
+I wish to inform you that the treaty we received from you is in the process of advancing through our government, and we are taking appropriate steps to analyze and respond to it. I offer apologies for the slowness of these proceedings. The New Republic is trying to be as efficient as possible in the absence of not having a President since Peshk Vry'lya left office last year.
+
+The New Republic Ministry of State has finished reviewing the treaty, and has forwarded it to the Senate committee on Foreign Relations. We will compile the Senate's responses to the treaty, and will contact you to discuss possible revisions to the treaty.
+
+Sincerely, Leia Organa-Solo
+-----------------------------------------------------------------------------
+
+SECOND LEIA DRAFT:
+Asseveration of New Republic and CSA Relations
+(OOC: Asseverate: To declare seriously or positively; affirm.)
+
+Prelude
+For the first time since the establishment of the New Republic, the Corporate Sector Authority is seeking to establish its relationship with the New Republic. This document is a declaration of the New Republic’s definition of this relationship between the NR and the CSA.
+
+1) The New Republic defines the Corporate Sector Authority to be an administrative body for the territory known as the Corporate Sector, originally formed under the auspices of the Old Republic, and subsequently supported to this day by Palpatine and his legacy, the galactic Empire. The New Republic can neither recognize the Corporate Sector Authority as a sovereign entity, nor agree that the CSA has complete sovereignty over the Corporate Sector, because the CSA buys its right to control the Corporate Sector from the Empire. Until the CSA attains completely sovereign status, when the CSA's financial and political obligations to the Empire are ended and it can be proven by official and independent sources, the New Republic is unable to enter into any formal treaties or contracts with it. 
+(OOC: The CSA runs the Corporate Sector. Addendum by Leia: The 'sovereignty' clause has been edited and appended because this treaty should include an accurate portrayal of the relationship between the CSA and the Empire, as a reminder for both the CSA and the NR in the future. Caspar is a good example of an 'official and independent' source.)
+
+2) The New Republic accepts the CSA’s offer that the CSA recognizes the New Republic's sovereignty over the territory of the same name and agrees to be subject to New Republic jurisdiction therein.
+(OOC: The NR runs the New Republic, and the CSA agrees to abide by their rules there.)
+
+3) The affairs of the CSA and its member corporations within the New Republic shall be afforded legal protections and privileges as is common to such businesses, including but not limited to: full access to markets, products, and businesses, limited and full partnerships, and legal acquisition of properties and business entities, except where the New Republic reserves the right to discriminate against CSA companies that have a practice of labor abuses and/or ecological abuses contrary to the New Republic’s declaration of principles, until such practices are ended and it can be proven by official and independent sources.
+(OOC: The NR government shall not discriminate against CSA businesses in NR territory, except where such businesses have practices the NR doesn’t agree with. Addendum by Leia: The 'contract consideration' clause has been removed and appended, because the NR reserves the right to not award government or military contracts to CSA companies, on the grounds that corporate member dues are paid to and abusive practices are done in support of an organization that supports the Empire with a lease agreement that pays a fraction of its profits.)
+
+4) The New Republic accepts the CSA’s offer that New Republic citizens and governmental agents shall be afforded consumer status within the CSA, allowing them to pursue business and personal endeavors to the limit that CSA policies allow. The NR reserves the right to inquire about the status of any extradition treaties the CSA has with the Empire, either applying to particular individuals or in general. 
+(OOC: The CSA shall not discriminate against NR people in the Corporate Sector, just because they're NR. Addendum by Leia: The NR has the right to be cautious and warn its people against traveling to CSA space if they are wanted by the Empire.)

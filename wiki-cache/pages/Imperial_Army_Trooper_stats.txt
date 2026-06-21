@@ -1,0 +1,125 @@
+TITLE: Imperial Army Trooper (stats)
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-04-17T09:20:33Z
+======================================================================
+__TOC__
+{| cellpadding="5" style="width: 96%;"
+|-
+| style="vertical-align: top;"| <h3>Typical Imperial Army Trooper</h3>
+{{Sheet
+|width=100%
+|title=Typical Imperial Army Trooper
+|title-color=#eeeeee
+|title-bgcolor=#000000
+|dexterity=3D
+|dexterity-skills=
+{{Sheet/Skill|Blaster|4D+1}}
+{{Sheet/Skill|Dodge|4D+1}}
+{{Sheet/Skill|Grenade|3D+2}}
+{{Sheet/Skill|Vehicle Blasters|3D+2}}
+|knowledge=1D+1
+|knowledge-skills=
+{{Sheet/Skill|Survival|2D+1}}
+|mechanical=1D+1
+{{Sheet/Skill|Repulsorlift Operation|2D+1}}
+|perception=2D
+|strength=3D+1
+|strength-skills=
+{{Sheet/Skill|Brawling|4D+1}}
+|technical=1D
+}} | style="vertical-align: top;"| <h3>Veteran Imperial Army Trooper</h3>
+{{Sheet
+|width=100%
+|title=Veteran Imperial Army Trooper
+|title-color=#eeeeee
+|title-bgcolor=#000000
+|dexterity=3D
+|dexterity-skills=
+{{Sheet/Skill|Blaster|4D+1}}
+{{Sheet/Skill|Heavy blaster pistol|5D+1}}
+{{Sheet/Skill|Blaster artillery|3D+2}}
+{{Sheet/Skill|Brawling Parry|3D+1}}
+{{Sheet/Skill|Melee Combat|4D}}
+{{Sheet/Skill|Melee Parry|3D+2}}
+{{Sheet/Skill|Missile Weapons|4D}}
+{{Sheet/Skill|Dodge|4D+1}}
+{{Sheet/Skill|Grenade|3D+2}}
+{{Sheet/Skill|Vehicle Blasters|3D+2}}
+|knowledge=1D+1
+|knowledge-skills=
+{{Sheet/Skill|Survival|2D+1}}
+{{Sheet/Skill|Intimidation|2D+1}}
+{{Sheet/Skill|Law enforcement|2D+1}}
+{{Sheet/Skill|Law enforcement, Imperial|3D+2}}
+{{Sheet/Skill|Streetwise|2D+1}}
+|mechanical=1D+1
+{{Sheet/Skill|Repulsorlift Operation|2D+1}}
+{{Sheet/Skill|Ground Vehicle Operation|2D+1}}
+{{Sheet/Skill|Hover Vehicle Operation|2D+1}}
+|perception=2D
+|perception-skills=
+{{Sheet/Skill|Command|3D}}
+{{Sheet/Skill|Hide|2D+2}}
+{{Sheet/Skill|Search|3D}}
+{{Sheet/Skill|Sneak|2D+2}}
+|strength=3D+1
+|strength-skills=
+{{Sheet/Skill|Brawling|4D+1}}
+{{Sheet/Skill|Stamina|4D+1}}
+|technical=1D
+|technical-skills=
+{{Sheet/Skill|Blaster repair|2D}}
+{{Sheet/Skill|First-Aid|2D}}
+}}
+|}
+
+
+===Imperial Army Assault Trooper===
+'''Dexterity''': 2D+2<br />
+Blaster 4D+2, blaster artillery 3D+2, vehicle blasters 5D+2
+
+'''Knowledge''': 1D<br />
+Survival 2D
+
+'''Mechanical''': 3D+2<br />
+Ground vehicle operation 5D+2
+
+'''Perception''': 2D+1<br />
+Search 3D+1
+
+'''Strength''': 1D+1<br />
+Brawling 3D
+
+'''Technical''': 1D<br />
+Ground vehicle repair 2D
+
+===Veteran Imperial Army Assault Trooper===
+'''Dexterity''': 2D+2<br />
+Blaster 5D+2, blaster: blaster rifle 7D+1, blaster: repeating blaster 6D+2, blaster artillery 4D+2, brawling parry 3D+2, Dodge 4D+2, grenade 4D+2, melee combat 3D+2, melee parry 3D+2, running 3D+2, vehicle blasters 5D+2
+
+'''Knowledge''': 1D<br />
+Survival 3D, Intimidation 3D, streetwise 2D
+
+'''Mechanical''' 3D+2<br />
+Ground vehicle operation 5D+2, Communications 4D+2, hover vehicle operation 4D+2, repulsorlift operation 4D+2
+
+'''Perception''': 2D+1<br />
+Search 3D+1, Command 3D+1, hide 3D+1, sneak 3D+1
+
+'''Strength''': 1D+1<br />
+Brawling 3D+1, climbing/jumping 2D+1, stamina 3D+1
+
+'''Technical''': 1D<br />
+Ground vehicle repair 2D, armor repair 2D, blaster repair 2D, first aid 2D+2, hover vehicle repair 2D, repulsorlift repair 2D
+
+{{Tab Return|Imperial Army}}
+{{Tab Return|Imperial Army}}
+
+===Notice===
+The ''Thrawn Trilogy Sourcebook'' states that the "Veteran" Trooper and "Veteran" Assault Trooper are "Typical" by 9 ABY (Thrawn's Campaign). Players involved in a scene with NPC'd Army Troopers will use their judgment on this matter, or perhaps one of the Admin can decide on a permanent ruling.
+
+===Sources===
+*''[[:starwars:The_Imperial_Sourcebook|The Imperial Sourcebook]]''
+*''[[:starwars:The_Thrawn_Trilogy_Sourcebook|The Thrawn Trilogy Sourcebook]]''
+
+[[Category:NPC Stats]]

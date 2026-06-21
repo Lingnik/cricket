@@ -1,0 +1,228 @@
+TITLE: Skills
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-10-09T19:54:42Z
+======================================================================
+== '''Skills Overview''' ==
+
+Characters have different strengths and weaknesses. As well, characters gain experience over time and their skills improve. Star Wars MUSH uses a a system based on six-sided dice (d6) to model this.
+
+The attributes and skills used in the chargen process are based off of a system of 'dice' and 'pips.'  Dice are denoted with a "D" after a numeric value; pips are included after the Die value with a "plus" sign.
+
+Example: 3D+2 denotes 3 dice, and 2 pips.
+
+Dice are the amount of 6-sided dice rolled when a skill check is performed. The pips are then added to the dice roll. If your value for a skill is 3D+2, and you rolled a 14 on your 3 dice, the 2 pips would then be added to your roll, giving you a total result of 16.
+
+In this system, 3 pips are the equal of one die, therefore you will never see a pip value greater than 2.
+
+All characters on this MUSH will have 18D to distribute among their 6 attributes (also known as primary stats.)  Humans are the baseline with 2D minimum in every attribute.  Other species have different minimums and limits which can be seen on the [[races]] page.
+
+Example: The entry for the Aqualish species lists minimum attributes of 2D+0 for Dexterity, 1D+0 for Knowledge, 1D+2 for Mechanical, 2D+0 for Perception, 2D+0 for Strength, 1D+2 for Technical.  An Aqualish further gets 7D+2 as CG Points.  But wait, that doesn't add up to 18D.  What gives?
+
+Adding all of these minimum dice up, the total is 9D+4.  Adding in the 7D+2 for CG Points, one gets 16D+6.  Remember that three pips is equal to a die, so the Aqualish profile's +6 is equal to 2D.  So the total is 18D+0.
+
+In addition, each character receives 7D to allocate to their skills (secondary, more specialized stats.) These dice can be broken up into pips and distributed as the player sees fit. However, no skill may be raised more than 2D above its corresponding attribute through the chargen process.
+
+== '''Skills List''' ==
+ (see below for more information on each skill)
+
+DEXTERITY: Blaster, Dodge, Melee Combat, Pickpocket, and Thrown Weapons.
+
+KNOWLEDGE: Alien Cultures, Home Economics, Languages, Streetwise, Willpower,
+and Business.
+
+MECHANICAL: Astrogation, Beast Riding, Capital Ship Piloting, Ground Vehicle
+Operation, Powersuit Operation, Sensors, Shield Operation,
+Starfighter Piloting, Starship Piloting, Vehicle Gunnery, Starship Gunnery,
+and Communications.
+
+PERCEPTION: Bargain, Forgery, Hide, Search, Con, and Gambling.
+
+STRENGTH: Acrobatics, Athletics, Stamina, and Brawling.
+
+TECHNICAL: Armor Repair, Demolitions, Slicing, Cryptography, Droid Repair,
+Medical, Security, Vehicle Repair, Starship Repair, and Weapon Repair.
+
+== '''Improving your Skills''' ==
+Skills are improved by means of Advancement Points, awarded for recieving nominations in the Legend system. Only skills may be increased after character generation, attributes are fixed.
+
+To improve a skill by one pip costs a number of advancement points equal to '''current '''dice of that skill. Thus improving a skill from 3D to 3D+1 costs 3 advancement points, as does a further increase to 3D+2 and a further increase after that to 4D. Thereafter, raising the skill will cost four points per pip.
+
+Players with a character age of six or more months will be able to raise skills above their racial maximum (3D above their governing attribute)
+
+For each pip (+1) above their previous max the cost will be three times what the pip would normally cost. Example: For a Human to raise a stat from 7D to 7D+1 it will cost 21 advancement points. These skill increases are restricted to skills in one attribute: Dexterity, Knowledge, Strength, Perception, Mechanical, or Technical.
+
+''Please note that any request for these changes will be discussed and accepted on a player by player request. Players who wish to increase skills above their maximum should be able to provide reason for their request and in some cases logs. Also, players should maintain a balanced sheet when requesting a stat increase of this nature. The Wiz staff reserves the right to deny any player an increase. This policy is subject to change and is being implemented on a trial basis.''
+
+== '''Dexterity-Based Skills''' ==
+
+'''DEXTERITY''' <Attribute>
+Dexterity is a measure of your character's natural eye-hand coordination, balance, and agility. Dexerity is useful for dodging incoming attacks, firing blaster bolts of your own, picking pockets, or even walking tightropes.
+
+'''BLASTER''' <Dexterity Skill>
+Covers the use of any personal blaster-type weapon, including pistols, carbines, and rifles, but not including multi-crew or vehicle blasters. Also includes Bowcasters.
+
+'''DODGE''' <Dexterity Skill>
+The ability to get out of the way of any projectiles (blaster bolts, arrows, large flying rocks) which may be headed in your direction.
+
+'''MELEE COMBAT''' <Dexterity Skill>
+Measures one's ability to use hand-to-hand weapons from high-tech weapons such as force-pikes and vibroaxes as well as more mundane weapons such as knives and clubs.  Melee also determines one's ability to parry attacks from the same.
+
+'''PICKPOCKET''' <Dexterity Skill>
+This skill is used to determine your success at relieving an object of it's owner, hopefully without the owner's taking notice.
+
+'''THROWN WEAPONS''' <Dexterity Skill>
+Any weapons which are hurled at an opponent are covered under this skill. Grenades, throwing knives, and spears all fit in this category.
+
+== '''Knowledge-Based Skills''' ==
+
+'''KNOWLEDGE''' <Attribute>
+This is your character's level of academic knowledge as well as 'common sense.'  How well your character responds to mental challenges will depend on your knowledge attribute.
+
+'''ALIEN CULTURES''' <Knowledge Skill>
+This skill involves knowledge of any species beyond those found on your character's homeworld, including humans if you happen to be a non-human character. This skill also represents general familiarity with common customs of those species. Characters with low ability in this area will not be able to learn the languages of more obscure alien species. (USED IN LANG SYSTEM)
+
+'''BUSINESS''' <Knowledge Skill>
+Your character has a working knowledge of businesses and business procedures.  A character skilled in business might have several contacts in the business world; those who would want to run their own company would need this skill in order to succeed. (USED IN NPC BUSINESS SYSTEM)
+
+'''HOME ECONOMICS''' <Knowledge Skill>
+Skill concerning consumer science, nutrition, cooking, parenting, interior decoration, textiles, gardening, and other subjects related to home management.
+
+'''LANGUAGES''' <Knowledge Skill>
+This skill determines how many languages your character has aquired through classroom learning or experience. Languages range from racial tongues to trade languages, to special code languages.  (USED IN LANG SYSTEM)
+
+'''STREETWISE''' <Knoweldge Skill>
+This reflects a character's familiarity with underworld organizations and their operation. Streetwise is typically applied towards making contacts with the criminal underworld, such as attempting to purchase illegal goods or services, or to find someone to do something illegal. This can also include a character's general street sense when applied to situations where that may become relevant. (USED IN SMUGGLING SYSTEM)
+
+'''WILLPOWER''' <Knowledge Skill>
+Your character's strength of will and determination. Willpower is often used to counter the use of intimidation on a person or as a test of a person's ability to carry out tasks which would bring them to injury or death as a result.
+
+== '''Mechanical-Based Skills''' ==
+
+'''MECHANICAL''' <Attribute>
+This is a term used for your character's mechanical aptitude and determines your abilities with both vehicles and live mounts. Successful pilots have high levels of proficiency in this area- pilots and drivers with not much mechanical ability tend to be accident and/or mistake prone.
+
+'''ASTROGATION''' <Mechanical Skill>
+This skill is used to plot hyperspace courses from one system to another. Failed attempts at astrogation can range from annoying delays in travel time to disasterous mis-jumps. (USED IN SPACE CODE)
+
+'''BEAST RIDING''' <Mechanical Skill>
+Your character's ability to control live mounts such as Banthas and Dewbacks.  Characters skilled at beast riding know how to handle their mounts in stressful situations, keep the animal from panicking, and use the beast to aid them in combat situations.
+
+'''CAPITAL SHIP PILOTING''' <Mechanical Skill>
+The helm operation, navigation, and engineering duties of large capital scale ships are covered under this skill. (USED IN SPACE CODE)
+
+'''COMMUNICATIONS''' <Mechanical Skill>
+This skill enables those aboard (primarily Capital-scale) spacecraft to secure, intercept, encrypt or jam communications. Unlike cryptography, this skill entails a character's ability to utilize the ship-bound system to carry off the task, not necessarily to encrypt, so in judged situations, a cryptography check may be required for encryption related matters.
+
+'''GROUND VEHICLE OPERATION''' <Mechanical Skill>
+This skill covers the operation of all manner of surface craft, from hovertanks to primitive wheeled vehicles, to swoops and walkers.
+(USED IN SWOOP RACING)
+
+'''POWERSUIT OPERATION''' <Mechanical Skill>
+Powersuits are exoskeletons designed for powered movement. The feared Imperial Spacetrooper legions are known to be quite adept at this skill.
+
+'''SENSORS''' <Mechanical Skill>
+The ability to use sensors, ranging from portable handheld scanners to use sensor arrays used on capital ships and military bases.
+
+'''SHIELD OPERATION''' <Mechanical Skill>
+If your starship is under fire, you'd better hope someone knows how to operate the shields. Successful use of this skill will allow for efficient allocation of energy to the shields when it's needed most.
+(USED IN SPACE CODE)
+
+'''STARFIGHTER PILOTING''' <Mechanical Skill>
+Your ability to fly starfighter-scale military fighters (such as TIE Fighters and X-Wings). The better your piloting skill, the better your chances of being able to complete risky maneuvers and avoid enemy fire.
+(USED IN SPACE CODE)
+
+'''STARSHIP PILOTING''' <Mechanical Skill>
+Your ability to fly starship-scale craft (such as transports, freighters, shuttles, etc). The better your piloting skill, the better your chances of
+being able to complete risky maneuvers and avoid enemy fire. (USED IN SPACE CODE)
+
+'''STARSHIP GUNNERY''' <Mechanical Skill>
+Your ability to be precise with the firing of all starship-based weapons on all classes of space vessels. (USED IN SPACE CODE)
+
+'''VEHICLE GUNNERY''' <Mechanical Skill>
+Your ability to  be precise with vehicle-mounted  weapons, such as the blasters on an AT-AT walker or hovertank.
+
+== '''Perception-Based Skills''' ==
+
+'''PERCEPTION''' <Attribute>
+Perception involves your character's awareness of his/her surroundings, ability to note subtle occurances or see what may not immediately be
+obvious. This is used to determine initiative in combat situations. Characters with low perception get lost often and are always missing the
+punchline.
+
+'''BARGAIN''' <Perception Skill>
+This skill enables you to haggle for better prices with NPC merchants. When bargaining with players, the situation should be roleplayed out, although judges may also call for rolls at their discretion. (USED IN SMUGGLING CODE)
+
+'''CON''' <Perception Skill>
+This skill reflects a person's ability to sound convincing while being deceptive. It is not a replacement for roleplaying those things out- it is simply available in the event someone's credibility is questioned IC and they want to assert that they sound convincing.
+
+'''FORGERY''' <Perception Skill>
+Forgery is the skill of falsifying electronic or paper documents to say what the character wishes them to say. Forgery skills should always be done with a judge present to determine the success/effects of the forgery.
+
+'''GAMBLING''' <Perception Skill>
+This skill measures a character's skill or luck at games of chance, such as sabacc.
+
+'''HIDE''' <Perception Skill>
+Hide is a character's talent for concealment, whether they are attempting to conceal weapons, goods, or themselves. Characters with good hide abilities are knowledgeable about camoflage, hidden compartments, sneaking around in the shadows, and other methods of keeping things unseen.
+
+'''SEARCH''' <Perception Skill>
+This is the counter-skill to HIDE. Characters use this skill to detect hidden objects, individuals, or determine another character's success at
+HIDE.
+
+== '''Strength-Based Skills''' ==
+
+'''STRENGTH''' <Attribute>
+This is a measure of your character's build, physique, physical fitness, as well as brute strength.  Characters with high strength can lift heavy
+objects, are better able to resist damage, and inflict more damage when brawling.
+
+'''ACROBATICS''' <Strength Skill>
+Training in skills requiring significant body control (balance, strength, and/or flexibility).
+
+'''ATHLETICS''' <Strength Skill>
+Proficiency in athletics means that your character is trained in perfoming complex physical feats which require both strength and precision. This
+includes climbing, jumping, swimming, and pole-vaulting.
+
+'''BRAWLING''' <Strength Skill>
+Measures one's ability to deal unarmed blows using one's hands or feet. Brawling also covers the blocking of brawling attacks.
+
+'''STAMINA''' <Strength Skill>
+A measure of how long your character can withstand intense physical exertion. Characters with low endurance cannot keep up a steady pace at physically demanding tasks- characters with higher endurace will be more consistent.
+
+== '''Technical-Based Skills''' ==
+
+'''TECHNICAL''' <Attribute>
+This is a measure of your character's general technical aptitude. Computer literacy, skill with mechanical and electronic systems and how to repair
+them all fall under technical. Technical subjects also include first-aid and medical studies, droid sciences, and how to use/abuse electronic
+security.
+
+'''ARMOR REPAIR''' <Technical Skill>
+This skill covers the repair and modification of personal armor. Someone in the Empire must be very adept at this skill to keep all those millions of
+sets of stormtrooper armor looking shiny and new.
+
+'''COMPUTERS''' (Technical Skill)
+Slicing is the art of going into a computer system illegally and changing information and data.  The skill overlaps with SECURITY and CRYPTOGRAPHY in certain applications.
+
+'''CRYPTOGRAPHY''' <Technical Skill>
+Knowledge of ciphers of codes, this skill represents the ability to devise and defeat encryption-based security schemes, whether for locks, messages or other applications. It may also be used to decipher symbolic languages.
+
+'''DEMOLITIONS''' <Technical Skill>
+One's ability to set explosives for both destructive purposes and to accomplish specific special effects.
+
+'''DROID REPAIR''' <Technical Skill>
+This skill covers both the repair and modification of droids. In most cases, repairs are much easier to undertake than modifications, because repairs can work from pre-assembled parts and blueprints.
+
+'''MEDICAL''' <Technical Skill>
+A 3D rating in medical represents some basic knowledge of first aid. A medical assistant may have 5D, while a doctor would have at least 6D in this.
+
+'''SECURITY''' <Technical Skill>
+This skill is used to implement, detect, or bypass electronic security measures excluding encryption (see CRYPTOGRAPHY), such as electronic locks, cameras, or fences.
+
+'''STARSHIP REPAIR''' <Technical Skill>
+A skill governing the repair and maintenance of all space vehicles, from starfighters to starships, to capital-scale craft. (USED IN SPACE CODE)
+
+'''VEHICLE REPAIR''' <Technical Skill>
+A skill governing the repair and maintenance of ground vehicles of all sorts, from speederbikes to hovertanks to walkers. This includes swoops.
+
+'''WEAPON REPAIR''' <Technical Skill>
+This skill allows your character to attempt repairs on weaponry of all sorts. It will be more difficult to repair a heavy repeating blaster which has just
+taken a direct hit than to unjam a holdout blaster pistol.
+
+[[Category:CharGen]]

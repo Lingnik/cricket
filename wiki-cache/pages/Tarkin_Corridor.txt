@@ -1,0 +1,15 @@
+TITLE: Tarkin Corridor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-04-28T20:11:59Z
+======================================================================
+The hyperspace lane christened the ''Tarkin Corridor'' serves as the backbone of the current [[Galactic Empire|Imperial Order]]. Starting from Byss, a long-known stronghold world of Palpatine's Empire, and running clear through to [[Selene]], the new capital, the route has been over-surveyed for hyperaccuity. This allows Imperial vessels of all varieties to move expeditiously from one system to another in as short order as possible. Imperial engineers have even labored to install anti-incursion sensor buoys and mines along the route so as to dissuade recon units and commerce raiders. The route has gotten so secure that a ferry system is in place that will move travellers from one end to the other in under six hours, and if someone on Selene orders an item from a Byssine factory, they'll have it by the end of the day.
+<br>
+<br>
+{{Route|
+color=#ff0000|
+start=Byss|
+items=[[Athaniss]], [[O'paal]]|
+end=[[Selene]]|
+}}
+----
+[[Category:Trade_Routes]]

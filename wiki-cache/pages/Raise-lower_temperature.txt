@@ -1,0 +1,13 @@
+TITLE: Raise-lower temperature
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-18T01:08:15Z
+======================================================================
+{{forcepower|
+power=Raise/Lower Temperature|
+align=Neutral|
+domain=Alter|
+}}
+ 
+Affects a 20 meter diameter circle, with target change at center (with user) and reducing 5 degrees every 5 meters from user. Difficulties apply depending on the desired temperature change.
+
+[[Category:Alter powers]]

@@ -1,0 +1,18 @@
+TITLE: Heavy Assault Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-24T02:00:52Z
+======================================================================
+This suit of armor offers superior protection from energy and
+especially physical attacks, the heavy plating nearly impenetrable
+by the most common street weapons. In truth though this armor is
+made for battle -- a legion of so-equipped behemoth warriors
+plodding into the fray fully encased in durasteel is truly a sight
+to behold. From a safe distance.
+<pre>
+Name................Heavy Assault Armor
+Weight..............100kg                    Covers..............Body
+Physical Protection.3D+1                     Energy Protection...2D+1
+Conceal Difficulty..50                       Dexterity Penalty...-2D+1
+Strength Bonus......0          </pre>   
+
+[[Category:Armor]]

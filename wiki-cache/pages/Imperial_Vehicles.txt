@@ -1,0 +1,171 @@
+TITLE: Imperial Vehicles
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2016-05-14T16:31:41Z
+======================================================================
+The Imperial Army is sourced from the worlds that constitute the Empire and their equipment and training vary wildly from one planet to the next. Some garrisons have equipment and training to rival that of the Stormtrooper legions, while others rely on munitions and tactics that would've been antiquated during the Clone Wars.
+
+The Empire has always placed greater importance on the use of mechanized units than the Republic, which during the lifetime of the Rebellion had trouble sourcing them in significant numbers and limited use for pitched battle engagements.
+
+== Ground Assault Vehicles (GAV) ==
+
+=== Light Assault Vehicle ===
+Little more than a militarized land-speeder, the "LAV" is primarily used for patrols and reconnaissance during routine occupations. On occasion, they are deployed in a battlefield role as light support for infantry, but their fragility and lackluster armament quickly becomes apparent in these conditions.
+ Vehicle ... Light Assault Vehicle
+ Type ...... Patrol Speeder               Cargo Capacity ... 20kg
+ Scale ..... Speeder                      Movement ......... 35 (100kmh)
+ Length .... 12 meters                    Maneuver ......... 1D+1
+ Height .... 1 meter                      Body Strength .... 3D
+ Skill ..... Ground Vehicle Operation     Cover ............ Full  
+ Crew ...... 2                            Passengers ....... 2
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *One Light Blaster Cannon:
+       Range ... 3-50m/100m/200m          Damage ........ 3D 
+       Fire Arc: Forward                  Fire Control .. 1D
+       Crew .... 1
+
+=== Combat Assault Vehicle ===
+Modern weapons technology has caused a shift away from heavy armor and toward speed on the battlefield. The "CAV" is the most widely used repulsor vehicle in the Imperial army and offers a flexible combination of anti-vehicle and anti-infantry firepower in a highly mobile package. CAV's are usually deployed as rapid-reinforcement and direct fire support for infantry detachments, and sometimes in autonomous, self-supporting squadrons where their high speed and flexible capabilities make them excellent raiders.
+ Vehicle ... Combat Assault Vehicle
+ Type ...... Combat Speeder               Cargo Capacity ... 250kg
+ Scale ..... Speeder                      Movement ......... 105 (300 kmh)
+ Length .... 14 meters                    Maneuver ......... 1D
+ Height .... 2 meters                     Body Strength .... 3D
+ Skill ..... Ground Vehicle Operation     Shields .......... 1D
+ Cover ..... Full                         Crew ............. 2 (+3 Gunners)
+                                          Passengers ....... 0
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *Two Medium Laser Cannons (Fire-linked):
+       Range ... 50-400m/900m/2km         Damage ........ 5D 
+       Fire Arc: Turret                   Fire Control .. 1D
+       Crew .... 1
+ 
+   *Two Repeating Blasters
+       Range ... 50-300m/800m/1.5km       Damage ........ 3D+2
+       Fire Arc: Turret                   Fire Control... 2D
+       Crew .... 2
+
+=== Infantry Assault Vehicle ===
+Designed to carry a standard eight-man squad into the combat zone and then provide direct fire support for the unit. It is a poor substitute for a battle tank or even CAV but the ability to rapidly deploy infantry, the kings of the modern battlefield, is critical to Imperial offensive strategy and squads appreciate the extra firepower.
+ Vehicle ... Infantry Assault Vehicle
+ Type ...... Transport Speeder            Cargo Capacity ... 50kg
+ Scale ..... Speeder                      Movement ......... 70 (200 kmh)
+ Length .... 16 meters                    Maneuver ......... 1D
+ Height .... 2 meters                     Body Strength .... 3D
+ Skill ..... Ground Vehicle Operation     Cover ............ Full
+ Crew ............. 1 (+2 Gunners)        Passengers ....... 8
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *Heavy Blaster Cannon:
+       Range ... 50-250m/750m/1.5km       Damage ........ 6D 
+       Fire Arc: Turret                   Fire Control .. 1D
+       Crew .... 1
+ 
+   *Concussion Missile Launcher
+       Range ... 50-500m/1.5km/3km        Damage ........ 4D
+       Fire Arc: Turret                   Fire Control... 2D
+       Crew .... 1
+
+== Tanks ==
+Light and Medium Tanks have largely been replaced in Imperial armor doctrines by the tactically superior CAV but many medium tanks remain in service with planetary garrisons and a role remains in the Imperial Army for heavy tanks, which serve as line-breakers during assaults and anchor points on the battlefield.
+
+=== Imperial Army Tank ===
+Something of a relic by modern standards, medium tanks are usually relegated to patrol duty in potentially hostile regions of occupied worlds.
+ Vehicle ... Imperial Army Tank
+ Type ...... Medium Repulsor Tank         Cargo Capacity ... 50kg
+ Scale ..... Speeder                      Movement ......... 20 (60 kmh)
+ Length .... 8 meters                     Maneuver ......... 1D
+ Height .... 2 meters                     Body Strength .... 3D+2
+ Skill ..... Ground Vehicle Operation     Cover ............ Full  
+ Crew ...... 1 (+3 Gunners)               Passengers ....... 0
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *One Medium Laser Cannon:
+       Range ... 30-150m/350m/1km         Damage ........ 4D 
+       Fire Arc: Forward                  Fire Control .. 1D
+ 
+   *Six Light Blasters:
+       Range ... 5-50m/100m/200m          Damage ........ 2D
+       Fire Arc: 2F, 2R, 2L               Fire Control... 1D
+
+=== Saber Tank ===
+An older model of heavy tank manufactured during the Rebellion-era, the Saber is itself based on a Clone War-era vehicle of the same name and like its predecessor has largely been discontinued. It remains in service with some garrisons, particularly those on the outer-rim.
+ Vehicle ... 2-M Saber Repulsor Tank
+ Type ...... Heavy Repulsor Tank        Cargo Capacity ... 10kg
+ Scale ..... Speeder                    Movement ......... 30 (90 kph)
+ Length .... 11 meters                  Maneuver ......... 1D
+ Height .... 2.4 meters                 Body Strength .... 4D
+ Skill ..... Ground Vehicle Operation   Shields........... 1D
+ Crew .......1 (+1 Gunner)              Cover............. Full
+ Passengers..0                   
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *One Heavy Laser Cannon:
+       Range ... 30-500m/1.5km/2.5km      Damage ........ 6D 
+       Fire Arc: Turret                   Fire Control .. 2D
+ 
+   *Medium Blaster Cannon:
+       Range ... 50-200m/500m/1km         Damage ........ 3D
+       Fire Arc: Turret                   Fire Control... 1D
+
+=== FireHawke Repulsor Tank ===
+The modern assault tank of choice in the Imperial Army, the Firehawke is an excellent blend of speed, firepower and durability. While capable of dominating lesser vehicles and absorbing a substantial weight of fire, it is no match for the Republic T4-series.
+ Vehicle ... S1 FireHawke Repulsor Tank
+ Type ...... Heavy Repulsor Tank         Cargo Capacity ... 50kg
+ Scale ..... Speeder                     Movement ......... 35 (100 kph)
+ Length .... 10.1 meters                 Maneuver ......... 1D+2
+ Height .... 2 meters                    Body Strength .... 4D+2
+ Skill ..... Ground Vehicle Operation    Cover ............ Full  
+ Crew ...... 3 (+2 Gunners)              Passengers ....... 1
+ 
+ Weapons ...                             Weapon Skill ..... Vehicle Gunnery
+   *One Heavy Laser Cannon:
+       Range ... 200-1km/2km/3km         Damage ........ 6D 
+       Fire Arc: Turret                  Fire Control .. 2D+2
+ 
+   *Medium Blaster Cannon:
+       Range ... 50-200m/500m/1km        Damage ........ 3D+2
+       Fire Arc: Turret                  Fire Control... 1D+1
+
+== Walkers ==
+Used almost exclusively by the Stormtrooper Legions, walkers are a continuation of an older strategy of armor deployment which has been adapted to the modern-era at great expense. They are fantastically well armored and boast formidable weaponry. Although incapable of keeping up with Ground Assault Vehicles in extended maneuvers, Stormtroopers deploy them from orbit close to the combat zone using dedicated barges and once on the battlefield, their speed is quite adequate.
+
+=== All-Terrain Armored-Transport ===
+Used as a line-breaker, mobile artillery, battering ram and assault transport the AT-AT is the Stormtrooper's solution to any hardened position. Closing with surprising speed and virtually impervious to all but the heaviest of ordinance, the AT-AT can annihilate weapon emplacements, overrun defensive positions, crack fortress walls and then deploy five full squads of Stormtroopers into the breach. AT-AT's also carry five scout speeder bikes, allowing them to provide their own reconnaissance.
+ Vehicle ... Imperial AT-AT (All Terrain Armored Transport)
+ Type ...... Assault Walker               Cargo Capacity ... 1 metric ton
+ Scale ..... Walker                       Movement ......... 21 (60 kmh)
+ Length .... 20.6 meters                  Maneuver ......... 1D
+ Height .... 15.5 meters                  Body Strength .... 6D
+ Skill ..... Ground Vehicle Operation     Cover ............ Full  
+ Crew ...... 3                            Passengers ....... 40 (Troops)
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *Two Heavy Laser Cannons (fire-linked):
+       Range ... 50-500m/1.5km/3km        Damage ........ 6D 
+       Fire Arc: Forward                  Fire Control .. 2D
+   *Two Medium Blasters (fire-lLinked):
+       Range ... 50-200m/500m/1km         Damage ........ 3D
+       Fire Arc: Forward                  Fire Control .. 2D
+
+=== All-Terrain Scout-Transport ===
+The AT-ST is a reconnaissance and direct fire support walker which serves a similar role for the Stormtroopers as the CAV does for the Imperial Army. Fast (for a walker), powerful and still prolifically well armored, the AT-ST enjoys a commanding field of fire from its considerable height and the 270 degree traverse of the body independent of its movement.
+ Vehicle ... Imperial AT-ST (All Terrain Scout Transport)
+ Type ...... Medium Walker                Cargo Capacity ... 200 kg*
+ Scale ..... Walker                       Movement ......... 30 (90 kmh)
+ Length .... 6.4 meters                   Maneuver ......... 1D
+ Height .... 8.6 meters                   Body Strength .... 3D
+ Skill ..... Ground Vehicle Operation     Cover ............ Full
+ Crew ...... 2                            Passengers ....... None
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+ <nowiki> </nowiki> *One Twin Blaster Cannon:
+ <nowiki> </nowiki>     Range ... 50-200m/1km/2km          Damage ........ 4D
+ <nowiki> </nowiki>     Crew .... 1 (pilot)                Fire Control .. 1D
+ <nowiki>*</nowiki>One Twin Light Blaster Cannon:
+ <nowiki> </nowiki>     Range ... 50-300m/500m/1km         Damage ........ 2D
+ <nowiki> </nowiki>     Crew .... 1 (co-pilot)             Fire Control .. 1D
+ <nowiki>*</nowiki>One Concussion Grenade Launcher:
+ <nowiki> </nowiki>     Range ... 10-50m/100m/200m         Damage ........ 3D
+ <nowiki> </nowiki>     Crew .... 1 (co-pilot)             Fire Control .. 1D

@@ -1,0 +1,221 @@
+TITLE: New Republic Duty Uniform
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-07-29T07:42:45Z
+======================================================================
+{{working}}
+
+This page provides basic information regarding the normal duty uniforms of the [[New Republic Military]]. It is recommended that all players use a two-tiered character description to allow both their character and their character's attire to be properly reflected.
+
+== FleetOps ==
+
+The standard New Republic Naval officer's uniform is used by all officers of [[New Republic FleetOps]]. It is worn nearly at all times, with the exception of a more elaborate [[New_Republic_Dress_Uniform|Dress Uniform]] used for special occasions.
+
+The uniform consists of:
+
+<div style="float:left; width:48%;">
+
+* Top; standard beige
+** Black and beige epaulets adorning each shoulder
+** Campaign patches over the left breast
+** Deployment patch (circular) on left sleeve, with name of ship on the patch's fringe
+** Name placard over right breast
+
+</div><div style="float:right; width:48%;">
+
+* Trousers; slate gray
+* Cap; beige garrison cap
+* Belt; brown with black buckle
+* Boots; brown
+
+</div>
+<br clear=all>
+
+=== Example ===
+
+'''Blank Copy '''
+
+:%S currently is wearing the New Republic Naval officer's uniform, with its slate gray bottom, and dark top. %P pants are tucked into a pair of well-broken in boots. %P shirt is of a deep green, almost appearing black, with black and beige epaulets adorning either shoulder. The area where campaign patches usually go, over the left chest, has patches for <[[New Republic Military Awards#Campaign/Operation Patches|''Campaign Patches'']]>. A circular patch covers a portion of %p left sleeve, showing <Deployment>, with the words <name of the ship> written on the fringe of the patch.%r%rThe placard over %p right chest reads <[[New Republic Duty Uniform#Name_Patches|''name patch'']]>, and %s has a <[[New Republic Duty Uniform#Naval Rank Insignia|''rank insignia'']]> insignia on %p epaulets, identifying %o as a (rank). %P head is adorned with a dark green garrison cap, with the Phoenix crest of the NR front and center on it.
+
+'''In-Game Example'''
+
+:He currently is wearing the New Republic Naval officer's uniform, with its slate gray bottom, and dark top. His pants are tucked into a pair of well-shined boots. His shirt is of a deep green, almost appearing black, with black and beige epaulets adorning either shoulder. The area where campaign marks usually go, over the left chest, prominently displays several markings. A circular patch covers a portion of his left sleeve, showing <Second Fleet>, with the words <NRSC Deliverance> written on the fringe of the patch.<br><br>The placard over his right chest reads <Captain Cen - NRN>, and he has a Captain's insigna on his epaulets. His head is adorned with a dark green garrison cap, with the Phoenix crest of the NR front and center on it.
+
+=== Naval Rank Insignia ===
+
+{| style="background-color: #eeeeee; width: 50%;"
+| style="width:50%; align: left;"|
+Midshipman<br />
+2nd Deck Officer<br />
+Deck Officer<br />
+Ensign<br />
+Lieutenant, Junior Grade<br />
+Lieutenant<br />
+Lieutenant Commander
+
+Commander<br />
+Captain<br />
+Commodore<br />
+Rear Admiral<br />
+Vice Admiral<br />
+Admiral<br />
+| style="width: 50%; align: left;" |
+<nowiki>^</nowiki><br />
+<nowiki>/</nowiki><br />
+<nowiki>//</nowiki><br />
+<nowiki>|I</nowiki><br />
+II<br />
+I|I<br />
+III
+
+IIII<br />
+<nowiki>*</nowiki><br />
+<nowiki>+-} *</nowiki><br />
+<nowiki>+-} **</nowiki><br />
+<nowiki>+-} ***</nowiki><br />
+<nowiki>+-} ****</nowiki><br />
+|}
+
+=== Name Patches ===
+
+The following are in-game ANSI codes you can use to spice up your uniform description.
+
+<div style="float:left; width:48%;">
+
+'''Midshipman'''
+*<[ansi(ny,Midshipman (last name) - NRN)]>
+*<[ansi(hbR,^)]>
+'''Second Deck Officer'''
+*<[ansi(ny,2nd Deck Officer (last name) - NRN)]>
+*<[ansi(hyR,/)]>
+'''Deck Officer'''
+*<[ansi(ny,Deck Officer (last name) - NRN)]>
+*<[ansi(hyR,//)]>
+'''Ensign'''
+*<[ansi(ny,Ensign (last name) - NRN)]>
+*<[ansi(hyR,|I)]>
+'''Lieutenant J.G.'''
+*<[ansi(ny,Lieutenant JG (last name) - NRN)]>
+*<[ansi(hyR,II)]>
+'''Lieutenant'''
+*<[ansi(ny,Lieutenant (last name) - NRN)]>
+*<[ansi(hyR,I|I)]>
+'''Lt. Commander'''
+*<[ansi(ny,Lt. Commander (last name) - NRN)]>
+*<[ansi(hyR,III)]>
+
+</div><div style="float:right; width:48%;">
+
+'''Commander'''
+*<[ansi(ny,Commander (last name) - NRN)]>
+*<[ansi(hyR,IIII)]>
+'''Captain'''
+*<[ansi(ny,Captain (last name) - NRN)]>
+*<[ansi(hyR,*)]>
+'''Rear Admiral'''
+*<[ansi(ny,Rear Admiral (last name) - NRN)]>
+*<[ansi(hyR,+-} **)]>
+'''Vice Admiral'''
+*<[ansi(ny,Vice Admiral (last name) - NRN)]>
+*<[ansi(hyR,+-} ***)]>
+'''Admiral'''
+*<[ansi(ny,Admiral (last name) - NRN)]>
+*<[ansi(hyR,+-} ****)]>
+
+</div>
+<br clear=all>
+
+== StarOps ==
+
+New Republic Starfighter Corps personnel have two or three uniforms that are worn while on duty. All members have the duty and dress uniforms, while pilots also have a special flight suit worn in combat. The standard officer's uniform is used by all officers of [[New Republic StarOps]]. It is worn by pilots any time that they're not geared up for combat, with the exception of a more elaborate [[New_Republic_Dress_Uniform|Dress Uniform]] used for special occasions.
+
+The uniform consists of:
+
+* Top; dark khaki button-up shirt
+* Jacket; light khaki
+** Training patch on right breast, signifying colors for each fighter type. Y-Wing is yellow, X-Wing is red, A-Wing is green, B-Wing is blue.
+** Nametag on left breast
+** Squadron patch on left shoulder, with ship number below.
+** New Republic Phoenix crest on right shoulder
+* Trousers; black cargo
+* Belt; black belt with large silver buckle
+** Standard sidearm holstered on right hip.
+* Boots; black flight boots
+
+=== Example ===
+
+''This example is similar to the outfit worn by Luke in [[:starwars:The Empire Strikes Back|The Empire Strikes Back]], while on Dagobah and Bespin.''
+
+'''Blank Copy '''
+
+:%S is currently dressed in a light khaki jacket, with a dark khaki button-up shirt underneath, which is tucked into a pair of black cargo pants that taper off into the pilot's boots. A patch/The patches on the right side of %p jacket signifies training in <insert fighter type(s) here>. On the left is a name tag, discerning %p name to be <first initial, full last name>. <[[New_Republic_Duty_Uniform#Rank_Pins|''insert comments about rank insignia here'']]>. On %p left shoulder is a stylized patch, indicating %p membership of <insert squadron name>. <[[New_Republic_Duty_Uniform#Patches|''insert desc of squadron patch if desired'']]>. Underneath it is a sewed on, large <number of posting, red for ghost, green for falcon, blue for dagger. For example, 'green number four' for Falcon Four>. On the right shoulder is the familiar red Phoenix crest of the New Republic. Slung on the right hip is a blaster, strapped into a rugged black shoulder holster which is held by a black belt with a large silver buckle.  The pilot's black flight boots appear to be in excellent condition, despite their worn appearance.
+
+=== Patches ===
+
+These are descriptions for some of the [[Player Character|PC]] squadron patches.
+
+* '''Ghost Squadron Patch''': <br /> The patch itself is a [ansi(b, blue)]-[ansi(hx, gray)] circle containing 13 [ansi(hw, white)] stars, circumscribing a [ansi(y, gold)] Republic insignia and a [ansi(hw, white)] brooding wraith. Underneath, you can discern the words "[ansi(hx, Ghost Squadron)]," along with a motto of some sort on a smaller, rectangular patch sewn under the round one. On it is written four simple, yet strangely powerful words: "[ansi(hx, To the very end)]."  
+
+* '''Falcon Squadron Patch''': <br /> The squadron patch itself is a strident red symbol of the Rebel Alliance, whose distaff arms end in streaking A-wings, above the evaluating eyes of a stylized falcon. Around that is a circular band of black, with deep green lettering: Falcon Squadron.
+
+=== Rank Pins ===
+
+
+<div style="float:left; width:48%;">
+
+* '''Flight Cadet''': <br /> Adorning the left collar tab is a square [ansi(hb, blue)] patch with a single [ansi(hr, red)] chevron ([ansi(Bhr,^)]), indicating his rank to be [ansi(hw,<)][ansi(hy, FLIGHT CADET)][ansi(hw,>)].
+
+* '''Second Flight Officer''': <br /> Adorning the left collar tab is a square [ansi(hb, blue)] patch with a single [ansi(hr, red)] slanted bar ([ansi(Bhr,/)]), indicating his rank to be [ansi(hw,<)][ansi(hy, SECOND FLIGHT OFFICER)][ansi(hw,>)].
+
+* '''Flight Officer''': <br /> Adorning the left collar tab is a square [ansi(hb, blue)] patch with two [ansi(hr, red)] slanted bars ([ansi(Bhr,//)]), indicating his rank to be [ansi(hw,<)][ansi(hy, FLIGHT OFFICER)][ansi(hw,>)].
+
+* '''2nd Lieutenant''': <br /> Adorning the left collar tab is a single square [ansi(hb, blue)] patch with one [ansi(hy, gold)] bar ([ansi(Bhy,|)]), indicating his rank to be [ansi(hw,<)][ansi(hy, 2ND LIEUTENANT)][ansi(hw, >)].
+
+* '''1st Lieutenant''': <br /> Adorning the left collar tab is a single square [ansi(hb, blue)] patch with a single [ansi(hw, silver)] bar ([ansi(Bhw, |)]), indicating his rank to be [ansi(hw,<)][ansi(hy, 1ST LIEUTENANT)][ansi(hw, >)].
+
+</div><div style="float:right; width:48%;">
+
+* '''Captain''': <br /> Adorning the left collar tab is a single square [ansi(hb, blue)] patch with two [ansi(hw, silver)] bars ([ansi(Bhw, ||)],) indicating his rank to be [ansi(hw,<)][ansi(hy, CAPTAIN)][ansi(hw, >)].
+
+* '''Major''': <br /> Adorning the left collar tab is a single square [ansi(hb, blue)] patch with a [ansi(hy, gold)] oak-leaf ([ansi(Bhy, <*>)]), indicating his rank to be [ansi(hw,<)][ansi(hy, MAJOR)][ansi(hw, >)].
+
+* '''Lieutenant Colonel''': <br /> Adorning the left collar tab is a single square [ansi(hb, blue)] patch with a [ansi(hw, silver)] oak-leaf ([ansi(Bhw, <*>)]), indicating his rank to be [ansi(hw,<)][ansi(hy, LIEUTENANT COLONEL)][ansi(hw, >)].
+
+* '''Colonel''': <br /> Adorning the left collar tab is a single square [ansi(hb, blue)] patch with a [ansi(hw, silver)] eagle ([ansi(Bhw, -||-)]), indicating his rank to be [ansi(hw,<)][ansi(hy, COLONEL)][ansi(hw, >)].
+
+</div>
+<br clear=all>
+
+== GroundOps ==
+
+
+
+'''[[New Republic Marine Corps|New Republic Marines]]''' have two or three uniforms that are required to be worn while on duty, which are strikingly different from their more elaborate [[New Republic Dress Uniform|Dress Uniforms]] that are used for special occasions. The standard duty uniform is used at almost all times.
+
+The uniform consists of:
+
+* BDU; tiger-striped green and olive camouflage pattern. May also vary for different environments, such as a pixellated urban pattern or snow camouflage.
+** Diagonal Pockets on shirt
+*** Name tapes above each pocket. One reads the last name in ''BOLD CAPS''. The other reads "NR Marines".
+** Round subdued NR Phoenix crest on right shoulder
+** Battalion patch on left shoulder
+* Field gear; load bearing gear, boxes and ammo pouches, weaponry and optional armor.
+* Cap; floppy-brimmed boonie hat
+* Gloves; combat gloves, optional
+* Boots; black combat
+
+Other equipment variations can include helmets, body armor, HUD devices, or whatever else is appropriate to the situation.
+
+=== Example ===
+
+:On his head is a short-brimmed patrol cap, the same pattern as his uniform. A vertical black bar on the brow indicates his rank as 1st Lieutenant. Over his left eye is a crystal lens, with a HUD flickering inside of it. A minute microphone juts towards his mouth, while a tiny speaker is mounted on his left temple. 
+
+:Vengan is wearing pixellated charcoal, urban camouflage-patterned utilities used by some New Republic Marines conducting urban operations. Two diagonal pockets are on the chest of the shirt, above each of which are mounted name tapes, one of which reads | DRAELIS | in bold print. Unlike some tops, this one was evidently cut and tailored for the young Marine when it was first issued to him, as it tapers down to flatter the lean build of his torso. Barely visible on the sleeves are the marks of old enlisted rank, long since removed. Over the affair he wears load bearing gear, thick upper shoulder pads and racks down the front of his chest and his back. Numerous boxes and ammo pouches adorn the piece in various places, including a long sheathed vibro-blade across his shoulders, a commo piece, and a medkit. 
+
+:On the right sleeve, right at the shoulder, there is a black, round patch with a subdued Phoenix crest of the New Republic inside of it. On his left sleeve is a stylized bulls-eye, pegged by a throwing knife. Beneath each sleeve is a diagonal zipper, evidently a tailor-added pocket of some kind. He's rolled the sleeves of the uniform up carefully, exposing a few inches of his weather-scarred forearms. Second-skin black combat gloves protect his hands.
+
+== The Multi-Descer ==
+
+We typically use the multi-descer code on-game to switch between our uniforms quickly. They're formatted for you to plug into your client, add what you want/need to, and then you're good to go.  If you need help, you can find the pertinent information in '''+DESC/HELP''' and '''+HELP MULTI-DESCER'''.
+
+[[Category:Description Guides]]
+[[Category:New Republic]]

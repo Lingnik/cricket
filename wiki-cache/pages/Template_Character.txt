@@ -1,0 +1,44 @@
+TITLE: Template:Character
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-11-12T13:10:50Z
+======================================================================
+{| class="infobox" style="width:15em;"
+|-
+|colspan=2 style="text-align:center;" | {{{image|}}}
+|-
+!colspan=2 style="text-align:center; font-size: larger; background-color: {{{bgcolor|#000000}}}; color:{{{fgcolor|#FFFFFF}}}; border: 1px solid #7A7A7A;" | {{{name}}}
+|-
+|'''Homeworld'''
+|-
+| {{{planet|unknown}}}
+|-
+|'''Species'''
+|-
+| {{{species|unknown}}}
+|-
+|'''Gender''' 
+|-
+| {{{gender|unknown}}}
+|-
+|'''Height''' 
+|-
+|{{{height|unknown}}}
+|-
+|'''Hair Color'''
+|-
+|{{{hair|N/A}}}
+|-
+|'''Eye Color''' 
+|-
+|{{{eyes|unknown}}}
+|-
+|'''Skin Color''' 
+|-
+| {{{skin|unknown}}}
+|-
+|'''Affiliation''' 
+|-
+| {{{affiliation|unknown}}}
+|-
+|colspan=2 style="text-align:center;" | {{{uniform|}}}
+|}<noinclude>[[Category:Templates|Character]]</noinclude>

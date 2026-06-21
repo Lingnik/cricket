@@ -1,0 +1,7 @@
+TITLE: Template:Sheet/row2col
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T13:46:12Z
+======================================================================
+|- valign="top"
+|width="50%" style="padding:0 1em 0 1em"|{{{1|}}}
+|width="50%" style="padding:0 0 0 1em"|{{{2|}}}<noinclude>[[Category:Utility templates]]</noinclude>

@@ -1,0 +1,13 @@
+TITLE: Template:User type reb
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T16:55:45Z
+======================================================================
+<div style="float:left; border:1px solid #cc0000; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#b61b07;"
+| style="width:45px; height:45px; background:#efefef; text-align:center; font-size:14pt;" | [[Image:emblem_rebel_phoenix.png|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is a Rebellious type of person, and glad the Alliance won.
+|}</div><includeonly>[[Category:Users who are Rebels at Heart]]</includeonly><noinclude><br clear="all">
+==== A Rebellious Type of User ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user type reb}}</nowiki></pre>
+[[Category:Userbox Templates|Type Reb]]</noinclude>

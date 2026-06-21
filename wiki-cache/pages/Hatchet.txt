@@ -1,0 +1,16 @@
+TITLE: Hatchet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T05:26:11Z
+======================================================================
+One of the more primary weapons for street thugs and cretens. Though very 
+short, the '''Hatchet''' has a thick curved cleave-blade which can split a body part
+open as readily as a [[lightsaber]]. Though ungainly in combat all it takes is one
+good hit and the effect is quite effective... and messy.
+<pre>
+Name................Hatchet
+Weapon Type.........Melee Weapon             Weight..............1.5kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............0D+2
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

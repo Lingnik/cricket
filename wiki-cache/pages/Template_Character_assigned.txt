@@ -1,0 +1,34 @@
+TITLE: Template:Character assigned
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T00:08:25Z
+======================================================================
+{| class="toccolours" style="float:right; margin:0 0 0.5em 1em; width:25em;"
+|-
+|colspan=2 style="text-align:center;" | {{{image|}}}
+|-
+!colspan=2 style="text-align:center; font-size: larger; background-color:{{{bgcolor|#000000}}}; color:{{{fgcolor|#FFFFFF}}};" | {{{name}}}
+|-
+|'''Homeworld''' || {{{planet|unknown}}}
+|-
+|'''Species''' || {{{species|unknown}}}
+|-
+|'''Gender''' || {{{gender|unknown}}}
+|-
+|'''Height''' || {{{height|unknown}}}
+|-
+|'''Hair Color''' || {{{hair|unknown}}}
+|-
+|'''Eye Color''' || {{{eyes|unknown}}}
+|-
+|'''Skin Color''' || {{{skin|unknown}}}
+|-
+| style="vertical-align: top;"|'''Affiliation''' || {{{affiliation|unknown}}}
+|-
+| style="vertical-align: top;"|'''Rank''' || style="vertical-align: top;"| {{{rank|unknown}}}
+|-
+| style="vertical-align: top;"|'''Position''' || style="vertical-align: top;"| {{{position|unknown}}}
+|-
+| style="vertical-align: top;"|'''Assignment''' || style="vertical-align: top;"| {{{assignment|unknown}}}
+|-
+|colspan=2 style="text-align:center;" | {{{uniform|}}}
+|}<noinclude>[[Category:Templates|Character assigned]]</noinclude>

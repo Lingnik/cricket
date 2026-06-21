@@ -1,0 +1,19 @@
+TITLE: Template:Timeline
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2025-03-12T21:00:30Z
+======================================================================
+<br clear=all>
+<div align="center">
+{| style="background: #f5deb3; width: 600px; border: 1px solid #aaa; border-color: #cc9933; margin: 0 0 1em 1em; width: 25em; border-collapse: collapse;"
+|-
+| align="center" style="padding-left: 5px; padding-right: 5px;"|
+<font style="font-family: Arial; font-size: 8pt; font-weight: bold; line-height: 8pt;">Star Wars MUSH</font><br>
+<font style="font-size: 14pt; font-weight: bold; line-height: 10pt;"><font style="font-size: 18pt;">T</font> I M E L I N <font style="font-size: 18pt;">E</font></font>
+<br>
+[[0 ABY]]&nbsp;|&nbsp;[[1 ABY]]&nbsp;|&nbsp;[[2 ABY]]&nbsp;|&nbsp;[[3 ABY]]&nbsp;|&nbsp;[[4 ABY]]&nbsp;|&nbsp;[[5 ABY]]<br>[[6 ABY]]&nbsp;|&nbsp;[[7 ABY]]&nbsp;|&nbsp;[[8 ABY]]&nbsp;|&nbsp;[[9 ABY]]&nbsp;|&nbsp;[[10 ABY]]&nbsp;|&nbsp;[[11 ABY]]<br>[[12 ABY]]&nbsp;|&nbsp;[[13 ABY]]&nbsp;|&nbsp;[[14 ABY]]&nbsp;|&nbsp;[[15 ABY]]&nbsp;|&nbsp;[[16 ABY]]&nbsp;|&nbsp;[[17 ABY]]<br>[[18 ABY]]&nbsp;|&nbsp;[[19 ABY]]&nbsp;|&nbsp;[[20 ABY]]&nbsp;|&nbsp;[[21 ABY]]&nbsp;|&nbsp;[[22 ABY]]&nbsp;|&nbsp;[[23 ABY]]<br>[[24 ABY]]&nbsp;|&nbsp;[[25 ABY]]&nbsp;|&nbsp;[[26 ABY]]&nbsp;|&nbsp;[[27 ABY]]&nbsp;|&nbsp;[[28 ABY]]&nbsp;|&nbsp;[[29 ABY]]<br>[[30 ABY]]&nbsp;|&nbsp;[[31 ABY]]&nbsp;|&nbsp;[[32 ABY]]&nbsp;|&nbsp;[[33 ABY]]&nbsp;|&nbsp;[[34 ABY]]
+<br>
+<br>
+<font style="font-family: Arial; font-size: 8pt;">[[:Category:Events|Other Events]]</font>
+|-
+|}
+</div><noinclude>[[Category:Templates|Timeline]]</noinclude>

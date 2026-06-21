@@ -1,0 +1,87 @@
+TITLE: X-wing
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-04T13:27:11Z
+======================================================================
+[[Image:fighter_x-wing_01.jpg|right|280px]]
+Reasonably maneuverable, the '''Incom T-65 X-wing''' had pairs of wing-like strike foils, or S-foils, mounted at the rear of the craft; normally the foils on each side were locked flush against each other, but during combat the foils were folded out to increase the spread coverage of the laser cannons mounted at the tips of the foils. This gave the craft its distinctive "X"-like appearance when viewed from the front or rear. The cannons on some earlier models could not be fired with the S-foils in locked position.
+
+The X-wing carried four Taim & Bak KX9 laser cannons, along with tubes for proton torpedoes. Other warheads, such as concussion missiles, could be fired from the launchers, but this required a considerable amount of time and effort on the part of the technical crews, and the overall versatility of the proton torpedo was ideally suited to the X-wing's varied mission profile. However, during the early years of the Galactic Civil War, the Rebellion had a small supply of such weapons.
+
+The X-wing's lasers had various settings:
+
+* Single fire, where each laser fired individually;
+* Dual fire, where two lasers, one on each side, paired up and the pairs fired alternately; or
+* Quad fire, where all four lasers (one at each foil-tip) fired together, converging on the target. 
+
+Sublight propulsion was handled by four Incom 4L4 fusial thrust engines, which gave the starfighter relatively fast space and atmospheric speed. The X-wing, unlike most fighters of the TIE series, was equipped with a hyperdrive, which made it hyperspace capable, and allowed it to operate independently. Fighter squadrons could strike out on their own, without the need for a carrier; this autonomy suited the Rebellion, as it served their hit-and-run tactics perfectly.
+
+The fighter had space for one pilot, assisted by a droid (such as an R2-series astromech droid unit) in an external socket which monitored the status of the craft and could make emergency repairs.
+
+The X-wing's flight controls were similar to those of the T-16 Skyhopper, an airspeeder also produced by Incom Corporation. This factor partially explains the great popularity the T-65 enjoyed among Rebel pilots, who had, not uncommonly, piloted civilian Skyhoppers before joining the Rebellion. 
+
+=== '''D-Space''' ===
+<pre>   The backbone of the both the Alliance's and New Republic's fleets. Used
+   in the famous Battle of Yavin.
+         
+Craft ........ Incom T-65B X-wing
+Type ......... Superiority Fighter   Cargo Capacity ......... 110 kg
+Scale ........ Starfighter           Consumables ............ 1 week
+Length ....... 12.5 meters           Hyperdrive Multiplier .. x1
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1 + Astromech Droid   Nav Computer ........... None {Droid}
+Passengers ... None                  Maneuverability ........ 3D
+Hull ......... 138                   Space Movement ......... 80
+Shields ...... 36                    Atmosphere ............. 365; 1050kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  600,  Focus:  20,  Passive:  100
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (6 permanently filled)
+ 
+Weapons:
+    Four Single Laser Cannons (fire linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+    Two Proton Torpedo Launchers
+      Weapon Rating .... Standard       Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 10 Torpedoes    
+
+BASE COST NEW: 150000 cr             BASE COST USED: 60000 cr              
+SUGGESTED DOWNPAYMENT: 90000 (new), 36000 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: 2nd Edition Revised Rulebook''
+ Craft ........ Incom T-65B X-wing
+ Type ......... Superiority Fighter   Cargo Capacity ......... 110 kg
+ Scale ........ Starfighter           Consumables ............ 1 week
+ Length ....... 12.5 meters           Hyperdrive Multiplier .. x1
+ Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+ Crew ......... 1 + Astromech Droid   Nav Computer ........... None {Droid}
+ Passengers ... None                  Maneuverability ........ 3D
+ Hull ......... 4D                    Space Movement ......... 80
+ Shields ...... 1D                    Atmosphere ............. 365; 1050kmh
+ Can Land? .... Yes                   Hangar Space ........... None
+  
+ Sensors ...... Normal:  600,  Focus:  20,  Passive:  100
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 6 total (6 permanently filled)
+  
+ Weapons:
+     Four Single Laser Cannons (fire linked):
+       Weapon Rating .... Class 5        Damage ........ 6D
+       Fire Arc ......... Front          Fire Control .. 3D
+       Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+     Two Proton Torpedo Launchers
+       Weapon Rating .... Standard       Damage ........ 9D
+       Fire Arc ......... Front          Fire Control .. 2D
+       Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+       Ammunition ....... 10 Torpedoes    
+
+[[Category:Starfighters]]
+[[Category:REC Ships]]
+[[Category:NRMil Restricted Ships]]

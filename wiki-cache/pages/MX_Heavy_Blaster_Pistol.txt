@@ -1,0 +1,17 @@
+TITLE: MX Heavy Blaster Pistol
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-07-16T06:55:41Z
+======================================================================
+A standard-issue sidearm for Imperial security forces, the '''MX''' is a black, 
+bulky looking pistol with a silver flash suppressor at the end of the barrel.
+It possesses a substantial punch, able to at least knock down a target in a 
+single, well-aimed shot. Epel'jaken produces these weapons under [[Galactic Empire|Imperial]] 
+contract.
+<pre>
+Name................Epel'Jaken "Razor" Series MX
+Weapon Type.........Heavy Blaster Pistol     Weight..............2kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-1D+0 Penalty            Damage..............5D+1
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Heavy Blaster Pistols]]

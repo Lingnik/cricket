@@ -1,0 +1,127 @@
+TITLE: Template:Ship Fighter
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-24T04:14:50Z
+======================================================================
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:smaller; line-height:1.5; ">
+<tr style="text-align:center; background:#f0f0f0;">
+<td colspan="2" style="padding:0; background:#669; color:#fff;">{{{image}}}</td>
+</tr><tr style="color:#fff; background:#669; font-size:larger;">
+<th colspan="2">{{{name}}}</th>
+</tr> <tr><th colspan="2" style="text-align:left; font-weight:normal; background:#bbd;">'''Production information'''</th></tr> {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Manufacturer</td><td>
+{{{manufacturer}}}
+</td></tr>|1{{{manufacturer}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Product line</td><td>
+{{{line}}}
+</td></tr>|1{{{line}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Model</td><td>
+{{{model}}}
+</td></tr>|1{{{model}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Class</td><td>
+{{{class}}}
+</td></tr>|1{{{class}}}=}} <tr><th colspan="2" style="text-align:left; font-weight:normal; background:#bbd;">'''Technical specifications'''</th></tr> {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Length</td><td>
+{{{length}}}
+</td></tr>|1{{{length}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Width</td><td>
+{{{width}}}
+</td></tr>|1{{{width}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Height/depth</td><td>
+{{{height}}}
+</td></tr>|1{{{height}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Maximum acceleration</td><td>
+{{{max accel}}}
+</td></tr>|1{{{max accel}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Maximum speed (space)</td><td>
+{{{mglt}}}
+</td></tr>|1{{{mglt}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Maximum speed (atmosphere)</td><td>
+{{{max speed}}}
+</td></tr>|1{{{max speed}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Engine unit(s)</td><td>
+{{{engine}}}
+</td></tr>|1{{{engine}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Hyperdrive rating</td><td>
+{{{hyperdrive}}}
+</td></tr>|1{{{hyperdrive}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Hyperdrive system</td><td>
+{{{hdsystem}}}
+</td></tr>|1{{{hdsystem}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Power output</td><td>
+{{{poweroutput}}}
+</td></tr>|1{{{poweroutput}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Power plant</td><td>
+{{{power}}}
+</td></tr>|1{{{power}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Shielding</td><td>
+{{{shield gen}}}
+</td></tr>|1{{{shield gen}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Hull</td><td>
+{{{hull}}}
+</td></tr>|1{{{hull}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Sensor systems</td><td>
+{{{sensor}}}
+</td></tr>|1{{{sensor}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Targeting systems</td><td>
+{{{target}}}
+</td></tr>|1{{{target}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Navigation system</td><td>
+{{{navigation}}}
+</td></tr>|1{{{navigation}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Avionics</td><td>
+{{{avionics}}}
+</td></tr>|1{{{avionics}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Countermeasures</td><td>
+{{{countermeasures}}}
+</td></tr>|1{{{countermeasures}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Armament</td><td>
+{{{armament}}}
+</td></tr>|1{{{armament}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Complement</td><td>
+{{{complement}}}
+</td></tr>|1{{{complement}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Crew</td><td>
+{{{crew}}}
+</td></tr>|1{{{crew}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Minimum crew</td><td>
+{{{skeleton}}}
+</td></tr>|1{{{skeleton}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Passengers</td><td>
+{{{passengers}}}
+</td></tr>|1{{{passengers}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Cargo capacity</td><td>
+{{{capacity}}}
+</td></tr>|1{{{capacity}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Consumables</td><td>
+{{{consumables}}}
+</td></tr>|1{{{consumables}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Other systems</td><td>
+{{{othersystems}}}
+</td></tr>|1{{{othersystems}}}=}} <tr><th colspan="2" style="text-align:left; font-weight:normal; background:#bbd;">'''Usage'''</th></tr> {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Role(s)</td><td>
+{{{role}}}
+</td></tr>|1{{{role}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Era(s)</td><td>
+{{{era}}}
+</td></tr>|1{{{era}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; border-top:1px solid #999; border-bottom:1px solid #999; vertical-align: middle; background: #f0f0f0"><td>Affiliation</td><td>
+{{{affiliation}}}
+</td></tr>|1{{{affiliation}}}=}} </table>
+<noinclude>
+==Don't panic!==
+The code you see above is a side effect of the infobox progamming, and will not be seen on your article if you include all fields as instructed below. If you see code like the above on your article, you may have missed a line. Be aware the fields are case-sensitive.
+
+==Usage instructions==
+To use the new ship infobox, copy and paste the following code at the top of your article, then replace the text in parentheses '''(as shown in bold below)''' with the information for your article. All fields must be present for the box to function, but leave the value for a field blank if the information is unknown. (Example: "'''<nowiki>height=|</nowiki>'''" if the height is unknown.) The template is self-collapsing, so a blank field will not be seen on the actual article, while adding a value of "unknown" will cause that field to be displayed.
+
+<nowiki>{{Ship|</nowiki><br>
+<nowiki>image=[[Image:</nowiki>'''(put image filename here)'''<nowiki>|300px</nowiki>'''(exclude size if image already less than 300 pixels)'''<nowiki>]]|</nowiki><br>
+<nowiki>name=</nowiki>'''(Put ship name for individual ship or class name for class)'''<nowiki>|</nowiki><br>
+<nowiki>manufacturer=</nowiki>'''(Put the manufacturer name here)'''<nowiki>|</nowiki><br>
+<nowiki>line=</nowiki>'''(Put the product line or series here)'''<nowiki>|</nowiki><br>
+<nowiki>model=</nowiki>'''(Put the class name here, usually restating the "name=" field)'''<nowiki>|</nowiki><br>
+<nowiki>class=</nowiki>'''(Put the official class designation here)'''<nowiki>|</nowiki><br>
+<nowiki>length=</nowiki>'''(Put the length here)'''<nowiki>|</nowiki><br>
+<nowiki>width=</nowiki>'''(Put the width here)'''<nowiki>|</nowiki><br>
+<nowiki>height=</nowiki>'''(Put the height here)'''<nowiki>|</nowiki><br>
+<nowiki>max accel=</nowiki>'''(Put the acceleration in "G"s here)'''<nowiki>|</nowiki><br>
+<nowiki>mglt=</nowiki>'''(Put speed in MGLT here <u>only if acceleration in "G"s is unknown</u>)'''<nowiki>|</nowiki><br>
+<nowiki>max speed=</nowiki>'''(Put the atmospheric speed here)'''<nowiki>|</nowiki><br>
+<nowiki>engine=</nowiki>'''(Put the types of engine units here)'''<nowiki>|</nowiki><br>
+<nowiki>hyperdrive=</nowiki>'''(Put hyperdrive class and backup class here, or ''none'' if no hyperdrive)'''<nowiki>|</nowiki><br>
+<nowiki>hdsystem=</nowiki>'''(Put the type of hyperdrive system here)'''<nowiki>|</nowiki><br>
+<nowiki>poweroutput=</nowiki>'''(Put the power output in watts here)'''<nowiki>|</nowiki><br>
+<nowiki>power=</nowiki>'''(Put the type of main reactor here)'''<nowiki>|</nowiki><br>
+<nowiki>shield gen=</nowiki>'''(Put the type of shield system here, with rating if desired, or ''none'' if no combat shields)'''<nowiki>|</nowiki><br>
+<nowiki>hull=</nowiki>'''(Put the type of hull material here, with rating if desired)'''<nowiki>|</nowiki><br>
+<nowiki>sensor=</nowiki>'''(List any installed sensor systems here)'''<nowiki>|</nowiki><br>
+<nowiki>target=</nowiki>'''(List any targeting systems here)'''<nowiki>|</nowiki><br>
+<nowiki>navigation=</nowiki>'''(List any navigation systems here)'''<nowiki>|</nowiki><br>
+<nowiki>avionics=</nowiki>'''(List any avionics systems here)'''<nowiki>|</nowiki><br>
+<nowiki>countermeasures=</nowiki>'''(List any countermeasures here)'''<nowiki>|</nowiki><br>
+<nowiki>armament=</nowiki>'''(List the various armaments here)'''<nowiki>|</nowiki><br>
+<nowiki>complement=</nowiki>'''(Put the numbers and types of smaller embarked craft here)'''<nowiki>|</nowiki><br>
+<nowiki>crew=</nowiki>'''(Put the total crew here and the crew breakdown if desired)'''<nowiki>|</nowiki><br>
+<nowiki>skeleton=</nowiki>'''(Put the minimum required crew here)'''<nowiki>|</nowiki><br>
+<nowiki>passengers=</nowiki>'''(Put the passenger capacity here)'''<nowiki>|</nowiki><br>
+<nowiki>capacity=</nowiki>'''(Put the cargo capacity here)'''<nowiki>|</nowiki><br>
+<nowiki>consumables=</nowiki>'''(Put the duration of consumables here)'''<nowiki>|</nowiki><br>
+<nowiki>othersystems=</nowiki>'''(Put any other onboard systems here)'''<nowiki>|</nowiki><br>
+<nowiki>role=</nowiki>'''(List what the ship is used for here)'''<nowiki>|</nowiki><br>
+<nowiki>era=</nowiki>'''(List the eras in which the ship is used here)'''<nowiki>|</nowiki><br>
+<nowiki>affiliation=</nowiki>'''(List the governments and major organizations that use the ship here)'''<nowiki>|</nowiki><br>
+<nowiki>}}</nowiki>
+
+==Source:==
+
+<nowiki>{{subst:slh|#669}} {{subst:sls|Production information|#bbd}} {{subst:sld|Manufacturer|manufacturer}} {{subst:sld|Product line|line}} {{subst:sld|Model|model}} {{subst:sld|Class|class}} {{subst:sls|Technical specifications|#bbd}} {{subst:sld|Length|length}} {{subst:sld|Width|width}} {{subst:sld|Height/depth|height}} {{subst:sld|Maximum acceleration|max accel}} {{subst:sld|Maximum speed (space)|mglt}} {{subst:sld|Maximum speed (atmosphere)|max speed}} {{subst:sld|Engine unit(s)|engine}} {{subst:sld|Hyperdrive rating|hyperdrive}} {{subst:sld|Hyperdrive system|hdsystem}} {{subst:sld|Power output|poweroutput}} {{subst:sld|Power plant|power}} {{subst:sld|Shielding|shield gen}} {{subst:sld|Hull|hull}} {{subst:sld|Sensor systems|sensor}} {{subst:sld|Targeting systems|target}} {{subst:sld|Navigation system|navigation}} {{subst:sld|Avionics|avionics}} {{subst:sld|Countermeasures|countermeasures}} {{subst:sld|Armament|armament}} {{subst:sld|Complement|complement}} {{subst:sld|Crew|crew}} {{subst:sld|Minimum crew|skeleton}} {{subst:sld|Passengers|passengers}} {{subst:sld|Cargo capacity|capacity}} {{subst:sld|Consumables|consumables}} {{subst:sld|Other systems|othersystems}} {{subst:sls|Usage|#bbd}} {{subst:sld|Role(s)|role}} {{subst:sld|Era(s)|era}} {{subst:sld|Affiliation|affiliation}} {{subst:slf}}
+</nowiki>
+
+Do not modify the template HTML code directly. Instead edit the source and replace the entire table with it.

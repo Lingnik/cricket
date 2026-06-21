@@ -1,0 +1,76 @@
+TITLE: Forum:For a Better Roleplay Log Section
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2007-02-25T05:25:45Z
+======================================================================
+{{Forum:Public_channel/header}}
+[[Category:Public channel|{{PAGENAME}}]]
+
+<!-- write after this line, please -->
+I think the Roleplay Logs section is in need of a face lift and reorganization. It's not very well sorted, and it's not very easy to find logs. One problem I have is that a log is only posted once, under the person who posted it, but there were lots of other people in that log, so technically the log should go under them as well. However, that would make the whole section a vey very long and messy article. I dunno. Let's discuss how to improve it? --[[User:Danik Kreldin|Danik Kreldin]] 21:35, 20 February 2007 (UTC)
+
+--
+
+Might it be simple to just sort most of them by in chronological order, with the date, their title, one-line description, and the name of the player who logged/posted it? I find the sub-sections for specific TPs to be useful just as they are. --[[User:Lolkje|Lolkje]] 22:17, 20 February 2007 (UTC)
+
+--
+
+I kinda like this idea, actually. The logs could be segmented off by year (4 ABY, 9 ABY, 15 ABY, etc) and put into chronological order. To further break it down, each year's section could be further segmented off into categories for major plots. Logs that don't neccessarily fit into major plots could just be placed into a 'pick-up RP' segment or something. I mean, just for example, you've got things like '''The Breaking of Kyrin''' on Korynn's section, but that could really be a part of the '''Operation Shado Kolpo''' section under the By Storyline part. It would make the table of contents a bit easier to read, for starters.
+
+This leads me in a way to start thinking, too, about possibly coding a new template. The new template would be used under each 'subsection', such as the '''Imperial Blitz''' section, and in the template there would be the link to the log, the log's name, a summary, the date of the event (RL date for chronology's sake), and the author (in other words, the contributer of whom the log was originally posted). That way it's "pretty-fied" but it's also a template, which adds a minor level of difficulty to posting logs but it shouldn't be too much I don't think? Or could a template actually be coded intelligently enough to read from the RPlog: categories and organize it on this page properly?
+
+Either way, I'm in favor of re-organizing the thing to be chronological. What do the other administrators think of this? -- [[User:SW1 Kyle|SW1 Kyle]] 14:38, 21 February 2007 (UTC)
+
+--
+
+I'm in favor of revamping the main log page, organizing things chronologically and by plot, and would refer to [[Luke's Roleplay Logs]] as a format to emulate.  May I also suggest that we add some categories along the lines of '''Logs featuring ''Character'''''?  It would (ironically) obviate the need for pages like '''Luke's Roleplay Logs'''. -- [[User:Xerxes|Xerxes]] 18:19, 21 February 2007 (UTC)
+
+--
+
+Chronological order also provides for natural breaking points if a single RPlog directory article gets too long. The more populated years could get broken off as their own pages. --[[User:Lolkje|Lolkje]] 18:27, 21 February 2007 (UTC)
+
+--
+
+Exactly. -- [[User:SW1 Kyle|SW1 Kyle]] 22:28, 21 February 2007 (UTC)
+
+--
+
+Anyone want to take the initiative and get that rolling? I've been busy uploading a million different logs ;p Also, there will be some level of difficulty in getting the logs in chronological order - most of the logs are just generic 11 ABY or 12 ABY, etc. In addition to having the logs in chronological order, however, I also want to see it able to be sorted by characters present in the log. Like, if I want to see logs that Korolov was in, I want to  be able to narrow it down quick. I dunno. --[[User:Danik Kreldin|Danik Kreldin]] 22:35, 21 February 2007 (UTC)
+*BTW, RPlogs don't count towards our official article number on the main page. Is there any way to make it so it does that? ;p --[[User:Danik Kreldin|Danik Kreldin]] 23:41, 21 February 2007 (UTC)
+* <p>''...I also want to see it able to be sorted by characters present in the log.''</p><p>I'm not sure what you're proposing here.  Do you want the main logs page sorted both chronologically AND by player.  I don't get it.  The point of the '''Logs featuring ''Player''''' categories would make finding logs about Korolov easy (look in the '''Logs featuring Korolov''' category), and is, I think, the ''wiki-way'' of accomplishing this aim. -- [[User:Xerxes|Xerxes]] 16:24, 22 February 2007 (UTC)</p>
+
+--
+
+I'd go ahead and work on it now, myself, but I'd really like to hear what Hawke thinks about it too. -- [[User:SW1 Kyle|SW1 Kyle]] 14:09, 22 February 2007 (UTC)
+* Talked with Hawke, he's okay with it. -- [[User:SW1 Kyle|SW1 Kyle]] 16:14, 22 February 2007 (UTC)
+* Gave it a test run, with a new section at the top of the page. Comments, critiques? -- [[User:SW1 Kyle|SW1 Kyle]] 17:10, 22 February 2007 (UTC)
+
+--
+
+I like it.  Three comments:
+# Do people without widescreen monitors agree with the two column display?
+# Let's throw some non-TP related logs into the new section to see how those would look.
+# This conversation probably belongs on the discussion page of the Roleplay Logs article.  Does it make sense to pick-up the thread over there?
+:-- [[User:Xerxes|Xerxes]] 17:33, 22 February 2007 (UTC)
+* We already have a thread here, let's just leave it here. I've done the two-column display on many other articles though, such as [[New Republic Marine Corps]] and [[New Republic Second Fleet]] and [[Task Force Inquisitor]], and heard no complaints yet. What I'm debating though is other small, minor things. I was just more curious if people liked the template. I'll try tweaking it again here in a bit. -- [[User:SW1 Kyle|SW1 Kyle]] 20:38, 22 February 2007 (UTC)
+--
+
+What I meant, Xerxes, is that the way the Roleplay Logs section was set up was that you could only find logs that that player posted. For instance, if you go under the Danik Kreldin logs section, you'll only see logs that I myself posted, and it's the same for everyone else on that page. It's not necessarily what we're featured in, just what we posted. --[[User:Danik Kreldin|Danik Kreldin]] 19:59, 22 February 2007 (UTC)
+* Outline the sections for me, because I'm still not sure I understand.  Do you want each log to appear in multiple sections?  A chronological section AND a separate '''Featuring <player>''' section?  Or are you talking about sub-dividing the chronological sections in some way to organize logs by character? Would you post an example someplace of what you're suggesting? I'm still not clear on exactly what you're proposing. -- [[User:Xerxes|Xerxes]] 22:09, 22 February 2007 (UTC)
+
+--
+
+An already-extant alternative to creating tons of "Logs featuring <player>" categories is to point out the "what links here" feature on player's character pages. As long as the player's page is linked correctly in the original logs' lists of participants, all those logs will show up in the "What links here" special page. --[[User:64.142.71.62|64.142.71.62]] 20:51, 22 February 2007 (UTC) This was me not logged in on a different compy. --[[User:Lolkje|Lolkje]] 20:53, 22 February 2007 (UTC)
+* However, '''What links here''' is also going to list every other article that links to the character page, not just the logs.  So, I guess it's a question of usability / convenience. -- [[User:Xerxes|Xerxes]] 22:09, 22 February 2007 (UTC)
+
+--
+
+Uhm, just so I know, does anyone object to me uploading these old old logs for any reason? I know they're not logs I did, but I still feel they're important to the MUSH story as a whole... what do you guys think? --[[User:Danik Kreldin|Danik Kreldin]] 20:55, 22 February 2007 (UTC)
+*My only annoyance is that it's like, you do a bunch all at once and it makes the recent changes list harder to read. ;) -- [[User:SW1 Kyle|SW1 Kyle]] 21:26, 22 February 2007 (UTC)
+*Not really a big deal, more a question of courtesy. Are you informing the players (past and present) who you are mining logs from their respective websites? It also might help you with some of the gaps and questions that you are coming across when delving into the old stuff. --[[User:Korolov|Korolov]] 15:38, 23 February 2007 (UTC)
+*The logs have ''"historical"'' value, so post 'em.  If someone has a problem, they'll complain.  If they complain, we'll deal with it.  One of the pillars of wiki -- '''Be Bold!''' -- [[User:Xerxes|Xerxes]] 16:00, 23 February 2007 (UTC)
+*Hey Danik, do you think you could insert RL dates for the 14 ABY/15 ABY logs you've submitted? That'd help me with a few things. -- [[User:SW1 Kyle|SW1 Kyle]] 04:36, 25 February 2007 (UTC)
+**I'll try, but my memory isn't the best. --[[User:Danik Kreldin|Danik Kreldin]] 05:25, 25 February 2007 (UTC)
+--
+
+Where do you think non-TP articles (ex. [[RPlog:Battle Droid Duel]]) would fit in the new format? -- [[User:Xerxes|Xerxes]] 04:48, 24 February 2007 (UTC)
+*That's a great question. I had a couple of ideas, and they all revolve around creating an "uncategorized" sub-section under each year's section. This could be done a couple of ways. One way would be to just put all non-TP articles in chronological order beneath '''15 ABY''' and ''before'' the first TP subsection, or to create yet another subsection called something like "Pick-up scenes", "Uncategorized", "Between TP's" or something else. But to me, just putting it under the year and without a subcategory would cut down on the TOC spam. Want me to try that with a few logs and see how it goes? -- [[User:SW1 Kyle|SW1 Kyle]] 00:08, 25 February 2007 (UTC)

@@ -1,0 +1,13 @@
+TITLE: Template:User powlog
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-02-09T17:04:08Z
+======================================================================
+<div style="float:left; border:1px solid #9d0a2a; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#cc6666;"
+| style="width:45px; height:45px; background:#ad0f09; text-align:center; font-size:14pt;" | '''log!'''
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is a [[Roleplay Logs|'''power-logger''']], and records RP wherever they go.
+|}</div><noinclude><br clear="all">
+==== Fervently Making RPlogs ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user powlog}}</nowiki></pre>
+[[Category:Userbox Templates|Powlog]]</noinclude>

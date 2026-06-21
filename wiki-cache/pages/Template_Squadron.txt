@@ -1,0 +1,43 @@
+TITLE: Template:Squadron
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-02-09T16:27:52Z
+======================================================================
+<table width="280" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #ddd; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="100%" align="right" border="0" cellpadding="2" cellspacing="0">
+<tr style="font-family: Arial; font-size: 10pt;">
+<td width="100%" align="center" valign="top" bgcolor="#506daf" style="font-family: Arial; font-size: 10pt; color: #bfbfbf;" colspan="2"><b>''The {{{nickname}}}''</b></td></tr>
+<tr>
+<td width="0%" align="center" valign="top" colspan="2">{{{image}}}</td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Principality:</td>
+<td align="left" valign="top">{{{principal}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Designation:</td>
+<td align="left" valign="top">{{{des}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Base/Wing:</td>
+<td align="left" valign="top">{{{base}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Strength:</td>
+<td align="left" valign="top">{{{quantity1}}} pilots<br />{{{quantity2}}} gunners<br />{{{quantity3}}} ground crew</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Craft Used:</td>
+<td align="left" valign="top">{{{craft}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Rating:</td>
+<td align="left" valign="top">{{{rating}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td valign="top" colspan="3" bgcolor="#dddddd"><b>Members of Merit</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td colspan="2" align="left" valign="top" style="padding-left: 3em;">{{{members}}}</td>
+</tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Squadron]]</noinclude>

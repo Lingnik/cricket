@@ -1,0 +1,36 @@
+TITLE: MT/191 Dropship
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:48:34Z
+======================================================================
+<pre>Craft ........ Meller & Dax MT/191 Dropship
+Type ......... Troop Transport       Cargo Capacity ......... 16 metric tons
+Scale ........ Starship              Consumables ............ 3 months
+Length ....... 52.5 meters           Hyperdrive Multiplier .. None
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... None
+Crew ......... 1                     NavComp ................ No
+Passengers ... 160                   Maneuverability ........ 0
+Hull ......... 138                   Space Movement ......... 100
+Shields ...... 36                    Hangar Space ........... None
+Can Land? .... Yes
+
+Sensors ...... Normal:  60,  Focus:  5,  Passive:  15
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (1 filled)
+
+Stock Weapons:
+   One Single Laser Cannon:
+      Weapon Rating .... Class Sub-1    Damage ........ 1D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/1.5km
+
+BASE COST NEW: 91000 cr              BASE COST USED: 20930 cr              
+SUGGESTED DOWNPAYMENT: 54600 (new), 12558 (used)</pre>
+
+[[Category:Starships]]
+[[Category:AEC Ships]]
+[[Category:CEC Ships]]
+[[Category:KDYSFS Ships]]
+[[Category:REC Ships]]
+[[Category:Rendili Ships]]
+[[Category:SubPro Ships]]

@@ -1,0 +1,13 @@
+TITLE: Flash-4
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-02-01T08:47:21Z
+======================================================================
+The '''Flash-4''' is Merr-Sonn's first attempt at making a heavy blaster pistol to compete with the venerable BlasTech [[DL-44]]. Indeed, Merr-Sonn more or less shamelessly copied the frame, complete with the trademark rounded grip, machined metal frame, conical flash-hider, and scope-mount. This weapon is generally not up to the reliability of its BlasTech competitor, and some would go so far as to say that Merr-Sonn somehow managed to find a way to make its weapon even more ungainly and ugly in appearance.  Merr-Sonn also opted for a leaner, less robust charge capacitor, and hence it has somewhat light stopping power for a heavy blaster pistol. On the other hand, it gets more shots from a magazine, and it shoots a little further.
+<pre>
+Name................Merr-Sonn Flash-4
+Weapon Type.........Heavy Blaster Pistol     Weight..............1.25kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-0D+2 Penalty            Damage..............4D+2
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Heavy Blaster Pistols]]

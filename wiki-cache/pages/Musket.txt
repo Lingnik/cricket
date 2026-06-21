@@ -1,0 +1,16 @@
+TITLE: Musket
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T19:57:53Z
+======================================================================
+An archaic weapon found on primitive backwater worlds, the musket is a sleek 
+one piece weapon. It consists of a long barrel with a small funnel type 
+nozzle. The size and inelegant shape of the musket make it a bit harder to 
+aim and wield.
+<pre>
+Name................Musket
+Weapon Type.........Firearm (uses Blaster)   Weight..............6kg
+Damage Type.........Ranged                   Stun Setting........No
+Accuracy............0D+0                     Damage..............3D
+Conceal Difficulty..20                       Two-Handed..........Yes</pre>
+
+[[Category:Ranged Weapons]]

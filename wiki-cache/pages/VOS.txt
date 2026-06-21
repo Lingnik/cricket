@@ -1,0 +1,9 @@
+TITLE: VOS
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-07-13T10:16:22Z
+======================================================================
+VOS is short for Virtual Object System, and was a notable coded system on Star Wars MUSH for many years. VOS was unique in that it was hardcoded and part of a complete "SW-Addons" package developed mainly by [[Harvester]] (maintained by Darrien, oderus, et al). SW-Addons included hardcoded chargen, VOS, and a number of special functions. While VOS was remarkably stable and fondly regarded for its elegance and savings of database space, it was ultimately removed from Star Wars MUSH because it prevented the successful patching of the game's underlying software, [http://www.pennmush.org PennMUSH], to more recent versions.
+
+VOS included a number of functions and @v-commands. Most of that functionality would be eventually replaced by the softcoded [[ZIS]]. Dynamic data states and attribute storage were possible on VOS. Most VOS catalog items were translated as part of the ZIS conversion though a number of non-thematic or non-canon items were intentionally excluded from the conversion.
+
+[[Category:MUSH History and Trivia]]

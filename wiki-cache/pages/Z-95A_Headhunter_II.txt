@@ -1,0 +1,45 @@
+TITLE: Z-95A Headhunter II
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:15:19Z
+======================================================================
+<pre>   Sardakh  Ship  Systems bought out rights  to  modify and co-produce the
+   Z-95  from  Incom/Subpro  and has kept the  model  up  to date with the
+   latest starfighter technology. The biggest change was the addition of a
+   hyperdrive  and  an  astromech droid  placement.  The Z-95A resembles a
+   small X-Wing without separable wings.
+
+This ship is no longer in production.
+
+Craft ........ Sardakh Ship Systems Z-95A Headhunter II
+Type ......... Multi-Purpose Fighter Cargo Capacity ......... 95 kg
+Scale ........ Starfighter           Consumables ............ 1 day
+Length ....... 12 meters             Hyperdrive Multiplier .. x1.5
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1 + Astromech Droid   Nav Computer ........... None {Droid}
+Passengers ... None                  Maneuverability ........ 4D
+Hull ......... 138                   Space Movement ......... 90
+Shields ...... 36                    Atmosphere ............. 400; 1150kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  600,  Focus:  10,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 5 total (5 permanently filled)
+
+Stock Weapons:
+   Two Single Laser Cannons (fire linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+   Two Proton Torpedo Launchers:
+      Weapon Rating .... Standard       Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 10 Torpedoes
+   One Concussion Missle Launcher:
+      Weapon Rating .... Class 3        Damage ........ 7D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 5 Missiles</pre>
+
+[[Category:Starfighters]]

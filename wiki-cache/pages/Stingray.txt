@@ -1,0 +1,43 @@
+TITLE: Stingray
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-13T13:48:48Z
+======================================================================
+The ''Mk. 13 Stingray'' was implemented into the [[Griffon Alliance|Griffon]] forces to be a general purpose, all-environments fighter. Based loosely off the famed [[Mantaray]] and gunships, it has outstanding manuverability and voracious speed. With such a small cross-section, it's difficult to track and target. A single heavy ion cannon tears off shields to allow the twin rapid-firing cannons to do maximum damage in the quickest amount of time. The Stingray is not for prolonged combat, and is best utilized in a swarm or in conjunction with a defense platform or supporting starships.
+
+<pre>
+Craft ........ AEC-Stingray
+Type ......... Multi-Purpose Fighter Cargo Capacity ......... None 
+Scale ........ Starfighter           Consumables ............ 2 Days
+Length ....... 14 Meters             Hyperdrive Multiplier .. None
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 2                     Nav Computer ........... None  
+Passengers ... None                  Manuverability ......... 4D 
+Hull ......... 138                   Space Movement ......... 100
+Shields ...... 72                    Atmosphere ............. 370; 1010kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  400,  Focus:  20,  Passive:  100
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 11 total (11 permanently filled)
+
+Stock Weapons:
+   Four Ion Cannons:
+      Weapon Rating .... Standard       Damage ........ 6D
+      Fire Arc ......... Turret         Fire Control .. 3D+1
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/1.5km 
+   Three Heavy-Ion Cannons (fire-linked): 
+      Weapon Rating .... Standard       Damage ........ 5D
+      Fire Arc ......... Cannon         Fire Control .. 3D+1
+      Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km 
+   Four Single Laser Cannons:
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Turret         Fire Control .. 3D
+      Space Range ...... 1-3/12/25       Atmo Range .... 100-300m/1.2km/2.5km 
+
+BASE COST NEW: 148500 cr             BASE COST USED: 37125 cr              
+SUGGESTED DOWNPAYMENT: 89100 (new), 22275 (used)</pre>
+
+[[Category:Starfighters]]
+[[Category:AEC Ships]]
+[[Category:GriffonMil Restricted Ships]]

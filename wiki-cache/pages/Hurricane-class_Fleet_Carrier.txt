@@ -1,0 +1,105 @@
+TITLE: Hurricane-class Fleet Carrier
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-10-24T04:02:53Z
+======================================================================
+{{title|''Hurricane''-class Fleet Carrier}}
+{{Ship Capital|
+image=|
+name=''H'cane'' class|
+type=Command Carrier|
+des=CFC|
+scale=Capital Warship|
+design=SubPro|
+built=[[Sloan Drydocks]], [[Kichnar]]|
+status=Coded; 6,900,000 credits|
+length=1146|
+land=No|
+engine=[[ProThrust Engine Division|ProThrust]] Cauldra CD.6 Type XXV|
+power=Lantern|
+hull=1122|
+shields=243|
+crew=3860|
+pass=1500|
+cargo=7000|
+consume=1 year|
+hyper1=x2|
+hyper2=x12|
+space=60|
+manuv=1D+2|
+sensor-standard=2000|sensor-focus=60|sensor-passive=500|
+gunnery=16 x ''Ryflex'' Turbolaser batteries<br />10 x Ion Cannon batteries<br />60 PDW laser cannons|
+launchers=4 x [[VOWL|VOWLs]]|
+tractor=4 x tractor beam projectors|
+hangar=1000|
+craft=48 x [[Z-100 Centurion]]<br />12 x [[Z-100 Centurion#Strike Variant|Z-100 Strike Centurion]]<br />24 x [[Z-105 Harpoon]]<br />48 x [[Z-110 Hellion]]<br />8 x [[Z-105 Harpoon#Prowler Variant|Z-105 Prowler]]<br />6 x [[L-200 Halcyon transport|L-200 Halcyon]]<br />18 x [[L-202 Hellhawk transport|L-202 Hellhawk]]<br />4 x [[C-706 Solus shuttle|C-706 Solus]]
+|
+statsheet=[[Hurricane-class Fleet Carrier/statsheet|Available]]}}
+
+The '''''Hurricane'' class Fleet Command Carrier''' is a capital warship of the modern [[Caspia]]n Navy. At the time of its introduction, it was the largest and most diversely capable warship in the Union's fleet, and embodies a philosophy of projecting and supporting substantial force of space superiority and assault. Despite the construction and implementation of the [[Admiral Roj-class Battleship|''Admiral Roj''-class battlecruisers]] and a corresponding shift in command and force projection, the H'canes are still the iconic representative vessels of Caspia among the galactic lanes. 
+
+=== Development ===
+The need for a substantial warship was immediately prevelant upon [[Dergan Roj|Admiral Roj's]] arrival. The largest warships in Roj's fleet, other than his vaunted [[:starwars:Venator-class Star Destroyer|Star Destroyer]] ''[[VeSD Repulse|Repulse]]'' and the heavy cruiser [[CMS Provost|''Provost'']], were of the 600-meter [[Dreadnaught-class Heavy Cruiser|''Dreadnaught''-class cruisers]], as Roj had disassociated himself of [[Mon_Calamari_Star_Cruiser|MonCal Star Cruisers]] out of principle. Dreadnaughts were ill-suited for carrying starfighters, and were a logistical liability. All other warships were either too small, or too specialized. [[CMS Hood|CMS ''Hood'']], nearing completion, had all the makings of a fine ship, but was not going to be well-rounded enough to build a naval doctrine around.
+
+[[Colonel]] [[Lawton Fraser]], Roj's commander of starfighter operations, advocated for a vessel that could project numerous starfighters and survive within a combat zone. Having spent most of his service on [[Venator-class Star Destroyer|''Venator''-class Star Destroyers]], Fraser knew the benefit of supporting a substantial quantity of fighters. These fighters, bombers, and assault craft would act as both the spear and the shield for the vessel, and the time spent in the Rebel Alliance by Roj's fleet only tested and tempered that philosophy. Fraser would implement the few [[X-wing|X-Wings]], [[A-wing|A-Wings]], [[Z-95 Headhunter|Headhunters]], and other craft that were now in the service of Caspia, into several designs that he presented to the shipwrights.
+
+Naval input would center around using a large hull, rivaling a [[Victory-class Star Destroyer|''Victory''-class Star Destroyer]], but of course stylized to accomodate the machinations the committees had decided on so far. Caspian input pushed it away from a typical Star Destroyer look towards something that emulated ''Hood's'' lines, and the resulting blueprint was ratified early in [[5 ABY]]. Unfortunately, Admiral Roj would be unable to see the results of his and his staff's efforts, as he passed away four months prior.
+
+=== Construction & Class Ships ===
+Each of the first four ships was individually contracted and completely built from spine to skin before the next was begun, so each ship of the class is slightly different from her sisters. At the time, [[Sloan Drydocks]] was limited to a single construction slipway large enough to handle a ship of this size, so the Navy took what it could get. The first of class ship, [[CMS Hurricane|''Hurricane'']] (CFC-01), was completed in eight months and, after a lengthy shakedown period, joined the fleet as the first major flagship.
+
+''[[CMS Tempest|Tempest]]'' (CFC-02) followed soon after, with ''[[CMS Typhoon|Typhoon]]'' (CFC-03) next to be laid down. During ''Typhoon's'' construction, the Yari Diaconate willingly indentured the [[Yari]] kind to serve in a significant role within the Navy, especially when it came to the new classes of starships under construction. ''Typhoon'' was configured, while in process, to not only accommodate Yari crewmembers, but to have several noteable systems – namely astrogation, sensors, logistical coordination, and small craft maintenance – laid out and attuned especially to Yari anatomy.
+
+The fourth carrier, ''[[CMS Turbulent|Turbulent]]'' (CFC-04), received a different engine configuration so as to complete within timeframe and budget in the face of production turmoil at [[ProThrust Engine Division|ProThrust]]. 
+
+The later carriers &mdash; ''Torrent'' (CFC-05) and ''Tornado'' (CFC-06) – were undertaken at the same time, the former at Sloan Drydocks and the latter at [[Krittain Major]]. During the [[Caspian Annexation Campaign|Imperial Annexation Campaign]] in 8 ABY, the Sloan Drydocks were overrun and in the possession of Imperial occupation forces, and ''Torrent'' was nearly dismantled. As such, she had to be rebuilt and didn't join the fleet until 10 ABY.
+
+The final two hulls on order were laid down in 11 ABY, but the following year saw a further change in naval doctrine, with a focus on planetary assault capability. It was decided to execute the two hulls-in-progress as "assault carriers",  seeing an emphasis on accommodations for Marines and Provincial Army units, four additonal "louvre-door" hangar ports on the flanks, and increased munition stores and machine shops at the cost of reduced long-term "cruising", exploratory capability and far-reaching sensor packages. ''Tonare'' (CFC-08) has been used in a humanitarian role on several occasions, deployed to galactic crisis zones and natural disasters.
+----
+=== Anatomy ===
+==== Basics ====
+==== Powerplant ====
+==== Electronics ====
+Since these carriers were intended to be at the heart of battlegroups and task forces, their sensors and electronics are first-rate, with careful emphasis placed on detection and coordination. A '''Lantern''' power grid and sensor suite resides at the core of this array. In ''Typhoon'' and onwards, these electronic suites are primarily interfaced by Yari crewmembers, whose biological disposition is ideally suited to managing and processing the tremendous amount of data streaming through the systems. ''Hurricane'' and ''Tempest'' are bereft of Yari crewmembers, with their systems entirely interfaced by humanoids.
+
+==== Flight Deck ====
+Two entire decks are designated for flight operations aboard a Hurricane. The upper deck, or '''flight deck''', is a continuous level zoned into landing, staging, and takeoff bays. At the bow of the ship, several launch tubes are partitioned, catapulting fighters to combat velocities along a launch rail and out through an EMF-lined port. Behind these are a series of staging areas where fighters are prepared and arrayed for deployment. Just aft of this, the first of several deck lifts is present, connecting to the '''storage and service deck''' below. Amidships, the flight deck becomes its broadest and most complex, with staging and mooring points for all of the carrier's lifter and support craft, which also debark and recover through the EMF-lined ports on either flank. At this point, the bay branches into a Y-shape, split around the center core, with two landing bays extending aft on either side of the compartments that house engineering, propulsion, and other core systems.
+
+Down below, the storage deck is a hive of compartments, alcoves, and service bays for repairing, rearming, and refitting all the craft the carrier projects. Sections are cordoned off, and can be sealed off by blast doors at a moment's notice should an accident occur. Craft are moved around on roller and repulsor "shoes", and grappled by tractor droids nicknamed "trolls". There are also at least two manual tractor sleds available should the droids fail. As an added precaution and convenience to flight operations, two smaller ports, covered by heavily armored, sliding doors are located on this deck to allow access to space should the flight deck above become unusable.
+----
+=== Roles & Operations ===
+
+=== Embarkment ===
+A typical complement of fighters and "lifters" of all types numbers over three hundred. An exact rigid number does not exist, as frequently, the mixture of craft changes to suit mission needs. 
+==== Primary Craft (Fighters) ====
+A typical fighter complement for a H'cane carrier numbers over 100 craft of various types. Ideally, the majority of fighters are a balance of [[Z-110 Hellion]]s and hyperdrive-equipped [[Z-100 Centurion]]s for space superiority and primary combat operations. [[Z-105 Harpoon]] fighter-bombers are also embarked for assault, strategic and tactical bombardment, and close operations support. All of these craft fall under the [[Naval Aerospace Arm]] (NAA) operational banner, and are maintained by the carrier's technician ranks.
+
+Additionally, two to three squadrons of [[Marine Aerospace Division]] (MAD) fighters are attached to each carrier, but are not regarded as permanent parts of its Fighter Wing. At least one is typically a Strike squadron, employing the [[Z-100 Centurion#Strike Variant|Strike Centurion]] or [[Z-100 Centurion#Tactical Variant|Tac Centurion]], and the other is an Electronic Warfare & Countermeasures squadron, utilizing the [[Z-105 Harpoon#Prowler Variant|Prowler]] version of the Harpoon.
+
+Hangar space is so accommodating in a H'cane that there is enough volume to house additional airframes to act as "spares" or immediate replacements. There is also a compartment, accessible from the lower storage & support hangar, spacious enough to house several dozen fighter-sized airframes, provided they are "wrapped up" and packed in tight. This has been frequently used to ferry new fighters to installations or export them to certain customers, but this role has been drastically reduced by the inclusion of the Krittish-built [[Valorous-class Light Carrier|''Valorous''-class light carriers]] into the Caspian Navy. The smaller, less combat-capable cousins are ideal for this sort of low-priority task.
+
+==== Secondary Craft ====
+Augmenting the fighters aboard are six [[L-200 Halcyon transport|L-200 Halcyons]] and over two dozen [[L-202 Hellhawk transport|L-202 Hellhawks]]. The Halcyons, with their rugged construction and high cargo (and personnel) capacity, are heavily utilized by the Marines complement for ship-to-ship, ship-to-installation, and ship-to-ground assaults. They are also tasked for munition supply runs, as well as the occasional courier work. The Hellhawks, by contrast, are much more versatile and are dispatched on a myriad of tasks. Of note to the carrier, they perform most of the search & rescue (SAR), medical evacuation (medevac), and small-unit combat insertion missions. Working alongside the Prowlers, they also perform in a recon and ECM role, extending the range and enhancing the detail of the carrier's sensors.
+
+These "lifter" craft are flown equally by NAA and MAD crews, with parity shown more in regards to the mission profile in question.
+
+==== Auxiliary Craft ====
+For common ferrying of personnel, four [[C-706 Solus shuttle]]s are employed. When the carrier is in orbit over a Caspian tributary, shuttles are frequently coming and going, since these are the only type of shuttle that the carrier's defenses readily allow through. Allowances are made for other craft to alight within the carrier, such as small freighters or tankers, but this only done after intense screening.
+----
+=== Offensive Capability ===
+Ideally, a H'cane relies upon her fighters and other embarked craft to provide the offensive punch. She is also equipped with sixteen ''Ryflex'' turbolaser batteries, dispersed about the ship in effective fire zones. The ''Ryflex'' turret is so named because it utilizes a single barrel-emitter in the turret, fed by a rotating drum of charge canisters. This enables the turbolaser to fire several shots in rapid succession, possibly to exploit a weakness in a target or overwhelm it. Consequently, it is not able to provide prolonged fire.
+
+To supplement the ''Ryflex'' turrets, four [[VOWL]]s have been installed to dispense whatever type of warhead necessary, including ship-to-ship missiles.
+
+Lastly, the carrier has the capability of debarking [[Union Marines|Marines]] in [[L-200 Halcyon transport|Halcyons]] to assault opposing starships through direct boarding action. This is often done when capture or seizure of a ship, or the cargo it carries, is preferred over outright destruction of the vessel.
+
+=== Defensive Capability ===
+As far as defense is concerned, the carrier's embarked fighters are the primary providers. [[Z-110 Hellion|Hellions]] are well-suited for interception and defense, being extremely nimble, responsive, and quick to launch and recover. The vaunted Centurions, though, do most of the work, and form the CASP during nominal operations. Possessing a FTL drive while on CASP allows the carrier to jump to lightspeed if the situation becomes dire and the fighters can follow later and recover.
+
+If a threat makes it past the fighter screen, a H'cane is equipped with sixty-four rapid-firing lasers set up in sixteen Quadlaser batteries.
+
+Shielding is adequate; on par with a frontline cruiser in terms of strength. Hull armor is adequate as well. An additional benefit to the defense and survivability of the carrier is the layout of its internal compartments. Because of the extensive flight operations, a substantial amount of fuel must be carried in dedicated compartments throughout the ship. The common-grade fuel, for some of the carrier's complement, is carried in reinforced tanks that can be easily vented. However, the real benefit comes in the form of the other fuel carried &mdash; [[Crysessium]] &mdash; for use by the Centurions and Hellions aboard. Since it is virtually inert unless superheated, Crysessium is stored in compartments between the outer hull and other vital components. Should a hull breach occur, the worst that can happen is loss of fuel reserves for half of the ship's fighter complement &mdash; a far more tolerable result over a compromise of structural or systems integrity.
+
+{{Caspian Ship Class Hurricane}}
+[[Category:Capital Ships]]
+[[Category:SubPro Ships]]
+[[Category:CDUMil Restricted Ships]]

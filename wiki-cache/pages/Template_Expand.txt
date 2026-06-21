@@ -1,0 +1,11 @@
+TITLE: Template:Expand
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-14T17:21:55Z
+======================================================================
+{| width=85% align=center class="expansion" style="background: #79895E; border: 2px solid #000; padding: .2em; margin-bottom: 3px; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | [[Image:TPM-CGYoda.JPG|150px|]]
+| <font size=3>''' ''More'' to say, have you, Qui-Gon?'''</font><br ><small >It is requested that this article, or a section of this article, be expanded. See the request on the [[:Category:Articles Needing Attention|listing]] or on this article's [{{SERVER}}{{localurl:{{TALKPAGENAME}}}} talk page]. Once the improvements have been completed, you may remove this notice and the page's listing. </small >
+|}
+
+<includeonly>[[Category:Articles Needing Attention|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Administrative Templates|Expand]]</noinclude>

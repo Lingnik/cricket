@@ -1,0 +1,19 @@
+TITLE: Thermal Detonator
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T21:01:39Z
+======================================================================
+Though certain classes of '''thermal detonators''' are capable of leveling city
+blocks, this small silver orb is smooth polished metal with a raised ridge
+along its ventral aspect that features a thumb switch and variable-length
+timer. While not the most powerful thermal detonator ever created, all types
+of handheld grenades are difficult to tell apart (particularly when they are
+being thrown) and this one nonetheless has enough power to seriously threaten
+even an AT-AT or wipe out a large group of enemies at once.
+<pre>
+Name................Thermal Detonator
+Weapon Type.........Thrown Weapon            Weight..............3kg
+Damage Type.........Range                    Stun Setting........No
+Accuracy............0D+0                     Damage..............10D+0
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Thrown Weapons]]

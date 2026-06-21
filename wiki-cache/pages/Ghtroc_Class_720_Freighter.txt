@@ -1,0 +1,35 @@
+TITLE: Ghtroc Class 720 Freighter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:47:18Z
+======================================================================
+<pre>   A  less  popular,  but  no less  durable  freighter  design, the Ghtroc
+   freighter  model became popular in the Outer Rim Territories, where the
+   manufacturer  was based. 
+
+Craft ........ Ghtroc Industries Class 720 Freighter
+Type ......... Light Freighter       Cargo Capacity ......... 135 metric tons
+Scale ........ Starship              Consumables ............ 2 months
+Length ....... 35 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x15
+Crew ......... 1 or 2                Nav Computer ........... Yes
+Passengers ... 10                    Maneuverability ........ 1D
+Hull ......... 123                   Space Movement ......... 30
+Shields ...... 36                    Atmosphere ............. 260; 750kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  600,  Focus:  20,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 2 total (2 filled)
+
+Stock Weapons:
+   Two Single Laser Cannons:
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 1D+2
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 98500 cr              BASE COST USED: 23000 cr              
+SUGGESTED DOWNPAYMENT: 59100 (new), 13800 (used)</pre>
+
+[[Category:Starships]]
+[[Category:SubPro Ships]]

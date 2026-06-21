@@ -1,0 +1,56 @@
+TITLE: User:Inanna/System List Work
+NAMESPACE: 2 (User)
+LAST_EDIT: 2008-03-14T23:17:14Z
+======================================================================
+I've done a lot of work on compiling a sortable table of systems and planets for the wiki.  There are still a few things that could be done on this, but I am stepping back from my own involvement in this work.  Notes below...
+
+== Clean up list of Systems and Planets ==
+
+=== [[List of Systems and Planets/CDU|CDU]] ===
+
+No question marks remain.
+
+=== [[List of Systems and Planets/CSA|CSA]] ===
+
+No question marks remain.
+
+=== [[List of Systems and Planets/Empire|Empire]] ===
+
+Added [[Dar'bukkai]] but need region for it - I asked about it in [[Talk:List_of_Systems_and_Planets/Empire|this discussion]].
+
+=== [[List of Systems and Planets/NR|New Republic]] ===
+
+The only question mark left for this is on the affiliation for [[Aeria]].  See [[Talk:List_of_Systems_and_Planets/NR|this discussion]].  I didn't get to ask Minkar about this.
+
+=== [[List of Systems and Planets/Other|Other]] ===
+
+A couple of questions on this list: 
+*System for [[GDIStar]]?
+*Is Lorilar really supposed to be Leritor?  
+*Affiliation for [[Galenx II]]?
+*See [[Talk:List_of_Systems_and_Planets/Other|this discussion]].
+
+Also, confirm the region for Smuggler's Run - see the [[Forum:New_system_coordinates|coordinate discussion]].
+
+== Set new coordinates for planets ==
+
+See the [[Forum:New_system_coordinates|discussion]] about this.
+
+== Links ==
+* new [[List of Systems and Planets]] / old [[List of Star Systems & Planets]]
+* [[The Galaxy]] (with Hawke's [[:Image:Sw1_galaxy_strategic.jpg|map]])
+* [[SW1ki:SW1kiProject_Astrographics]]
+* Categories: [[:Category:Planets|Planets]], [[:Category:Moons|Moons]], [[:Category:Asteroids|Asteroids]], [[:Category:Space Stations|Space Stations]], [[:Category:Star Systems|Star Systems]], [[:Category:Trade Routes|Trade Routes]]
+* Wookiepedia's [[:starwars:List of planets|List of Planets]]
+* [http://theforce.net/swenc/advsearch.asp TheForce.net Unofficial SW Encyclopedia]
+
+<!--
+== Include Test ==
+see [[/Test1|Test 1]] [[/Test2|Test 2]]
+{| class="sortable"
+! Object !! Status !! Type !! Star System !! [[The Galaxy#Regions|Region]] !! Affil. 
+|-
+{{/Test1}}
+{{/Test2}}
+|}
+-->

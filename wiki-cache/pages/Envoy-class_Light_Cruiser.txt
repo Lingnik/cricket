@@ -1,0 +1,54 @@
+TITLE: Envoy-class Light Cruiser
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2009-02-23T23:31:28Z
+======================================================================
+The '''''Envoy''-class Light Cruiser''' (or, alternatively known as the '''Modular Light Cruiser''') is a multi-role starship designed and constructed by [[Aeria Engineering Corporation]] for use as an armed escort and territorial patrol cruiser.
+
+Upon the formation of the [[Griffon Alliance]], the [[Griffon Armada|Armada]] consisted of vessels either stolen or contributed from every corner of [[the Galaxy]], covering a wide swath of variety. The technological prowess the Griffons had amongst their ranks afforded them the ability to quickly assess and evaluate, in this case, a starship and determine if it would fit into their overall plans, could be adapted, or should be cannibalized for use in subsequent items. Dozens of ships went to the breakers and soon a reliable supply of refined raw material (recycled salvage) and components were ready to be put to use. The engineers at AEC, several of whom were refugees from Loronar, deduced the best course of action would be to emulate the [[Strike-class Medium Cruiser|''Strike''-class cruiser]], especially for its modular nature. Designs were quickly drafted and approved and soon the first of this Modular cruisers were appearing on the space lanes.
+
+The classification ''Envoy'' was given to these ships by sources outside the Alliance, who first encountered them accompanying a larger Griffon ship while on a port-of-call visit. For over a year, they were used, and sighted, so often that the Griffons were reputed to have more of these ships than they actually had. Another contributing factor to this confusion was the frequency of AEC's changing out the engines on these starships due to a number of nagging problems. Since a ship's plant signature is a major identifying mark, the new engines would often register as an entirely different ship on scanning and sensor systems. Because of the modular nature, not only could the engines be changed out rapidly, but entire components could be reconfigured to accommodate a different role profile. For a time, an entirely different classification known as ''Enterprise''-class was used by some in the galactic community, denoting a Modular cruiser with most (not all) of its heavy armament removed to drastically increase the cargo capacity. The [[Caspia]]ns were the first to realize the shortcoming in this classification system, since more often than not, the two different classifications would be linked to the same ship and would depend on its particular configuration at that time. Therefore, Caspians would use the prefix "Angry" or "Lazy" when keeping track of Griffon assets.
+
+While not a particularly fast nor nimble ship, the ''Envoy'' was outfitted with relatively heavy armor and shield systems coupled with extensive laser and ion cannon emplacements. Living conditions were, by civilized galactic standards, rather paltry and the ship lacked redundant systems (the thinking being that Envoys would never be operating alone outside Alliance territory). A meager hangar was included, though barely large enough to support a few small shuttlecraft and a half-dozen [[Stingray#Piloted version|Stingray]] compact fighter craft.
+
+Envoys are still seen throughout the galaxy, but not in quantities that ever indicate it once was the most prolific Griffon Alliance starship. More than a hundred met their end at the [[Third Battle of Sluis Van]], wherein they were employed alongside such ships as surplus Corellian bulk freighters, Gallofree transports, or Damorian ore haulers to act as ramships, packed with explosives and hurled into the [[Death Star III|third Death Star]]. 
+
+<pre>
+Craft ........ AEC Envoy-type Modular
+Type ......... Light Cruiser         Cargo Capacity ......... 50 metric tons 
+Scale ........ Capital               Consumables ............ 8 months
+Length ....... 301 meters            Hyperdrive Multiplier .. x1
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... None
+Crew ......... 60-120                Nav Computer ........... Yes
+Passengers ... 80                    Maneuverability ........ 0D 
+Hull ......... 1447                  Space Movement ......... 60
+Shields ...... 486                   Hangar Space ........... 400
+Can Land? .... No
+ 
+Sensors ...... Normal:  1000,  Focus:  60,  Passive:  500
+  
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... **INCOMPLETE**
+ 
+Stock Weapons:
+   Ten Heavy Turbolaser Batteries:
+      Weapon Rating .... Type 1          Damage ........ 7D
+      Fire Arc ......... 4FR, 3L, 3R     Fire Control .. 1D
+      Space Range ...... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+   Ten Ion Cannon Batteries:
+      Weapon Rating .... Type 1            Damage ........ 4D
+      Fire Arc ......... 4FR, 3L, 3R       Fire Control .. 4D
+      Space Range ...... 1-5/15/30         Atmo Range .... 2-1km/30km/60km
+    Twenty Laser Cannons (fire separately):
+      Weapon Rating .... Type 2         Damage ........ 5D       
+      Fire Arc ......... 10L, 10R       Fire Control .. 3D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+   Two Tractor Beam Projectors (fire separately):
+      Weapon Rating .... Class 1          Damage ........ 4D
+      Fire Arc ......... Front            Fire Control .. 2D
+      Space Range ...... 1-5/15/30        Atmo Range .... 2-10km/30km/60km
+
+BASE COST NEW: 2150000 cr            BASE COST USED: 602000 cr             
+SUGGESTED DOWNPAYMENT: 1290000 (new), 361200 (used)</pre>
+
+[[Category:AEC Ships]]
+[[Category:Capital Ships]]

@@ -1,0 +1,36 @@
+TITLE: Ushton-class Heavy Freighter statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T05:31:57Z
+======================================================================
+<pre>     
+Craft ........ SubPro Ushton Heavy Freighter
+Type ......... Cargo Frigate         Cargo Capacity ......... 4000 metric tons
+Scale ........ Capital               Consumables ............ 1 year
+Length ....... 400 meters            Hyperdrive Multiplier .. x6
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x20
+Crew ......... 100                   Nav Computer ........... Yes
+Passengers ... 200                   Maneuverability ........ 0D
+Hull ......... 828                   Space Movement ......... 40
+Shields ...... 162                   Atmosphere ............. 200, 600kmh
+Can Land? .... Yes                   Hangar Space ........... 250
+
+Sensors ...... Normal:  800,  Focus:  50,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 33 total (12 filled)
+
+Stock Weapons:
+   Ten Turbolaser Batteries (fire separately):
+      Weapon Rating .. Type 1           Damage ........ 5D
+      Fire Arc ....... 3FR, 2L, 2R, 3B  Fire Control .. 3D
+      Space Range .... 3-15/35/75       Atmo Range .... 30km/70km/150km
+   Two Concussion Missile Launchers:
+      Weapon Rating .. Class 5          Damage ........ 5D
+      Fire Arc ....... Front            Fire Control .. 3D
+      Space Range .... 2-12/30/60       Atmo Range .... 200m-1.2km/3km/6km     
+      Ammunition ..... 5 Missiles
+ 
+BASE COST NEW: 4550000 cr            BASE COST USED: 1274000 cr            
+SUGGESTED DOWNPAYMENT: 2730000 (new), 764400 (used)</pre>
+
+{{statsheet ship|Ushton-class Heavy Freighter}}

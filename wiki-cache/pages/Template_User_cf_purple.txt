@@ -1,0 +1,13 @@
+TITLE: Template:User cf purple
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-08-18T21:11:21Z
+======================================================================
+<div style="float:left; border:1px solid #4d009d; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#621cba;"
+| style="width:45px; height:45px; background:#790ab9; text-align:center; font-size:14pt;" | '''Pl'''
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is of that rare sort that favors the color Purple.
+|}</div><noinclude><br clear="all">
+==== Purple Colorfreak ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user cf purple}}</nowiki></pre>
+[[Category:Userbox Templates|CF Purple]]</noinclude>

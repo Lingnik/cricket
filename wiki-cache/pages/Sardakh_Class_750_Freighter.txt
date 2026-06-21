@@ -1,0 +1,35 @@
+TITLE: Sardakh Class 750 Freighter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:48:48Z
+======================================================================
+<pre>   When Sardakh Ship Systems took over the rights of production of the 
+   Ghtroc Freighter, they revised it to retain the same cargo space but 
+   upgrade performance capabilities.  
+
+Craft ........ Sardakh Ship Systems Class 750 Freighter
+Type ......... Light Freighter       Cargo Capacity ......... 135 metric tons
+Scale ........ Starship              Consumables ............ 2 months
+Length ....... 36.5 meters           Hyperdrive Multiplier .. x1.5
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x13
+Crew ......... 1 or 2                Nav Computer ........... Yes
+Passengers ... 10                    Maneuverability ........ 1D
+Hull ......... 138                   Space Movement ......... 40
+Shields ...... 36                    Atmosphere ............. 450; 750kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  600,  Focus:  20,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (4 filled)
+
+Stock Weapons:
+   Four Single Laser Cannons:
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... 2FR, 2 Turret  Fire Control .. 1D+2
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 120000 cr             BASE COST USED: 31200 cr              
+SUGGESTED DOWNPAYMENT: 72000 (new), 18720 (used)</pre>
+
+[[Category:Starships]]
+[[Category:Rendili Ships]]

@@ -1,0 +1,35 @@
+TITLE: Lambda-class Shuttle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:44:54Z
+======================================================================
+<pre>Craft ........ Sienar Fleet Systems Imperial Shuttle
+Type ......... Lambda Class Shuttle  Cargo Capacity ......... 80 metric tons
+Scale ........ Starship              Consumables ............ 2 months
+Length ....... 20 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x10
+Crew ......... 2 to 6                Nav Computer ........... Yes
+Passengers ... 10                    Maneuverablity ......... 1D
+Hull ......... 138                   Space Movement ......... 50
+Shields ...... 60                    Hangar Space ........... None
+Can Land? .... Yes
+ 
+Sensors ...... Normal:  1000,  Focus:  30,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 10 total (10 filled)
+ 
+Stock Weapons:
+   Three Double Blaster Cannons (fire separately):
+      Weapon Rating .... Standard       Damage ........ 4D
+      Fire Arc ......... 2FR, 1B        Fire Control .. 2D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+   Four Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 3D+1
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+ 
+BASE COST NEW: 100000 cr             BASE COST USED: 27000 cr              
+SUGGESTED DOWNPAYMENT: 60000 (new), 16200 (used)</pre>
+
+[[Category:Starships]]
+[[Category:KDYSFS Ships]]

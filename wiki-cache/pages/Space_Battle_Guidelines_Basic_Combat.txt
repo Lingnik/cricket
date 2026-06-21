@@ -1,0 +1,35 @@
+TITLE: Space Battle Guidelines/Basic Combat
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-11-01T23:43:49Z
+======================================================================
+== Initiate Combat ==
+:Both sides roll misc/+check ''<sensors>''
+
+Highest roll will be allowed the first to pose/attack.
+
+== Combat ==
+=== Attack Score ===
+:The ''attacking'' fighter will misc/+check ''<starship gunnery>''
+:The ''attacking'' fighter will misc/roll ''<targetting modifier>''
+:Add the resulting rolls to compute the attack score
+
+=== Defense Score ===
+:The ''defending'' fighter will misc/+check ''<starfighter piloting>''
+:The ''defending'' fighter will misc/roll ''<manuever modifier>''
+:Add the resulting rolls to compute the defense score
+
+'''If Attack Score >= Defense Score, Attacker hits'''
+
+== Damage ==
+The ''attacker'' will roll their damage die of the weapon fired.  misc/roll ''<damage>''
+
+The resulting roll will be first deducted from the defender's shields.  Should they be off or down, then the remainder will be decuted from the defender's armor.
+
+Below is a guide based on percent armor remaining of the vessel's damage for RP purposes.
+:76% - 100% - No damage
+:51% - 75% - Lightly damaged
+:26% - 50% - Heavily damaged
+:1% - 25% - Severely damaged
+:0% - Destroyed/Incapacitated
+
+[[Category:Guide subpages]]

@@ -1,0 +1,28 @@
+TITLE: Short term memory enhancement
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-18T00:52:18Z
+======================================================================
+{{forcepower|
+power=Short Term Memory Enhancement|
+align=Neutral|
+domain=Control|
+}}
+
+'''Short term memory enhancement''' allows a [[Jedi]] to replay recent events in order to more carefully examine images and peripheral occurrences. Using the power, a Jedi can freeze images and even scan memory tracks to recall details that were seen but did not register consciously at the time of observation.
+
+In game terms, this power can be used to alert a Jedi to information, items, other characters, or anything else that passed before his or her senses within a specific span of time. In addition, if a gamemaster provided clues or leads to clues that the players originally missed or ignored, this power can be used to recall them. When players get stuck on a puzzle or mystery within an adventure, this power can alert them to possible solutions, if those solutions were observed earlier in the adventure.
+
+How far back a Jedi can remember with this power is determined by the success of his control skill roll.
+
+The Control difficulty is Difficult, and the required power for this power is [[Hibernation trance]].
+
+If the skill roll beats the Difficulty by 0-8, the user's memory extends back ...
+
+If the skill roll beats the difficulty by 9-20, the user's memory extends back ...
+
+If the skill roll beats the difficulty by 21 or more, the user's memory extends back at least ...
+
+==Behind the Scenes==
+The sourcebook uses a different memory extension limit... 0-8 is through the current "episode," 9-20 the last "episode," and more than 21 the last two "episodes," episodes being a given adventure or scene. It's not very easy to implement that in MUSH terms, so basically decide during the scene, using the amount you beat the difficulty to determine a fair limit.
+
+[[Category:Control powers]]

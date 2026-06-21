@@ -1,0 +1,52 @@
+TITLE: Template:Battle Group
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-01-06T22:25:15Z
+======================================================================
+<table width="300" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="300" align="right" border="1" cellpadding="2" cellspacing="0" style="border: 1px solid {{{color}}}; border-collapse: collapse; clear: right;">
+<tr>
+<td width="300" align="center" valign="top" colspan="2">{{{image}}}<br><font style="font-family: 'Times New Roman'; font-size: 7pt;"><i>{{{name}}}'s</i> Banner </font></td></tr>
+<tr style="font-family: Arial; font-size: 10pt; color: #bfbfbf;">
+<td width="300" align="center" valign="top" bgcolor="{{{color}}}" colspan="2"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="80" align="left" valign="top">Prinicipality:</td>
+<td width="220" align="left" valign="top">{{{principal}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Launched:</td>
+<td align="left" valign="top">{{{launch}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Supreme Commander:</td>
+<td align="left" valign="top" colspan="3">{{{scommander}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Flagship:</td>
+<td align="left" valign="top" colspan="3">{{{flagship}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Fleet Status:</td>
+<td align="left" valign="top" colspan="3">{{{status}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Assigned Units:</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Notaries:</td>
+<td align="left" valign="top">{{{characters}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Ships:</td>
+<td align="left" valign="top">{{{sunits}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">StarOps Squadrons:</td>
+<td align="left" valign="top">{{{squadrons}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Ground Forces:</td>
+<td align="left" valign="top">{{{gunits}}}</td>
+</tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Battle Group]]</noinclude>

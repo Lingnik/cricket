@@ -1,0 +1,126 @@
+TITLE: System Transponders
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-08-28T06:32:05Z
+======================================================================
+These are the planets coded in the MUSH galaxy, along with their transponders, the hyperspace coordinates (system) and their locations in-system (for use with the autopilot commands).
+
+== Planets ==
+*[[Athaniss]]
+        Transponder ......... P-9851
+        System Location ..... 340,300,476
+        In-system Location .. -209,346,104
+*[[Bespin]]
+        Transponder ......... P-1131
+        System Location ..... 280,255,500
+        In-system Location .. 143,-272,-226
+*[[Bonadan]]
+        Transponder ......... P-9927
+        System Location ..... 404,400,520
+        In-system Location .. -177,-395,237
+*[[Bothawui]]
+        Transponder ......... P-6311
+        System Location ..... 404,400,520
+        In-system Location .. 154,121,158
+*[[Caspar]]
+        Transponder ......... P-9613
+        System Location ..... 230,240,371
+        In-system Location .. 155,47,-85
+*[[Chandrila]]
+        Transponder ......... P-4868
+        System Location ..... 76,166,584
+        In-system Location .. 3,5,73
+*[[Corellia]]
+        Transponder ......... P-9120
+        System Location ..... 25,150,600
+        In-system Location .. 137,-142,-123
+*[[Coruscant]]
+        Transponder ......... P-9645
+        System Location ..... 127,183,568
+        In-system Location .. -135,-70,-194
+*[[Dac]]
+        Transponder ......... P-9880
+        System Location ..... 34,29,502
+        In-system Location .. 253,393,-32
+*[[Dreven]]
+        Transponder ......... P-8825
+        System Location ..... 500,500,250
+        In-system Location .. -282,-180,-19
+*[[Etti IV]]
+        Transponder ......... P-5596
+        System Location ..... 350,350,575
+        In-system Location .. -320,259,231
+*[[Ithor]]
+        Transponder ......... P-4783
+        System Location ..... 240,220,550
+        In-system Location .. -272,-264,-14
+*[[Kalla VII]]
+        Transponder ......... P-2067
+        System Location ..... 325,375,511
+        In-system Location .. -333,130,132
+*[[Kashyyyk]]
+        Transponder ......... P-8359
+        System Location ..... 125,150,512
+        In-system Location .. -209,358,349
+*[[Mutanda]]
+        Transponder ......... P-3561
+        System Location ..... 270,251,483
+        In-system Location .. -109,-344,-225
+*[[O'paal]]
+        Transponder ......... P-2591
+        System Location ..... 300,265,430
+        In-system Location .. -2,-372,191
+*[[Selene]]
+        Transponder ......... P-9092
+        System Location ..... 300,291,480
+        In-system Location .. -101,76,-329
+*[[Smuggler's Run]]
+        Transponder ......... A-2612
+        System Location ..... 227,296,541
+        In-system Location .. 157,-37,289
+*[[Sullust]]
+        Transponder ......... P-8285
+        System Location ..... 200,220,497
+        In-system Location .. 107,-358,-280
+*[[Tatooine]]
+        Transponder ......... P-1324
+        System Location ..... 265,225,530
+        In-system Location .. -193,233,217
+*[[Trandosha]]
+        Transponder ......... P-4321
+        System Location ..... 260,300,360
+        In-system Location .. 121,-286,-304
+
+== Debris Fields ==
+*[[Cochran]]
+        Transponder ......... P-4578
+        System Location ..... 245,268,480
+        In-system Location .. 229,54,-87
+*[[Gastus IV]]
+        Transponder ......... P-1853
+        System Location ..... 200,350,300
+        In-system Location .. -130,200,525
+*[[Sluis Van]]
+        Transponder ......... P-3923
+        System Location ..... 230,215,519
+        In-system Location .. 518,327,-43
+
+== Space Stations ==
+*[[Corellian Engineering Corporation|CEC Shipyards]]
+         Transponder ......... SS-2025
+         System Location ..... 25,150,600
+         In-system Location .. 0,0,0
+*[[Kichnar Orbital Station]]
+         Transponder ......... SS-7199
+         System Location ..... 230,240,371
+         In-system Location .. 1162,154,-138
+*[[Orbital Station Guardian]]
+         Transponder ......... SS-9329
+         System Location ..... 300,265,430
+         In-system Location .. -50,-412,287
+*[[Rendili StarDrive|Rendili Shipyards]]
+         Transponder ......... SS-5743
+         System Location ..... 404,400,520
+         In-system Location .. -187,-395,257
+
+
+[[Category:Guides]]

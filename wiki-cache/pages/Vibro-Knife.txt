@@ -1,0 +1,18 @@
+TITLE: Vibro-Knife
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-04-27T18:14:49Z
+======================================================================
+Small and unassuming, the '''vibro-knife''' consists of a handgrip with an embedded
+power cell, an adjustable sheath, a retractable belt loop on the butt of the 
+handgrip, and extending out of the hilt is the shiny metal blade. A power cell supplies energy to an ultrasonic vibration generator, which propels the 
+cutting blade through thousands of microscopic vibrations per second. The 
+result is a hand weapon that is significantly more dangerous than its 
+unpowered counterparts.
+<pre>
+Name................Vibro-Knife
+Weapon Type.........Melee Weapon             Weight..............0.5kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............1D
+Conceal Difficulty..8                        Two-Handed..........No</pre>
+
+[[Category:Melee]]

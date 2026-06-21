@@ -1,0 +1,80 @@
+TITLE: Victory II-class Star Destroyer statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-06-11T06:24:10Z
+======================================================================
+=== '''DSpace''' ===
+<pre>       
+Craft ........ Rendili StarDrive's Victory II Star Destroyer
+Type ......... Star Destroyer        Cargo Capacity ......... 8100 metric tons
+Scale ........ Capital               Consumables ............ 4 years
+Length ....... 900 meters            Hyperdrive Multiplier .. x1
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x15
+Crew ......... 6,107                 Nav Computer ........... Yes
+Passengers ... 1,600 (Troops)        Maneuverability ........ 1D
+Hull ......... 1020                  Space Movement ......... 60
+Shields ...... 243                   Hangar Space ........... 750
+Can Land? .... No
+ 
+Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 115 total (80 filled)
+ 
+Weapons:
+    Twenty Heavy Turbolaser Batteries:
+      Weapon Rating .... Type 1         Damage ........ 7D
+      Fire Arc ......... 10F, 5L, 5R    Fire Control .. 1D
+      Space Range ...... 3-15/35/75     Atmo Range .... 6-30km/70km/150 km
+    Fourty Turbolaser Batteries (fire separately):
+      Weapon Rating ... Type 1           Damage ........ 5D
+      Fire Arc ........ 5FR, 5L, 5R, 5B  Fire Control .. 2D
+      Space Range ..... 3-15/35/75       Atmo Range .... 6-30km/70km/150 km
+    Ten Ion Cannon Batteries (fire separately):
+      Weapon Rating ... Type 2           Damage ........ 4D
+      Fire Arc ........ 2FR, 3L, 3R, 2B  Fire Control .. 4D
+      Space Range ..... 1-10/25/50       Atmo Range .... 2-20km/50km/100km
+    Ten Tractor Beam Projectors:
+      Weapon Rating ... Class 2          Damage ........ 6D
+      Fire Arc ........ 6F, 2L, 2R       Fire Control .. 2D
+      Space Range ..... 1-5/15/30        Atmo Range .... 2-10km/30km/60km
+         
+BASE COST NEW: 6300000 cr            BASE COST USED: 1764000 cr            
+SUGGESTED DOWNPAYMENT: 3780000 (new), 1058400 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: Imperial Sourcebook''
+        
+ Craft ........ Rendili StarDrive's Victory II Star Destroyer
+ Type ......... Star Destroyer        Cargo Capacity ......... 8100 metric tons
+ Scale ........ Capital               Consumables ............ 4 years
+ Length ....... 900 meters            Hyperdrive Multiplier .. x1
+ Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x15
+ Crew ......... 6,107                 Nav Computer ........... Yes
+ Passengers ... 1,600 (Troops)        Maneuverability ........ 1D
+ Hull ......... 4D+2                  Space Movement ......... 60
+ Shields ...... 3D                   Hangar Space ........... 750
+ Can Land? .... No
+  
+ Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 115 total (80 filled)
+  
+ Weapons:
+     Twenty Heavy Turbolaser Batteries:
+       Weapon Rating .... Type 1         Damage ........ 7D
+       Fire Arc ......... 10F, 5L, 5R    Fire Control .. 1D
+       Space Range ...... 3-15/35/75     Atmo Range .... 6-30km/70km/150 km
+     Fourty Turbolaser Batteries (fire separately):
+       Weapon Rating ... Type 1           Damage ........ 5D
+       Fire Arc ........ 5FR, 5L, 5R, 5B  Fire Control .. 2D
+       Space Range ..... 3-15/35/75       Atmo Range .... 6-30km/70km/150 km
+     Ten Ion Cannon Batteries (fire separately):
+       Weapon Rating ... Type 2           Damage ........ 4D
+       Fire Arc ........ 2FR, 3L, 3R, 2B  Fire Control .. 4D
+       Space Range ..... 1-10/25/50       Atmo Range .... 2-20km/50km/100km
+     Ten Tractor Beam Projectors:
+       Weapon Rating ... Class 2          Damage ........ 6D
+       Fire Arc ........ 6F, 2L, 2R       Fire Control .. 2D
+       Space Range ..... 1-5/15/30        Atmo Range .... 2-10km/30km/60km
+{{statsheet ship|Victory_II-class_Star_Destroyer}}

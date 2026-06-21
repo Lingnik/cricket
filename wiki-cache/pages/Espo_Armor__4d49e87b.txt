@@ -1,0 +1,13 @@
+TITLE: Espo Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-09-15T04:56:42Z
+======================================================================
+The standard [[Corporate Sector Authority]] [[Security Division (CSA)|Espo]] uniform is a brown padded jumpsuit with visored helmet. This suit is intended to protect more against injuries common to brawls; the armor provides almost no protection from blaster bolts. The helmet is also geared more toward physical impacts than protection from energy weapons and includes a retractable breath filter, retractable headset comlink, and hearing protection headphones.
+<pre>
+Name................Espo Armor
+Weight..............15kg                     Covers..............Body
+Physical Protection.1D+0                     Energy Protection...0D+1
+Conceal Difficulty..40                       Dexterity Penalty...-0D+1
+Strength Bonus......0    </pre>
+
+[[Category:Armor]]

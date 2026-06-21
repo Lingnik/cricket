@@ -1,0 +1,137 @@
+TITLE: Z-105 Harpoon
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-06-19T19:49:15Z
+======================================================================
+Outfitted admirably to serve as a multi-role platform for the [[Caspian Navy]], the '''SubPro/CDMC Z-105 Harpoon''' is only outclassed by the [[:starwars:Slayn_&_Korpil|Slayn & Korpil]] [[B-wing]] of the [[New Republic]]. Measuring in at a hefty 16 meters, and built around a reinforced [[cuerterium]] frame, the Harpoon is rock solid. Long-range was a priority required by the NAA, and the fighter has one of the longest operational ranges of a combat fighter, dropping the [[Crysessium]]-fed system her [[Z-100 Centurion|Centurion]] sister utilizes, and adopting the standard Galarol-U fuel system. With this extensive range and above-average handling capabilities, the Harpoon has transcended to become the favoured assault and medium bomber.
+
+While no-where near as agile as a true fighter such as the Centurion, nor as punishing as the [[:starwars:K-wing|K-Wing]] or [[:starwars:TIE_Bomber|TIE Bomber]], the Harpoon does make the most of its traits. Her warheads can vary between Proxies, Bearrats, and now the high-yield Barracuda III-S, a smaller sibling to the capital-scale Barracuda concussion missile. In addition, the Harpoon incorporates a number of hardpoints and an inertia-launch bomb bay, able to mount the Cascade I Anti-Electronics bomb, the NR Mk.303 Tactical Installation Munition (Nicknamed "Timmy"), and the brand-new Hellespont type 7.a kinetic-energy bomb. The Harpoon also mounts a high-cyclic Ion cannon, coupled with a pair of heavy laser cannons for ship-to-ship engagement.
+
+The Z-105 incorporates a two-man crew, with a Weapons & Sensor Officer (WSO, or "Wizzo") in the rear seat. This second officer is invaluable in the efficient operation of the Harpoon, especially when the craft is in its role as a long-range recon and anti-electronics craft. As of late, it has been progressively upgraded, with the Z-105F representing the current standard in Caspian Navy service. This variant of the workhorse bomber sports improved armour over vital areas, and improved passive sensors. Upgraded fire-control sensors allow this most recent version of the Harpoon to carry the new Mk. 38 ''Longbow'' anti-shipping missile, giving an unprecedented standoff attack capability.
+<br>
+
+==== Standard Variant ====
+'''SubPro/CDMC Z-105 Harpoon''' - "A" variant, standard frontline combat fighter-bomber<br>
+'''SubPro/CDMC Z-105 Harpoon''' - "F" variant, updated frontline assault & close-support craft<br>
+
+<pre> 
+Craft ........ SubPro-CDMC Z-105 Harpoon
+Variant ...... A
+Type ......... Fighter/Bomber        Cargo Capacity ......... 130 kg
+Scale ........ Starfighter           Consumables ............ 1 week
+Length ....... 16 Meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 2                     Nav Computer ........... Yes
+Passengers ... 0-1 (depends)         Maneuverability ........ 2D+1
+Hull ......... 94                    Space Movement ......... 70
+Shields ...... 72                    Atmosphere ............. 370; 1010kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1400,  Focus:  30,  Passive:  350
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 8 total (7 permanently filled)
+Stock Weapons:
+    Two Single Laser Cannons:
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+    Four FOWLs (Fighter-scale Ordinance Warhead Launcher)
+      Weapon Rating .... Class 4        Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 3 if Proxie or Bearrat, 2 if Barracuda III-S
+    One Light Ion Cannon:
+      Weapon Rating .... Standard       Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 4D
+      Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km
+    One Inertia Bomb Bay (hardpoint, centerline)
+      Typical Mountings: Mk. 303 TMB, Hellespont ASB, et.al.
+
+
+Craft ........ SubPro-CDMC Z-105 Harpoon
+Variant ...... F
+Type ......... Fighter/Bomber        Cargo Capacity ......... 130 kg
+Scale ........ Starfighter           Consumables ............ 1 week
+Length ....... 16 Meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 2                     Nav Computer ........... Yes
+Passengers ... 0-1 (depends)         Maneuverability ........ 2D+1
+Hull ......... 138                   Space Movement ......... 70
+Shields ...... 72                    Atmosphere ............. 370; 1010kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1400,  Focus:  30,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 7 total (6 permanently filled)
+Stock Weapons:
+    Two Single Laser Cannons:
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+    Two FOWLs (Fighter-scale Ordinance Warhead Launcher):
+      Weapon Rating .... Class 4        Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 2-8/24/36      Atmo Range .... 200-800m/24km/36km
+      Ammunition ....... 3 Missiles (Usually Mk. 38 Longbow)
+    Two Light Ion Cannons:
+      Weapon Rating .... Standard       Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 4D
+      Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km
+    One Inertia Bomb Bay (hardpoint, centerline)
+      Typical Mountings: Mk. 303 TMB, Hellespont ASB, et.al.
+
+
+BASE COST NEW: 210000 cr             BASE COST USED: 52500 cr              
+SUGGESTED DOWNPAYMENT: 126000 (new), 31500 (used)</pre>
+
+==== Prowler Variant ====
+The Z-105 IR variant is outfitted with the TH-114-U "Thumper" Dyna-sensor pod and onboard logic unit. In this variant, the Harpoon takes on an Electronics Warfare role, acting as a jammer, irradiator, and forward-targetting craft. Several are rumoured to be in use with Naval Intelligence, and a unit of them are kept with the [[Groton Sciences Institute]] to conduct aerospatial survey missions.
+
+'''SubPro/CDMC Z-105 Prowler''' - "IR" variant, limited-run EW, recon, & survey craft<br>
+<pre> 
+Craft ........ SubPro-CDMC Z-105 Prowler
+Variant ...... IR
+Type ......... Long-Range Recon      Cargo Capacity ......... 130 kg
+Scale ........ Starfighter           Consumables ............ 2 weeks
+Length ....... 16 Meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 2                     Nav Computer ........... Yes
+Passengers ... 0                     Maneuverability ........ 2D+1
+Hull ......... 94                    Space Movement ......... 70
+Shields ...... 72                    Atmosphere ............. 370; 1010kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (5 permanently filled)
+Stock Weapons:
+    Two Single Laser Cannons:
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+    One FOWL (Fighter-scale Ordinance Warhead Launcher):
+      Weapon Rating .... Standard       Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 10
+   One SCREAM (Super Close Range Electronics Assaulting Missile) Launcher:
+      Weapon Rating .... Standard       Damage ........ 2D
+      Fire Arc ......... Rear           Fire Control .. 5D
+      Space Range ...... 1-3/5/20       Atmo Range .... 50-200m/400/2.2km
+      Ammunition ....... 15 Rockets
+   Enemy Targeting Jammer:
+      Fire Arc ....... All              Fire Control .. 0D   
+      Space Range .... 1-3/25/25        Atmo Range .... 100-300m/1.2km/2.5km
+      Damage ......... -3D to other fire control, fighter scale
+                       -1D to other fire control, capital scale
+    One Inertia Bomb Bay (hardpoint, centerline)
+      Typical Mountings: StarShield Cascade-II AEW
+</pre>
+
+[[Image:Z-105a.jpg]][[Image:Z-105.jpg]]
+
+[[Category:Starfighters]]
+[[Category:SubPro Ships]]
+[[Category:CDUMil Restricted Ships]]

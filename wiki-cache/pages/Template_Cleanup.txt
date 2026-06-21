@@ -1,0 +1,11 @@
+TITLE: Template:Cleanup
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-04T14:14:52Z
+======================================================================
+{| width=85% align=center class="expansion" style="background: #b2b2b2; border: 2px solid #000066; padding: .2em; margin-bottom: 3px; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | [[Image:scene_char_hanscruffy.jpg|74px]]
+| <font size=3>'''Who's scruffy lookin'?!'''</font><br ><small >This article ''is'' lookin' a bit rough around the edges, and could use some formatting, editing, or more cohesive writing. Once done, this notice may be removed.</small >
+|}
+
+<includeonly>[[Category:Articles Needing Attention|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Administrative Templates|Cleanup scruffy]]</noinclude>

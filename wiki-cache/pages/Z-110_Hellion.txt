@@ -1,0 +1,66 @@
+TITLE: Z-110 Hellion
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-03-31T01:07:52Z
+======================================================================
+{{Quote|"Honestly, I was one of the folks who thought it would never work. I have to eat a bit of humble pie over that one."|[[Presav]] [[Thomas Mahon]], to a [[Union News Service]] reporter}}
+
+'''The [[SubPro]]/[[CDMC]] Z-110 Hellion''' is an advanced lightweight fighter in use by the armed forces of the [[Caspian Democratic Union]]. Though originally envisioned as purely an interceptor and scout by the Navy (likening the ship, somewhat inaccurately to the [[A-wing|Dodonna-Blissex RZ-1 "A-Wing"]]), the Hellion seems to have considerable potential for delivering precision strikes and close air support against surface targets. It was built small and (in many respects) simple to allow it to operate off of the confined flight decks of the CDU Navy's frigates. These structural and logistical simplicities have led to interest from the [[Union Marines|Marines]], who have adopted their own variants for expeditionary use.
+
+Its small size and high maneuverability have earned it the nickname "Scooter".
+
+===Development and Design===
+It first surfaced in [[5 ABY]] as a tentative design from CDMC. It existed only in the form of virtual models until [[8 ABY]] when SubPro produced four prototypes. Though the craft attracted considerable interest and speculation, no orders for a production model materialized as the Union's RZ-1 interceptors were considered sufficient for then-current needs.
+
+Though RZ-1 was by all accounts a capable scout/interceptor, worsening relations with the New Republic prevented replacement of hulls lost to combat and accidents. By [[10 ABY]] it was apparent that the RZ-1 fleet would have to be stood down within five years, forcing the CDU to look to other options. Initial plans were to simply replace the RZ-1's with tailored variants of the iconic [[Z-100 Centurion]] multirole starfighter for the scout and interceptor roles. Ultimately, this proposal fell in the face of concerns about cost, and the viability of operating the Z-100 from smaller warships like the [[Shearwater-class Frigate|''Shearwater''-class frigate]].
+
+CDMC's existing prototypes would serve as a starting point...
+
+===Layout & Capabilities===
+
+Like its Centurion stablemate, the Hellion utilizes [[Crysessium]] for its fuel source. Commonality of fuel type is a minor factor in light of the reduced volatility inherent to Crysessium. In addition, the craft has a greater range and endurance. These are highly treasured characteristics that Hellion pilots use to decided advantage in lingering over fire zones and providing close air support. The Z-110's engines are also equipped with a quantum-charger to give the fighter a maximum acceleration of 110 MGLT, but this is at cost of fuel consumption.
+   
+<br />
+<small>
+Known Variants:
+*'''SubPro/CDMC Z-110 Hellion''' - "A" variant, standard frontline combat version
+</small>
+<pre>    
+Craft ........ SubPro-CDMC Z-110 Hellion
+Variant ...... A
+Type ......... Interceptor           Cargo Capacity ......... 45 kg
+Scale ........ Starfighter           Consumables ............ 1 week
+Length ....... 9.75 meters           Hyperdrive Multiplier .. x1
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1+ Astromech          Nav Computer ........... Yes (2 jumps)
+Passengers ... None                  Maneuverability ........ 4D
+Hull ......... 90                    Space Movement ......... 110
+Shields ...... 32                    Atmosphere ............. 475; 1200 kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  30,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 5 total (5 permanently filled)
+
+Stock Weapons:
+   Two Single Laser Cannons (2 cheek-mounted):
+      Weapon Rating .... Class 5        Damage ........ 5D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+   Two FOWLs (Fighter-scale Ordinance Warhead Launcher):
+      Weapon Rating .... Standard       Damage ........ 7D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/5/20       Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 5 Each (anti-starfighter missiles)
+   ECM Suite:
+      Fire Arc ....... All              Fire Control .. N/A   
+      Space Range .... N/A (Affects sensors focussing on ship)
+      Damage ......... -2D to other fire control, and interferes with any
+                           attempt to focus scan the Z-110 while powered on.
+</pre>
+
+[[Image:Z-110 Hellion.png]]
+
+[[Category:Starfighters]]
+[[Category:SubPro Ships]]
+[[Category:CDUMil Restricted Ships]]

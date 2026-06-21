@@ -1,0 +1,15 @@
+TITLE: Knife
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T04:31:50Z
+======================================================================
+A typical weapon seen around the galaxy, the '''knife''', is made of a polymer grip.
+The knife's blade is approximately 6 inches in length and 3 inches wide with
+a razor sharp edge.
+<pre>
+Name................Knife
+Weapon Type.........Melee Weapon             Weight..............0.5kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............0D+2
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

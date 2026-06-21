@@ -1,0 +1,40 @@
+TITLE: ZIS
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-15T20:09:56Z
+======================================================================
+Zen's Item System (ZIS) was developed as a replacement for hardcoded Virtual Object System ([[VOS]]). While [[VOS]] was fondly regarded by many, it was considered an obstacle by administrators with site admin responsibility as it prevented the successful upgrade of [http://www.pennmush.org/ PennMUSH]. ZIS was created by [[Zen]], with hacks and maintenance by [[Minkar]], [[Darrien]], and [[Cypher]].
+
+The system allows for the creation, exchange, and use of MUSH items that are virtual (not real) in the sense of having a defined database reference number (dbref).
+
+----
+'''ZIS +Help'''
+
+ZIS manages a great number of special objects on the game. Weapons, props, equipment, armor and more are stored in this format. These items show up in the virtual column in every room you go in or every person you look at if they have a virtual item in their inventory. Virtual items act a lot different from regular objects though you can still drop them, exchange them with other people, and so on. Make sure you read these commands carefully:
+
+<pre>
++zdrop [#] <item>..................Drops # of ZIS item.
++zget [#] <item>...................Gets # of ZIS item.
++zgive [#] <item> to <target>......Gives ZIS item to person or thing.
++zinv..............................Shows your ZIS inventory.
++ztake [#] <item> from <thing>.....Takes ZIS from an object.
++zview <item>......................Shows desc of item in your ZINV.
++zview/<person> <item>.............Shows desc of <person's> <item>.
++zlook at <item>...................Shows desc of item in room.
++zshowprop <item> to <target>......Shows off item for RPG purposes.
+
+Dynamic Item Commands:
+
++conceal <item|#>..................Conceals a ZIS item.
++unconceal <#>.....................Unconceals a ZIS item.
++wield <item|#>....................Wields a ZIS item.
++unwield <#>.......................Unwields (puts away) a ZIS item.
++equip <item|#>....................Equips (wears) a ZIS item.
++unequip <#>.......................Unequips (takes off) a ZIS item.
++frisk <target>....................Searches <target> for concealed items.
+</pre>
+All of the dynamic commands put ZIS items into a special state of wielded, concealed, or equipped or an appropriate combination of those three. Once an item moves into one of those states it MUST be referred to using its NUMBER,
+found in +ZINV. Other ZIS commands like giving and dropping that item will not work until you completely unwield, unconceal and/or unequip the item and it shows up in your Carried Virtual Objects listing in +ZINV.
+
+Your success (or failure) at concealing objects depends on your Hide skill. A failed conceal attempt means that you can't attempt to hide an object of that type again until twelve hours have passed. Frisking relies on your Search skill. The better hidden items are, the harder they are to find. Wielding only works for weapons and an occasional rare "prop" item. You may wield one one-handed weapon, two one-handed weapons (just +wield two different things) or one two-handed weapon. Finally, you can +equip some items (nearly exclusively things like armor). Armors and items cover various portions of your character's body and can never conflict. Any armor or item that covers the "body" requires that the PC have no other worn items at all. Partial armor, helmets and so on can otherwise be combined.
+
+[[Category:MUSH Globals]]

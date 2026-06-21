@@ -1,0 +1,754 @@
+TITLE: D6 Combat Rules
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2014-11-04T17:12:51Z
+======================================================================
+The rules represented here are those drawn from West End Games' Star Wars Roleplaying, Second Edition Revised Rulebook. They cover combat between characters and vehicles and are provided as an '''optional''' alternative to the simplified rules used on Star Wars MUSH and detailed in '''NEWS COMBAT'''.
+
+Combat involving Starships is dealt with by the [[Space Combat]] and optional [[D6 Space Combat Rules|Advanced Space Combat]] systems.
+
+
+<tabber>
+|-|Task Difficulties=
+__NOTOC__ __NOEDITSECTION__
+
+Any task which carries a consequence of failure (including simply wasted time, if time is an issue) is grounds for a skill check.
+
+=Basic Difficulty=
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 800px;"
+|-
+! scope="col" style="text-align:center;"|Difficulty
+! scope="col" style="text-align:center;"|Difficulty Range
+! scope="col" style="text-align:center;"|Randomized Difficulty
+|-
+|Very Easy
+| style="text-align:right;"| 1-5
+| style="text-align:right;"| 1D
+|-
+|Easy
+| style="text-align:right;"| 6-10
+| style="text-align:right;"| 2D
+|-
+|Moderate
+| style="text-align:right;"| 11-15
+| style="text-align:right;"| 3D-4D
+|-
+|Difficult
+| style="text-align:right;"|16-20
+| style="text-align:right;"|5D-6D
+|-
+|Very Difficult
+| style="text-align:right;"|21-30
+| style="text-align:right;"|5D-6D
+|-
+|Heroic
+| style="text-align:right;"|31+
+| style="text-align:right;"|7D+
+|}
+
+To be successful in a task, the character must equal or exceed the difficulty. If the player's check is lower than the difficulty, the task is a failure.
+
+'''Very Easy''' - Almost anyone should be able to do this most of the time. 
+Example: Hitting a target with a blaster at point-blank range. Driving a landspeeder across Very Easy terrain, like a good road. Knowing that Coruscant is the capital of the New Republic and was the capital of the Empire.
+
+'''Easy''' - Most characters should be able to do this most of the time. While these tasks aren't too difficult, there's still a chance of failure. 
+'''Example''': Hitting a target with a blaster at short range. Driving a landspeeder over somewhat rough terrain, like a choppy lake. Knowing that Coruscant's major "industry" is government and that billions of people live there.
+
+'''Moderate''' - This kind of task requires skill, effort and concentration. There's a good chance that the average character could fail at this type of task, but most highly skilled characters can succeed at something this hard. 
+'''Example''': Hitting a target with a blaster at medium range. Keeping control when jumping a landspeeder over a big ditch (or other obstacle). Knowing which neighborhoods in Imperial City are safe and which are dangerous at night.
+
+'''Difficult''' - Difficult tasks are hard and "normal" characters can only succeed at them once in a while. These tasks take a lot of skill... and luck doesn't hurt either. '''Example''': Hitting a target with a blaster at long-range. Driving a landspeeder at high speed around moving pedestrians and other obstacles. Knowing a safehouse in Imperial City where your character can hide during a manhunt.
+
+'''Very Difficult''' - Even professionals have to work to pull off Very Difficult tasks. Only the most talented individuals in the galaxy (like Luke, Han, and Leia) succeed at these tasks with any regularity. 
+'''Example''': Hitting someone with a blaster at long range who is mostly hidden behind cover. Safely driving a landspeeder at high speed through a traffic jam by taking to walkways and making "insane" maneuvers. Knowing which bureaucrats in Imperial City can facilitate the acquisition of weapons permits.
+
+'''Heroic''' - Something that's almost impossible and calls for extraordinary effort and luck. Even "heroes" have a tough time pulling off Heroic tasks. 
+'''Example''': Shooting a proton torpedo into a small exhaust port without the benefit of a targeting computer. Flying the Millennium Falcon at all-out speed through a dense asteroid field.
+
+
+
+=Rushing=
+At the GM's discretion characters may attempt to "rush" an action. The action takes only half of the usual time, and only half of the character's skill is rolled.
+
+'''''Example''': Han is trying to fix the hyper-drive on the Millennium Falcon. This is a Moderate difficulty task; the GM says it will take ten minutes to repair but Chewbacca is desperately dodging TIE fighters. Knowing that they must escape soon, Han rushes the task. He makes his roll after only five minutes, but halves his Starship Repair skill from 6D to 3D.
+''
+
+
+=Preparing=
+
+A character may take their time to properly set up an action, doubling the amount of time an action takes. The character may take no other actions during this time.
+
+The preparation adds a +1D bonus to the action when the extended time is up.
+
+
+=Situational Modifiers=
+If one character has a clear advantage over another, the GM may choose to assign a modifier. Modifiers are used to reflect unusual situations where skill not the only determining factor. 
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 300px;"
+|-
+! scope="col" style="text-align:center;"|Advantage
+! scope="col" style="text-align:center;"|Modifier
+|-
+|Slight
+| style="text-align:left;"| +1-5
+|-
+|Good
+| style="text-align:left;"| +6-10
+|-
+|Decisive
+| style="text-align:left;"| +11-15
+|-
+|Overpowering
+| style="text-align:left;"| +16+
+|}
+
+Examples:
+
+*The characters are racing each other to get information out of a computer system. If one character already knows the system inside and out, and the other has never seen a system like this before, the first character might get a +10 bonus modifier to their roll.
+
+*Two characters are playing sabacc. One character has a cheater chip to control which cards are dealt to him. He might get a +15 bonus modifier to his gambling skill roll.
+
+*The player characters are trying to sneak out of an Imperial base undetected. The Imperial Moff knows the layout of the base and is aware that the characters have escaped. The Moff might get a +10 bonus modifier when rolling his search skill to figure out what route the characters will use to escape.
+
+|-|The Combat Round=
+
+A combat round lasts five seconds. Players first determine initiative, then declare in the round declare the number of actions they will be taking and resolve them in initiative order.
+
+*Determine Initiative
+*Declare Actions
+*Resolve Actions
+<br />
+
+=Surprise=
+
+If characters are caught by surprise, their attackers receive a free round of actions during which the surprised side cannot take any actions (including using defensive skills).
+
+When setting an ambush, each ambusher make a Sneak check. The '''lowest''' score is recorded. Immediately before the ambush is sprung, each victim performs a Search check. The '''highest''' score is recorded. If the highest Search result equals or exceeds the lowest Sneak result, the ambush is spotted and the combat proceeds as normal (though the ambushers are '''still''' likely to be in advantageous positions...)
+
+
+=Initiative=
+The participants are divided into 'sides' representing their allegiance in the fight. The character with the highest Perception attribute on each side rolls and the winner decides whether their side acts first or last in that round. (Re-roll in the event of a tie.)
+
+Rolling for initiative does not count as an action.
+
+A character may not spend a Character Point to improve the initiative roll, but [[D6 Combat Rules/Combat and Injuries|penalties for being wounded]]) apply.
+
+
+=Multiple Actions=
+
+For each action after the first a character wishes to take in a round, '''all''' checks they make during that round are reduced by -1D. So if a character proposes to take three actions, regardless of what they are, all their actions suffer a -2D penalty.
+
+
+=Reaction Skills=
+
+Characters may use an action to react to an attack, replacing the difficulty number assigned to actions against them with the result of their check for the rest of the round and so improving their chances to avoid harm.
+The most common reaction skills are dodge, melee, brawling and for vehicle and starship combat, Ground Vehicle Operation, Starfighter Piloting, Starship Piloting and Capital Ship Piloting.
+
+A character may wait to be attacked before declaring that they will use an action to attempt to avoid the attack. They may choose to sacrifice an earlier declared action, or take an '''extra''' action and roll it, and all further checks for the remainder of the round, at the new multiple action penalty.
+
+When a Reaction Skill is used, the score rolled by their check '''replaces''' the difficulty otherwise required to hit them.
+
+''e.g. Leia is being fired at by an Imperial Stormtrooper with good visibility, at close range and is not in cover. This is an easy shot and the Stormtrooper requires only a 10 to hit her! Leia chooses to Dodge and rolls a 17. The Stormtrooper must now roll at least a 17 to successfully hit Leia.''
+
+If a character chooses to forego all other actions during the round (including using other reaction skills against other types of attack!) they '''add''' the result of their check.
+
+''Leia has moved into cover and the basic difficulty to hit Leia is now 15. But the Stormtrooper has summoned allies. Leia chooses to make a Full Dodge action, foregoing all other actions that round. She rolls a 20 for her Dodge and '''adds''' it to the 15 otherwise required. The Stormtroopers must now roll at least a 35 to hit Leia!''
+
+''Leia survives the barrage of blaster fire, but another Stormtrooper has snuck around and attempts to hit her with a heavy rock. Leia's cover is ineffective against a melee attack and she cannot use a melee reaction skill this round! The Stormtrooper needs only score the basic difficulty of his improvised weapon to hit Leia!''
+
+|-|Ranged Attacks=
+
+The difficulty to hit a target with a ranged attack (firearms, blasters, thrown weapons etc) is based on the range.
+Range increments are determined by the type of weapon, but in most cases the following applies:
+
+=Basic Difficulty=
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 600px;"
+|-
+! scope="col" style="text-align:left;"|Range Increment
+! scope="col" style="text-align:center;"|Blaster Pistol
+! scope="col" style="text-align:center;"|Blaster Rifle
+! scope="col" style="text-align:right;"|Difficulty Class
+! scope="col" style="text-align:right;"|Difficulty Score
+|-
+|Point Blank
+| style="text-align:center;"| < 3m
+| style="text-align:center;"| < 3m
+| style="text-align:right;"| Very Easy
+| style="text-align:right;"| 1D
+|-
+|Short Range
+| style="text-align:center;"| 3-10m
+| style="text-align:center;"| 3-30m
+| style="text-align:right;"| Easy
+| style="text-align:right;"| 2D
+|-
+|Medium Range
+| style="text-align:center;"| 30m
+| style="text-align:center;"| 100m
+| style="text-align:right;"| Moderate
+| style="text-align:right;"| 3D-4D
+|-
+|Long Range
+| style="text-align:center;"| 120m
+| style="text-align:center;"| 300m
+| style="text-align:right;"|Hard
+| style="text-align:right;"|5D-6D
+|}
+
+Since Star Wars MUSH does not have scale maps, a rule of thumb is typically applied:
+*Most combat indoors takes place at Short Range (within 30m)
+*Outdoor Combat usually takes place at Medium Range (within 100m).
+*Outdoor Combat at great distances takes place at Long Range (up to 300m)
+*Pistols treat Medium Range engagements as Long Range, and are effectively useless in Long Range engagements.
+
+
+=Concealment=
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col" style="text-align:center;"|Lighting
+! scope="col" style="text-align:center;"|Visibility
+! scope="col" style="text-align:center;"|Increase to Difficulty
+|-
+|Light Smoke
+|Poor Light
+| style="text-align:right;"| +1D
+|-
+|Thick Smoke
+|Moonlit Night
+| style="text-align:right;"| +2D
+|-
+|Very Thick Smoke
+|Complete Darkness
+| style="text-align:right;"| +4D
+|}
+
+*Concealment from Lighting and Visibility are cumulative.
+
+''E.g. A character who is obscured by light smoke (+1D) on a moonlit night (+2D) enjoys a +3D bonus to the difficulty to successfully hit them.''
+
+
+=Cover=
+
+Combat is deadly when blasters are involved, even for very skilled combatants. Taking cover is often advisable!
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col" style="text-align:center;"|Amount of Character Covered
+! scope="col" style="text-align:center;"|Bonus to Difficult Roll to Hit
+|-
+|1/4 (25%) covered
+| style="text-align:right;"| +1D
+|-
+|1/2 (50%) covered
+| style="text-align:right;"| +2D
+|-
+|3/4 (75%) covered
+| style="text-align:right;"| +4D
+|-
+|100% covered
+| style="text-align:right;"|Cannot be hit
+|}
+
+*Cover is cumulative with Concealment.
+*A character cannot attack a target they have total (100%) cover against
+
+
+|-|Melee Attacks=
+
+Each Melee Weapon has a difficulty to use.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col" style="text-align:left;"|Weapon
+! scope="col" style="text-align:center;"|Difficulty Class
+! scope="col" style="text-align:right;"|Difficulty Score
+|-
+|Unarmed (Brawl) 
+| style="text-align:center;"| Very Easy
+| style="text-align:right;"| 1D
+|-
+|Knife
+| style="text-align:center;"| Very Easy
+| style="text-align:right;"| 1D
+|-
+|Vibro-Weapons
+| style="text-align:center;"| Moderate
+| style="text-align:right;"| 3D-4D
+|-
+|Lightsaber
+| style="text-align:center;"| Difficult
+| style="text-align:right;"| 5D-6D
+|}
+
+*If attacking an unarmed opponent with a melee weapon, the armed character gains a +5 modifier to their attack roll
+*If a character without natural weapons uses Brawling as a reaction to attempt to block an armed melee attack, the armed character gains a +10 to their attack roll.
+
+|-|Scale=
+
+''"Its no use, their armor's too strong for our blasters!" - Luke Skywalker, Battle of Hoth''
+
+Most combat is assumed to take place between combatants of equivalent scale. When there is a substantial difference between the size of combatants, Scale is used.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col" style="text-align:left;"|Scale
+! scope="col" style="text-align:right;"|Modifier
+|-
+|Character
+| style="text-align:right;"| -
+|-
+|Speeder
+| style="text-align:right;"| 2D
+|-
+|Walker
+| style="text-align:right;"| 4D
+|-
+|Starfighter
+| style="text-align:right;"| 6D
+|-
+|Capital Ship
+| style="text-align:right;"| 12D
+|-
+|Death Star
+| style="text-align:right;"| 24D
+|}
+
+The '''difference''' between the modifiers of two scales is the Applied Modifier.
+
+*A larger scale combatant uses the Applied Modifier as a penalty to hit a smaller opponent and as a bonus to inflict and resist damage.
+*A smaller scale combatant uses the Applied Modifier as a bonus to hit a larger opponent.
+
+''e.g. Luke is flying his Snowspeeder (Speeder Scale, 2D) against an AT-AT walker (Walker Scale, 4D). The difference (Applied Modifier) is 2D. 
+
+When firing at the AT-AT walker, Luke gains +2D to his attack rolls. The AT-AT is a huge target, he can hardly miss! But the AT-AT is so massive that it shrugs off damage from such small weapons and rolls +2D to its strength to resist damage when it is hit.
+
+Conversely, the AT-AT is at +2D difficulty to hit Luke's speeder. It is a very small target for such a large machine! But the AT-AT's weapons are tremendously powerful, gaining a +2D bonus to damage. If it manages to actually land a hit, it is easily capable of blowing Luke's speeder out of the sky!'
+
+
+|-|Damage and Injury=
+
+
+When an attack hits, the attacker rolls the damage for their weapon.
+The defender rolls their Strength, plus the appropriate modifier for any armor they may be wearing.
+
+If the damage roll equals exceeds the defender's total strength score, the defender has been damaged by the attack.
+
+=Damage to Characters=
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Damage beats Strength by
+! scope="col"|Wound State
+|-
+|Less than 0
+|None (harmless)
+|-
+|0-3
+|Stunned
+|-
+|4-8
+|Wounded
+|-
+|9-12
+|Incapacitated
+|-
+|13-15
+|Mortally Wounded
+|-
+|16+
+|
+Killed
+|}
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 1000px; height: 100px;"
+|-
+! scope="col"|Wound State
+! scope="col"|Effects
+|-
+|Stunned
+| -1D to all skill & attribute rolls for the rest of the round and next round. Stunned persists (without penalties) for 30m, or until the characte rests for 1m. If the number of Stunned results equals the character's STR attribute, they are unconscious for 2D minutes. A Poor medical roll revives an unconscious character.
+|-
+|Wounded
+|The character falls prone and can take no actions for the rest of the round. Until healed, the character suffers a -1D penalty to all skill and attribute rolls. A second Wounded result increases the penalty to -2D. A third result Incapacitates the character.
+|-
+|Incapacitated
+|The character falls prone and is knocked unconscious for 10D minutes. The character cannot do anything until they are healed. An Incapacitated character who is Incapacitated again becomes Mortally Wounded.
+|-
+|Mortally Wounded
+|The character falls prone and is unconscious. At the beginning of each round, roll 2D. If the result is less than the number of rounds the character has been Mortally Wounded, the character dies. A Good medical roll will stabilize the character. A stabilized character must still receive proper medical attention within the hour, or die.
+|-
+|Killed
+|The character is killed.
+|}
+
+*Mortally wounded and Killed are [[consent]] level injuries which can only be applied where participants have consented to death. Otherwise, the highest wound level is incapacitated.
+* Some weapons inflict stun damage - any result more serious than ''stunned ''renders the target unconscious for 2D minutes.
+
+
+=Damage to Vehicles=
+
+Vehicles suffer damage in much the same way as characters, but may also possess deflector shields.
+
+Deflector Shields are operated as a Reaction Skill. The total number of dice are distributed between the vehicle's facings (front, back, left right). The Shield Operation skill is rolled.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Number of Facings Shielded
+! scope="col"|Difficulty Class
+! scope="col"|Difficulty Score
+|-
+|1
+|Easy
+|2D
+|-
+|2
+|Moderate
+|3D-4D
+|-
+|3
+|Difficult
+|5D-6D
+|-
+|4
+|Very Difficult
+|7D-8D
+|-
+|}
+
+A vehicle which is hit on a facing it has shielded adds the shield dice applied to that facing to its strength to resist damage.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Damage beats Strength by
+! scope="col"|Effect
+|-
+|Less than 0
+|None (harmless)
+|-
+|0-3
+|Shields Blown/Controls Ionized
+|-
+|4-8
+|Lightly Damaged
+|-
+|9-12
+|Heavily Damaged
+|-
+|13-15
+|Severely Damaged
+|-
+|16+
+|Destroyed
+|}
+
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 1000px; height: 100px;"
+|-
+! scope="col"|Damage State
+! scope="col"|Effects
+|-
+|Shields Blown
+| -1D to the vehicle's shields. This penalty persists until the shields are repaired. If the vehicle has no more shields to lose it instead suffers Controls Ionized
+|-
+|Controls Ionized
+| -1D to the vehicle's Maneuverability, Fire Control, Weapons Damage and Shields for the remainder of the turn and the next turn. If the vehicle is suffering as many Controls Ionized results as its Maneuverability score, the controls are Frozen for the next two turns. The vehicle must maintain its current heading and speed. It may not turn, fire weapons or deploy deflector shields. If the pilot stops making the appropriate Operation or Piloting rolls while the controls are Frozen, the vehicle automatically spins out of control and crashes.
+|-
+|Lightly Damaged
+|Vehicles may be lightly damaged any number of times. Each time, roll 1D to determine which system is damaged.
+*1-3 -1D to maneuverability. If the vehicle has no more maneuverability dice to lose, it suffers -1 move.
+*4 One randomly determined on-board weapon is destroyed. If it had a gunner, they take damage.
+*5-6 -1 Move.
+|-
+|Heavily Damaged
+|Roll 1D to see which system is damaged. If the vehicle suffers any further lightly damaged or heavily damaged results, it becomes severely damaged.
+*1-3 -2D to maneuverability. If the vehicle has no more maneuverability dice to lose, it suffers -2 move.
+*4-6 -2 Move
+|-
+|Severely Damaged
+|Roll 1D to determine which system is affected. If the vehicle suffers any further lightly, heavily or severely damaged results, it is destroyed*
+*1-2 All motive, drive and maneuvering systems are destroyed. If the vehicle was travelling at All-Out or High Speed, it crashes. If the vehicle was flying, the pilot must succeed a Moderate difficulty test to land safely.
+*3 The vehicle's generator will explode within 1D rounds and Destroy the vehicle.* A Moderate difficulty check is required to land or stop the vehicle safely.
+*4 All weapons systems on-board the vehicle shut down.
+*5 The vehicle begins to break up and will be Destroyed in 1D rounds. A Moderate difficulty check is required to land or stop the vehicle safely.
+*6 The vehicle is Destroyed.*
+|-
+|Destroyed
+|The vehicle immediately explodes.*
+|}
+
+
+=Damage to Passengers=
+
+If a damage result to a vehicle indicates that a passenger, pilot or gunner is harmed, calculate their injury according to the following chart.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Severity of Damage
+! scope="col"|Character Scale Damage
+|-
+|Lightly Damaged
+|1D
+|-
+|Heavily Damaged
+|3D
+|-
+| -3
+|Severely Damaged
+|6D
+|-
+|Destroyed 
+|12D
+|}
+
+
+Lost Moves are cumulative and have the following effect
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Move lost
+! scope="col"|Effect
+|-
+| -1
+|Limited to High Speed and may no longer move all-out
+|-
+| -2 
+|Limited to Cruising Speed
+|-
+| -3
+|Limited to Cautious Speed
+|-
+| -4 
+|Engines destroyed. Unable to move.
+|-
+| -5
+|Destroyed*
+|}
+
+*In accordance with Star Wars MUSH's consent policy, player characters may not be killed unless they have consented to the possibility of character death.
+
+|-|Movement and Chases=
+
+Every character, creature and vehicle has a Move score: how many meters per round the character moves while walking or cruising. (Most humans have a Move of 10).
+
+Moving is an action, just like firing a blaster or dodging an attack. A character or vehicle can move once per round, and chooses one of four speeds.
+A character uses her athletics skill, while a vehicle uses its pilot's operation skill.
+
+Characters may increase or decrease their movement speed by up to two levels per round.
+Vehicles may increase or decrease their movement speed by one level per round.
+
+The speed at which a character or vehicle moves, and the terrain it is traversing, determines the difficulty of the skill check.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 800px; height: 300px;"
+|
+|'''Move'''
+|'''Very easy, Easy & Moderate Terrain'''
+|'''Difficult, Very Difficult & Heroic Terrain'''
+|-
+|'''Cautious Movement'''
+|Up to 1/2 Move
+|
+Free Action, no check required
+|
+Athletics check (Reduce difficulty one level)
+|-
+|'''Cruising'''
+|1/2 to Full Move
+|
+Action, no check required
+|Athletics check
+|-
+|'''High Speed'''
+|1x to 2x Move
+|Action, Athletics check
+|Athletics check (Increase difficulty one level)
+|-
+|'''All Out'''
+|2x to 4x Move
+|Full Round Action, Athletics check, increase difficulty by one level
+|Full Round Action, Athletics check, Increase difficulty two levels
+|}
+
+
+=Long Distance Movement=
+
+All-out and High Speed movement take their toll when used for extended periods. 
+
+A character continuously moving all-out must make a Stamina check every minute.
+A vehicle continuously moving all-out must make a Body Strength check every 10 minutes.
+
+A character continuously moving at high speed must make a Stamina check every 10 minutes.
+A vehicle continuously moving at high speed must make a Body Strength check every hour.
+
+The first check difficulty is Very Easy and increases by one level for each subsequent check. If the check is failed, the character or vehicle must rest for twice as long as it was moving at high and all-out speed.
+
+If a vehicle fails its check by 11 or more, it develops a mechanical fault and is unable to move. It must be repaired, requiring one hour of work and a Moderate repair check.
+
+
+=Complex Maneuvers=
+
+Movement as described above covers simple maneuvers. If a character or vehicle attempts a more difficult maneuver - such as maneuvering between tightly-grouped building support beams, grabbing something out of mid-air while running or leaping across a chasm a modifier between 1D-4D to the movement's difficulty may be appropriate.
+
+
+=Movement Failures=
+
+A character or vehicle which fails a movement roll may have to slow down or even suffer serious harm.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 800px;"
+|-
+! scope="col"|Failed by
+! scope="col"|Result
+! scope="col"|Effect
+|-
+|1-3
+|Slight Slip
+|Complete movement, apply -1D penalty to all actions for the rest of the round.
+|-
+|4-6
+|Slip
+|Move half speed, apply a -3D penalty to all actions for the rest of the round and -1D to all actions next round
+|-
+|7-10
+|Fall or Spin
+|Move one-quarter speed. No further actions may be taken this round. A character suffers -2D penalty to all actions next round, a vehicle cannot act next round.
+|-
+|11-15
+|Minor tumble or collision
+|Move one-half speed. Suffer collision damage, reduced by -3D. If this reduces damage to 0D or less, no damage is taken.
+|-
+|16-20
+|Tumble or Collision
+|Move one-half speed. Suffer normal collision damage.
+|-
+|21+
+|Major tumble or collision
+|Move one-half speed. Increase collision damage by +2D for characters and +4D for vehicles.
+|}
+
+
+=Collisions=
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Movement Speed
+! scope="col"|Damage to Characters
+! scope="col"|Damage to Vehicles
+|-
+|Cautious
+|1D
+|2D
+|-
+|Cruise
+|2D
+|4D
+|-
+|High Speed
+|3D
+|6D
+|-
+|All-out
+|4D
+|10D
+|}
+
+|-|Example Combat=
+
+An Imperial Stormtrooper is ambushed by a Republic Marine. The Marine rolls her Sneak skill and scores a 12. The Stormtrooper rolls his Perception and scores a 13. The Marine is spotted in the last vital seconds and the ambush is foiled!
+
+The Stormtrooper and Marine are on opposite sides of the conflict and both roll Perception to determine initiative. The Marine rolls a 15 and the Stormtrooper a 10. The Marine has won, and chooses to go first.
+
+The Marine declares that she will take two actions. The Stormtrooper declares he will also take two actions. Both characters will roll all their checks at -1D for this round.
+
+The Marine chooses to fire on the Stormtrooper twice. The Stormtrooper is in the open at short range on a well lit day, and rolls 2D to determine how hard he is to hit. He scores 9. Unimpressed by this result, the Stormtrooper declares that he will Dodge. He considers using one of his two actions, but decides he will instead count dodging as a third. His penalty to all actions this turn increases to -2D and he rolls his dodge skill with this new penalty. He scores a 16.
+
+The Marine must now roll a 16 or greater on her attacks to hit the Stormtrooper. She rolls her Blaster skill at a -1D penalty, twice. She scores an 11 and a 15, failing to hit the Stormtrooper.
+
+The Stormtrooper chooses to run for cover with his first action, and then opens fire on the Republic Marine with his second. The Marine is already in good cover, having set up there for her ambush, and gains a bonus of +2D to the difficulty to hit her. She rolls 4D and scores a 19. Confident that she will not do any better by dodging, the Marine chooses not to Dodge and lets the score stand.
+
+The Stormtrooper rolls his Blaster Skill with a -2D penalty and scores an 13. He fails to hit the Marine.
+
+he next round begins by determining initiative again. This time the Stormtrooper wins. He chooses to go first and takes only one action this round. The marine, confident in the protection of her superior cover, chooses to take two.
+
+The Marine rolls 4D to determine how hard she is to hit this round (2D for the distance involved, +2D for the cover). She scores a 14. The Stormtrooper rolls his Blaster Skill at its full value and scores a 17. A hit!
+
+The Stormtrooper is using an E-11 Blaster Rifle, which deals 5D energy damage. He rolls 5D and scores 21. The Republic Marine has Strength 3D and wears light armor, giving her a 0D+1 bonus to her Strength skill against energy attacks. She rolls 3D+1 and scores 11. The difference is 10. She is incapacitated and falls unconscious for 10D minutes. More than enough time for the Stormtrooper to secure his captive.
+
+|-|Healing= 
+
+Characters heal either naturally, under first-aid care using medpacs, and in long-term care using bacta tanks (also known as rejuvenation tanks).
+
+=Natural Healing=
+A character can heal naturally, but this process is both slower and much more hazardous than healing with medical attention.
+The character must rest for the specified period of time and rolls the character's full Strength statistic to see if the character heals.
+
+Characters attempting to heal naturally are well advised to take plenty of bed-rest.
+A character who tries to work, exercise, or adventure must subtract -1D from their Strength when they makes their roll.
+
+A wounded character must rest for three standard days before rolling to heal.
+
+<pre>Strength Roll		Result
+2-4			Character worsens to wounded twice
+5-6			Character remains wounded
+7+			Character is fully healed.</pre>
+
+A character who is wounded twice must rest for three days before rolling to heal.
+
+<pre>Strength Roll		Result
+2-4			Character worsens to incapacitated
+5-6			Character remains wounded twice
+7+			Character improves to wounded</pre>
+
+
+Incapacitated characters must rest for two weeks before making a healing roll.
+
+<pre>Strength Roll		Result
+2-6			Character worsens to mortally wounded
+7-8			Character remains incapacitated
+9+			Character improves to wounded twice.</pre>
+
+Mortally wounded characters must rest for one month before making a healing roll.
+
+<pre>Strength Roll		Result
+2-6			Character dies
+7-8			Character remains mortally wounded.
+9+			Character improves to incapacitated.</pre>
+
+
+=Medpacs=
+
+A standard medpac contains a combination of healing medicines, synth-flesh, coagulants, body chemistry boosters, adrenaline drugs, and computer diagnostic hardware to treat seriously injured individuals. Medpacs are very common around the galaxy and can be found aboard most starships, in most buildings and homes.
+
+Using a medpac requires a Medical check. The difficulty depends upon the severity of the patient's injury.
+
+<pre>Degree of Injury		Difficulty
+Stunned, unconscious		Very easy
+Wounded, wounded twice	        Easy
+Incapacitated			Moderate
+Mortally wounded		Difficult</pre>
+
+If the Medical check is successful, the patient heals one level: stunned and wounded characters are fully healed; unconscious characters are revived; wounded twice characters improve to wounded; incapacitated characters improve to wounded twice; mortally wounded characters improve to incapacitated.
+
+If the Medical check is unsuccessful, the character's condition remains the same. If the Medical check misses the difficulty by more than 10 points, the medpac has pushed the injured character's body to its limit, and the character may not be treated with a medpac again for a full standard day 
+
+Each medpac used on a character in a single day after the first increases the difficulty of the Medical check by one level. Each use of a medpac fully expends it.
+
+A character can use a medpac on themselves, but suffers an additional -1D penalty to their Medical check, in addition to any other penalties they may be suffering from.
+
+
+=Bacta Tanks=
+
+Bacta is a specially formulated treatment liquid which promotes rapid healing and acts as a disinfectant. The attending physician can use the bacta tank's computers to add skin-contact medicines to the bacta fluid, inject medicines into the patient's bloodstream, or dispense medicines orally. On most planets, only licensed doctors can administer bacta treatments.
+
+A Very Easy Medical check is necessary to use a bacta tank - regardless of the wound level. If the check is successful, the character will heal - it's just a matter of time.
+
+A character attempting to use a bacta tank without points assigned to the Medical skill must make a Heroic Technical roll. If the roll fails, the patient's injury worsens two levels.
+
+The character's healing time depends on the severity of the injuries.
+
+*Wounded: 1D hours
+*Incapacitated: 4D hours
+*Mortally wounded: 1D days
+
+</tabber>
+=NPC Sheets=
+See [[:Category:NPC_Stats|NPC Stats]]
+[[Category:The Way It Works]]

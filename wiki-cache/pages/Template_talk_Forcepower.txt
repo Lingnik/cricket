@@ -1,0 +1,6 @@
+TITLE: Template talk:Forcepower
+NAMESPACE: 11 (Template_talk)
+LAST_EDIT: 2007-04-17T13:03:23Z
+======================================================================
+Okay now this template works the way I want it to, but I can't figure out how to get the optional-row feature to work at the same time as having nice column widths. I'd like the left column to be narrower, and the right column to be wider, to have room for "Control, Alter, Sense" on the Domain line. --[[User:Lolkje|Lolkje]] 02:48, 17 April 2007 (UTC)
+*Made some formatting updates:<ol><li>column widths -- modified the column widths using width and padding css.</li><li>optionalized the image -- without this a small whitespace is visible at the top of the table</li><li>changed the table to class="infobox" -- this works with the wiki-wide javascript to alternate the colors of the rows.</li></ol>-- [[User:Xerxes|Xerxes]] 13:03, 17 April 2007 (UTC)

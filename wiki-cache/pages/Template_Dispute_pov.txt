@@ -1,0 +1,11 @@
+TITLE: Template:Dispute pov
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-14T17:20:30Z
+======================================================================
+{| width=85% align=center class="expansion" style="background: #d1d0a5; border: 2px solid #003c05; padding: .2em; margin-bottom: 3px; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | [[Image:scene_lukeobiwan.jpg|130px|]]
+| <font size=3>'''From a certain point of view.'''</font><br ><small >The [[Help:Neutrality|neutrality]] of this article, or a section of this article, is questionable. If reading this article, please be cautioned of bias. If editing, please see this article's [{{SERVER}}{{localurl:{{TALKPAGENAME}}}} talk page]. Once neutrality has been achieved, you may remove this notice. </small >
+|}
+
+<includeonly>[[Category:Articles Under Dispute|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Administrative Templates|Dispute POV]]</noinclude>

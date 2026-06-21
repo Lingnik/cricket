@@ -1,0 +1,42 @@
+TITLE: Wanderer-class Frontier Merchant
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-10-19T22:10:56Z
+======================================================================
+The '''''Wanderer''-class''' of '''Frontier Merchant''' is a [[SubPro]] development aimed at the needs of the merchant fleets of the [[Caspian Democratic Union]]. It was developed for 'feeder routes' and servicing frontier colonies where varied cargo, austere facilities,  and hazardous routes are all part of the job.
+
+The Wanderer is a two-deck design, built around a boxy cargo bay, with a superstructure running along the dorsal spine housing bridge and living facilities. The cargo bay is a roll-on/roll-off arrangement, allowing for easy loading and unloading even where no loading facilities exist. The straight-through configuration means that the ship is well suited for carrying large, bulky piece goods, as well as the usual containerized freight. 
+
+With long hauls in mind, the ship's accommodations tend to be well-appointed, though not necessarily luxurious. In a standard configuration the living area has a galley, lounge, and eight staterooms (capable of accommodating up to 16 human-sized sentients in somewhat cramped quarters but reasonable comfort). Not only does this living space permit the operation of combined freight/passenger service, but it greatly increases crew efficiency on long runs (allowing for carrying of relief crews and proper downtime).
+
+As frontier operations often mean limited maintenance facilities, the Wanderer is built rugged and reliable. The hull is overbuilt for many civilian applications, made to take rough landings, micrometeor impacts, and other physical punishment. And with the possible threat of piracy in mind, even stock configurations are fitted with shields and a credible armament of two twin laser turrets.
+
+Though quick in hyperspace, the Wanderer is slow at sublight. When selecting engines, SubPro opted for high fuel efficiency, long life-cycles, and easy maintenance over brute thrust.
+
+<pre>
+Craft ........ SubPro Wanderer Mk II
+Type ......... Frontier Merchant       Cargo capacity ......... 150 metric tons 
+Scale ........ Starfighter           Consumables ............ 2 months
+Length ....... 40 meters             Hyperdrive Multiplier .. x1.5
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x18
+Crew ......... 2 to 6                Nav Computer ........... Yes
+Passengers ... 10                    Maneuvreability ........ 1D
+Hull ......... 187                   Space Movement ......... 30
+Shields ...... 36                    Atmosphere ............. 300, 600kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  400,  Focus:  20,  Passive:  100
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (4 filled)
+ 
+Stock Weapons:
+     Four Laser Cannons (fire separately):
+      Weapon Rating .... Class 4        Damage ........ 5D
+      Fire Arc ......... 2FR, 2 Turret  Fire Control .. 2D+2
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 180000 cr             BASE COST USED: 46800 cr              
+SUGGESTED DOWNPAYMENT: 108000 (new), 28080 (used)</pre>
+
+[[Category:Starships]]
+[[Category:SubPro Ships]]

@@ -1,0 +1,12 @@
+TITLE: Template:Plotinfobox
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-04-29T20:05:26Z
+======================================================================
+<table width="200" style="float:right; border-style:solid; text-align:left;">
+<tr><td colspan=2 style="background-color:gray;text-align:center;font-size:10">'''{{{title}}}'''</td></tr>
+<tr><td colspan=2 style="text-align:left;">{{{synopsis}}}</td></tr>
+<tr><th>Date</th> <td>{{{date}}}</td></tr>
+<tr><th>Characters Involved</th> <td>{{{participants}}}</td></tr>
+<tr><th>Locations</th> <td>{{{locations}}}</td></tr>
+<tr><th>Ran by</th> <td>{{{author}}}</td></tr>
+</table>

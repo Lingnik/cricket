@@ -1,0 +1,11 @@
+TITLE: User talk:Phyl2k
+NAMESPACE: 3 (User_talk)
+LAST_EDIT: 2006-03-22T14:47:45Z
+======================================================================
+=== Tips to Wiki-speaking ===
+
+There is a hierarchy to headers in Wikispeak/code. Just like HTML has <nowiki><h1>, <h2></nowiki>, and so forth for its markup of headers, Wikispeak uses these '''=''' as the header demarkations. Two of them is a primary header: <nowiki> == Primary Header == </nowiki>... Three of them is a secondary header: <nowiki> === Secondary Header === </nowiki>... Four of them constitutes a tertiary header: <nowiki> ==== Tertiary Header ==== </nowiki> ... and so on, and so forth.
+
+You'll pick up the hang of this pretty quick. Just examine other pages here (by tapping the EDIT tab to view the internal code structure, and then going BACK on your browser, or then tapping the ARTICLE tab to return without making any changes) to get the latest on techniques.
+
+Feel free to erase this comment block once you understand it. Best of luck and welcome to the team. -- [[User:Hawke|Hawke / Rtufo]] 07:50, 22 March 2006 (UTC)

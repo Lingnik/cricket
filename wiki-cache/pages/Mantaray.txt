@@ -1,0 +1,52 @@
+TITLE: Mantaray
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2010-12-29T16:33:35Z
+======================================================================
+[[Image:mantaray.gif]]
+
+The '''aeMk.7 Mantaray''' was the backbone of the [[Griffon Alliance|Griffon]] interstellar force. It utilized a unique, organic-looking, unibody shell with a form that leant to natural maneuverability and adeptness in both atmosphere and vaccuum. It was packed with technological wizardry, and relied heavily upon a complex onboard power distributor and computer guidance system. They were incredibly expensive, and difficult to repair, but when in the hands of well-trained pilots, they made for formidable fighters.
+
+Fabrication of the basic shell was simple enough &ndash; the lower half, or "shoe", was cast and pressed in a factory from alloy sheets, and then components were fused and outfitted into its interior. Once the internals were in place, the upper half, or "cap", was cast and pressed as well, and then fused onto the shoe. This effectively closed the body up, and made everything very compact and streamlined, but made upgrade and repair nearly impossible. This construction methodology was in stark contrast to AEC's line of cargo ships, but appealed to the likes of a Griffon military that didn't have extensive ranks of qualified maintenence personnel or vast supplies of components.
+
+A single pilot commanded the fighter, aided by an elaborate flight coordination computer directly behind the seat. The '''Remote Control Coordination Computer''' wasn't so much there to affect the flight of the Mantaray as it was to act as a booster in the coordination of [[Stingray|arMk.13 Stingray]] remote-controlled craft, that would be frequently accompanying Mantarays on missions. Signals would be broadcast from a Griffon capital ship and relayed and coordinated through any Mantarays in the area. Through the use of this computer, a Mantaray pilot not otherwise occupied with combat could put his Mantaray on autopilot and control Stingrays remotely. It made for a very effective weapon system, albeit highly complex. A Mantaray could have the '''RCCC''' (also called the RC-cubed or "cube") removed and the space taken by a second seat for use as a trainer or civilian craft. 
+
+In the employ of Griffon forces, the Mantaray has a feared reputation among those that oppose them. It operates in ghostly efficiency, sporting acute sensor systems ruthlessly effective weapons load-outs. An emerging tactic of the Griffon Navy was to use Mantarays as the silent spearhead to a close-behind phalanx of heavier ships.
+
+<pre>
+Craft ........ AEC - Mantaray  
+Type ......... Superiority Fighter   Cargo Capacity ......... None 
+Scale ........ Starfighter           Consumables ............ 1 week
+Length ....... 12 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1 (2 with mod)        Nav Computer ........... Yes
+Passengers ... None                  Maneuverability ........ 4D 
+Hull ......... 138                   Space Movement ......... 100 
+Shields ...... 72                    Atmosphere ............. 370; 1010kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  400,  Focus:  20,  Passive:  100
+ 
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 8 total (4 permanently filled)
+ 
+Stock Weapons:
+    Four Heavy Laser Cannons (linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Cannon         Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+ 
+BASE COST NEW: 385000 cr             BASE COST USED: 32000 (no RCCC)              
+SUGGESTED DOWNPAYMENT: 80800 (new), 19200 (used)</pre>
+
+----
+
+<br clear=all>
+{| style="margin:0 auto;" align=center width=75% class="toccolours"
+|align=center| '''[[Mantaray|''AEC Mantaray'']]'''
+|-
+|align=center| Notorious squadrons : ''[[Shadow Eagles Squadron]]''
+Independent owned : ''[[Furious Storm]]''
+|}
+[[Category:Starfighters]]
+[[Category:AEC Ships]]
+[[Category:GriffonMil Restricted Ships]]

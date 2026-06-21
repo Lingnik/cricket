@@ -1,0 +1,20 @@
+TITLE: T2-B Light Tank
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2016-05-14T17:29:30Z
+======================================================================
+The '''T2-B repulsor tank''' is a light attack tank used by the New Republic. Properly a reconnaissance vehicle, it is well armored for a repulsor craft and its shield generator makes it highly resistant to small arms and even anti-light armor weapons, while its rapid-firing light blaster cannons make quick work of hostile infantry. These qualities see the T2-B frequently deployed in support of infantry platoons. 
+[[File:T2-B.jpg|thumb|220x220px]]
+ Vehicle ... T2-B Light Repulsor Tank
+ Type ...... Reconnaissance Tank          Cargo Capacity ... 10kg
+ Scale ..... Speeder                      Movement ......... 40 (120 kmh)
+ Length .... 12 meters                    Maneuver ......... 2D
+ Height .... 2 meters                     Body Strength .... 3D+2
+ Skill ..... Ground Vehicle Operation     Shields .......... 1D+1
+ Cover ..... Full                         Crew ............. 2 (1 Gunner)
+                                          Passengers ....... 0
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *Four Light Repeating Blasters (Fire-linked)
+       Range ... 50-300m/800m/1.5km       Damage ........ 3D+2
+       Fire Arc: Turret                   Fire Control... 3D+1
+       Crew .... 1

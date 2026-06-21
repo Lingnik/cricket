@@ -1,0 +1,41 @@
+TITLE: Template:IGNpost
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-10-27T04:51:35Z
+======================================================================
+<table class="infobox" width="200">
+<tr><td width="200" align="center" colspan="2">
+<small>An Intergalactic News Post by</small><br>
+'''{{{author}}}'''
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left" width="60">
+'''Date'''
+</td>
+<td align="left" width="140">
+{{{date}}}
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left">
+'''Topic'''
+</td>
+<td align="left" valign="top">
+{{{topic}}}
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left" valign="top">
+'''Anchors'''
+</td>
+<td align="left">
+{{{anchors}}}
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left" valign="top" colspan="2">
+''Read more news at [[IGN Posts]]''
+</td></tr>
+</table>
+
+<h2 style="color: {{{color}}};">{{{headline}}}</h2>
+
+:''<font style="color: #777777;">{{{synopsis}}}</font>''
+<br><includeonly>[[Category:InterGalactic News Reports|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Templates|IGNpost]]</noinclude>

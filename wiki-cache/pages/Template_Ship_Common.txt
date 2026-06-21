@@ -1,0 +1,101 @@
+TITLE: Template:Ship Common
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-09-11T19:31:18Z
+======================================================================
+<table width="280" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="280" align="right" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="280" align="center" valign="top" colspan="2">{{{image}}}</td></tr>
+<tr style="font-family: Arial; font-size: 10pt; color: #bfbfbf;">
+<td width="280" align="center" valign="top" bgcolor="#00424a" colspan="2"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="80" align="left" valign="top">Type:</td>
+<td width="200" align="left" valign="top">{{{type}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Scale:</td>
+<td align="left" valign="top">{{{scale}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Manufacturer:</td>
+<td align="left" valign="top">{{{manuf}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Sim Status:</td>
+<td align="left" valign="top" colspan="3">{{{status}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Statistics & Specifications</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Length:</td>
+<td align="left" valign="top">{{{length}}} meters</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Landing Cap:</td>
+<td align="left" valign="top">{{{land}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Crew:</td>
+<td align="left" valign="top">{{{crew}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Accommodation:</td>
+<td align="left" valign="top">{{{pass}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Cargo Cap:</td>
+<td align="left" valign="top">{{{cargo}}} metric tons</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Consumables:</td>
+<td align="left" valign="top">{{{consume}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Hyperdrive:</td>
+<td align="left" valign="top">Primary- {{{hyper1}}} | Backup- {{{hyper2}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Space Speed:</td>
+<td align="left" valign="top">{{{space}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Manuverability:</td>
+<td align="left" valign="top">{{{manuv}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Sensors, Detection, & Ranging</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top" colspan="2">Standard: {{{sensor-standard}}} | Focus: {{{sensor-focus}}} | Passive: {{{sensor-passive}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Combat Capabilities</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Hull:</td>
+<td align="left" valign="top">{{{hull}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Shields:</td>
+<td align="left" valign="top">{{{shields}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" align="left" valign="top">Gunnery:</td>
+<td width="300" align="left" valign="top" colspan="2">{{{gunnery}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="80" align="left" valign="top">Launch Tubes:</td>
+<td width="200" align="left" valign="top" colspan="4">{{{launchers}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="80" align="left" valign="top">Tractor Beams:</td>
+<td width="200" align="left" valign="top" colspan="4">{{{tractor}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="280" align="center" valign="top" bgcolor="#e1d7c3" colspan="2"><b>Additional Resources</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Full Stat Sheet:</td>
+<td align="left" valign="top">{{{statsheet}}}</td>
+</tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Ship Common]]</noinclude>

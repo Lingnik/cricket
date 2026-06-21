@@ -1,0 +1,78 @@
+TITLE: Carrack-class Light Cruiser/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-04T13:24:28Z
+======================================================================
+{{Statsheet ship|Carrack-class Light Cruiser}}
+
+=== '''D-Space''' ===
+<pre>
+Craft ........ Damorian Manufacturing's Carrack
+Type ......... Light Cruiser          Cargo Capacity ......... 3500 metric tons
+Scale ........ Capital                Consumables ............ 1 year
+Length ....... 350 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Capital Ship Piloting  Hyperdrive Backup ...... x12
+Crew ......... 1,092                  Nav Computer ........... Yes
+Passengers ... 142 (Troops)           Maneuverability ........ 2D
+Hull ......... 1122                   Space Movement ......... 80 
+Shields ...... 216                    Hangar Space ........... 275
+Can Land? .... Yes
+
+Sensors ...... Normal:  1200,  Focus:  40,  Passive:  300
+
+[Note: Ship carries 4 recon TIEs on external rack.]
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 61 total (35 filled)
+
+Stock Weapons:   
+  Ten Heavy Turbolaser Batteries:
+     Weapon Rating .... Type 1           Damage ........ 7D
+     Fire Arc ......... 2FR, 3L, 3R, 3B  Fire Control .. 1D
+     Space Range ...... 3-15/35/75       Atmo Range .... 3-15km/35km/75km
+  Twenty Laser Cannons (fire separately):
+     Weapon Rating .... Type 5           Damage ........ 2D
+     Fire Arc ......... 4FR, 4L, 4R, 4B  Fire Control .. 3D
+     Space Range ...... 1-3/12/25        Atmo Range .... 100-300m/1.2km/2.5km
+  Five Tractor Beam Projectors:
+     Weapon Rating .... Class 1          Damage ........ 4D
+     Fire Arc ......... 1FR, 2L, 2R      Fire Control .. 2D
+     Space Range ...... 1-5/15/30        Atmo Range .... 1-5km/15km/30km
+
+BASE COST NEW: 4250000 cr            BASE COST USED: 1190000 cr            
+SUGGESTED DOWNPAYMENT: 2550000 (new), 714000 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: Imperial Sourcebook''
+ Craft ........ Damorian Manufacturing's Carrack
+ Type ......... Light Cruiser          Cargo Capacity ......... 3500 metric tons
+ Scale ........ Capital                Consumables ............ 1 year
+ Length ....... 350 meters             Hyperdrive Multiplier .. x1
+ Pilot Skill .. Capital Ship Piloting  Hyperdrive Backup ...... x12
+ Crew ......... 1,092                  Nav Computer ........... Yes
+ Passengers ... 142 (Troops)           Maneuverability ........ 2D
+ Hull ......... 5D                     Space Movement ......... 80 
+ Shields ...... 2D+2                   Hangar Space ........... 275
+ Can Land? .... Yes
+ 
+ Sensors ...... Normal:  1200,  Focus:  40,  Passive:  300
+ 
+ [Note: Ship carries 4 recon TIEs on external rack.]
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 61 total (35 filled)
+ 
+ Stock Weapons:   
+   Ten Heavy Turbolaser Batteries:
+      Weapon Rating .... Type 1           Damage ........ 7D
+      Fire Arc ......... 2FR, 3L, 3R, 3B  Fire Control .. 1D
+      Space Range ...... 3-15/35/75       Atmo Range .... 3-15km/35km/75km
+   Twenty Laser Cannons (fire separately):
+      Weapon Rating .... Type 5           Damage ........ 2D
+      Fire Arc ......... 4FR, 4L, 4R, 4B  Fire Control .. 3D
+      Space Range ...... 1-3/12/25        Atmo Range .... 100-300m/1.2km/2.5km
+   Five Tractor Beam Projectors:
+      Weapon Rating .... Class 1          Damage ........ 4D
+      Fire Arc ......... 1FR, 2L, 2R      Fire Control .. 2D
+      Space Range ...... 1-5/15/30        Atmo Range .... 1-5km/15km/30km
+ <br>
+[[Category:Stat Sheets]]

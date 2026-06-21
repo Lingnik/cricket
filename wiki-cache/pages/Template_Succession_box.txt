@@ -1,0 +1,8 @@
+TITLE: Template:Succession box
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2005-12-10T04:20:38Z
+======================================================================
+|-  style="text-align: center;"
+| width="30%" |Preceded by:<br />'''{{{before}}}'''
+| width="40%" |'''{{{title}}}'''<br />{{{years}}}
+| width="30%" |Succeeded by:<br />'''{{{after}}}'''

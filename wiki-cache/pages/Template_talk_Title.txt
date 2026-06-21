@@ -1,0 +1,12 @@
+TITLE: Template talk:Title
+NAMESPACE: 11 (Template_talk)
+LAST_EDIT: 2007-04-04T02:57:30Z
+======================================================================
+Why can't I get this to work? :( Freaking Wookieepedia. --[[User:Danik Kreldin|Danik Kreldin]] 23:45, 3 April 2007 (UTC)
+*Because you need to implement the title replacement javascript in MediaWiki:Common.js. -- [[User:Xerxes|Xerxes]] 02:02, 4 April 2007 (UTC)
+**Know how to do that? ;p --[[User:Danik Kreldin|Danik Kreldin]] 02:09, 4 April 2007 (UTC)
+***Javascript really isn't my area of expertise, but I'll take a look. -- [[User:Xerxes|Xerxes]] 02:15, 4 April 2007 (UTC)
+***Seeing as I just blatanly copied Wookieepedia's javascripts, it should work now. -- [[User:Xerxes|Xerxes]] 02:40, 4 April 2007 (UTC)
+****Hmm, no luck. Check [[I2SD Conqueror]].. added the title template there, nothing changed. --[[User:Danik Kreldin|Danik Kreldin]] 02:53, 4 April 2007 (UTC)
+*****Try refreshing the page with CTRL+F5. It works for me. -- [[User:Xerxes|Xerxes]] 02:56, 4 April 2007 (UTC)
+******Bah. There we go ;) Thanks a lot, Xerxes. --[[User:Danik Kreldin|Danik Kreldin]] 02:57, 4 April 2007 (UTC)

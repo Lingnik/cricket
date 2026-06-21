@@ -1,0 +1,12 @@
+TITLE: Template:Succession
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-02-14T02:31:10Z
+======================================================================
+<br clear="all" /><div align="center">
+{| style="background-color: #eee; border: 1px solid #ddd; margin: 0 0 1em 1em; width: 40em; border-collapse: collapse; text-align: center;"
+|- 
+! colspan="3" style="width: 100%; background-color: {{{color}}};" |{{{title}}}
+|-
+| style="width: 30%; border: 1px solid #ddd; border-collapse: collapse; font-size: 8pt;"|Preceded By:<br /><font style="font-size: 9pt; font-family: Arial;">{{{before}}}</font>|| style="width: 40%; border: 1px solid #ddd; border-collapse: collapse; font-size: 8pt;"|{{{time}}}<br /><font style="font-size: 9pt; font-family: Arial;">'''{{PAGENAME}}'''</font>|| style="width: 30%; border: 1px solid #ddd; border-collapse: collapse; font-size: 8pt;"|Succeeded By:<br /><font style="font-size: 9pt; font-family: Arial;">{{{after}}}</font>
+|}
+</div><noinclude>[[Category:Templates|Succession]]</noinclude>

@@ -1,0 +1,18 @@
+TITLE: Gaderffi
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-03-10T07:43:22Z
+======================================================================
+'''Gaderffii''', also known as gaffi sticks, are the dangerous bladed weapons 
+wielded by Tatooine's fearsome [[Tusken Raiders|Sand People]] (Tusken Raiders).  The simple 
+design consists of a hollow durasteel tube with a cutting blade affixed on one
+end and a weighted club or a second blade attached to the other end.  The 
+double-edged ax blades are sharpened to a razor's edge, and the primary blade
+often has a spike used for spearing attacks.
+<pre>
+Name................Gaderffi Stick
+Weapon Type.........Melee Weapon             Weight..............3kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............1D+0
+Conceal Difficulty..26                       Two-Handed..........Yes</pre>
+
+[[Category:Melee]]

@@ -1,0 +1,5 @@
+TITLE: Template:Title diff
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-11-09T15:54:47Z
+======================================================================
+<includeonly><div class="firstHeading" style="font-size: 188%; padding-top: 0.5em; padding-bottom: 0.17em; float: left; position: absolute; left: 0.5em; top: 0%; width: 98%; background-color: #ffffff;">{{{1|{{PAGENAME}}}}}</div></includeonly><noinclude>'''Important!''' - Use this template only when necessary. If wiki-staff decides to change the skin colors of the wiki, this '''background-color''' attribute ''must'' change as well! [[Category:Templates|Title diff]]</noinclude>

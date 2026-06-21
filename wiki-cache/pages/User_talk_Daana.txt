@@ -1,0 +1,146 @@
+TITLE: User talk:Daana
+NAMESPACE: 3 (User_talk)
+LAST_EDIT: 2023-04-06T02:53:50Z
+======================================================================
+''Sandbox Page to tweak the following article without destroying the current work. Also going to add rules and similar things that might NOT YET be approved GSL policy and need to be voted on. Might eventually replace the [[GSL]] page or be discarded.''
+----
+
+
+_____________________                             
+    __  ____/_  ___/__  /                             
+    _  / __ _____ \__  /                              
+    / /_/ / ____/ /_  /___                            
+    \____/  /____/ /_____/
+== Overview ==
+The '''Galactic Swoop League (GSL)''' is the largest professional [[Swoop_Racing|swoop racing]] league in the known [[The_Galaxy|galaxy]].  From Marin Mountain on [[Caspar]] to the Titiana Track on [[Etti IV]], the GSL sanctions races at tracks on planets across the slice.  A popular entertainment for beings from every level of galactic society, GSL events offer fans the most exciting races featuring the best racers in the sport.
+
+== Rules / Policies ==
+The league is governed by a board of directors elected from the most influential track and team owners in the sport.  This board sets down the racing policies and rules that govern officially sanctioned races.
+
+* The use of weapons on swoops is not condoned.
+* No interference with other racers, like ramming, blocking or sabotaging rival swoops.
+* No intentional harm to spectators, track, installations or wildlife used on the tracks.
+* To receive GSL approval, a track must offer at least six sections of varying difficulty.
+
+====Grade Scale====
+
+Eligible [[Swoop|swoops]] are divided in three grades for competition. These grades are dependent on the swoop type and total class of the modifications installed on the swoop. The following table represents the maximum and minimum upgrade classes in a swoop nessesary to qualify it for a certain GSL Grade.
+
+{| border=1 style="border: 1px solid #aaa;margin: 0 1em 1em 0;border-collapse: collapse;"
+|- style="text-align:center; font-size: larger; background-color:#cc0033; color:#ffffff;" 
+|style="padding:0 1em 0 1em;border-top: 0;" rowspan=2|'''GSL Grade'''
+|colspan=3| '''Swoop'''
+|- style="padding: 0 1em 0 1em; border: 1px solid #aaa; text-align:center; font-size: larger; background-color:#cc0033; color:#ffffff;" 
+|'''Light'''||'''Medium'''||'''Heavy'''
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 1
+|style="padding:0 1em 0 1em;" |Class 0-6
+|style="padding:0 1em 0 1em;" |Class 0-9
+|style="padding:0 1em 0 1em;" |Class 0-9
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 2
+|style="padding:0 1em 0 1em;" |Class 7-12
+|style="padding:0 1em 0 1em;" |Class 10-18
+|style="padding:0 1em 0 1em;" |Class 10-18
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 3
+|style="padding:0 1em 0 1em;" |Class 13-18
+|style="padding:0 1em 0 1em;" |Class 19-27
+|style="padding:0 1em 0 1em;" |Class 19-27
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 4
+|style="padding:0 1em 0 1em;" |Class 19-24
+|style="padding:0 1em 0 1em;" |Class 28-36
+|style="padding:0 1em 0 1em;" |Class 28-36
+|}
+
+The Class of the swoop is determined by the components installed. Each swoop has a level 1 of the following component build in in it's stock variant: 
+* Fuel Injectors
+* Thrust Coils
+* Cooling
+* Airbreaks
+* Traction
+* Steering
+
+If one of the components is replaced by a higher level component (2-6) then this modification level is added to it's class rating, that is standard class 0.
+
+E.g.: A stock swoop (regardless of type) is class 0. If the Airbreaks are upgraded to level 2, it's class is 2. If steering is upgraded to level 6 additionally, it's class is 8.
+
+Weight Reduction is not a component, but a Modification and does not count into the class of the swoop.
+
+== Swoop Tracks ==
+Current GSL sanctioned race tracks:  
+* Marin Mountain Resort Swoop Track, [[Caspar]]
+* Titiana Track, [[Theseus Station]] ([[Etti IV]])
+* Reckless Abandon Swoop Arena, [[Corellia]]
+* Flipside - Classic Track, [[Nar Shaddaa]]
+* Memorial Stadium Racing Track, [[Athaniss]]
+
+
+== Members ==
+Current active members of the GSL Board are 
+* [[Ayam Kor]] 
+* [[Danik Kreldin]]
+* [[Kartijan Lore]]
+* [[Daana Roon]]
+* [[Moralis Rodriga]]
+
+==== Inactive Members ====
+* Dannitara
+* [[Doril_Farnsworth|Doril "Korbel" Farnsworth]]
+* [[Naota Nandaba]]
+* [[Kiare Quinn]]
+* [[Ernest Pallando]]
+* [[Simone Drake|Simone "Piper" Drake]]
+* [[Elana Tracer]]
+
+====Staff====
+* Doc Farrel - Doctor
+
+== Racing Guidelines ==
+In general, swoops and riders must be registered before the start of the swoop event. There may be serveral heats run per swoop event, but only the first heat score per racer (swoop + rider) will be recognized for competition status. Score records are kept based on the rider, team and racing grade.
+
+====Anatomy of a Swoop Race====
+At the start of the heat, all racers are at the starting blocks and there is a perception check to determine the race order. The heat begins with the lowest perception going first. After all the racers have gone for the section, the section results are announced and the race moves onto the next section.
+
+The basic flow per racer per section is pose, rolls, pose. The opening pose MUST specific thrust level of the bike and which path the racer will be taking.  Then +s/thrust # followed by the required number of maneuvering rolls (+s/output man) and velocity (+s/output vel). The final pose reflects the results of the rolls.
+
+The Swoop Race Units (SRUs) are based on velocity rolls and bonus points for meeting the maneuvering chllanges of difficult paths. Racers are competing within their grade level for the highest SRU.
+
+Rolls may be boosted with +check/boost GVO, the rider must leave the swoop and identify which roll to apply the boost to before boosting. The boost amount (not +check total) will be added to the regular +s/output roll of the racer.
+
+====Example of a race====
+=====0. Setting Phase=====
+''All swoopers pose their arrival at the track so SwoopRaceMan knows all are ready to begin. They also use '''+s/check Perception''' to determine in which order they will pose.''
+''Swooper 1'': Swooper 1 pilots his swoop into the starting rack, letting it be fixed in place and readied for the heat. He put his thumb up to signal he is ready.
+CHECK: Swooper 1 , piloting the Swoop A, rolls a 11 for his Perception skill.
+
+''Swooper 2'': Swooper 2 is set in the starting block. Her swoop hums as she revvs the engine once and then leans low, awaiting the start of the race.
+CHECK: Swooper 2, piloting the Swoop B, rolls a 9 for her Perception skill.
+
+''SwoopRaceMan'': Welcome to the Race Track. Swooper 1 and Swooper are racing today and will compete for the 1st place in Grade 1. We get the signal of the race track officals and the lights turn Red, red, red, green and the swoops drop from their racks.
+
+=====A. 1. The 'What I want to do'-pose=====
+''The first swooper signals what he wishes to do: What Thrust level he wishes to set and which Tube he wishes to take, and which rolls he intends to boost, if any''
+
+''Swooper 2'' : Droping from the racks, Swooper 2 pushes the throttle to the max and aims her swoop for the shortes, but hardest tube.
+
+=====A. 2. Rolls=====
+''Depending on the tube choosen two or more rolls are being made to see if the Difficulties can be beaten by the swooper. There are two types: Meneuvering difficulties (signaled by a number and a small m. e.g.: 20m) and Velocity difficulties (signaled by a number and a small v. e.g.: 15v).
+
+'''+s/thrust 10'''
+
+THRUST: Swooper 2, piloting Swoop B, changes thrust to 10.
+
+'''+s/output man'''
+
+OUTPUT: Swoop B outputs 5 for maneuverability, and Swooper 2 rolls 14 for her piloting, for a total of 19. (MANEUVERING)
+
+'''+s/output vel'''
+
+OUTPUT: Swoop B outputs 15 for velocity, and Swooper 2 rolls 24 for her piloting, for a total of 39. (VELOCITY)
+
+''In this case the difficulty of the tube has not been passed. Swoop B only succeeded to roll a 19 instead of the 20 needed, and takes 1 point damage, that is tallied and subtracted from it's speed. The 15v is high enough, no additional damage is accumulated, but since the maneuver failed neither is the bonus the tube might have granted given, and instead the damage is deducted from the roll. 39 - 1 = 38 SRU. (Swoop/Speed Race Units) ''
+
+=====A. 2. Result Pose=====
+''To be continued...''

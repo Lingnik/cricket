@@ -1,0 +1,15 @@
+TITLE: Mandalorian Saber
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-26T00:38:42Z
+======================================================================
+A long elegantly tapering blade, this saber is double edged, the end a sharp point, the metal finely tempered by a master swordsmith. The two-handed hilt's handguard is a swirl of finely spun metal, weaving a bright tapestry of designs over the hand holding it. It is perhaps recognizable to some as an ancient Mandalorian weapon, its craftsmanship unparalleled, its weight and balance unsurpassed, its beauty innate.
+
+Weapon Stats:
+weight:             2 kgs.
+conceal:            12
+damage type:        melee
+damage:             STR+4D+0
+can stun?:          no
+two-handed?:        yes
+
+[[Category:Weapons]]

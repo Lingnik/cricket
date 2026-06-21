@@ -1,0 +1,58 @@
+TITLE: Template:Battle
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-30T01:41:23Z
+======================================================================
+{| class="toccolours" border="1" cellpadding="4" style="font-size: 8pt; float: right; margin: 0 0 1em 1em; width: 300px; border-collapse: collapse; clear: right;"
+|-
+| colspan="2" |'''Previous battle''': {{{prev}}}
+|-
+| colspan="2" |'''Next battle''': {{{next}}}
+|-
+!colspan="2" style="text-align: center; background:#b2b09f"|'''{{{name}}}'''
+|-
+|colspan="2" style="font-size: 90%; text-align: center;"|{{{image}}}
+|-
+| colspan="2" |'''Conflict''': {{{conflict}}}
+|-
+| colspan="2" |'''Date''': {{{date}}}
+|-
+| colspan="2" |'''Place''': {{{place}}}
+|-
+| colspan="2" |'''Outcome''': {{{result}}}
+|-
+!colspan="2" style="text-align: center; background:#b2b09f"|Combatants
+|-
+|width="50%"| <center><small>
+{{{side1}}}
+</small></center>
+|width="50%"| <center><small>
+{{{side2}}}
+</small></center>
+|-
+!colspan="2" style="text-align: center; background:#b2b09f"|Commanders
+|-
+|width="50%"| <small>
+{{{commanders1}}}
+</small>
+|width="50%"| <small>
+{{{commanders2}}}
+</small>
+|-
+!colspan="2" style="text-align: center; background:#b2b09f"|Strength
+|-
+|width="50%"| <small>
+{{{forces1}}}
+</small>
+|width="50%"| <small>
+{{{forces2}}}
+</small>
+|-
+!colspan="2" style="text-align: center; background:#b2b09f"|Casualties
+|-
+|width="50%"| <small>
+{{{casual1}}}
+</small>
+|width="50%"| <small>
+{{{casual2}}}
+</small>
+|}<noinclude>[[Category:Templates|Battle]]</noinclude>

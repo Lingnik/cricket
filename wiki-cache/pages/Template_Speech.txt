@@ -1,0 +1,23 @@
+TITLE: Template:Speech
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-27T14:04:01Z
+======================================================================
+{| border="1" cellpadding="0" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; font-family: Arial; font-size: 8pt; clear: right"
+|-
+||
+{| border="0" width="304px" cellpadding="2" cellspacing="0" style="float: right; margin: 0 0 0 0; border-collapse: collapse; clear: right"
+|-
+!colspan="2" bgcolor="#ffee99"|{{{name}}}
+|-
+|width="0%" bgcolor="#f9f9f9"|Author
+||{{{Author}}}
+|-
+|bgcolor="#f9f9f9"|Date
+||{{{date}}}
+|-
+|bgcolor="#f9f9f9"|Place
+||{{{place}}}
+|-
+
+|}
+|}<noinclude>[[Category:Templates|Speech]]</noinclude>

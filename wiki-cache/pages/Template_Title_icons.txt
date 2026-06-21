@@ -1,0 +1,25 @@
+TITLE: Template:Title icons
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2023-08-08T03:45:34Z
+======================================================================
+<includeonly><div id="title-icons" style="float: right; display:none">{{title icon|{{{1|}}}}}{{title icon|{{{2|}}}}}{{title icon|{{{3|}}}}}{{title icon|{{{4|}}}}}{{title icon|{{{5|}}}}}</div></includeonly><noinclude>
+
+==Usage instructions==
+Add <nowiki>{{title icons}}</nowiki> to the top of the article page.
+<pre><nowiki>
+{{title icons|}}
+</nowiki></pre>
+
+The following variables may be used:
+*'''approved''' - Reviewed and approved by MUSH staff
+*'''cdu''' - [[Caspian Democratic Union]]-related
+*'''csa''' - [[Corporate Sector Authority]]-related
+*'''imp''' - [[Galactic Empire]]-related
+*'''nr''' - [[New Republic]]-related
+
+==Example==
+<pre><nowiki>
+{{title icons|approved|imp|nr}}
+</nowiki></pre>
+
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

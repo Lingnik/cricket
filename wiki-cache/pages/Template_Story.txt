@@ -1,0 +1,25 @@
+TITLE: Template:Story
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-17T20:51:11Z
+======================================================================
+{| class="infobox" style="float: right; border:1px solid #426384; margin: 0em 0em 0.5em 1em;border-collapse:collapse;font-size: 8pt; font-face: Arial;padding:0 0 0 0;"
+|-
+|colspan="2" style="text-align: center;background: #426384;color: #ffffff;padding:0.5em 1em 0.5em 1em"|A story by<br/>'''{{{author}}}'''
+|-
+|style="width: 0;padding:0 1em 0 0.5em;text-align: left;"|'''Date:'''
+|style="padding:0 0.5em 0 0"|{{{date}}}
+{{#if:{{{characters|}}}|
+{{!}}-
+{{!}}style="width: 0;padding:0 1em 0 0.5em;text-align: left;"{{!}}'''Characters:'''
+{{!}}style="padding:0 0.5em 0 0"{{!}}{{{characters}}}
+}}
+|-
+|}
+:''<font style="color: #777777;">{{{synopsis}}}</font>''
+<br/>
+<includeonly>
+{{title|{{{title|{{PAGENAME}}}}}}}
+[[Category:Stories|{{PAGENAME}}]]
+</includeonly><noinclude>
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

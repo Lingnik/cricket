@@ -1,0 +1,177 @@
+TITLE: Space
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-03-20T16:19:20Z
+======================================================================
+Space travel, role-playing and combat on Star Wars MUSH uses a custom designed space system (Dspace) which is based on West End Games's D6 Space system.
+
+Players may wish to use the [[D6 Space Combat Rules|Advanced Space Combat System]], a faithful recreation of the original WEG rules. However this is not required and players may only insist on the system set out below:
+<tabber>
+
+
+|-|Seeing in Space=
+
+Commands that involve the ship's sensors and seeing outside of a starship fall under the '''SCAN''' command.
+
+
+While in the cockpit or control room of any starship, you can type SCAN/HELP for an abbreviated version of the following information: 
+
+
+SCAN...............................................Displays a list of other space objects within scanner range, their transponders, name, location, and distance from you.
+
+SCAN/NORM <TRANS>..................Performs a normal scan on <TRANS>.
+
+SCAN/PASSIVE <TRANS>...............Performs a passive scan on <TRANS>. This is the same as a normal scan except it isn't detectable. Passive scans are short ranged.
+
+SCAN/FOCUS <TRANS>.................Performs a focused scan on <TRANS> giving detailed information about the object being scanned including Docking and Hanger information.
+
+|-|Local Space=
+
+Commands that move a ship within real space fall under the '''NAV''' command 
+
+While in the cockpit or control room of any space vessel, you can type NAV/HELP for an abbreviated version of the following information:
+
+NAV/LOCATION.......................Displays the ship's current location.
+
+NAV/MOVETO <X>,<Y>,<Z>.............Moves the ship to <X>,<Y>,<Z> '''IF''' that location is within a single instance of the ship's movement distance.
+
+NAV/MOVETO <TRANS>.................Moves the ship to the coordinates of <TRANS> '''IF''' that object is within a single instance of the ship's movement distance.
+
+NAV/AUTO TO <X>,<Y>,<Z>............Sets the autopilot to a destination of <X>,<Y>,<Z>.
+
+NAV/AUTO TO <TRANS>................Sets the autopilot to the coordinates of <TRANS>.
+
+NAV/AUTO ON........................Activates the autopilot.
+
+NAV/AUTO OFF.......................Disengages the autopilot early. The autopilot will automatically disengage upon reaching its destination.
+
+|-|Hyperspace=
+
+Commands that move a ship between systems or deal with Hyperspace fall under the '''JUMP''' command
+
+While in the cockpit or control room of any space vessel, you can type JUMP/HELP for an abbreviated version of the following information:
+
+JUMP/DEST <DIST>...................Shows all known valid hyperspace destinations within <DIST>
+
+JUMP/CALC TO <X>,<Y>,<Z>...........Calculates a route from your current system to the system specified by the coordinates.
+
+JUMP/CALC TO <SYSTEM>..............The same as the command above except <SYSTEM>, the name of the system, replaces the coordinates.
+
+JUMP/INFO..........................Displays detailed information about all the jumps stored in the NavComp.
+
+JUMP/DEL <#>.......................Deletes the specified jump.
+
+JUMP <#>...........................Enters the ship into hyperspace using the specified jump number.
+
+JUMP/UNJUMP........................Takes the ship out of hyperspace.
+
+|-|Communications=
+
+COM/CHAN LIST..............................Lists all the COM Channels the ship can maintain and the frequencies currently assigned to them.
+
+COM/CHAN SET <CHAN>=<FREQ>.........Sets channel <CHAN> to <FREQ>.
+
+COM/CHAN <CHAN>=<MESSAGE>..........Sends <MESSAGE> over channel <CHAN>.
+
+COM/RADIO <TRANS>=<MESSAGE>........Sends a tight beam transmission to <TRANS>.
+
+Ships can transmit and receive communications while landed and transmit long range to other systems.
+
+|-|Take-off & Landing=
+
+Commands that deal with take-off, landing in hangars on planets, moons, space-stations and starships and docking fall under the '''MAN''' command
+
+MAN/TAKEOFF..............................................Moves the ship out of a hangar or off a landing pad, and into real space.
+
+MAN/LAND ON <Transponder>/<Hangar> <Code>................Lands the ship on the designated hangar or  landing pad.
+
+''Note: If not specified, any hangar labelled PUBLIC will be used.''
+
+MAN/DOCK WITH <Transponder>/<Tube> <Code> WITH <Tube> ...Docks with <Transponder>. 
+
+''Note: If tubes and codes are not specified, the NORMAL tube will be used.''
+
+MAN/UNDOCK <TUBE>........................................Undocks the specified tube. If unspecified, the NORMAL tube will be used.
+
+|-|Space Combat=
+
+Commands which deal with the coded Space Combat system fall under the '''CBT''' command.
+
+CBT/INIT WITH <Trans>......... Requests a new Battle Grouping with <Transponder>.
+    Once a Battle Grouping is established, attacking and defending can take place in space combat.
+
+CBT/ACCEPT.................... Accepts an invitation into a Battle Group.
+
+CBT/INVITE <Trans>............ Invites <Transponder> into an already established Battle Grouping. 
+
+CBT/LEAVE..................... Leaves the current Battle Group established. 
+ 
+CBT/DISPLAY................... Lists all combat groups within Normal scanner range.
+
+        If you are in a combat group, combat shows the ships that are in your grouping, if they are within normal scanner range.''
+
+CBT/STATUS.................... Gives a detailed status report of your ship, and a brief summary of all other ships in the current battle grouping.
+
+CBT/FIRE <Weapon #> at <Transponder>............ Fires specified weapon at <Transponder>. 
+   
+         You must be in a Combat Group with <Transponder>.
+         To see your list of weapons, use CBT/STATUS
+
+CBT/DEFEND <Maneuver>......... Executes the specified maneuver in response to a combat attack. Possible maneuvers are:
+          None
+          Flee
+          Charge
+          Bank+Away
+          Bank+Toward
+          Roll+Away
+          Roll+Toward. 
+
+CBT/SHIELDS................... Raises or lowers the ship's shields.
+
+CBT/SHIELDS REFRESH........... Recovers lost shields. 
+
+CBT/POSE Pose................. Displays a pose to all the people in your current combat grouping.
+                               The pose is prefixed with: <COMBAT> Trans poses: 
+
+CBT/LOG....................... Displays the combat log for the current battle.
+
+CBT/LOG CLEAR................. Clears the current combat log.
+
+|-|Roleplaying=
+
+Commands which deal with role playing outside of combat, taking control of a ship and checking skills fall under '''MISC'''
+
+MISC/POSE <Pose>.............. Displays a pose as the ship for all ships in the same system or people in the same area as the ship.
+        This command works while landed. 
+
+MISC/EMIT <Pose>.............. Much like MISC/POSE, except the pose is not prefaced with the Transponder.
+        In space, the pose is prefaced with <SPACE>.
+        Landed, the pose is prefaced with <SHIP POSE>. 
+
+MISC/PILOT <nowiki><Code></nowiki>............. Takes the main controls of the ship.
+
+MISC/STATUS................... Displays a full readout of the ship and its weaponry. 
+
+MISC/RESCUE DOCK <Trans>...... Establishes a forced dock with <Trans> using both ship's Normal tubes.
+
+MISC/RESCUE LOAD <Trans> USING <Hangar>........... Forces the specified crippled ship into the specified hangar. 
+
+MISC/QUIET.................... Toggles on and off some of the the "spam" such as Autopilot noise.
+
+MISC/CODE <Old Code> TO <New Code>............ Changes the entry and pilot codes of the ship. 
+
+MISC/OOC <Message>............ Sends an Out of Character message to the local system or area
+
+MISC/+CHECK <Skill>........... Displays skill roll to every ship in system, or your location if not in space.
+
+MISC/+CHECK BOOST <Skill>..... Same as previous, but uses a Character Point to boost roll by 2 dice.
+
+MISC/AUTOMESSAGE SET <Msg>.... Sets the OOC Message to be broadcast to ships entering your system.
+
+MISC/AUTOMESSAGE CLEAR........ Clears the Automessage.
+
+MISC/AUTOMESSAGE VIEW......... Displays the ship's current Automessage. 
+
+MISC/TUBE CODES............... Displays a list of the Docking Tubes on the ship and the codes required to use them.
+
+MISC/TUBE CODE <Tube>=<Code>.. Changes the code on the specified tube. 
+</tabber>

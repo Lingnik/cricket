@@ -1,0 +1,65 @@
+TITLE: Mako-class Battlecruiser
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-07-16T07:53:23Z
+======================================================================
+{{title|''Mako''-class Battlecruiser}}
+{{working}}
+
+The '''''Mako''-class Battlecruisers''' were a uniquely-designed class of warship designed by [[AEC Shipyards]] for use by the [[Griffon Armada]]. Until their appearance in late [[10 ABY]], the Armada relied upon warships acquired from defections, extensive reclamations and overhauls, or other dubious methods. 
+
+----
+
+[[AEC Shipyards|AEC]] is well known in the galaxy for designing small crafts. For long, the [[Griffon Alliance|Griffons]] had had no capital ship design of their own; the '''Mako-class''' is AEC's answer to that fact. Three Makos were built secretly before the [[Third Battle of Sluis Van]]. Two perished, struck by the [[Death Star III|Death Star's]] Superlaser. The only Mako known to be still in existence is the [[GSS Gabriel]], figurehead of the [[Griffon Alliance]] Navy.
+
+This ship packs a lot of punch compared to its small size - 500 meters in length and about 400 meters across its beam. It is composed of a large central hub with a bow and stern protrusion off of it. The vessel is armed with forty ion cannons, forty turbolasers, dorsal- and ventral-mounted triple ion gun batteries, ten proton torpedo launchers and a tractor beam projector. This is not a large amount of firepower for such a large ship, and Mako battlecruisers must work together along with [[Mantaray]] fighters and [[Stingray]] attack craft against their enemies. The triple ion gun batteries rotate freely on mountings above and below the central hub, allowing fresh cannons to fire while the others recharge. They have hangar space for three squadrons of starfighters.
+
+Their complement of proton torpedoes gives them good defences against Starfighter attacks.
+
+<pre>
+Craft ........ Mako-class Battlecruiser
+Type ......... Battle Cruiser        Cargo Capacity ......... 20000 metric tons
+Scale ........ Capital               Consumables ............ 3 years
+Length ....... 500 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+Crew ......... 6,705, gunners: 232   Nav Computer ........... Yes
+               skeleton: 1250/+15    Maneuverability ........ 1D
+Passengers ... 500 (Troops)          Space Movement ......... 50
+Hull ......... 1446                  Hangar Space ........... 750
+Shields ...... 162                   Can Land? .............. No
+ 
+Sensors ...... Normal:  700,  Focus:  40,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ......  133 total (97 filled)
+         
+Weapons:  
+Forty Turbolaser Batteries:
+      Weapon Rating .. Type 1A             Damage ........ 5D
+      Fire Arc ....... Turret              Fire Control .. 3D
+      Space Range .... 15/25/75            Atmo Range .... 30km/70km/150km
+Forty-Six Ion Cannons:
+      Weapon Rating .. Type 3              Damage ........ 6D
+      Fire Arc ....... Turret              Fire Control .. 2D+2
+      Space Range .... 1-10/25/50          Atmo Range .. 2-20km/50km/100km
+One Tractor Beam Projector:
+      Weapon Rating .... Class 2           Damage ........ 6D
+      Fire Arc ......... 6FR, 2L, 2R       Fire Control .. 4D
+      Space Range ...... 1-5/15/30         Atmo Range ... 2-10km/30km/60km     
+Ten Proton Torpedo Launchers
+      Weapon Rating .... Standard          Damage ........ 8D
+      Fire Arc ......... 3FR,3L,3R,1B      Fire Control .. 3D+2
+      Space Range ...... 2-12/30/60        Atmo Range .. 4-24km/60km/120km
+
+BASE COST NEW: 5450000 cr            BASE COST USED: 1500000 cr            
+SUGGESTED DOWNPAYMENT: 3270000 (new), 900000 (used)</pre>
+
+<br clear=all>
+{| style="margin:0 auto;" align=center width=75% class="toccolours"
+|align=center| '''[[Mako-class Battlecruiser|''Mako''-class Battlecruiser]]'''
+|-
+|align=center| ''[[GSS Gabriel]]''
+|}
+
+[[Category:AEC Ships]]
+[[Category:Capital Ships]]
+[[Category:GriffonMil Restricted Ships]]

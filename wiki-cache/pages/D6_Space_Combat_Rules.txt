@@ -1,0 +1,638 @@
+TITLE: D6 Space Combat Rules
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-30T22:26:11Z
+======================================================================
+<tabber>
+
+|-|The Combat Round=
+
+A combat round lasts five seconds. Players first determine initiative, then declare the number of actions they will be taking that round and resolve them in initiative order.
+
+*Determine Initiative
+*Declare Actions
+*Resolve Actions
+
+
+=Initiative=
+The participants are divided into 'sides' representing their allegiance in the fight. The character with the highest Sensors skill on each side rolls and the winner decides whether their side acts first or last in that round. (Re-roll in the event of a tie.)
+
+Rolling for initiative does not count as an action.
+
+A character may not spend a Character Point to improve the initiative roll, but [[D6 Space Combat Rules/Combat and Damage|penalties for damage]]) apply.
+
+
+=Multiple Actions=
+
+For each action after the first a character wishes to take in a round, '''all''' checks they make during that round are reduced by -1D. So if a character proposes to take three actions, regardless of what they are, all their actions suffer a -2D penalty.
+
+''Capital Ships are able to fire each of their weapons once without using additional actions, representing their large crews.''
+
+
+|-|Movement=
+
+=Terrain=
+
+Contrary to expectations, space is not always as empty as one might think. Gas nebulae, asteroid fields, cosmic dust clouds, debris fields, busy shipping lanes, gravity wells and unexplained phenomena can all make space travel a dangerous proposition. When determining the difficulty class of the terrain, match the highest difficulty factor. Factors are not cumulative.
+
+''e.g. Piloting a ship through a mass of dog-fighting star fighters in otherwise open space with light debris fields is Difficult terrain.''
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 600px;"
+|-
+! scope="col" style="text-align:left;"|Difficult Class
+! scope="col" style="text-align:right;"|Difficulty Score
+! scope="col" style="text-align:right;"|Example Terrain
+|-
+| style="text-align:left;"| Very Easy
+| style="text-align:right;"| 1D
+|Clear Space. No navigational hazards.
+|-
+| style="text-align:left;"| Easy
+| style="text-align:right;"| 2D
+|In the vicinity of other ships, maneuvering around small obstacles
+|-
+| style="text-align:left;"| Moderate
+| style="text-align:right;"| 3D-4D
+|Crowded space, moderate debris, Death Star's trench run.
+|-
+| style="text-align:left;"| Difficult
+| style="text-align:right;"| 4D-5D
+|Dog-fighting starfighters, significant debris or asteroids.
+|-
+| style="text-align:left;"| Very Difficult
+| style="text-align:right;"| 6D-7D
+|Densely packed ships, debris or asteroids
+|-
+| style="text-align:left;"|Heroic
+| style="text-align:right;"|7D+
+|Almost impossible. The reactor core of the Death Star II. Hoth's asteroid field.
+|}
+
+
+=Speed=
+
+Each ship has a movement value included in its characteristics. A ship may travel at one of four speeds. It may accelerate or decelerate one speed level each turn.
+
+The speed at which a character or vehicle moves, and the terrain it is traversing, determines the difficulty of the skill check.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 800px; height: 300px;"
+|
+|'''Move'''
+|'''Very easy, Easy & Moderate Terrain'''
+|'''Difficult, Very Difficult & Heroic Terrain'''
+|-
+|'''Cautious Movement'''
+|1/2 Move
+|Free Action, no check required
+|Piloting check (Reduce difficulty one level)
+|-
+|'''Cruising'''
+|Full Move
+|Action, no check required
+|Piloting check
+|-
+|'''High Speed'''
+|2x Move
+|Action, Piloting check
+|Piloting check, Increase difficulty one level
+|-
+|'''All Out'''
+|4x Move
+|No other actions, Piloting check, increase difficulty by one level
+|No other actions, Piloting check, Increase difficulty two levels
+|}
+
+
+All-out and High Speed movement take their toll when used for extended periods. 
+
+A ship continuously moving all-out must make a Hull Strength check every 10 minutes.
+A ship continuously moving at high speed must make a Hull Strength check every hour.
+
+The first check difficulty is Very Easy and increases by one level for each subsequent check. If the check is failed, the ship must rest for twice as long as it was moving at high and all-out speed.
+
+If a ship fails its check by 11 or more, it develops a mechanical fault and is unable to move. It must be repaired, requiring one hour of work and a Moderate repair check.
+
+
+=Movement Failures=
+
+A ship which fails a movement roll may have to slow down, spin out of control or even suffer serious harm.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 800px;"
+|-
+! scope="col"|Failed by
+! scope="col"|Result
+! scope="col"|Effect
+|-
+|1-3
+|Slight Slip
+|Complete movement, apply -1D penalty to all actions for the rest of the round.
+|-
+|4-6
+|Slip
+|Move half speed, apply a -3D penalty to all actions for the rest of the round and -1D to all actions next round
+|-
+|7-10
+|Spin
+|Move one-quarter speed. No further actions may be taken this or next round.
+|-
+|11-15
+|Minor Collision
+|Move one-half speed. If there is anything to hit, suffer collision damage reduced by -3D. Otherwise, as Spin.
+|-
+|16-20
+|Collision
+|Move one-half speed. If there is anything to hit, suffer normal collision damage. Otherwise, as Spin.
+|-
+|21+
+|Major Collision
+|Move one-half speed. If there is anything to hit, increase collision damage by +4D. Otherwise, as Spin.
+|}
+
+
+=Collisions=
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Movement Speed
+! scope="col"|Collision Damage 
+|-
+|Cautious
+|2D
+|-
+|Cruise
+|4D
+|-
+|High Speed
+|6D
+|-
+|All-out
+|10D
+|}
+
+
+|-|Attacks=
+
+The difficulty to hit a target with an attack is primarily based on:
+*Range
+*Relative Scale of the combatants
+*Fire Control of the weapon
+*In the case of torpedoes, missiles and bombs; the speed of the target.
+
+
+=Range=
+
+
+The distance which makes up each range increment depends on the the weapon in question. You can review these via SWINFO, or by typing '''misc/status''' from the cockpit or bridge of the ship.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 600px;"
+|-
+! scope="col" style="text-align:left;"|Range Increment
+! scope="col" style="text-align:right;"|Difficulty Class
+! scope="col" style="text-align:right;"|Difficulty Score
+|-
+|Point Blank
+| style="text-align:right;"| Very Easy
+| style="text-align:right;"| 1D
+|-
+|Short Range
+| style="text-align:right;"| Easy
+| style="text-align:right;"| 2D
+|-
+|Medium Range
+| style="text-align:right;"| Moderate
+| style="text-align:right;"| 3D-4D
+|-
+|Long Range
+| style="text-align:right;"| Difficult
+| style="text-align:right;"| 4D-5D
+|}
+
+
+=Scale=
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 200px;"
+|-
+! scope="col" style="text-align:left;"|Scale
+! scope="col" style="text-align:right;"|Modifier
+|-
+|Character
+| style="text-align:right;"| -
+|-
+|Speeder
+| style="text-align:right;"| 2D
+|-
+|Walker
+| style="text-align:right;"| 4D
+|-
+|Starfighter
+| style="text-align:right;"| 6D
+|-
+|Capital Ship
+| style="text-align:right;"| 12D
+|-
+|Death Star
+| style="text-align:right;"| 24D
+|}
+
+The '''difference''' between the modifiers of two scales is the Applied Modifier.
+
+*A larger scale combatant uses the Applied Modifier as a penalty to hit a smaller opponent and as a bonus to inflict and resist damage against them.
+*A smaller scale combatant uses the Applied Modifier as a bonus to hit a larger opponent.
+
+
+=Fire Control & Maneuverability=
+
+Starship weapon systems have a Fire Control value. This is added to the attacker's Gunnery skill.<br />
+Starships have a Maneuverability value. This is added to the defender's Piloting skill.
+
+
+=Target Speed=
+
+Energy weapons travel far faster than sub-light ships however physical projectiles find it more difficult to hit a swiftly moving target.
+These modifiers are applied to missiles and torpedos.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col" style="text-align:left;"|Distance Target Moved (Space)
+! scope="col" style="text-align:center;"|Modifier
+! scope="col" style="text-align:right;"|Distance Target Moved (Atmosphere)
+|-
+| 30
+| style="text-align:center;"| +5
+| style="text-align:right;"| 100-150
+|-
+| 40
+| style="text-align:center;"| +10
+| style="text-align:right;"| 151-250
+|-
+| 50
+| style="text-align:center;"| +15
+| style="text-align:right;"| 251-300
+|-
+| 60+
+| style="text-align:center;"| +20
+| style="text-align:right;"| 301+
+|}
+
+
+=Reaction Skills=
+
+A character may wait to be attacked before declaring that they will use an action to react. They may choose to sacrifice an earlier declared action, or take an '''extra''' action and roll it, and all further checks for the remainder of the round, at their new multiple action penalty.
+
+The most common reaction skills are Piloting and Deflector Shield Operation.
+
+A pilot may use a reaction to avoid an attack, '''replacing''' the basic difficulty assigned to the attack with the result of their skill check. If a pilot sacrifices all other actions, they may '''add''' the result of their skill-check to the difficulty.
+
+Reactions taken to ''avoid'' an attack use a Starship's Maneuverability score as a modifier to the piloting check.
+
+If a ship is equipped with them, a character may use a reaction to deploy deflector shields. See the Damage tab for details.
+
+|-|Damage=
+
+When a starship is hit by an attack, the attacker rolls the weapon's damage dice, contested by the defending ship's Hull Code.
+
+
+=Deflector Shields=
+
+A starship may have deflector shields. Deflector Shields may be deployed as a Reaction Skill. The total number of Shield dice the starship possesses are distributed between its facings (front, back, left, right) as the defender wishes and the Shield Operation skill is rolled.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Number of Facings Shielded
+! scope="col"|Difficulty Class
+! scope="col"|Difficulty Score
+|-
+|1
+|Easy
+|2D
+|-
+|2
+|Moderate
+|3D-4D
+|-
+|3
+|Difficult
+|5D-6D
+|-
+|4
+|Very Difficult
+|6D-7D
+|}
+
+A starship hit on a facing where it has active deflector shielded adds the shield dice applied to that facing to its Hull Code to resist damage.
+
+Starships also have particle shields which ward off interstellar debris and maintain integrity. In order to launch or receive physical objects, the ship must lower its particle shields.
+
+If a starship has landed or launched craft, bombs, missiles or torpedoes in this round, its Hull Code is reduced by -2D.
+
+
+=Damage=
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Damage beats Hull by
+! scope="col"|Effect
+|-
+|Less than 0
+|None (harmless)
+|-
+|0-3
+|Shields Blown/Controls Ionized
+|-
+|4-8
+|Lightly Damaged
+|-
+|9-12
+|Heavily Damaged
+|-
+|13-15
+|Severely Damaged
+|-
+|16+
+|Destroyed
+|}
+
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 1000px; height: 100px;"
+|-
+! scope="col"|Damage State
+! scope="col"|Effects
+|-
+|Shields Blown
+| -1D to the ships's shields. This penalty persists until the shields are repaired. If the ship has no more shields to lose it instead suffers Controls Ionized
+|-
+|Controls Ionized
+| -1D to the ship's Maneuverability, Fire Control, Weapons Damage and Shields for the remainder of the turn and the next turn. If the ship is suffering as many Controls Ionized results as its Maneuverability score, the controls are Frozen for the remainder of the round and the next. The ship maintains its current heading and speed. It may not turn, fire weapons or deploy deflector shields. If the pilot stops making the appropriate Piloting rolls while the controls are Frozen, the ship automatically crashes if there is anything to run into, or else spins out of control.
+|-
+|Lightly Damaged
+|Ships may be lightly damaged any number of times. Each time, roll a dice to determine which system is damaged.
+
+*1 Ship suffers -1D to maneuverability. If it has no more maneuverability dice to lose, it suffers -10 move.
+*2 One randomly determined on-board weapon is destroyed and the gunners take damage.
+*3 One randomly determined on-board weapon is lightly damaged and rendered inoperative.
+*4 Hyperdrive damaged: Double the time to calculate astrogation courses. Add +10 to the Astrogation difficulty of jumping to hyperspace in one round.
+*5 -1D to Shields. If the ship has no more shields to lose, it suffers Controls Ionized instead.
+*6 -10 Move.
+|-
+|Heavily Damaged
+|Roll 1D to see which system is damaged. If the ship suffers any further lightly damaged or heavily damaged results, it becomes severely damaged.
+
+*1 Ship suffers -2D to maneuverability. If it has no more maneuverability dice to lose, it suffers -20 move.
+*2 Randomly determine one on-board weapon system. Randomly determine one fire-arc which contains that weapon system. All weapons of that type in the fire arc are inoperative.
+*3 Randomly determine one on-board weapon type. Randomly determine one fire-arc which contains that weapon. All weapons of that type in that fire arc are destroyed and their gunners take damage.
+*4 Hyperdrive damaged. All Astrogation difficulties increased by +10.
+*5 -2D to Shields. If the vehicle has no more shields to lose, the vehicle suffers 2 Controls Ionized instead.
+*6 -20 Move
+|-
+|Severely Damaged
+|Roll 1D to determine which system is affected. If the vehicle suffers any further lightly, heavily or severely damaged results, it is destroyed*
+
+*1 All motive, drive and maneuvering systems are destroyed. The ship is incapable of any movement until it is repaired
+*2 Unless the ship's generator is repaired within 1D rounds, it will explode and destroy the vehicle*
+*3 Main ''and'' Backup Hyperdrives are damaged. The vehicle cannot enter hyperspace until they are repaired.
+*4 All weapons systems lose power. Roll 1D
+**1-4 Weapons are severely damaged but may be repaired
+**5-6 All weapons on-board the ship are destroyed
+*5 The ship will fall apart in 1D rounds*
+*6 The vehicle immediately explodes. Everyone on-board is killed*
+|-
+|Destroyed
+|The vehicle explodes, killing everyone on-board*
+|}
+
+
+Lost Moves are cumulative and have the following effect
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Move lost
+! scope="col"|Effect
+|-
+| -10
+|Limited to High Speed and may no longer move all-out
+|-
+| -20
+|Limited to Cruising Speed
+|-
+| -30
+|Limited to Cautious Speed
+|-
+| -40
+|Engines destroyed. Unable to move.
+|-
+| -50
+|Destroyed*
+|}
+
+
+=Ion Weapons=
+
+Ion Weapons ignore deflector shields, and use a different damage table:
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Ion Damage beats Hull by
+! scope="col"|Effect
+|-
+|Less than 0
+|None (harmless)
+|-
+|0-3
+|Controls Ionized
+|-
+|4-8
+|2 Controls Ionized
+|-
+|9-12
+|3 Controls Ionized
+|-
+|13-15
+|4 Controls Ionized
+|-
+|16+
+|Controls Dead
+|}
+
+Controls Ionized
+-1D to the ship's Maneuverability, Fire Control, Weapons Damage and Shields for the remainder of the turn and the next turn.
+
+If the ship is suffering as many Controls Ionized results as its Maneuverability score in any turn, the controls are Frozen for the remainder of the round and the next.
+
+A ship with Frozen controls maintains its current heading and speed. It may not turn, fire weapons or deploy deflector shields. If the pilot stops making the appropriate Piloting rolls while the controls are Frozen, the ship automatically crashes if there is anything to run into, or else spins out of control.
+
+*In accordance with Star Wars MUSH's consent policy, player characters may not be killed unless they have consented to the possibility of character death.
+
+|-|Capital Ship Gunnery=
+
+To represent their large crews, Capital class ships are able to fire each weapon once without incurring multiple action penalties.
+
+In many cases, a ship may possess dozens or even hundreds of weapons - rolling for each one individually can rapidly become unwieldy and break the flow of a scene.
+
+For that reason, the option to fire weapons as a 'battery' is presented.
+
+To fire as a battery, weapons must:
+
+*Be of the same type and weapon profile
+*Be capable of targeting the same facing
+
+Attacks using the battery rules add the following dice to their gunnery and damage rolls.
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Number of Guns
+! scope="col"|Dice Bonus
+|-
+| 1
+|0
+|-
+|2
+|0D+2
+|-
+|3
+|1D
+|-
+|4
+|1D+1
+|-
+|6
+|1D+2
+|-
+|8
+|2D
+|-
+|12
+|2D+1
+|-
+|16
+|2D+2
+|-
+|24
+|3D
+|-
+|32
+|3D+1
+|-
+|48
+|3D+2
+|-
+|60
+|4D
+|-
+|90
+|4D+1
+|-
+|120
+|4D+2
+|-
+|180
+|5D
+|-
+|250
+|5D+1
+|}
+
+|-|Hyperspace=
+
+Hyperspace is a form of travel that allows a ship to move at speeds far greater than that of light. Without it, galactic travel would be impossible.
+
+A vessel in hyperspace moves within an envelope that shifts it out of 'real space'. Real space objects project a shadow into hyperspace, and intersecting with them is a terminal encounter. For this reason, ships are equipped with mass shadow sensors that automatically shut down a hyper-drive if they detect an imminent impact, and pilots take great care to avoid such incidents.
+
+Most hyperspace travel in the Star Wars universe takes place along well surveyed routes through which random objects rarely pass called ''hyperlanes'', begin and end in designated 'jump zones' within system space from which ships can safely enter and exit without fear of collisions and are plotted with the aid of a navicomputer and plenty of time to calculate the jump.
+
+Things get a little hairier when those assumed conditions aren't true.
+
+=Calculating the Route=
+
+''Ben Kenobi: How long before you make the jump to lightspeed?''
+''Han Solo: It'll take a few moments to get the coordinates from the navicomputer.''
+
+Before a jump can be made, the route must be calculated. As space is not static, even well known routes require calculations be made for the trip as it exists at that moment in time.
+
+Calculating coordinates from scratch depends on how much data the astrogator has, and is typically done before leaving the star port. Along a route between two ''known'' systems takes around half an hour while jumps to locations for which there is scant little data to go on take hours.
+If a pilot doesn't even know where ''they'' are (such as in the case of hyperspace mishap) it can take an entire day!
+
+Once a route has been calculated, it may be 'stored' for later use either in the navicomputer or on an astromech droid. A pre-calculated route requires only one minute to be updated for a safe hyperspace jump.
+
+=Making the Jump=
+
+''Traveling through hyperspace ain't like dusting crops, boy! Without precise calculations we could fly right through a star or bounce too close to a supernova and that'd end your trip real quick, wouldn't it?''
+
+Ships cannot take jump to hyperspace from within a gravity well. The very same safety features are engaged that prevent flying straight into a planet while at lightspeed. It takes around five minutes for an average freighter travelling at cruising speed to take-off and leave the gravity well of a planet.
+
+An '''astrogation''' check is made when the pilot attempts to jump to hyperspace. The difficulty depends on a number of factors:
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Route
+! scope="col"|Difficulty
+! scope="col"|Required Roll
+|-
+|A major hyperlane
+|Easy
+|Poor
+|-
+|'known' route
+|Moderate
+|Average
+|-
+|Little data available
+|Hard
+|Good
+|-
+|Hazardous space
+|Very Hard
+|Very Good
+|-
+|Kessel Run
+|Heroic
+|Heroic
+|}
+
+A ship which has sustained heavy damage increases the difficulty of a jump by one step.
+
+In an emergency, a pilot may attempt to use a pre-calculated route to jump to hyperspace in a single round, rather than updating them for the trip. When doing so, the pilot increases the difficulty of their jump by two degrees (Easy -> Hard, Hard -> Heroic) and makes the check each round until they are either successful, or a hyperspace mishap occurs (see below).
+
+=Astrogation Mishap=
+
+If a pilot '''fails''' their astrogation check by a single difficulty band (1-9 points, e.g. an average roll on a hard jump) the vessel jumps to hyperspace, but something goes wrong!
+
+Roll 2D and consult the table below
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Score
+! scope="col"|Outcome
+|-
+|2
+|Hyperdrive Damaged
+*The ship's hyperdrive cuts out prematurely to avoid a collision and is damaged in the process. An '''average''' difficulty repair check is required to return it to operational status
+|-
+|3-4
+|Radiation Fluctuations
+*Radiation affects the hyperdrive's performance and increases or decreases the length of the trip by 1D hours for each point by which the check failed.
+**Roll 1D: High, add time. Low, reduce time.
+|-
+|5-6
+|Hyperdrive Cut-out
+*The hyperdrive cuts out, reverting the ship to realspace at some point along its route. A new jump must be calculated.
+|-
+|7-8
+|Off Course
+*The ship emerges from hyperspace completely off-course. A new jump must be calculated, requiring an entire day.
+|-
+|9
+|Severe delay
+*Mynocks have attached themselves to the ship's power couplings prior to jump. The duration of the journey is increased by 1D days.
+|-
+|10
+|Close Call
+*Upon arrival, any number of factors damages a randomly determined system other than the hyperdrive. That system is inoperable and must be repaired.
+|-
+|11-12
+|Collision, ship crippled
+*The ship collides with an object and drops back to real space with a ruptured hull. The ship is no longer spaceworthy and must be abandoned.*
+|} 
+
+<nowiki>*This is a consent level event. Re-roll the result if the conditions of the CONSENT policy are not satisfied.</nowiki>
+
+</tabber>
+[[Category:Star Wars MUSH]]

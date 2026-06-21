@@ -1,0 +1,8 @@
+TITLE: Template:Plh
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-10-26T07:09:09Z
+======================================================================
+{| class="infobox" cellpadding="2" style="font-size: 95%; clear: right"
+|colspan=2 align="center" |{{{image}}}
+|-
+!colspan=2 |{{{name}}}

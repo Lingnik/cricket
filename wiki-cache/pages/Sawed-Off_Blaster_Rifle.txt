@@ -1,0 +1,14 @@
+TITLE: Sawed-Off Blaster Rifle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-23T22:29:42Z
+======================================================================
+These blaster rifles have had most of the length of the barrel sawed off to make them more easily concealable, but as a result they suffer accuracy at range.
+
+<pre>
+Name................Sawed-Off Blaster Rifle
+Weapon Type.........Blaster Rifle            Weight..............6kg
+Damage Type.........Energy                   Stun Setting........No
+Accuracy...........-1D+0 Penalty             Damage..............4D+2
+Conceal Difficulty..14                       Two-Handed..........No</pre>
+
+[[Category:Rifles]]

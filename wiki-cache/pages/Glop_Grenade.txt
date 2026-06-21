@@ -1,0 +1,13 @@
+TITLE: Glop Grenade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-23T00:10:14Z
+======================================================================
+This heavy orb of polished brass is slightly oblong with raised, textured squares running along its length in straight lines. A locking pin and safety trigger system allow a variable length fuse to detonate the item, which is labeled as a glop grenade and features a small sticker with an illustration of safe handling on it. This grenade, when detonated, shoots out an adhesive substance which covers the surrounding area - and whoever is unfortunate enough to get caught in the blast radius. The substance keeps a person glued to the ground.
+<pre>
+Name................Glop Grenade
+Weapon Type.........Thrown Weapon            Weight..............4kg
+Damage Type.........Range                    Stun Setting........Yes
+Accuracy............0D+0                     Damage..............0D+0 (Stun)
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Thrown Weapons]]

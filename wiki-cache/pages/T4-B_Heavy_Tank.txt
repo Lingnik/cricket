@@ -1,0 +1,34 @@
+TITLE: T4-B Heavy Tank
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2016-05-14T17:10:16Z
+======================================================================
+[[File:Vehicle T4-B heavy tank.jpg|thumb|220x220px]]
+The '''T4-B heavy tank''' is an all-purpose battle tank used by the New Republic and the heaviest armored vehicle in its arsenal.
+
+The T4-B is armed with twin anti-armor heavy laser cannons and either three concussion missile launchers or four mortar tubes.for dispersing massed infantry. 
+
+The unconventional tracked design allows the T4-B to employ much heavier armor than contemporary repulsor-lift vehicles, at the cost of greatly reduced mobility. As a result, the T4-B has little to fear from even the heaviest of Imperial battle tanks and even specially equipped infantry, although it is still substantially out-classed by the monstrous AT-AT walker.
+ Vehicle ... T4-B Heavy Tank
+ Type ...... Main Battle Tank             Cargo Capacity ... 100kg
+ Scale ..... Speeder                      Movement ......... 20 (60 kmh)
+ Length .... 14 meters                    Maneuver ......... 1D
+ Height .... 3 meters                     Body Strength .... 6D
+ Skill ..... Ground Vehicle Operation     Cover ............ Full
+ Crew ............. 2 (+1 Gunners)        Passengers ....... 0
+ 
+ Weapons ...                              Weapon Skill ..... Vehicle Gunnery
+   *Two Heavy Laser Cannons (Fire-linked)
+       Range ... 50-500m/1km/2km           Damage ........ 6D 
+       Fire Arc: Turret                    Fire Control .. 1D
+ 
+   *Three Concussion Missile Launchers
+       Range ... 100-750m/1.5km/3km        Damage ........ 4D
+       Fire Arc: Turret                    Fire Control... 2D
+       Ammunition..... 10 Missiles
+ 
+             OR
+ 
+   *Four Mortars
+       Range ... 50-250m/500m/750m         Damage ........ 3D
+       Fire Arc: Turret                    Fire Control... 3D
+       Ammunition..... 25 Shells

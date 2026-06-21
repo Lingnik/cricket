@@ -1,0 +1,65 @@
+TITLE: SW1ki:SW1kiProject CSA
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2025-07-30T08:00:32Z
+======================================================================
+{{SW1kiProject|name=CSA}}
+'''SW1kiProject CSA''' is an informal group of SW1kipedians that have gotten together to make some suggestions about how we might organize information about the [[Corporate Sector Authority]].
+
+==Scope==
+This [[SW1ki:SW1kiProject|SW1kiProject]] aims primarily to improve the coverage of topics related to the Corporate Sector Authority in the SW1ki. In support of this goal, this SW1kiProject will define standards for articles and track our progress in such coverage. It will also be a central place for those interested in such topics to discuss common themes.
+
+Articles within this project that need to be updated or created may be listed below.
+
+==Goals==
+'''The overall goal of this project is to provide the MUSH community with accurate, useful, content-rich articles regarding the CSA.'''
+*Unify and improve articles regarding the CSA.
+*Identify and create articles for CSA topics that have not been covered.
+*Encourage CSAers to create and maintain character pages on the SW1ki.
+*Create an accurate historical record of CSA events (using articles, roleplay logs, and IGN broadcasts).
+*Keep articles synchronized with the MUSH.<br/>For example:
+**Update lists of current division members, [[Viceprex (CSA)|Viceprexes]], administrators, etc. as necessary.
+**Update general timelines with major CSA events.
+==Participants==
+*[[User:Xerxes|Xerxes]]
+
+==Templates, etc.==
+=== Project Banner ===
+:'''Template: [[SW1ki:SW1kiProject CSA/Banner|<nowiki>{{</nowiki>SW1ki:SW1kiProject CSA/Banner<nowiki>}}</nowiki>]]'''
+This banner should be added to the talk page of all articles within the scope of this project.
+{{SW1ki:SW1kiProject CSA/Banner}}
+
+=== Division Infobox ===
+{{CSA Division (10 ranks)}}
+:'''Template: [[Template:CSA Division (10 ranks)|<nowiki>{{</nowiki>CSA Division (10 ranks)<nowiki>}}</nowiki>]]'''
+The Corporate Sector Authority is divided into multiple divisions, such as [[Security Division (CSA)|Security]], [[Legal Division (CSA)|Legal]] and [[Production Division (CSA)|Production]].  Each one is responsible for a different aspect of CSA business, and '''''most''''' of them are managed by an [[Viceprex (CSA)|Executive Viceprex]].
+
+This infobox lists the various ranks used by a division as well as its top two executives.  It should be added to all CSA division articles.<br style="clear: all;"/>
+
+== To Do ==
+*'''Project Maintenance''' <br/>Setup activities remaining:
+**Determine what subpages need to be created.
+**Determine list of articles in scope of project.
+**Add project banner template to project articles.
+*'''Cleanup / Expansion''' <br/>Improve articles for major (coded) CSA systems and planets. (see also: [[SW1ki:SW1kiProject Astrographics|SW1kiProject Astrographics]])
+**Star System: Etti system
+***Planet: [[Etti IV]]
+**Star System: Kalla system
+***Planet: [[Kalla VII]]
+**Star System: Bonadan system
+***Planet: [[Bonadan]]
+**Star System: Kiilaniri system
+***Planet: Kiilaniri
+****Moon: [[Justa]]
+***Planet: [[Mutanda]]
+*'''Article Improvement'''<br/>Reference Systems and / or Planets from the main [[Corporate Sector Authority|CSA]] article.
+
+=== Starships the CSA Is Responsible For... ===
+'''... and should be writing articles about.'''<br />
+* [[CSAV Corporate Buyout]]
+* [[CSAV Corporate Takeover]]
+* [[CSAV Corporate Venture]]
+* [[CSAV Profiteer]]
+* [[CSAV Litigator]]
+* [[CSAV Emendation]]
+* [[CSAV Remittance]]
+* [[CSAV Auditor]]

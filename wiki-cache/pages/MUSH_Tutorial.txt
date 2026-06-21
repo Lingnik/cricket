@@ -1,0 +1,95 @@
+TITLE: MUSH Tutorial
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-28T04:13:58Z
+======================================================================
+==== '''Q: How do I log into Star Wars MUSH?''' ====
+A: The first thing you will need is a MUSH client. MUSH runs across a very old system called telnet built into most operating systems. 
+
+A MUSH client is a third party piece of software that improves your experience of Telnet and provides many useful functions. A list of MUSH clients can be found [[Clients|here]].
+
+Once you have installed the mushclient, simply run the program and create a 'new connection'.
+
+You will need to input the MUSH site address (starwarsmush.com) and the port number (4402) when prompted. Your client may also ask you to name this connection, that's just for your reference so it can remember these details in the future.
+
+Having done that, simply select the connection and you will connect to the MUSH.
+
+==== '''Q: How much does Star Wars MUSH cost?''' ====
+There is no cost to playing on Star Wars MUSH and most MUSH clients are provided free of charge.
+
+
+
+==== '''Q: How do I create a character?''' ====
+A: Connect to the MUSH and sign is as a guest, as directed by the welcome screen. Once you're connected, you should be prompted to REGISTER a character using the following command
+
+''register <Charactername> <password>''
+
+You can now log out, and login using the name and password you provided.
+
+Do not give out your password. MUSH admin will never ask you for it.
+
+
+
+==== '''Q: How do I move around a MUSH?''' ====
+A: Everything in MUSH happens in 'objects'. Objects you're inside of are usually called 'rooms'. They connect to other rooms to form a world you can explore, often refered too as a 'grid' (because of how it looks if you map it out). Below each room's descriptions you will find a list of exits. Simply type the name of an exit, or its abbreviation, found between the angluar brackets '''<> '''to go through that exit.
+
+
+
+==== '''Q: How do I talk on a MUSH?''' ====
+A: Channels are the main means of communicating with other players.
+
+You can see a list of channels by typing ''@chan/list''
+
+To join a channel, type ''@chan/join <name>''
+
+To speak on a channel, simply type ''=<name> <message> ''e.g. ''=new I'm new here''
+
+Guest logins are automatically added to the Welcome channel and newly registered characters to the Newbie channel. These can be excellent places to ask for help if you find yourself stuck or confused about anything.
+
+
+
+==== '''Q: What's a page and how do I use it?''' ====
+A: A page is a private message.
+
+To page someone, simply type ''page <person>=<message>''
+
+To page multiple people at once, you can type ''page <person1> <person2> <etc.>=<message>.''
+
+
+
+==== '''Q: How do I go about roleplaying on a MUSH?''' ====
+A: The core commands for roleplaying are ''pose'', and ''@emit''.
+
+''pose'' sends a message to everyone in the room, beginning with your character's name. This allows you to describe actions your character is taking. As a matter of form, it is better to write a paragraph of actions rather than sending several lines, as this allows people to take the time to respond to you without feeling bombarded.
+
+''@emit'' does the same thing as pose but it doesn't start with your name. This can be useful for posing the actions of NPC's, setting the scene, or simply for stylistic reasons. You should probably try to note '''somewhere''' who the emit is about though, to avoid confusing your fellow players.
+
+
+
+==== '''Q: How do I roleplay well on a MUSH?''' ====
+A: That's a bit of a longer question, there're many schools of thought and there is no one right or wrong way to roleplay. Although some simple ettiquette is observed.
+
+Typically, it is best to ask people if they would like to roleplay before you begin posing at them. They may have walked away from the keyboard, or be unavailable at the moment.
+
+Everyone usually takes turns to pose the actions of their character, this is called a 'round'. It allows people to respond to what you have done, and for you to respond to them.
+
+For more tips on roleplaying and writing in general, see [[Roleplaying on MUSH|Roleplaying on a MUSH]]
+
+
+
+==== '''Q: What is a TinyPlot (TP)?''' ====
+A: A TinyPlot is a self-contained story-arc, like an episode (or if you're very ambitious, several episodes) of a TV show. It differs from roleplay you engage in every day by having an impact or scope beyond your character's own experience. A dangerous pirate crew might attempt a seize a starship, or Republic commandos destroy an Imperial supply base. A smuggler could discover the score of a lifetime... MUSH staff will be pleased to discuss your ideas for a TinyPlot with you and help you through the process of writing, approval, and running your very own!
+
+
+
+==== '''Q: Are we allowed to make stuff up?''' ====
+A: Of course! The Star Wars canon and Wookieepedia can only go so far! You'd be hard-pressed to find names of popular movies and shows people watch, or beverages they drink (is there really only ONE ale brewed on Corellia?) So what do you do when you're roleplaying people talking about their favorite TV shows? Easy. Make them up. But inventing things has a limit.
+
+If you plan on making up a grand, planet-destroying super weapon or a dark conspiracy at the heart of the Republic senate, that falls into tiny-plot territory.This is by no means impossible, but you will want to contact MUSH staff to discuss and plan your idea.
+
+
+
+==== '''Q: Can I have multiple characters?''' ====
+A: Yes! The Star Wars universe is a varied place, and its rare that one character can experience the best of everything it has to offer. There are some common sense restrictions however.
+
+You must have played your first character for at least three months before you're eligible to create any alts. Give your characters a chance to live! You must also request the alt (so we know it IS an alt, and you're not being a dirty cheater!) using the +requestalt command on the MUSH. You cannot have more than three characters at any one time. We're worried you won't sleep!
+[[Category:MUSH Terminology]]

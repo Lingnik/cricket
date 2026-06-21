@@ -1,0 +1,12 @@
+TITLE: Forum:Main Page protection
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2006-09-29T01:18:56Z
+======================================================================
+{{Forum:Public_channel/header}}
+[[Category:Public channel|{{PAGENAME}}]]
+
+<!-- write after this line, please -->
+Since it seems to be a favorite target of vandals, I've locked down the protection level of the Main Page to Sysop only.  So, as of a few minutes ago, only administrators can edit the Main Page.  How would people feel about making this permanent? -- [[User:Xerxes|Xerxes]] 20:07, 28 September 2006 (UTC)
+
+*Any action taken would be fine. We could also consider making the front/main page modular and then lock it, such that the page itself can't be modified, but the components that socket into it can be. That's all done through templates. But really, how often is the main page modified? Don't think it would matter that much if it was... but then again, I'm speaking from a bit of bias. ;) -- [[User:Hawke|Hawke / Rtufo]] 20:40, 28 September 2006 (UTC)
+*I think the main page should be locked to Sysop only. People hacking it is immature and stupid. -- [[User:SW1_Kyle|SW1 Kyle]]

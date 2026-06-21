@@ -1,0 +1,13 @@
+TITLE: Espo Riot Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-09-15T04:49:15Z
+======================================================================
+The [[Corporate Sector Authority|CSA]]'s heavy combat armor for [[Security Division (CSA)|Espo]] forces, this form of riot armor is made of a tight fitting, waterproof, climate-controlled suit with a 16-piece armored shell. The shell pieces are made of woven poly-ceramics and provide excellent physical protection and respectable protection from energy blasts.
+<pre>
+Name................Espo Armor
+Weight..............40kg                     Covers..............Body
+Physical Protection.1D+0                     Energy Protection...0D+1
+Conceal Difficulty..40                       Dexterity Penalty...-0D+1
+Strength Bonus......0    </pre>
+
+[[Category:Armor]]

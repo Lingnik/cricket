@@ -1,0 +1,25 @@
+TITLE: Forum:Debate channel
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2009-04-30T07:49:41Z
+======================================================================
+{{Title}}
+<div style="background: #eee; border: 1px solid #aaa; padding: 5px">'''[[:Category:SW1ki Forums|SW1ki Forums]]''' &gt; '''[[Forum:Index|Index]]''' &gt; '''[[Forum:Debate channel|Debate channel]]'''</div>
+
+The [[Forum:Debate channel|Debate channel]] provides a forum for all sorts of lively discourse.
+
+<table width="100%"><tr><td></td><td width="40%"><createbox>
+break=no
+prefix=Forum:
+preload=Forum:Debate channel/preload
+buttonlabel=Add new topic
+</createbox></td></tr></table>
+<table class="forumlist" style="border: 1px solid #aaa" width="100%"><tr style="background: #eee"><th class="forum_title" align="left">Topic</th><th class="forum_edited" align="left">Last Edit</th><th class="forum_editor" align="left">Last Author</th></tr>
+<forum>
+namespace=Forum
+category=Debate channel
+shownamespace=false
+addlasteditor=true
+count=40
+</forum></table>
+
+[[Category:SW1ki Forums|Debate channel]]

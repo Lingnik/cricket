@@ -1,0 +1,73 @@
+TITLE: Imperator-class Star Destroyer statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-04T13:01:17Z
+======================================================================
+{{statsheet ship|Imperator-class Star Destroyer}}
+
+=== D-Space ===
+<pre>
+Craft ........ Kuat Drive Yards Imperial I Star Destroyer
+Type ......... Star Destroyer         Cargo Capacity ......... 36,000 metric tons
+Scale ........ Capital                Consumables ............ 6 years
+Length ....... 1,600 meters           Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting  Hyperdrive Backup ...... x8
+Crew ......... 37,085 (5000 skeleton) Nav Computer ........... Yes
+Passengers ... 9,700 (Troops)         Maneuverability ........ 1D
+Hull ......... 1797                   Space Movement ......... 60
+Shields ...... 243                    Hangar Space ........... 750
+Can Land? .... No
+
+Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 192 total (130 filled)
+
+Stock Weapons:
+   Sixty Turbolaser Batteries (fire separately):
+      Weapon Rating ... Type 2           Damage ........ 5D
+      Fire Arc ........ 20FR, 20L, 20R   Fire Control .. 4D
+      Space Range ..... 3-15/36/75       Atmo Range .... 6-15km/72km/150km
+
+   Sixty Ion Cannons (fire separately):
+      Weapon Rating .. Type 3               Damage ........ 6D
+      Fire Arc ....... 20FR, 15L, 15R, 10B  Fire Control .. 2D+2
+      Space Range .... 1-10/25/50           Atmo Range .... 2-20km/50km/100km
+
+   Ten Tractor Beam Projectors:
+      Weapon Rating .. Class 2              Damage ........ 6D
+      Fire Arc ....... 6FR, 2L, 2R          Fire Control .. 4D
+      Space Range .... 1-5/15/30            Atmo Range .... 2-10km/30km/60km</pre>
+
+=== West End Games - Star Wars D6 ===
+''Source: 2nd Edition Revised Rulebook''
+ Craft ........ Kuat Drive Yards Imperial I Star Destroyer
+ Type ......... Star Destroyer         Cargo Capacity ......... 36,000 metric tons
+ Scale ........ Capital                Consumables ............ 6 years
+ Length ....... 1,600 meters           Hyperdrive Multiplier .. x2
+ Pilot Skill .. Capital Ship Piloting  Hyperdrive Backup ...... x8
+ Crew ......... 37,085 (5000 skeleton) Nav Computer ........... Yes
+ Passengers ... 9,700 (Troops)         Maneuverability ........ 1D
+ Hull ......... 7D                     Space Movement ......... 60
+ Shields ...... 3D                     Hangar Space ........... 750
+ Can Land? .... No
+ 
+ Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 192 total (130 filled)
+ 
+ Stock Weapons:
+    Sixty Turbolaser Batteries (fire separately):
+       Weapon Rating ... Type 2           Damage ........ 5D
+       Fire Arc ........ 20FR, 20L, 20R   Fire Control .. 4D
+       Space Range ..... 3-15/36/75       Atmo Range .... 6-30km/72km/150km
+ 
+    Sixty Ion Cannons (fire separately):
+       Weapon Rating .. Type 3               Damage ........ 3D
+       Fire Arc ....... 20FR, 15L, 15R, 10B  Fire Control .. 2D+2
+       Space Range .... 1-10/25/50           Atmo Range .... 2-20km/50km/100km
+ 
+    Ten Tractor Beam Projectors:
+       Weapon Rating .. Class 2              Damage ........ 6D
+       Fire Arc ....... 6FR, 2L, 2R          Fire Control .. 4D
+       Space Range .... 1-5/15/30            Atmo Range .... 2-10km/30km/60km

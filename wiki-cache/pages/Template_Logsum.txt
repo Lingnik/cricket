@@ -1,0 +1,5 @@
+TITLE: Template:Logsum
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2020-11-14T01:26:39Z
+======================================================================
+'''{{{logtitle}}}'''<br /><font style="font-family: Arial; font-size: 12pt;">''Posted by {{{author}}} on {{{date}}}.''</font><br /><font style="font-family: Arial; font-size: 11pt;">{{{synopsis}}}</font><noinclude>[[Category:Templates]]</noinclude>

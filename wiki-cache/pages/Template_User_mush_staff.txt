@@ -1,0 +1,16 @@
+TITLE: Template:User mush staff
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-10-23T11:11:48Z
+======================================================================
+<div style="border:1px solid #008800; margin:1px;width: 0px">
+{| style="width:238px; background:#00dd00;border:1px solid #008800;border-collapse: collapse"
+| style="height:45px; background:#000000; text-align:center;font-size: 12pt;color:#00ff00;font-family:monospace;padding: 0 5px 0 5px" | +staff
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is a staff member at the [[Star Wars MUSH]].
+|}
+</div><noinclude>
+{{clear}}
+===Usage===
+To use this template, paste the following code into your user page:
+<pre><nowiki>{{user mush staff}}</nowiki></pre>
+
+[[Category:Userbox Templates|MUSH]]</noinclude>

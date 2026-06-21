@@ -1,0 +1,11 @@
+TITLE: Template:Dispute
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-14T17:19:49Z
+======================================================================
+{| width=85% align=center class="expansion" style="background: #333333; color: #bfbfbf; border: 2px solid #bfbfbf; padding: .2em; margin-bottom: 3px; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | [[Image:scene_emperor_holo.jpg]]
+| <font size=3>'''There is a great disturbance in the Force.'''</font><br /><small>Certain content or images in this article may be violating wiki or MUSH policy, or their veracity may be in dispute. Please see this article's [{{SERVER}}{{localurl:{{TALKPAGENAME}}}} talk page] for explanation. Once the dispute has been settled, this notice may be removed.</small>
+|}
+
+<includeonly>[[Category:Articles Under Dispute|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Administrative Templates|Dispute]]</noinclude>

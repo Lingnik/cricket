@@ -1,0 +1,18 @@
+TITLE: Old Wiki Layout
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-28T15:31:36Z
+======================================================================
+Hate the new Wikia typography and font settings?
+
+Don't need your characters three inches tall?
+
+Want the old layout back across all your wikia's?
+
+Edit [[Special:MyPage/global.css]]
+
+And enter 
+ @import url("http://community.wikia.com/wiki/User:Undead.exe/OldOasis.css?action=raw&ctype=text/css");
+ @import url("http://community.wikia.com/index.php?title=User:Undead.exe/OldFontSize.css&action=raw&ctype=text/css");
+To undo this, simply edit the global.css page again and remove the above code.
+
+'''This is provided as-is. SW1ki and MUSH Administrators will provide zero tech support for this. It shouldn't cause problems, it works for us, its easy to undo, but we're not promising to troubleshoot it for you.'''

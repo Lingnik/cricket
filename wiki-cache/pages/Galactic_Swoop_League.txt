@@ -1,0 +1,99 @@
+TITLE: Galactic Swoop League
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2025-08-08T08:38:14Z
+======================================================================
+<pre style="border:4px solid #800;background:#000;color:#f00;width:0;text-align:center;float:right">
+    _____________________    
+    __  ____/_  ___/__  /     
+    _  / __ _____ \__  /      
+    / /_/ / ____/ /_  /___    
+    \____/  /____/ /_____/    
+
+</pre>
+The '''Galactic Swoop League (GSL)''' is the largest professional [[Swoop_Racing|swoop racing]] league in the known [[The_Galaxy|galaxy]].  From Marin Mountain on [[Caspar]] to the Titiana Track on [[Etti IV]], the GSL sanctions races at tracks on a number of planets.  A popular entertainment for beings from every level of galactic society, GSL events offer fans the most exciting races featuring the best racers in the sport.
+
+== Rules / Policies ==
+The league is governed by a board of directors elected from the most influential track and team owners in the sport.  This board sets down the racing policies and rules that govern officially sanctioned races.
+
+* The use of weapons on swoops is not condoned.
+* No interference with other racers, like ramming, blocking or sabotaging rival swoops.
+* No intentional harm to spectators, track, installations or wildlife used on the tracks.
+* To receive GSL approval, a track must offer at least six sections of varying difficulty.
+
+====Grade Scale====
+
+Eligible [[Swoop|swoops]] are divided in three grades for competition. These grades are dependent on the swoop type and total class of the modifications installed on the swoop. The following table represents the maximum and minimum upgrade classes in a swoop necessary to qualify it for a certain GSL Grade.
+
+{| border=1 style="border: 1px solid #aaa;margin: 0 1em 1em 0;border-collapse: collapse;"
+|- style="text-align:center; font-size: larger; background-color:#cc0033; color:#ffffff;" 
+|style="padding:0 1em 0 1em;border-top: 0;" rowspan=2|'''GSL Grade'''
+|colspan=3| '''Swoop'''
+|- style="padding: 0 1em 0 1em; border: 1px solid #aaa; text-align:center; font-size: larger; background-color:#cc0033; color:#ffffff;" 
+|'''Light'''||'''Medium'''||'''Heavy'''
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 1
+|style="padding:0 1em 0 1em;" |Class 0-6
+|style="padding:0 1em 0 1em;" |Class 0-9
+|style="padding:0 1em 0 1em;" |Class 0-9
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 2
+|style="padding:0 1em 0 1em;" |Class 7-12
+|style="padding:0 1em 0 1em;" |Class 10-18
+|style="padding:0 1em 0 1em;" |Class 10-18
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 3
+|style="padding:0 1em 0 1em;" |Class 13-18
+|style="padding:0 1em 0 1em;" |Class 19-27
+|style="padding:0 1em 0 1em;" |Class 19-27
+|- align="center"
+|style="padding:0 1em 0 1em;" |Grade 4
+|style="padding:0 1em 0 1em;" |Class 19-24
+|style="padding:0 1em 0 1em;" |Class 28-36
+|style="padding:0 1em 0 1em;" |Class 28-36
+|}
+
+== Swoop Tracks ==
+Current GSL sanctioned race tracks:  
+* [[Marin Mountain Circuit]], [[Caspar]]
+* [[Titiana Swoop Track]], [[Theseus Station]] ([[Etti IV]])
+* [[Reckless Abandon Swoop Arena]], [[Corellia]]
+* [[Flipside - Classic Track]], [[Nar Shaddaa]]
+* [[Memorial Stadium Racing Track]], [[Athaniss]]
+* Cloud City Swoop Track, [[Bespin]]
+
+== Members ==
+Current active members of the GSL Board are 
+* [[Xand Velo]]
+* [[Zeak Oppenhiemer]]
+
+==== Inactive or Former Members ====
+* [[Ayam Kor]] 
+* [[Kartijan Lore]]
+* [[Danik Kreldin]]
+* Dannitara
+* [[Doril_Farnsworth|Doril "Korbel" Farnsworth]]
+* [[Naota Nandaba]]
+* [[Kiare Quinn]]
+* [[Ernest Pallando]]
+* [[Simone Drake|Simone "Piper" Drake]]
+* [[Elana Tracer]]
+* [[Moralis Rodriga]]
+* [[Darren Primos|Darren "Primo" Primos]]
+* [[Wescal Cantrell]]
+
+====Staff====
+* Doc Farrel - Doctor
+
+== Racing Guidelines ==
+In general, swoops and riders must be registered before the start of the swoop event. There may be several heats run per swoop event, but only the first heat score per racer (swoop + rider) will be recognized for competition status. Score records are kept based on the rider, team and racing grade.
+
+====Anatomy of a Swoop Race====
+At the start of the heat, all racers are at the starting blocks and there is a perception check to determine the race order. The heat begins with the lowest perception going first. After all the racers have gone for the section, the section results are announced and the race moves onto the next section.
+
+The basic flow per racer per section is pose, rolls, pose. The opening pose MUST specify the thrust level of the bike and which path the racer will be taking.  Then +s/thrust # followed by the required number of maneuvering rolls (+s/output man) and velocity (+s/output vel). The final pose reflects the results of the rolls.
+
+The Swoop Race Units (SRUs) are based on velocity rolls and bonus points for meeting the maneuvering challenges of difficult paths. Racers are competing within their grade level for the highest SRU.
+
+Rolls may be boosted with +check/boost GVO, the rider must leave the swoop and identify which roll to apply the boost to before boosting. The boost amount (not +check total) will be added to the regular +s/output roll of the racer.
+
+[[Category:Businesses]]

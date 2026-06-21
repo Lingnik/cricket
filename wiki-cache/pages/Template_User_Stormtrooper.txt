@@ -1,0 +1,13 @@
+TITLE: Template:User Stormtrooper
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-08T12:43:31Z
+======================================================================
+<div style="float:left; border:1px solid black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:white"
+| style="background:#000000" | [[Image:Canttroop.jpg|45px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user's blast points, too accurate for Sand People, must be the work of an Imperial [[Stormtroopers|Stormtrooper]].
+|}</div><noinclude><br clear="all">
+==== White armor, blasters, and a paycheck, who could ask for anything more? ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{User Stormtrooper}}</nowiki></pre>
+[[Category:Userbox Templates|Stormtrooper]]</noinclude>

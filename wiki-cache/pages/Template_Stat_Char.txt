@@ -1,0 +1,15 @@
+TITLE: Template:Stat Char
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-24T04:14:23Z
+======================================================================
+A template for individuals to use who wish to share character sheets, or to have a sheet for NPC's.
+
+<table width=600>
+<tr><td>'''Dexterity....................XD+0'''</td><td>'''Strength....................XD+0'''</td></tr>
+<tr><td align=center>(Dexterity Skills)</td><td align=center>(Strength Skills)</td></tr>
+<tr><td>'''Knowledge....................XD+0'''</td><td>'''Perception....................XD+0'''</td></tr>
+<tr><td align=center>(Knowledge Skills)</td><td align=center>(Perception Skills)</td></tr>
+<tr><td>'''Mechanical....................XD+0'''</td><td>'''Technical....................XD+0'''</td></tr>
+<tr><td align=center>(Mechanical Skills)</td><td align=center>(Technical Skills)</td></tr>
+
+</table>

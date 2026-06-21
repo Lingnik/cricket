@@ -1,0 +1,68 @@
+TITLE: Template:Sheet
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T13:45:07Z
+======================================================================
+{| border="0" cellpadding="0" style="border:1px solid #000; width: {{{width|44%}}}; border-collapse: collapse; font-family: Arial; font-size: 8pt;{{{style|}}}"
+|-
+|style="padding:0px;"|
+
+{|cellspacing="0" width="100%"
+{{#if:{{{image|}}}|
+{{!}}-
+{{!}}align="center" colspan="2"{{!}}{{{image|}}}
+}}
+|-
+|align="center" bgcolor="{{{title-bgcolor|#aaaaaa}}}" colspan="2" style="color:{{{title-color|#000000}}};font-size: 11pt;font-weight:bold;"|{{{title|Statistics}}}
+|-
+|width="100%" style="font-size: 9pt;font-weight:bold;padding:0 1em 0 5px"|Stat / Skill
+|width="0%" style="font-size: 9pt;font-weight:bold;padding:0 1em 0 0"|Rating
+|-
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 1em"|Dexterity
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 0"|{{{dexterity|2D}}}
+{{{dexterity-skills|}}}
+|-
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 1em"|Knowledge
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 0"|{{{knowledge|2D}}}
+|-
+{{{knowledge-skills|}}}
+|-
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 1em"|Mechanical
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 0"|{{{mechanical|2D}}}
+|-
+{{{mechanical-skills|}}}
+|-
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 1em"|Perception
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 0"|{{{perception|2D}}}
+|-
+{{{perception-skills|}}}
+|-
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 1em"|Strength
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 0"|{{{strength|2D}}}
+|-
+{{{strength-skills|}}}
+|-
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 1em"|Technical
+|bgcolor="#eeeeee" style="font-weight:bold;padding:0 1em 0 0"|{{{technical|2D}}}
+|-
+{{{technical-skills|}}}
+|-
+{{#if:{{{languages|}}}|
+{{{!}} width="100%" style="border-collapse: collapse;padding: 0px" border=0
+{{!}}-
+{{!}}align="center" bgcolor="{{{title-bgcolor|#aaaaaa}}}" colspan="2" style="color:{{{title-color|#000000}}};font-size: 9pt;font-weight:bold;"{{!}}Languages
+{{{languages}}}
+{{!}}}
+}}
+|-
+{{#if:{{{equipment|}}}|
+{{{!}} width="100%" style="border-collapse: collapse;padding: 0px" border=0
+{{!}}-
+{{!}}align="center" bgcolor="{{{title-bgcolor|#aaaaaa}}}" colspan="2" style="color:{{{title-color|#000000}}};font-size: 9pt;font-weight:bold;"{{!}}Equipment
+{{{equipment}}}
+{{!}}}
+}}
+|-
+|}
+
+|}
+<noinclude>[[Category:Templates]]</noinclude>

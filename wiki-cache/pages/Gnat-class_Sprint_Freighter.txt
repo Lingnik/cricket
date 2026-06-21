@@ -1,0 +1,36 @@
+TITLE: Gnat-class Sprint Freighter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-09-24T04:41:33Z
+======================================================================
+The '''''Ilyrian Gnat''-class Sprint Freighter''' is a merchant ship made by [[SubPro]]. It is theoretically designed for express interstellar deliveries of small, time-sensitive cargos. It has has been something of a controversial design for SubPro - its fighter-like lines and high thrust sublight drives are not strictly the most efficient for cargo service. Also, like the much larger [[Lightning-class Sloop]], it has been observed that many of the Gnat's characteristics appeal to a less than legal market.
+
+Nevertheless the design has proven adaptable to a variety of needs. [[FineLine Spaceways|FLS]] makes heavy use of the Gnat for parcel service, and for short-range passenger runs. They have also proven popular among numerous small, speculative operators throughout the Mid-Rim, and have even been adapted to military use. Its small size, high speed, and vigorous aerobatic capabilities have also made it a popular craft for recreational pilots, often with conversions to payloads other than strictly freight.
+
+<pre>
+Craft ........ SubPro Ilyrian Gnat
+Type ......... Individual Freighter  Cargo Capacity ......... 80 metric tons
+Scale ........ Starship              Consumables ............ 1 month 
+Length ....... 20.5 meters           Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x12
+Crew ......... 1 or 2                Nav Computer ........... Yes
+Passengers ... 2                     Maneuverability ........ 3D
+Hull ......... 138                   Space Movement ......... 100
+Shields ...... 36                    Atmosphere ............. 600, 1200kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  800,  Focus:  40,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (6 filled)
+
+Stock Weapons:
+    Two Triple Blasters (fire-linked):
+      Weapon Rating .... Standard       Damage ........ 3D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+
+BASE COST NEW: 113000 cr             BASE COST USED: 29380 cr              
+SUGGESTED DOWNPAYMENT: 67800 (new), 17628 (used)</pre>
+
+[[Category:Starships]]
+[[Category:SubPro Ships]]

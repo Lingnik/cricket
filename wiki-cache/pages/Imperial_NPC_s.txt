@@ -1,0 +1,99 @@
+TITLE: Imperial NPC's
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-02-24T09:21:57Z
+======================================================================
+These stats can be used to represent 'generic' Imperial NPC's.
+
+== <span style="font-size:24px;">Imperial Stormtrooper</span> ==
+Imperial Stormtroopers are trained and equipped for operations in a wide variety of combat theaters, they will typically be appropriately equipped for the environment.
+
+'''Dexterity''': 3D
+
+*Blaster: 5D
+*Dodge: 5D
+*Grenade: 4D
+'''Knowledge''': 2D
+*Survival: 3D
+'''Mechanical''': 3D
+*Ground Vehicle Operation: 4D
+*Vehicle Gunnery: 4D
+'''Perception''': 3D
+*Search: 4D
+'''Strength''': 3D
+*Brawling: 4D
+*Stamina: 4D
+'''Technical''': 2D
+
+Equipment: [http://sw1mush.wikia.com/wiki/ST-I ST-I] (5D damage, 0D+1 to blaster skill) or [http://sw1mush.wikia.com/wiki/ST-II ST-II] (6D damage, one per squad) or [[MX Heavy Blaster Pistol|MX Heavy Blaster pistol]] (5D damage, -1D+0 to blaster skill), Concussion Grenade (4D physical damage)
+===Stormtrooper Armor===
+'''Model''': Standard stormtrooper armor
+'''Type''': Military armor
+'''Scale''': Character
+'''Cost''': Not available for sale
+
+''Armor Protection'': +2D physical, +1D energy, -1D Dexterity and related skills (penalty not included above. Negated when wearing paired Stormtrooper Helmet.)
+
+''Comlink'': Helmet comlink
+
+''Sealed Body Glove'': Climate-controlled body glove and breath mask allows operation in uncomfortably cold or warm climates and toxic-air environments
+
+''MFTAS'': Multi-Frequency Targeting Acquisition System; negates penalties for low-visibility, negates penalties for fast-moving targets; polarized lenses prevent flash-blinding.
+
+''Utility Belt'': High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water pack, 2 medpacs
+===Scout-trooper Armor===
+'''Model''': Standard Scout Trooper Armor
+'''Type''': Military armor
+'''Scale''': Character
+'''Cost''': Not available for sale
+
+''Armor Protection'': +0D+2 physical, +0D+2 energy
+
+''Comlink'': Helmet comlink
+
+''Sealed Body Glove'': Climate-controlled body glove and breath mask allows operation in uncomfortably cold or warm climates and toxic-air environments
+
+''MFTAS'': Multi-Frequency Targeting Acquisition System; negates penalties for low-visibility, negates penalties for fast-moving targets; polarized lenses prevent flash-blinding.
+
+''Utility Belt'': High-tension wire, grappling hooks, spare blaster power packs, ion flares, concentrated rations, spare comlink, water pack, 2 medpacs, macrobinoculars
+
+== Imperial Trooper ==
+<p class="MsoNormal">Troopers of the Imperial Army and Navy are trained and equipped according to the means and wishes of the regional governor or commanding officer respectively. In rare cases, they may be a match even for Imperial Stormtroopers but in most cases they have only basic training and equipment:</p>
+
+'''Dexterity''': 2D
+
+*Blaster: 3D
+*Dodge: 3D
+'''Knowledge''': 2D
+
+'''Mechanical''': 2D
+*Ground Vehicle Operation: 3D
+*Vehicle Gunnery: 3D
+'''Perception''': 2D
+
+'''Strength''': 2D
+
+'''Technical''': 2D
+
+Equipment: Blaster Rifle (5D damage) or [[DY-255|DY-255 Heavy Blaster Pistol]] (5D damage, +0D-2 blaster), [[Field Armor|Field armor]] or [[Blast Vest]]
+
+''Field Armor: +''0D+2 Physical, +0D+2 Energy, -0D+1 Dexterity and related skills (penalty not included above)
+
+''Blast Vest: ''+1D Physical, +0D+1 Energy
+
+== TIE Pilot ==
+TIE fighters are un-shielded craft deployed in large, cost-effective swarms. Most TIE pilots have a short life-expectancy and so receive minimal training.
+
+'''Dexterity''': 2D
+
+'''Knowledge''': 2D
+
+'''Mechanical''': 3D
+*Starfighter Piloting: 4D
+*Starship Gunnery: 4D
+'''Perception''': 3D
+
+'''Strength''': 2D
+
+'''Technical''': 2D
+
+Equipment: [[DL-18|DL-18 Blaster Pistol]] (4D damage, +0D-2 Blaster), Flight suit (sealed environment, two hours of life support)[[Category:NPC Stats]]

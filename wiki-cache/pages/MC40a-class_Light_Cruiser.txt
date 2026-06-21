@@ -1,0 +1,85 @@
+TITLE: MC40a-class Light Cruiser
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2009-01-06T04:32:14Z
+======================================================================
+{{Ship Capital|
+image=[[Image:MC40.jpg|280px|MC40a-class Star Cruiser]]|
+name=''MC40a''-class|
+type=Star Cruiser|
+des=MC40a|
+scale=Capital Warship|
+design=[[starwars:Mon Calamari Shipyards|Mon Calamari Shipyards]]|
+built=Various Locations|
+status=Coded; 5,250,000 credits|
+length=500|
+land=Yes|
+engine=Unknown|
+power=Unknown|
+hull=1000|
+shields=216|
+crew=3000|
+pass=400|
+cargo=6500|
+consume=2 year|
+hyper1=x1|
+hyper2=x12|
+space=70|
+manuv=2D|
+sensor-standard=1600|sensor-focus=50|sensor-passive=400|
+gunnery=20 x Heavy Turbolaser batteries<br />10 x Ion Cannon batteries|
+launchers=|
+tractor=10 x tractor beam projectors|
+hangar=275|
+craft=
+Up to 45 vessels|
+statsheet=|
+}}
+
+==History==
+
+==Deployment==
+
+
+
+==Statsheet==
+
+<pre>Mon Calamari Star Cruiser
+        
+Craft ........ Mon Calamari Star Cruiser
+Type ......... Star  Cruiser         Cargo Capacity ......... 6500 metric tons
+Scale ........ Capital               Consumables ............ 2 years
+Length ....... 500  meters           Hyperdrive Multiplier .. x1
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+Crew ......... 3000                  Nav Computer ........... Yes
+Passengers ... 400 (troops)          Maneuverability ........ 2D
+Hull ......... 1000                  Space Movement ......... 70
+Shields ...... 216                   Hangar Space ........... 275
+Can Land? .... Yes                   
+
+Sensors ...... Normal:  1600,  Focus:  50,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 84 total (50 filled)
+ 
+Stock Weapons:
+ 
+   Twenty Heavy Turbolaser Batteries:
+      Weapon Rating .... Type 3          Damage ........ 7D
+      Fire Arc ......... 4FR, 3L, 3R     Fire Control .. 1D
+      Space Range ...... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+   Two Tractor Beam Projectors (fire separately):
+      Weapon Rating .... Class 1           Damage ........ 4D
+      Fire Arc ......... 2F, 3L, 3R, 2B    Fire Control .. 2D
+      Space Range ...... 1-5/15/30         Atmo Range .... 1-5km/15km/30km
+ 
+   Ten Ion Cannon Batteries:
+      Weapon Rating .... Type 1            Damage ........ 4D
+      Fire Arc ......... 4FR, 3L, 3R       Fire Control .. 4D
+      Space Range ...... 1-5/15/30         Atmo Range .... 200m-1.2km/3km/6km
+
+BASE COST NEW: 5250000 cr            BASE COST USED: 137500 cr             
+SUGGESTED DOWNPAYMENT: 3150000 (new), 82500 (used)</pre>
+
+[[Category:Capital Ships]]
+[[Category:REC Ships]]
+[[Category:NRMil Restricted Ships]]

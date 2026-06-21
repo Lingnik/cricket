@@ -1,0 +1,30 @@
+TITLE: CR90 Corvette statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-09-06T16:10:01Z
+======================================================================
+<pre>
+Craft ......... Corellian Engineering Corporation Corvette
+Type ......... Multi-Purpose Vessel  Cargo Capacity ......... 3000 metric tons
+Scale ........ Capital               Consumables ............ 1 year
+Length ....... 150 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... None
+Crew ......... 30 to 165 (depends)   Nav Computer ........... Yes
+Passengers ... Up to 600 (depends)   Maneuverability ........ 2D
+Hull ......... 828                   Space Movement ......... 60
+Shields ...... 162                   Atmosphere ............. 330; 950km
+Can Land? .... Yes                   Hangar Space ........... 100
+
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 29 total (12 filled)
+
+Stock Weapons:
+    Ten Turbolaser Batteries (fire separately):
+      Weapon Rating .... Type 1           Damage ........ 5D
+      Fire Arc ......... 3FR, 1L, 1R, 1B  Fire Control .. 3D
+      Space Range ...... 3-15/35/75       Atmo Range .... 30km/70km/150km
+
+BASE COST NEW: 2950000 cr            BASE COST USED: 826000 cr             
+SUGGESTED DOWNPAYMENT: 1770000 (new), 495600 (used)</pre>
+
+{{statsheet ship|CR90 Corvette}}

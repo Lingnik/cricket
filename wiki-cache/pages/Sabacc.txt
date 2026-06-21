@@ -1,0 +1,70 @@
+TITLE: Sabacc
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-05-25T13:04:26Z
+======================================================================
+'''Number of Players:''' As many as can sit at a table; but usually seats are provided for no more than seven or eight players. Players take turns as the dealer each hand, in a clockwise fashion.
+
+'''The Pack:''' Custom 76 card Sabacc Deck. The Dealer will often take a blank card which is never dealt, but is faced up at the bottom of the pack to mark location of the last of the shuffled cards.
+
+'''Rank of Cards:''' As indicated by number on card.
+
+* Four Suits (Coins, Flasks, Sabres, Staves) numbered 1-11
+* Four Ranked cards for each suit:
+** Commander: Value of 12
+** Mistress: Value: 13
+** Master: Value: 14
+** Ace: Value: 15
+* Face Cards:
+** Queen of Air and Darkness: Value of -2
+** Endurance: Value of -8
+** Balance: Value of -11
+** Demise: Value of -13
+** Moderation: Value of -14
+** The Evil One: Value of -15
+** The Star: Value of -17
+** The Idiot: Value of 0
+
+'''The Shuffle and Cut:''' Dealer and any other player who wishes may shuffle portions of the pack until all cards have been shuffled and combined. Any player may cut the pack. The extra card (the blank) is placed face up at the bottom.
+
+'''Chips/Credits:''' In friendly play, the lowest valued chip is generally equal to 10 credits, or is played for the sake of no exchange of credits after the hand. In casino play, or darker circles, the lowest value is rarely under 100 credits and often 1000 credits.
+
+'''Object of the Game:''' To have the highest positive card total, which is less than or equal to 23, or to have a negative 23. A hand that totals to more than 23 or less than negative 23, or totals zero, is called a "bomb", and you may have to pay a penalty.
+
+'''Ante:''' Everyone wishing to play (plus the house/dealer) must ante one chip of the base value into both the Hand Pot and the Sabacc Pot.
+
+'''The Deal:''' The Dealer deals out one card to each player, including himself, in rotation, and then repeats another rotation. Thus each player including the dealer has two cards face down.
+
+'''Progression of Play:''' Each hand is played in rounds. A round consists of the following four phases: Betting, Shifting, Calling, and Drawing.
+
+'''Betting:''' Beginning with the player to the dealer's left, each player may elect to either bet or fold. In friendly games, the maximum bet/raise is determined ahead of time, and is normally 10 chips. However, this can be any amount the players desire. Casinos will generally have a more strict betting sytem, explained in the Variations section below.
+
+:Going clockwise from that player, each person must match the previous bet to stay in the hand. They may also raise the bet to a new amount. The amount of the raise can be no more than the predetermined maximum, again, normally 10 chips.
+
+:Bets are made to the Hand Pot only. If a raise is made, all players must at least match the new bet amount to stay in the hand. When no one wishes to raise anymore, the betting phase is over.
+
+'''The Shift:''' The dealer rolls a six-sided die. If the roll is a 1, 2, or 3, then no shift is made. If the roll is a 4, 5, or 6, then a shift occurs. Essentially, there is a 50% chance each round that shifting will occur. On a shift, every player selects and discards a card at random from the hand of the player to their right. The dealer adds these cards to the bottom of the deck face down, below the blank marker card. The dealer then deals one new card to each player from the top of the deck. See the Variations section below for rules on Interference Fields at some casinos and parlours.
+
+'''Calling:''' The Calling phase follows the Shifting phase only on the fourth round and on each round thereafter. No one may call a hand until at least four rounds have been played. Thereafter, on every round anyone may Call the hand after the Shifting phase. When a player Calls the hand, play is immediately ended, without a last Drawing phase. Everyone reveals their cards face up on the table, and Victories and Winnings are resolved. (See Winnings section below)
+
+'''Drawing:''' If no one elects to call the hand (or if 4 rounds have not yet been played), each player, starting with the player to the dealer's left, and proceeding clockwise, may have an additional card dealt to them face down. The player may then add that card to his hand, and if they like, they may also discard any one card of his choosing, including the card just dealt. You may hold more than but never less than two cards during play. Play then continues with another round of betting, and proceeds as normal.
+
+'''Winning a Hand:''' When a hand has been called, everyone turns their cards face up. Whichever player has the highest card total of 23 or less wins the hand and the chips in the Hand Pot. If two or more players are tied for the winning hand a sudden demise is carried out. Each player is dealt another card and added to their hand. The best modified hand is the winner.
+
+:The Sabacc Pot is won only on two conditions, and if no one meets either of these conditions, the Sabacc Pot is carried over to the next hand. If a player has exactly 23 or exactly negative 23, they have a Pure Sabacc, and win both the Hand Pot and the Sabacc Pot. A player holding an Idiot's Array holds the highest possible hand in Sabacc and beats even Pure Sabacc hands, taking both the Hand Pot and the Sabacc Pot. An Idiot's Array is a Zero (The Idiot), a 2, and a 3 (literally 023). A sudden demise is used in the case of a tie on these special hands as well. If on the sudden demise the players are still tied, then they split the winnings.
+
+:Should both players have hands that are "bombs" on a sudden demise, then both player pay any "bomb" penalties (if that common variant rule is being used), and the winner of the hand is the person holding the next highest hand, excluding anyone who folded. If no other winners are avaiable, no one wins, and the Hand Pot moves into the Sabacc Pot and a new hand is played.
+
+'''Restrictions:''' At most casinos, the Hand Pot has a maximum amount of 500,000 credits. If it exceeds this amount, then the hand is called. This amount can vary from casino to casino, and during "friendly play" an amount is agreed upon by all players before the game begins. Some casinos also limit the maximum amount that can be in the Sabacc Pot (normally 1,000,000 credits), and when it exceeds that limit, it is reset, with the establishment taking the money and adding it to the house funds (and profit!)
+
+'''Variants:'''
+
+* Casino Betting Rules: In most casinos, the maximum opening bet is equal to the opening Hand Pot (which will be equal to the number of players, as the only chips in the Hand Pot at the beginning of a hand are the Antes). The maximum amount of the raise is the current bet. So if the current bet is 16 chips, you may raise up to a maximum of 16 more chips.
+* Wookie Betting Rules: There is no minimum or maximum to either the bet or the amount of the raise. Every player is free to start the bet at whatever amount they desire and raise the bet by any amount as well.
+* Interference Fields: Many casinos have tables equipped with Interference Fields. These Interference Fields remove the possibility of cards placed in those fields from being switched. To place a card in the Interference Field, simply play it (and other cards you want to have in the Interference Field) face up in front of you. They cannot be switched during the switching phase.
+* Penalties: If when the hand is called you bomb on your hand (going over 23 or under -23, or holding a hand with a total value of zero), you must pay a penalty into the Sabacc Pot equal to the total amount of credits currently in the Hand Pot. This variant is so common, that nearly every casino uses this rule, and most friendly games do as well.
+
+=== Sources ===
+Sabaac Rules from [http://swagonline.net/sabacc.php SwagOnline.net]
+
+
+[[Category:Games]]

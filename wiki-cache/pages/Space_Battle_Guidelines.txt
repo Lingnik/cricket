@@ -1,0 +1,299 @@
+TITLE: Space Battle Guidelines
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-12-09T01:55:48Z
+======================================================================
+'''DISCLAIMER'''<br />
+This is one of the ways you can choose to do space combat. You can also RP it out, or use DarrienSpace (DSpace). Everyone has different preferences, it is up the players in the scene and/or the player running the scene to decide which will be used.
+
+This page is a guide to a simple space combat system, and can be used by all players in game as a reference.  The basic premise of the space system is to have players check their gunnery skill against another player's piloting skill to determine the RPed outcome of a fight between two spacecraft.
+
+'''For simplified rules, see ''[[Space Battle Guidelines/Basic Combat|Basic Starfighter Rules]]'''''
+
+== Introduction ==
+This is the guide to how the major space battle will be played out.  All players must be familiar with the following commands:
+
+'''misc/emit''' - Used for posing<br>
+'''misc/roll (dice)''' - Used to roll XD+X number of dice<br>
+'''misc/+check (skill)''' - Used to check that particular skill<br>
+
+If the misc/emit command is not used to pose, it will be emitted only in your cockpit or bridge, and nobody will be able to see it but you.  All poses will be seen by /everyone/ throughout the battle.  Please note:  '''There will be NO OOC CHATTER once the battle begins''' This is because it spams up the battle and takes away from the RP.  Please use pages or channels for talk: '''@channel/on milpilots'''.  Page the player in charge during battle for questions/comments.
+
+== Setup ==
+Everyone aboard a ship or a fighter will enter into a combat group.  The groups are as follows:
+* Capital ship cbt group = Here all captial ships will do their battling, with PCs emitting from them.
+:''The captial ship may be broken into smaller groups if there are more players''
+* Fighter cbt group 1 = 4 players max, 2 fighters from each side.
+* Fighter cbt group 2 = 4 players max, 2 fighters from each side.
+* More fighter groups as needed
+
+'''The pose order is for your group only!''' As everyone will be emitting to space, there will be multiple things happening.  Everyone will pose in the order established by your cbt group.  There will be one person in charge of each group to enforce this standard, and make sure RP continues.  ''5 minute pose time max''
+
+'''NOTE: All players need to preface their pose by their name, their combat group, and their pose order number!'''
+
+Example: There are four players in cbt group 1. Their pose order is - 
+* Max 1
+* Sally 2
+* Jack 3
+* Marsha 4
+Let's say Marsha is posing, so she'd use the following command followed by her group:  '''misc/emit <Marsha/1/4> Marsha poses quickly and efficiently!'''
+
+Questions about this will be directed to your group leader first; otherwise direct to the player in charge.  Placing a tag on the front of your pose as to your name, ship, and RP Group greatly helps all in a scene determine who's pose it is and who said it from what group.
+
+For guidelines on how to effectively pose in combat, [[Combat RP|''click here'']].
+
+== Pose Order ==
+In this system, players should all +check sensors before RP begins.  This will determine the pose order for the round, and will allow every player to pose in.  Normally, once each side has spotted each other the next turn they are permitted to open fire.  However, it is up to the player in charge to decide when each side is within range to fire.
+
+== Captial Ship Comabt ==
+For the capital ships, combat will be RP only.  The two opposing commanders will coordinate what will be happening.  Occasionally the player in charge will be adding scene poses to enhance RP.  
+
+== Fighter Combat ==
+=== Single Check Rules ===
+'''''NOTE: This is one of two ways to do combat; it must be stated before a scene as to which will be used!  See below for enhanced (2 check) rules.'''''
+
+If chosen, this ruleset is where each fighter does one check, one side for attacking and the other for defending.  An example of this is below:
+
+{| width="50%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+:The ''attacking'' fighter will misc/+check ''<starship gunnery>''
+:The ''defending'' fighter will misc/+check ''<starfighter piloting>''
+|}
+
+If the attacker's roll is greater than the defenders, the attacker hits. Damage is then determined by each player; here's a guide to clear up what kind of damage you would be suffering based on the difference in rolls just made:
+{| width="50%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''starship gunnery roll > starfighter piloting roll''' by:
+:0-3   - Shields blown/controls ionized
+:4-8   - Lightly damaged
+:9-12  - Heavily damaged
+:13-15 - Severely damaged
+:16+   - Destroyed
+|}
+
+=== Enhanced Double Check Rules ===
+'''''NOTE: This is one of two ways to do combat; it must be stated before a scene as to which will be used!  See above for simplified (1 check) rules.'''''
+
+If chosen, this ruleset is where each fighter does two checks.  The resulting checks are added together for the attacker yielding an attack score and the same for the defender yielding a defense score. How to compute these scores is below:
+
+{| width="80%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+Attack Score
+:The ''attacking'' fighter will misc/+check ''<starship gunnery>''
+:The ''attacking'' fighter will misc/roll ''<targetting modifier>''
+:Add the resulting rolls to compute the attack score
+Defense Score
+:The ''defending'' fighter will misc/+check ''<starfighter piloting>''
+:The ''defending'' fighter will misc/roll ''<manuever modifier>''
+:Add the resulting rolls to compute the defense score
+
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+Manuever Modifiers
+:''X-Wing'' 3D+0
+:''Y-Wing'' 2D+0
+:''TIE MkII'' 3D+2
+:''Scimitar'' 2D+1
+Targetting Modifiers
+:''X-Wing (lasers)'' 3D+0
+:''X-Wing (torpedos)'' 2D+0
+:''Y-Wing (lasers/ions)'' 2D+0/3D+0
+:''Y-Wing (torpedos)'' 2D+0
+:''TIE MkII'' 3D+0
+:''Scimitar (lasers)'' 2D+1
+:''Scimitar (torpedos)'' 3D+2
+|}
+
+If the attack score is greater than the defense score the attacker hits, otherwise it is a miss. Damage is then determined by each player.  In order to make it fair as the TIE is faster but the X-Wing has more armor there are two tables.  All other ships in game that are similar to the X-Wing should use that table.  Below are the tables of what damage you would be suffering based on the difference in rolls just made:
+
+{| width="80%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''Damage to X-Wing'''<br>
+''This craft has 2 shield levels''<br>
+''attak score > defense score'' by:
+
+{| width="100%" border="0" cellspacing="0" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top" |
+'''''Torp'''''
+:(''0-2'') 
+:(''3-6'') 
+:(''7-11'') 
+:(''12-15'')
+:(''16-19'')
+:(''20+'')
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''''Laser'''''
+:'''0-4'''   - Shields Reduced
+:'''5-9'''   - Shields out
+:'''10-15''' - Lightly damaged
+:'''16-21''' - Heavily damaged
+:'''22-26''' - Severely damaged
+:'''27+'''   - Disabled / Inoperative
+|}
+
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''Damage to TIE MkII'''<br>
+''This craft has 2 shield levels''<br>
+''attak score > defense score'' by:
+
+{| width="100%" border="0" cellspacing="0" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''''Torp'''''
+:(''0-2'') 
+:(''3-6'') 
+:(''7-9'') 
+:(''10-12'') 
+:(''13-16'') 
+:(''17+'') 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''''Laser'''''
+:'''0-4'''   - Shields Reduced
+:'''5-8'''   - Shields out
+:'''9-13''' - Lightly damaged
+:'''14-17''' - Heavily damaged
+:'''18-22''' - Severely damaged
+:'''23+'''   - Disabled / Inoperative
+|}
+|}
+
+'''''DAMAGE NOTE:''' For laser or ion damage to the X-Wing or TIE from a Y-Wing or Scimitar, increase the ranges by 4, 0 remains 0. 
+
+'''''DAMAGE NOTE 2:''' All craft firing torpedos or missiles at fighters or bombers incur a -2D+0 penalty''
+
+{| width="80%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''Damage to Y-Wing'''<br>
+''This craft has 3 shield levels''<br>
+''attak score > defense score'' by:
+
+{| width="100%" border="0" cellspacing="0" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top" |
+'''''Torp'''''
+:(''0-0'') 
+:(''0-5'') 
+:(''6-9'') 
+:(''10-13'') 
+:(''14-17'')
+:(''18-22'')
+:(''23+'')
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''''Laser'''''
+:'''0-7'''	Shields Reduced 1 Level
+:'''8-12'''	Shields Reduced 2 Levels
+:'''13-17'''	Shields out
+:'''18-23'''	Lightly damaged
+:'''24-29'''	Heavily damaged
+:'''30-34'''	Severely damaged
+:'''35+'''	Disabled / Inoperative
+|}
+
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''Damage to Scimitar'''<br>
+''This craft has 3 shield levels''<br>
+''attak score > defense score'' by:
+
+{| width="100%" border="0" cellspacing="0" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''''Torp'''''
+:(''0-0'') 
+:(''0-5'') 
+:(''6-10'') 
+:(''11-15'') 
+:(''16-20'')
+:(''21-26'')
+:(''27+'')
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+'''''Laser'''''
+:'''0-7'''	Shields Reduced 1 Level
+:'''8-12'''	Shields Reduced 2 Levels
+:'''13-19'''	Shields out
+:'''20-26'''	Lightly damaged
+:'''27-33'''	Heavily damaged
+:'''34-40'''	Severely damaged
+:'''41+'''	Disabled / Inoperative
+|}
+|}
+
+=== Damage Explained === 
+:''Shields Reduced (1/2 Levels)'' - Reference the table under shields reduced when further damaged.
+:''Shields Out'' - Reference the table under shields out when further damaged.
+:''Lightly damaged'' - Starships can be lightly damaged any number of times; shields are out.
+:''Heavily damaged'' - Heavily damaged ships have taken a much more serious amount of damage. If a heavily damaged ship is lightly damaged or heavily damaged again, it becomes severely damaged. Subtract 0D+2 from maneuverability and targeting; shields are out.
+:''Severely damaged'' - Severely damaged ships have taken major amounts of damage and are rendered almost useless. A severely damaged ship which is lightly damaged, heavily damaged or severely damaged again is destroyed. Subtract 1D+1 from maneuverability and targeting; shields are out.
+:''Disabled / Inoperative'' - The ship is either disabled or inoperative; it is no longer able to function.
+
+'''NOTE: Once a craft is disabled / inoperative it cannot be fired upon again.  It is out of the fight.'''
+
+'''''NOTE:''' Shield levels are removed at the loss of that level up to the maximum of all shields lost, see example below''
+
+<br>
+
+''Y-Wing Example:''
+:Round one - takes 5 points of damage, 1 shield level loss. (0-7) is now 2 shield level loss.
+:Round two - takes 5 points of damage, 1 shield level loss, 2 levels overall. (0-7) is now shields out.
+:Round three - takes 5 points of damage, shields out. (0-7) is now light damage.
+:''All rolls now are based off of light damage being (0-7), heavy (8-12), etc. - no shields remain.''
+:Round four - takes 9 points of damage, moderate damage.  This craft incurs a penalty of 0D+2 off targetting and manuever, and must wait 1 turn without being damaged before attempting to raise shields.
+
+=== Bringing Shields back Online / Droids ===
+Below is a table to determine if a ship's shields are able to be brought online at the start of the round based on damage taken. If a ship's shields go out and the player does not have an astromech, they may attempt bringing them online that round with the ''shield operation'' skill; however, they are not able to fire that round.  If they have an astromech it can be added to the pilots skill roll that round, but the pilot is still not able to fire that round.  An astromech may not be used to bring shields online that round while the pilot is firing.  It is either one or the other. To use the recovery table, use the applicable rolls to the current damage state of your ship.  The delay is for the simulation that damage has occured to the craft, and it will take longer to actually be able to refresh the shields.  A player must wait the number of turns before attempting to raise them again.  Should a player be damaged again while waiting the number of turns, the new damage time to wait applies.  Thus, to be able to raise shields after being damaged the craft must not be hit for that number of rounds.
+
+{| width="100%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+Shield Recovery Score
+:5-9 '''Partial '''/ 10-14 '''Full''' - No damage, no delay
+:10-14 '''Partial'''/ 15-20 '''Full''' - Lightly damaged, 1 turn delay
+:''(If Droid equipped, the droid only may attempt recovery on light damage)''
+:15-20 '''Partial'''/ 21-25 '''Full''' - Heavily damaged, 1 turn delay
+:21-25 '''Partial'''/ 26+ '''Full''' - Severely damaged, 2 turn delay
+''Partial refers to 1 level, full refers to 2 levels.  Anything greater than full is 3 levels''
+
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+Shield Recovery Score
+:The pilot flying will misc/+check ''<shield operation>''
+:If using an astromech, misc/roll ''<droid shield skill>''
+:If using your skill and your astromech add resulting scores together
+|}
+*'''NOTE:''' The only time a pilot may fire while the droid brings shields back online is at the light damage level.  In this case, the droid's roll is the only one applied to the shield table.
+
+=== Damage to Characters ===
+Should a craft take heavy damage or more, it is likely that the character in the vessel will take damage to their person.  Below is a guide to passenger damage based off the 'news combat' files in game.  Standard flightsuit armor is '''0D+2'''.
+{| width="100%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+
+Damage > Strength + Armor
+:< 0 - None
+:0-3 - Stunned
+:4-8 - Wounded
+:9-12 - Incapacitated
+:13-15 - Mortally Wounded*
+:16+ - Killed*
+
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+Damage Roll
+:Light Damage - No
+:Heavy Damage - 2D
+:Severe Damage - 3D
+:Inoperative - 6D
+|}
+*'''NOTE:''' See the 'news combat' files in game for further information on damage to characters.
+
+== NPC Combat ==
+Here's a guide to damage against a NPC ship; this system will work for both systems as only 1 check will still be made, starship gunnery.  Damage done to the NPC fighter is depicted below:
+
+{| width="50%" border="0" cellspacing="5" 
+| style="border: 1px solid #FFF; color: #000; background-color: #F4F4F4; vertical-align: top; padding: .4em .9em .9em" |
+Check #
+:'''00-09'''  - Complete Miss 
+:'''10-15'''  - Shield hit/minor damage 
+:'''16-20'''  - Shield hit/moderate damage 
+:'''21-25'''  - Shields gone/severe damage 
+:'''26+'''    - Destroyed 
+|}
+
+== Extra Information ==
+Each player should be RPing accordingly to this guide.  It will not be said what will get blown or destroyed; that's the point to RP - the players decide.  Questions or disputes over what a player is doing about these rolls or damage ''will'' be directed to the player in charge.  Should anyone get close to being destroyed, it is up to the players as to what they wish to do.  No player will be killed against his/her will.  Please don't forget to communicate with pages to discuss things.  Contact the player in charge should any problems occur when any player gets to this point.  
+
+Main coded ships are not to be destroyed unless coordinated with the other side, damage is always ok - just make sure the other side knows what you're doing.  Please do not ask to destroy these... there are plenty of escort ships and whatnot throughout battles that can be engaged; the commanders in charge will direct orders when it comes to these ships.  Specific combat groups will have different objectives, RP will be directed to the accomplishment of these goals.  The end ''is not'' scripted.  However, do note one side or the other at times will not retreat in battle.  NR people may refer to bboard 39 for information or ask on channel about upcoming battles if they have questions.  Imperial people may refer to bboard 40 for information or ask on channel about upcoming battles if they have questions.
+
+'''If there are any problems with this system or questions please contact Krieg.'''
+
+[[Category:Interaction Guides]]

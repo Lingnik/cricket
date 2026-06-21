@@ -1,0 +1,38 @@
+TITLE: Forum:Main page opinions
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2007-10-26T12:33:53Z
+======================================================================
+{{Forum:Public_channel/header}}
+[[Category:Public channel|{{PAGENAME}}]]
+
+<!-- write after this line, please -->
+Any opinions on the new main page layout? Good, crap, so-so? Some changes that could be made to spice it up some more, make it more accessible or what-not? I'm all ears. --[[User:Danik Kreldin|Danik Kreldin]] 23:15, 11 October 2007 (UTC)
+
+
+All that yellow and green is kind of...gross. I really liked the way it originally looked. --[[User: Aaargh|Aaargh]]
+
+
+Too yellow. -- [[User:Xerxes|Xerxes]] 02:28, 12 October 2007 (UTC)
+
+Agreed... the colors are off - badly.  However, the layout is an improvement if you ask me. --[[User:Nasa eagle|Nasa eagle]] 03:43, 12 October 2007 (UTC)
+
+*Layout was a major thing for me. Wanted to give it an easier and fresh design. The colors can be changed very easily. What do you guys think? Just plain white like last time? --[[User:Danik Kreldin|Danik Kreldin]] 12:25, 12 October 2007 (UTC)
+
+*I know I haven't been here in a bit, but may I say... <font style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; font-variant: italic; color: #ce5100;">WOW</font><br />Nice work on this, Danik. With this now down, I may try and sneak some photography, icons, and artwork into the layout. I've really been getting a mastery of CSS, so I may be able to glammy-up the borders and fields here, too. But overall, this has been a long time coming, and looks great. -- [[User:Hawke|Hawke / Rtufo]] 15:12, 12 October 2007 (UTC)
+
+*Personally, I'd really rather it go back to the way it was originally. I've heard a few people on the MUSH saying that they're having a hard time finding anything on the wiki now. If you start adding things like different fonts or art and pictures, its just going to get more confusing and cluttered, imo. --[[User:Krackor|Krackor]] 4:48, 12 October 2007
+
+*While I can understand why you may not like the new layout, I fail to see how it's difficult to find anything. Structurally, nothing on the Wiki has changed. Categories are still the same, articles are still the same, and the means to access the articles have remained untouched. I even kept the same items from the original page for the new layout - you got the featured article, did you know, famous quotes (or last words, as it was previously known), and the all-important contributor's center. And, of course, the main category listings. Want to find characters... you click on the Character tab. Or Battle or event, or organization, or, perhaps more importantly, the roleplay logs. So everything is still the same. Over the week I'm going to make things even easier by cleaning up the categories (there are some useless ones there) and making a main category page where you can easily browse for everything. Right it's now it's all pretty decentralized and messy, structural-wise. But, the means of accessing it all is still the same as always - so it should be the same experience as before. Tell those who are having a hard time to post their concern at the forum and I'll help them. Maybe there is something I overlooked... but I don't think so O_o We'll see. --[[User:Danik Kreldin|Danik Kreldin]] 03:32, 13 October 2007 (UTC)
+
+*I'm with those who say the new layout is an improvement - it took a little getting used to, but I think it's much cleaner and easier to use.  Adding a few pictures would liven it up, but as Krackor says, that shouldn't go overboard otherwise it will become clutter.  I'm sure there's a good balance.  Great work on this Danik, and I look forward to the next changes on the wiki. :) --[[User:Inanna|Inanna]] 13:12, 13 October 2007 (UTC)
+
+*I like the look of the new layout, the green and yellow stuff was hideous but I rarely go to the main page anyway. I have the built in search function I created to go right to the pages I want to visit or hit the recent changes pages, etc. I do agree that the main page probably shouldn't become cluttered but the current layout is fine. --[[User:ImperialFH|ImperialFH]] 13:34, 13 October 2007 (UTC)
+
+Do we have to have the Gaming Wikia banner at the bottom? Also where you have 'the forums' and 'the game', they look odd. I would remove 'the' and name the sections 'forums' and drop 'The game' as that page is completely redundant when you have everything on that page in the 'About the MUSH' section. --[[User:ImperialFH|ImperialFH]] 13:41, 13 October 2007 (UTC)
+
+
+*Krackor - I think that the problem might be related to the new skin that was implemented a few months ago. The classic Wikia skin was altered to the new skin, changing the layout of every Wiki page all-around. I liked the new skin so I use it to view my pages. However, users have the choice of using the old, classic skin when viewing pages. You have to go to your user Preferences and changing it there.
+
+However, I removed the green/yellow colors from the main page. I'll remove the "the" before forums. However, I want to keep the game section because I plan on greatly expanding the Star Wars MUSH article, setting it up as a nexus of sorts for links to game rules (combat rules, consent, and more) and other categories and such. --
+*One of the problems I'm noticing with the new layout is that the "table of contents" is not standard throughout the various skins available or through browsers. It looks "good" on the new skin with FIrefox, but not so good with Internet Explorer - now I'm looking at it with the classic default (monobook) skin, on Firefox, and it looks messed up again. For instance, with this messed up view, the top row has "society and culture governments" like that, with "and organizations | rules etc" at the bottom. There's no | between the "society and culture" and "governments," either, something I had done because I was looking at it on the new skin view, where it was formatted correctly ("governments and organizations" starting the bottom row, negating the need for a | between that and "society and culture".) So anyone have any suggestions on how to make it look standard throughout various browsers/skins? --[[User:Danik Kreldin|Danik Kreldin]] 20:06, 13 October 2007 (UTC)
+**I would recommend keeping the pipe character.  When using a flow layout like you're going to be dependent on the width of the browser.  On my screen (1680x1050) it previously looked just fine with all categories displayed in a single line.  Even without the pipe, I can still resize my browser window to replicate the original problem (line ending with a pipe) AND I also have the problem that the '''society and culture''' and '''governments''' links end upon the same line with a pipe between them.  You're not really going to be able to account for all resolutions, so I say keep the pipe.  -- [[User:Xerxes|Xerxes]] 12:33, 26 October 2007 (UTC)

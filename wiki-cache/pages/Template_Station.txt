@@ -1,0 +1,68 @@
+TITLE: Template:Station
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-26T20:40:17Z
+======================================================================
+<table width="260" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="260" align="right" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="260" align="center" valign="top" colspan="2">{{{image}}}</td></tr>
+<tr style="font-family: Arial; font-size: 10pt;">
+<td width="260" align="center" valign="top" bgcolor="#978a7a" colspan="2"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="100" align="left" valign="top">Principality:</td>
+<td width="160" align="left" valign="top">{{{principal}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Parent system:</td>
+<td align="left" valign="top">{{{parent}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Location:</td>
+<td align="left" valign="top">{{{location}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Sim Status:</td>
+<td align="left" valign="top">{{{status}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#dedebd" colspan="2"><b>Specifications</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Diameter:</td>
+<td align="left" valign="top">{{{diameter}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Class:</td>
+<td align="left" valign="top">{{{class}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Type:</td>
+<td align="left" valign="top">{{{type}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#dedebd" colspan="2"><b>Demographics</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Total Population:</td>
+<td align="left" valign="top">{{{pop}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Points of Interest:</td>
+<td align="left" valign="top">{{{interest}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#dedebd" colspan="2"><b>Economics</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Major Exports:</td>
+<td align="left" valign="top">{{{export}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Major Imports:</td>
+<td align="left" valign="top">{{{import}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Hosted Industries:</td>
+<td align="left" valign="top">{{{industry}}}</td>
+</tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Station]]</noinclude>

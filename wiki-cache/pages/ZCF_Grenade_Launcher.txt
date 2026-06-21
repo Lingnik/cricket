@@ -1,0 +1,23 @@
+TITLE: ZCF Grenade Launcher
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-12-10T21:27:16Z
+======================================================================
+In terms of length and weight, this stubby projectile weapon is actually a 
+touch smaller than many blaster rifles. It is fitted with a shoulder-stock, 
+pistol grip, and folding front fore-grip to make this weapon easier to handle
+- a wise precaution given the '''Zone Control Four''''s tendency to recoil rather heavily.  The 
+weapon uses a magnetic field rather than a chemical propellant to launch its 
+shells, so nearly any properly sized, contact fused grenade with a ferrous 
+casing can be loaded and fired successfully, though with mixed results as far
+as range and accuracy go. To assist in aiming, a small computerised sighting 
+system is fitted atop the weapon, which displays the approximate location 
+where the grenade will drop. While the ZCF is a short-ranged, imprecise, and 
+downright ugly weapon, weapons like it are coveted by military forces as a compact means of delivering explosive projectiles. Aside from the usual explosive ordnance, this weapon is also suitable for firing gas, illumination, and smoke rounds, among others.
+<pre>
+Name................Zone Control Four (ZCF in ZIS)
+Weapon Type.........Exotic (uses Blaster)    Weight..............3kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............1D+0 Bonus               Damage..............5D+1
+Conceal Difficulty..20                       Two-Handed..........Yes</pre>
+
+[[Category:Ranged Weapons]]

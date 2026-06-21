@@ -1,0 +1,33 @@
+TITLE: Nestt-class Light Freighter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:58:33Z
+======================================================================
+<pre>Modified version of a standard Sullustan light freighter.
+         
+Craft ........ SoruSuub Nestt-class
+Type ......... Light Freighter (mod) Cargo Capacity ......... 110 metric tons
+Scale ........ Starship              Consumables ............ 2 weeks
+Length ....... 29 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x9
+Crew ......... 1 (co-pilot optional) Nav Computer ........... Yes
+Passengers ... 4                     Maneuverability ........ 1D+2
+Hull ......... 123                   Space Movement ......... 60
+Shields ...... 72                    Atmosphere ............. 330; 950kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  600,  Focus:  40,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 8 total (8 filled)
+ 
+Weapons:
+   Eight Single Laser Cannons (concealed):
+      Weapon Rating .... Class 4        Damage ........ 5D
+      Fire Arc ......... Turret         Fire Control .. 2D
+      Space Range ...... 1-3/15/30      Atmo Range .... 100-300m/1.2km/1.5km
+
+BASE COST NEW: 110000 cr             BASE COST USED: 29700 cr              
+SUGGESTED DOWNPAYMENT: 66000 (new), 17820 (used)</pre>
+
+[[Category:Starships]]
+[[Category:CEC Ships]]
