@@ -130,6 +130,7 @@ async def replay(persona, attributed, cut):
 
 
 DEFAULT_REPORT_LOGS = [
+    "2025-03 - Charity Ball",
     "2024 - Droid Control - The Ladies Prefer Electrum",
     "2024 - Ghastly Gala",
     "2023-04 - Birthday Baroness",
