@@ -45,6 +45,14 @@ class Bot:
         self.store = MemoryStore(config.paths.memory_db)
         self.memory = MemoryHandle(self.store)
 
+        # Turn tracer: append-only JSONL debug log of generations + distillations. Path is
+        # CRICKET_TRACE_DIR/turns-<date>.jsonl (default data/traces), so a scene's trace can be
+        # isolated and analyzed after the fact. Traces are debug logs, never fed back to Cricket.
+        from .trace import TurnTracer
+        _trace_dir = os.environ.get("CRICKET_TRACE_DIR", "data/traces")
+        _day = __import__("datetime").datetime.now().strftime("%Y%m%d")
+        self.tracer = TurnTracer(os.path.join(_trace_dir, "turns-%s.jsonl" % _day))
+
         # Mutable runtime state shared by router + commands + HTTP panel.
         self.muted = False
         self.harass_on_connect = False
@@ -273,7 +281,8 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
         wiki = WikiIndex(_wiki_dir)
         vector = VectorIndex(_wiki_dir)  # Tier-2 semantic fallback (empty if not built)
         bot.persona = LlmPersona(
-            client, lambda: bot.active_profile_doc, lore=lore, wiki=wiki, vector=vector
+            client, lambda: bot.active_profile_doc, lore=lore, wiki=wiki, vector=vector,
+            tracer=bot.tracer,
         )
     return bot
 

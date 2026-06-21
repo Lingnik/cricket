@@ -96,8 +96,13 @@ class LlmPersona(Persona):
         lore=None,
         wiki=None,
         vector=None,
+        tracer=None,
     ) -> None:
         self._client = client
+        # Optional turn tracer (cricket.trace.TurnTracer): writes a structured debug line per
+        # generation -- what context was injected, whether reasoning ran, the raw/clean output.
+        from ..trace import NullTracer
+        self._tracer = tracer or NullTracer()
         # () -> active profile doc (dict) or None. Read on each turn so live edits apply.
         self._get_profile = profile_getter or (lambda: None)
         # Optional LoreStore: dossiers for the characters present are injected as a
@@ -115,7 +120,13 @@ class LlmPersona(Persona):
         prompts = doc.get("prompts", {}) if isinstance(doc, dict) else {}
         inference = doc.get("inference", {}) if isinstance(doc, dict) else {}
 
-        memories = self._retrieve_memories(turn)
+        trace = {
+            "kind": "generate", "room": turn.location, "mode": turn.mode,
+            "speaker": turn.speaker,
+            "latest_beat": (turn.context[-1].text if (turn.mode == "rp" and turn.context)
+                            else turn.text)[:300],
+        }
+        memories = self._retrieve_memories(turn, trace=trace)
         # Cricket's own logged history: stable "who you are" content, so it rides in the system
         # block (prefix-cached) rather than the volatile per-turn memories. He draws on it when
         # posing (IC) and brags about it (OOC).
@@ -131,14 +142,22 @@ class LlmPersona(Persona):
         if inference.get("thinking"):
             plan = await self._think(turn, prompts, memories, options, inference,
                                      self_history, rp_charter)
+        trace["thinking_enabled"] = bool(inference.get("thinking"))
+        trace["plan"] = plan or None
         messages = self._build_messages(
             turn, prompts, memories, plan=plan, self_history=self_history,
             rp_charter=rp_charter,
         )
-        text = await self._client.complete(
+        trace["prompt_chars"] = sum(len(m["content"]) for m in messages)
+        trace["messages"] = len(messages)
+        raw = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
-        text = _clean_output(text, turn.mode)
+        text = _clean_output(raw, turn.mode)
+        trace["raw_output"] = (raw or "")[:600]
+        trace["clean_output"] = text[:600]
+        trace["empty"] = not text
+        self._tracer.emit(trace)
         if not text:
             return None
         action = "pose" if turn.mode == "rp" else "say"
@@ -159,12 +178,14 @@ class LlmPersona(Persona):
             return ""
         return (out or "").strip()
 
-    def _retrieve_memories(self, turn: Turn) -> str:
+    def _retrieve_memories(self, turn: Turn, trace=None) -> str:
         """Dossiers for the characters present in this scene (name-based; channel and
         room speakers are matched against known lore characters). Empty if no LoreStore.
 
         Scope follows the mode: room RP (`rp`) gets the IC facet (canon-plausible knowledge
-        only); channel chat gets the OOC facet (the wider meta/teasing suite)."""
+        only); channel chat gets the OOC facet (the wider meta/teasing suite).
+
+        If `trace` is a dict, the retrieval breakdown is recorded into it for the debug log."""
         cast = []
         seen = set()
 
@@ -194,6 +215,11 @@ class LlmPersona(Persona):
             dossiers = self._lore.retrieve(cast, scope=scope)
             if dossiers.strip():
                 blocks.append(dossiers)
+            if trace is not None:
+                trace["cast"] = list(cast)
+                _dos = getattr(self._lore, "dossier", None)
+                trace["dossiers_injected"] = [n for n in cast if _dos and _dos(n)]
+                trace["scope"] = scope
 
         # RP only: Cricket's own logged history WITH the people present -- his perfect memory,
         # distilled to the scenes that involved this cast. Grounds callbacks in poses.
@@ -204,6 +230,8 @@ class LlmPersona(Persona):
                 for h in shared:
                     lines.append("- with %s (%s): %s" % (h["with"], h["title"], h["summary"]))
                 blocks.append("\n".join(lines))
+            if trace is not None:
+                trace["shared_history"] = ["%s/%s" % (h["with"], h["title"]) for h in (shared or [])]
 
         # RP only: the do-not-puppet set -- characters OTHER players control. A pose is an
         # ownership claim: a block's poser controls their own character (its dbref-attributed
@@ -232,6 +260,8 @@ class LlmPersona(Persona):
                     "their words, actions, thoughts, or outcomes: %s. You control ONLY yourself "
                     "(and any brand-new NPC you introduce)." % ", ".join(sorted(claimed)[:10])
                 )
+            if trace is not None:
+                trace["do_not_puppet"] = sorted(claimed)
 
         # RP first-appearance prefetch: a brief wiki blurb for present cast who have NO curated
         # dossier, so a newcomer mid-scene is not a stranger.
@@ -250,6 +280,8 @@ class LlmPersona(Persona):
                     break
             if unknown:
                 blocks.append("Who else is here (from the records):\n" + "\n".join(unknown))
+            if trace is not None:
+                trace["unknown_prefetch"] = [u.split(":")[0].lstrip("- ") for u in unknown]
 
         # OOC only: wiki blurbs for topics named in the line (the "rogue search engine"). IC
         # stays canon-grounded. Exclude the bot itself and anyone already covered by a dossier.
@@ -270,6 +302,8 @@ class LlmPersona(Persona):
                 for title, blurb in topics:
                     lines.append("- %s: %s" % (title, blurb))
                 blocks.append("\n".join(lines))
+        if trace is not None:
+            trace["wiki_topics"] = [t for t, _ in topics]
 
         # Tier-2 semantic fallback (OOC): the line names a subject that matched no dossier and
         # no exact wiki title -- find the closest page by MEANING (embeddings). This is what
@@ -287,6 +321,8 @@ class LlmPersona(Persona):
                         "answer the question, deflect with contempt rather than invent:\n%s"
                         % (hits[0]["title"], blurb)
                     )
+                    if trace is not None:
+                        trace["vector_hit"] = hits[0]["title"]
 
         return "\n\n".join(b for b in blocks if b.strip())
 
