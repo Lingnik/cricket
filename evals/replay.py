@@ -13,12 +13,31 @@ from __future__ import annotations
 import os
 import re
 
-_CRICKET = re.compile(r"\bCricket\b|\bR2-CT\b|\bastromech\b", re.IGNORECASE)
-_DROID_HINT = re.compile(
-    r"\b(beep|boop|whistle|warble|binary|zap|zot|shriek|screech|dome|wheels|taser|"
-    r"tazer|droid|astromech)\b",
+# Subject forms that mark CRICKET as the ACTING subject of a pose (his own action or
+# speech) -- as opposed to a paragraph where another character merely references him.
+_SUBJECT = (
+    r"(?:Cricket|The little astromech|The astromech|The droid|"
+    r"The R2(?: unit)?|R2-CT|KRKT)"
+)
+_OPEN = '"'
+_CLOSE = '"'
+_NOTCLOSE = r'[^"]'
+
+# He leads the paragraph outright (optionally behind a pose-action asterisk)...
+_LEAD_SUBJECT = re.compile(r"^\*?\s*" + _SUBJECT + r"\b", re.IGNORECASE)
+# ...or it opens with dialogue and he is the SPEAKER: his subject right after the closing
+# quote, or a "...from <subject>" speech-source attribution. Addressee mentions
+# ("...to Cricket") are intentionally not matched.
+_SPEAKER_AFTER_QUOTE = re.compile(
+    r"^" + _OPEN + _NOTCLOSE + r"*" + _CLOSE + r"[\s,]*" + _SUBJECT + r"\b",
     re.IGNORECASE,
 )
+_FROM_SUBJECT = re.compile(
+    r"^" + _OPEN + _NOTCLOSE + r"*" + _CLOSE
+    + r"[^.]*?\bfrom\b\s+(?:\w+\s+){0,3}?" + _SUBJECT + r"\b",
+    re.IGNORECASE,
+)
+_MIN_LEN = 40
 
 
 def strip_markup(raw: str) -> str:
@@ -49,8 +68,16 @@ def paragraphs(raw: str) -> list:
 
 
 def is_cricket_pose(para: str) -> bool:
-    return bool(_CRICKET.search(para)) and (
-        bool(_DROID_HINT.search(para)) or para.count("Cricket") >= 1
+    """True only when CRICKET is the acting subject of this pose -- he leads the paragraph
+    or is the speaker of its opening dialogue. Paragraphs that merely reference him (some
+    other character's pose) are rejected."""
+    p = para.strip()
+    if len(p) < _MIN_LEN:
+        return False
+    return bool(
+        _LEAD_SUBJECT.match(p)
+        or _SPEAKER_AFTER_QUOTE.match(p)
+        or _FROM_SUBJECT.match(p)
     )
 
 

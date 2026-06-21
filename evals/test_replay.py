@@ -56,3 +56,38 @@ def test_make_replay_cases_from_dir(tmp_path):
 def test_missing_dir_returns_empty():
     assert replay.make_replay_cases("") == []
     assert replay.make_replay_cases("/no/such/path/xyz") == []
+
+
+PRECISION_LOG = """== RAW WIKITEXT ==
+{{Rplog|title=Precision}}
+
+&nbsp;"Where is that infernal droid?" Atsvara demands of the constable, glancing at [[Cricket]]'s empty cell.<br>
+
+&nbsp;"FILTHY MEATBAGS!" Cricket shrieks, his dome spinning with rage as he wheels forward at the bars.<br>
+
+&nbsp;The constable shrugs and mutters something about the astromech being someone else's problem entirely.<br>
+
+&nbsp;"HNNNGH," the astromech replies, lying on the floor and spinning his wheels fruitlessly in the air.
+"""
+
+
+def test_only_cricket_led_paragraphs_are_poses():
+    poses = [p for p in replay.paragraphs(PRECISION_LOG) if replay.is_cricket_pose(p)]
+    # Cricket is the SPEAKER/actor here -> poses.
+    assert any("FILTHY MEATBAGS" in p for p in poses)
+    assert any("HNNNGH" in p for p in poses)
+    # These only REFERENCE him (Atsvara's line, the constable's line) -> not poses.
+    assert not any("Atsvara demands" in p for p in poses)
+    assert not any("constable shrugs" in p for p in poses)
+    assert len(poses) == 2
+
+
+def test_addressee_mention_is_not_a_pose():
+    # "to Cricket" (addressee), not "Cricket <verb>" (speaker) -- must be rejected.
+    assert not replay.is_cricket_pose(
+        '"Calm down," she says soothingly to Cricket, patting his dome plating gently.'
+    )
+
+
+def test_min_length_guard():
+    assert not replay.is_cricket_pose("Cricket.")
