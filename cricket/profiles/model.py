@@ -160,7 +160,9 @@ DEFAULT_PROFILE = {
     },
     "inference": {
         "backend": "gpu",
-        "model": "hf.co/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF:Q5_K_M",
+        # Abliterated Llama 3.1 8B, re-created with the CORRECT Llama-3.1 chat template
+        # (the upstream GGUF ships a wrong ChatML template). See ollama/Modelfile.
+        "model": "cricket-abliterated:latest",
         "num_ctx": 16384,
         "num_predict": 400,
         "temperature": 0.85,
