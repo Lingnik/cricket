@@ -137,6 +137,37 @@ def _rp_turn():
     )
 
 
+class _OwnLore:
+    def self_history(self):
+        return ""
+
+    def rp_charter(self):
+        return ""
+
+    def retrieve(self, cast, scope=None, max_chars=4000):
+        return ""
+
+    def mentioned(self, text, max_names=4):
+        return ["Tindomiel"] if "Tindomiel" in text else []
+
+
+def test_do_not_puppet_set_from_scene_ownership():
+    from cricket.persona.base import ContextLine
+    c = RecordingClient()
+    ctx = [
+        ContextLine("Johanna", "#4", "pose", "smiles coldly."),       # her own character
+        ContextLine("Johanna", "#4", "emit", "Tindomiel giggles."),   # an NPC she puppets
+        ContextLine("scene", None, "pose", "The hall is dim."),       # no dbref -> not a poser
+    ]
+    turn = Turn(mode="rp", location="#0", location_kind="room", directives="", speaker="",
+                speaker_dbref="", text="", context=ctx, bot_identity=BotIdentity(name="Cricket"),
+                memory=None)
+    _run(LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_OwnLore()), turn)
+    msg = c.messages[-1]["content"]
+    assert "belong to other players" in msg
+    assert "Johanna" in msg and "Tindomiel" in msg  # her char + the NPC she posed
+
+
 def test_rp_charter_injected_on_rp_only():
     c = RecordingClient()
     LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore())

@@ -146,6 +146,30 @@ class LlmPersona(Persona):
                     lines.append("- with %s (%s): %s" % (h["with"], h["title"], h["summary"]))
                 blocks.append("\n".join(lines))
 
+        # RP only: the do-not-puppet set -- characters OTHER players control. A pose is an
+        # ownership claim: a block's poser controls their own character (its dbref-attributed
+        # speaker) AND any known character they name in an @emit (NPC puppeting). Cricket must
+        # never pose for these. Deterministic + gazetteer; over-claiming is safe for the guard.
+        if turn.mode == "rp":
+            bot_name = (turn.bot_identity.name if turn.bot_identity else "").strip().lower()
+            claimed = set()
+            for line in turn.context:
+                if not getattr(line, "dbref", None):
+                    continue  # memory / scene-narration lines, not a real poser
+                spk = (line.speaker or "").strip()
+                if spk and spk.lower() != bot_name:
+                    claimed.add(spk)
+                if self._lore is not None:
+                    for nm in self._lore.mentioned(line.text):
+                        if nm.strip().lower() != bot_name:
+                            claimed.add(nm)
+            if claimed:
+                blocks.append(
+                    "These characters belong to other players -- react TO them but NEVER pose "
+                    "their words, actions, thoughts, or outcomes: %s. You control ONLY yourself "
+                    "(and any brand-new NPC you introduce)." % ", ".join(sorted(claimed))
+                )
+
         # OOC only: wiki blurbs for topics named in the line (the "rogue search engine"). IC
         # stays canon-grounded. Exclude the bot itself and anyone already covered by a dossier.
         topics = []
