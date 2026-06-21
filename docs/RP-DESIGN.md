@@ -87,10 +87,15 @@ Per-room state machine. When a pose would do a SIGNIFICANT/MORTAL action to a PC
 NPCs need no consent, but the charter's "consequences are real / not invincible" rule applies.
 Commands: `!consent-ok` / `!consent-deny` (admin + the addressed target).
 
-## Build order
-1. Block grouping (parser/router) -- prerequisite for distillation + ownership.
-2. Scene ledger + byte-budget tail (retire `SCENE_QUEUE_CAP`); prompt-length safeguard.
-3. RP charter injection + enable IC retrieval (room desc, past logs) in RP.
-4. Ownership map (deterministic + distillation) + do-not-puppet block; first-appearance prefetch.
-5. OOC -> RP suggestion bridge.
-6. Consent gate state machine + `!consent-ok`/`!consent-deny`.
+## Build order / progress
+1. [DONE] Block grouping (`_handle_room` merges consecutive same-poser lines).
+2. [DONE] Scene ledger + byte-budget tail (retired the line cap; `inference.rp_context_bytes`;
+   async per-block `distill_block`; ledger injected at pose time).
+3. [PARTLY DONE] RP charter injection [done] + shared-history retrieval (past logs with the
+   present cast) [done]. REMAINING (RP-3b): room-description probe + inject.
+4. [PARTLY DONE] Do-not-puppet set, deterministic via PARANOID dbref + gazetteer [done].
+   REMAINING (RP-4b): distillation-refined ownership (extend `distill_block` to emit
+   `{actors, controlled_by}`) + first-appearance prefetch of unknown new characters.
+5. [TODO] OOC -> RP suggestion bridge (needs production room-local `<OOC>` wiring).
+6. [TODO] Consent gate state machine + `!consent-ok`/`!consent-deny` (request in OOC FIRST,
+   block pose-gen until resolved; NPCs exempt, consequences-are-real per charter).
