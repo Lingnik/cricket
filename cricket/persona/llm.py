@@ -163,7 +163,15 @@ class LlmPersona(Persona):
         # then prior history as its OWN block, then the live line called out explicitly.
         parts = []
         if memories.strip():
-            parts.append("What you know:\n%s" % memories.strip())
+            # Mode-aware framing: in chat he may use this to ANSWER; in RP it is only
+            # background seasoning -- reciting it instead of reacting to the beat was the
+            # eval's main failure (lore-dump). Keep it subordinate to the scene in RP.
+            if turn.mode == "rp":
+                header = ("Background you may draw on ONLY if it fits this exact moment "
+                          "(do NOT recite or info-dump it; react to the scene):")
+            else:
+                header = "What you know (use it to answer, in character):"
+            parts.append("%s\n%s" % (header, memories.strip()))
         # History now includes the bot's own past replies (router feeds them back), so the
         # model sees the real back-and-forth and stops re-treading topics it already hit.
         history = ["%s: %s" % (line.speaker, line.text) for line in turn.context]
@@ -172,6 +180,10 @@ class LlmPersona(Persona):
         # Chat: call out the latest line so the model engages IT, not the whole transcript.
         if turn.mode != "rp" and turn.text.strip():
             parts.append('%s just said: "%s"' % (turn.speaker, turn.text))
+        # RP: call out the most recent beat so he reacts to THIS moment, not a generic rant
+        # (the eval's top failure mode was reacting to the wrong beat).
+        if turn.mode == "rp" and turn.context and turn.context[-1].text.strip():
+            parts.append('The most recent beat to react to:\n"%s"' % turn.context[-1].text.strip()[:300])
 
         if thinking:
             # Hidden planning pass: produce private notes, NOT the reply.
@@ -186,7 +198,9 @@ class LlmPersona(Persona):
                 parts.append("Your private plan (use it; do NOT print it):\n%s" % plan.strip())
             if turn.mode == "rp":
                 parts.append(
-                    "Compose %s's next pose, in character, reacting to the scene above." % name
+                    "Compose %s's next pose: a specific, in-character reaction to that "
+                    "most-recent beat -- not a generic rant. Draw on his history, grudges, and "
+                    "the people present where they fit." % name
                 )
             else:
                 parts.append(
