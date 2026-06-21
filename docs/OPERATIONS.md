@@ -73,7 +73,8 @@ longer depends on the launch CWD.
 
 ## Config & profiles
 - Infra (host/ports/db paths/global auth) is in `config.toml` + `.env`. Behavior is the
-  **active persona profile** in the config DB (`data/cricket-config.sqlite3`, untracked).
+  **active persona profile** in the config DB (`data/cricket-config.sqlite3`, committed -- it
+  preserves hand-tuning done via the web panel; only the memory DB is gitignored).
 - `DEFAULT_PROFILE` in `cricket/profiles/model.py` is the canonical, committed source;
   it seeds a fresh DB. Edit the live profile via the web panel, the `/api/profiles` API, or
   scripts. `tools/wire_persona.py` re-syncs the system prompt (`knowledge/runtime/lore/CRICKET.md`) + few-shot
