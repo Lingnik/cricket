@@ -133,6 +133,11 @@ class Router:
         if cfg is None or not cfg.enabled:
             return
 
+        # OOC -> RP bridge: capture nudges addressed to Cricket on a suggestion-feeding channel
+        # while a scene is live, so they carry into his next pose. He still banters normally.
+        if getattr(cfg, "feeds_suggestions", False):
+            self._capture_suggestion(event.speaker.name, event.text)
+
         if cfg.mode == "control":
             cmdline = self._addressed_command(event.text)
             if not cmdline:
@@ -390,6 +395,27 @@ class Router:
             for a in actors:
                 if a.strip():
                     s.add(a.strip())
+
+    def _capture_suggestion(self, speaker: str, text: str) -> None:
+        """Buffer an OOC nudge addressed to Cricket for the current room's next pose. Favorites
+        are tagged so the persona heeds them more; others he weighs/twists/resists (charter)."""
+        s = self.s
+        room = getattr(s, "current_room", None)
+        if room is None or not getattr(s, "rp_enabled", {}).get(room):
+            return  # only while a scene is live in the bot's room
+        if getattr(s, "suggestions", None) is None:
+            return
+        bid = getattr(s, "bot_identity", None)
+        bot = (bid.name if bid is not None else "") or "Cricket"
+        t = (text or "").strip()
+        if not t or bot.lower() not in t.lower():
+            return  # only lines that actually address Cricket
+        favs = {n.lower() for n in (getattr(s, "active_profile_doc", None) or {}).get("favorites", [])}
+        buf = s.suggestions.setdefault(room, [])
+        buf.append({"from": speaker or "someone", "text": t,
+                    "favored": (speaker or "").strip().lower() in favs})
+        if len(buf) > 5:
+            del buf[: len(buf) - 5]
 
     # -- pages -----------------------------------------------------------------
     async def _handle_page(self, event: Page) -> None:

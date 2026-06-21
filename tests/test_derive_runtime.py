@@ -26,7 +26,8 @@ def test_derive_locations_and_admins():
     assert public.engagement == "addressed"
     assert "cricket," in public.prefixes
     assert rt.locations["Lounge"].engagement == "always"
-    assert rt.locations["OOC"].mode == "control"
+    assert rt.locations["OOC"].mode == "chat"  # dual-role: banter + admin bang-commands
+    assert rt.locations["OOC"].feeds_suggestions is True
     assert rt.location_admins["Public"] == ["#10", "#11"]
     assert rt.location_admins["OOC"] == ["#4"]
 

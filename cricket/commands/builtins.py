@@ -68,6 +68,8 @@ async def _set_rp(ctx: CommandContext, room, on: bool) -> None:
         bot.scene_ledger.pop(room, None)
     if hasattr(bot, "scene_owners"):
         bot.scene_owners.pop(room, None)
+    if hasattr(bot, "suggestions"):
+        bot.suggestions.pop(room, None)
     bot.pending_recall.pop(room, None)
     bot.rp_enabled[room] = False
     ctx.reply("rp in %s: False" % room)
@@ -156,6 +158,13 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         mem_lines.append("Earlier scene: %s" % recall)
     if ledger:
         mem_lines.append("This scene so far: %s" % " | ".join(ledger))
+    suggestions = getattr(ctx.bot, "suggestions", {}).get(room, [])
+    if suggestions:
+        sline = ["Table talk (OOC nudges -- heed your favorites; weigh, twist, or resist the rest):"]
+        for sug in suggestions:
+            tag = " [favorite]" if sug.get("favored") else ""
+            sline.append("- %s%s: %s" % (sug.get("from", ""), tag, sug.get("text", "")))
+        mem_lines.append("\n".join(sline))
     for m in reversed(mem_lines):
         context.insert(0, ContextLine(speaker="memory", dbref=None, kind="emit", text=m))
     turn = Turn(
@@ -185,6 +194,8 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         if router is not None and hasattr(router, "_ledger_block"):
             router._ledger_block(room, queue[-1])
     ctx.bot.scene_queues[room] = []
+    if hasattr(ctx.bot, "suggestions"):
+        ctx.bot.suggestions[room] = []  # nudges consumed by this pose
     ctx.reply("posed in %s (%s)." % (room, action))
 
 

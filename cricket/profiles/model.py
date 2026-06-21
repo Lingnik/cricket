@@ -141,13 +141,14 @@ DEFAULT_PROFILE = {
         },
         {
             "name": "OOC",
-            "mode": "control",
+            "mode": "chat",
             "engagement": "addressed",
-            "prefixes": [],
-            "directives": "",
+            "prefixes": ["cricket", "cricket,"],
+            "directives": "Relaxed OOC banter; also a place players nudge the scene.",
             "rate_limit": None,
             "enabled": True,
             "admins": ["#4"],
+            "feeds_suggestions": True,
         },
     ],
     "prompts": {
@@ -176,6 +177,8 @@ DEFAULT_PROFILE = {
     # When true, Cricket pages a personalized insult to anyone who connects. Toggle live with
     # the `harass on|off` command; this is the per-profile default.
     "harass_on_connect": False,
+    # Players whose OOC suggestions Cricket genuinely heeds (others he weighs/twists/resists).
+    "favorites": ["Johanna", "Atsvara", "Bazil", "ak"],
 }
 
 
@@ -257,6 +260,7 @@ def derive_runtime(doc) -> RuntimeProfile:
             rate_limit=loc.get("rate_limit"),
             enabled=bool(loc.get("enabled", True)),
             admins=admins,
+            feeds_suggestions=bool(loc.get("feeds_suggestions", False)),
         )
         location_admins[name] = admins
 

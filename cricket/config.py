@@ -71,6 +71,7 @@ class LocationConfig:
     rate_limit: Union[str, None] = None
     enabled: bool = True
     admins: list = field(default_factory=list)
+    feeds_suggestions: bool = False  # OOC chatter here feeds Cricket's RP suggestion buffer
 
 
 @dataclass
