@@ -37,7 +37,7 @@ SCENE_QUEUE_CAP = 60
 # we ignore them entirely (no context, no reply). (Later Cricket may harass people on
 # connect / mock reconnects -- that would re-enable these as a deliberate trigger.)
 _CHANNEL_NOTICE = re.compile(
-    r"^has ((?:re)?connected|disconnected|joined this channel|left this channel)\b",
+    r"^has (?:partially )?((?:re)?connected|disconnected|joined this channel|left this channel)\b",
     re.IGNORECASE,
 )
 
