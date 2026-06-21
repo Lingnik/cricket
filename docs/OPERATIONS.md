@@ -97,3 +97,30 @@ command object. PennMUSH notes: `addcom` is disabled (join via `@channel/on`); t
 new objects default to `NO_COMMAND`; an object can't be name-matched after `@tel` into the
 Master Room (set flags first). Run the server: `tailscale ssh kali@100.88.188.43`, then
 `cd ~/pennmush/game && ./restart`.
+
+## Scene harness -- driving test characters through a scene
+`tools/mush_session_server.py` is a stdlib HTTP server that holds long-lived MUSH connections,
+one per character, so you can puppet several at once: send arbitrary commands and read each
+character's queued received lines. Scene puppets already exist: **Jessalyn #7, Johanna #8,
+Zeak #9** (passwords in `.env`, `CRICKET_TEST_*_PW`). They connect to room `#0` where Cricket is.
+
+Start it (point it at the MUSH):
+```
+CRICKET_MUSH_HOST=100.88.188.43 python tools/mush_session_server.py   # -> 127.0.0.1:4300
+```
+API (JSON): `POST /sessions {name,password,[on_connect:[...]]}` -> `{id}`; `POST /sessions/<id>/send
+{line}` (or `{lines:[...]}`); `GET /sessions/<id>/recv?wait=N` drains buffered lines (waits up to
+N s for Cricket's reply); `GET /sessions`; `DELETE /sessions/<id>`; `GET /health`.
+
+**Memory isolation (so a scene leaves NO trace in real memory).** The daemon's memory DB is
+overridable with `CRICKET_MEMORY_DB`. Run a scene against a throwaway DB, then discard it:
+```
+# 1. stop the real daemon; 2. start it on a scene DB:
+CRICKET_MEMORY_DB=data/cricket-memory-scene.sqlite3 python -m cricket run --persona llm
+# 3. run the scene through the harness (enable RP for #0 first, e.g. POST /api/rp or an OOC admin)
+# 4. stop the daemon; delete the scene DB; restart on the real DB:
+rm data/cricket-memory-scene.sqlite3
+python -m cricket run --persona llm
+```
+The events log + scene summaries all land in the scene DB, so deleting it is a complete cleanup.
+Keep Bazil OUT of a scene you want to watch live -- log in as Bazil yourself and observe.
