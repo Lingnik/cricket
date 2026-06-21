@@ -373,17 +373,9 @@ def _directives_for(bot, location):
 
 def _emit(bot, room, action, resp: Response) -> None:
     actions = bot.actions
-    if action == "pose":
-        # The model writes full third-person prose that often begins with the bot's
-        # own name; a `pose` prepends the name too ("Cricket Cricket's dome..."). When
-        # the text already names the bot, emit it raw so the name isn't doubled.
-        bid = getattr(bot, "bot_identity", None)
-        name = (bid.name if bid is not None else "") or ""
-        if name and resp.text.lstrip().lower().startswith(name.lower()):
-            actions.emit_room(resp.text)
-        else:
-            actions.pose_room(resp.text)
-    elif action == "emit":
+    if action in ("pose", "emit"):
+        # SW1 convention: poses are @emit -- raw, self-describing third-person prose, NOT @pose
+        # (which would prepend "Cricket"). Always emit raw so output reads like a real SW1 pose.
         actions.emit_room(resp.text)
     elif action == "say":
         actions.say_room(resp.text)

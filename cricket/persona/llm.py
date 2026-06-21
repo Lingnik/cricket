@@ -12,6 +12,7 @@ HTTP panel take effect without restarting the bot.
 
 from __future__ import annotations
 
+import re
 from typing import Callable, Union
 
 from .base import Persona, Response, Turn
@@ -33,6 +34,17 @@ _RECOUNT_RULE = (
     "When asked to recount a memory or tell a story, pick ONE specific event and tell it "
     "straight through; never blend several separate events into a single garbled run-on."
 )
+
+
+def _looks_like_name(a: str) -> bool:
+    """A distillation-extracted 'actor' is a plausible character name: 1-3 words, each
+    capitalized and alphabetic. Filters descriptive phrases ('Herglic technician') and junk
+    ('none.') so the do-not-puppet set stays clean."""
+    a = a.strip().rstrip(".")
+    words = a.split()
+    if not (1 <= len(words) <= 3) or a.lower() in ("none", "nobody", "narration", "scene"):
+        return False
+    return all(w[:1].isupper() and w.replace("'", "").replace("-", "").isalpha() for w in words)
 
 
 class LlmPersona(Persona):
@@ -177,7 +189,7 @@ class LlmPersona(Persona):
                 blocks.append(
                     "These characters belong to other players -- react TO them but NEVER pose "
                     "their words, actions, thoughts, or outcomes: %s. You control ONLY yourself "
-                    "(and any brand-new NPC you introduce)." % ", ".join(sorted(claimed))
+                    "(and any brand-new NPC you introduce)." % ", ".join(sorted(claimed)[:10])
                 )
 
         # RP first-appearance prefetch: a brief wiki blurb for present cast who have NO curated
@@ -311,7 +323,9 @@ class LlmPersona(Persona):
                 parts.append(
                     "Compose %s's next pose: a specific, in-character reaction to that "
                     "most-recent beat -- not a generic rant. Draw on his history, grudges, and "
-                    "the people present where they fit." % name
+                    "the people present where they fit. Write it as a raw SW1 @emit -- "
+                    "self-describing third-person prose (e.g. 'The little astromech's dome "
+                    "swivels...'); do NOT prefix it with your name or 'Cricket says/poses'." % name
                 )
             else:
                 parts.append(
@@ -403,9 +417,12 @@ class LlmPersona(Persona):
                 continue
             if s.upper().startswith("ACTORS:"):
                 for a in s.split(":", 1)[1].split(","):
-                    a = a.strip()
-                    if a and a.lower() not in ("none", bot_name.lower()):
+                    a = a.strip().rstrip(".")
+                    if a and a.lower() != bot_name.lower() and _looks_like_name(a):
                         actors.append(a)
             elif not ledger:
                 ledger = " ".join(s.split())
-        return {"ledger": ledger, "actors": actors}
+        # Strip any format preamble the small model leaks ("Note:", "New pose:", "Line 1:").
+        ledger = re.sub(r"^(line\s*1\s*[:.\-]?|new pose[:.]?|factual note[:.]?|note[:.]?)\s*",
+                        "", ledger, flags=re.IGNORECASE).strip()
+        return {"ledger": ledger, "actors": actors[:6]}
