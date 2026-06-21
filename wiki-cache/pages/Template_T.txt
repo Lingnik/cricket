@@ -1,0 +1,12 @@
+TITLE: Template:T
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2025-08-26T10:08:35Z
+======================================================================
+{{{1}}}<noinclude>
+
+==Usage==
+Prints the value passed to it.
+
+This is a meta-template for use with complex template nesting tricks.
+
+</noinclude>

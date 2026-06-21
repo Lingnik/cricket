@@ -1,0 +1,58 @@
+TITLE: L-202 Hellhawk transport/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-31T22:05:16Z
+======================================================================
+<pre>
+Craft ........ Lokkai/CASE L-202 Hellhawk
+Variant ...... A, B, C, EM, G, IR
+Type ......... Multi-role Shuttle    Cargo capacity ......... 50 metric tons* 
+Scale ........ Starfighter                                     (internal)
+Length ....... 17.3 meters           Consumables ............ up to 1 month**
+Pilot Skill .. Starship Piloting     Hyperdrive Multiplier .. x2
+Crew ......... 2-3                   Hyperdrive Backup ...... x15
+Passengers ... 20                    Nav Computer ........... Yes
+                                     Manuvereability ........ 2D+2
+                                     Space Movement ......... 70
+Hull ......... 154                   Atmosphere ............. 385; 1040kmh
+Shields ...... 48                    Hangar Space ........... None
+Can Land? .............. Yes
+
+Sensors ...... Normal:  1000,  Focus:  30,  Passive:  300
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (6 filled)
+
+Stock Weapons:
+
+   Two Anti-personnel Lasers (fire seperately, 1 starboard, 1 port):
+      Weapon Rating .... Class 3          Damage ........ 4D
+      Fire Arc ......... 1FR/L/B,1FR/R/B  Fire Control .. 3D+2
+      Space Range ...... 1-5/10/17        Atmo Range .... 100-500m/1km/1.7km
+
+   Twin Laser Cannons (fire-linked, chin-turret):
+      Weapon Rating .... Class 4          Damage ........ 5D
+      Fire Arc ......... FR/L/R           Fire Control .. 3D
+      Space Range ...... 1-3/12/25        Atmo Range .... 100-500m/1km/1.7km
+
+   Two Missile Pods (hardpoint mounted)***:
+      Weapon Rating .... Class 2          Damage ........ 6D
+      Fire Arc ......... Front            Fire Control .. 3D
+      Space Range ...... 1/3/7            Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 5 each
+
+* Cargo bay and passenger seating are one of the same, meaning that internal 
+cargo is carried at expense of passengers, and vice versa. Optionally the ship 
+can sling heavy loads underneath... though obviously it can't hyperspace with 
+this arrangement.
+** Maximum endurance requires retooling the craft's life support for long-term 
+operations, drastically cutting the number of passengers that can be carried. 
+A craft so outfitted can only carry 8 humanoid sentients including crew! An 
+L-202 outfitted as a troop shuttle will typically be limited to 72 hours' 
+endurance.
+*** Hardpoints can carry various alternate loads instead of missiles. The 
+weapons listed here presume a typical load in which each hardpoint is loaded 
+with a pod of anti-armor/light anti-spacecraft missiles for use against walkers,
+starfighters, etc.
+</pre>
+
+[[Category:Stat Sheets]]

@@ -1,0 +1,148 @@
+TITLE: D6 Combat Rules/Character Movement and Chases
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-04T22:33:14Z
+======================================================================
+==Character Movement==
+Every character and creature has a Move score: it's how many meters per round the character moves while walking. (Most humans have a Move of 10).
+
+Moving is an action, just like firing a blaster or dodging an attack. A character can move once per round. A running or walking character uses her running skill or Dexterity attribute.
+
+(A swimming character uses her swimming skill or Strength; a climbing character uses her climbing/jumping or Strength. For unusual movements - such as swimming or climbing - the Move is normally one-third the Character's Move; adjust this rate at your discretion.)
+
+Movement works just like other actions. You describe the terrain and pick a difficulty level and a difficulty number: Very Easy (1-5), Easy (6-10), Moderate (11-15), Difficult (16-20), Very Difficult (21-30) or Heroic (31+).
+
+The player decides how fast she wants her character to move and makes her running roll. If the roll is equal to or greater than the difficulty number, the character moves without a problem; if the roll is lower than the difficulty number, the character has a problem.
+
+===Move Speeds===
+While your character can only move once per round, you can pick one of four speeds.
+
+====Cautious Movement====
+This is a slow walk for a character: she moves at half her Move. (A Human with a Move of 10 would move five meters.)
+
+In Very Easy, Easy, and Moderate terrains, cautious movement is a "free action": it's not considered an action and the character doesn't have to roll her running skill.
+
+In Difficult, Very Difficult, and Heroic terrains, roll the character's running skill, but reduce the difficulty one level. (Very Difficult terrain is Difficult to cross; Moderate terrain is Easy to cross.)
+
+'''Example:''' Rhen, the brash pilot, has a Dexterity of 3D (she hasn't improved her running skill); her blaster is 4D and her Move is 10. She's moving at cautious speed across a dried up stream bed (Easy terrain). Because she's moving so carefully, she doesn't even have to roll - she automatically moves the five meters. If she were shooting her blaster, she'd get to roll her full Blaster of 4D because her movement is a "free action." 
+
+Later, Rhen comes upon a raging river. She wants to cross it by moving from rock to rock - it's Very Difficult terrain. Since she decides to move at cautious speed, the terrain is considered one difficulty level easier: it's only Difficult (the game master picks a difficulty number of 17). Rhen's Dexterity roll is 17 - she barely skirts across the rocks, moving five meters. 
+
+====Cruising Movement====
+Cruising movement is walking speed for a character - she moves at her Move speed. (A human with a Move of 10 would move up to 10 meters.)
+
+Moving at cruising speed counts as an action, but the character can automatically make the move for Very Easy, Easy and Moderate terrains. A character must roll her running skill for Difficult, Very Difficult and Heroic terrains.
+
+'''Example:''' Rhen is walking (cruising speed) across Moderate terrain while sighting her blaster on a wild animal that's charging to attack her (her blaster is 4D). She can automatically walk 10 meters without making a Dexterity roll, but it's an action. Firing her blaster is a second action (-1D penalty), so she only rolls 3D to hit the charging animal.
+
+Later, Rhen is trying to walk up a steep hill (Difficult terrain; number 16). She rolls her Dexterity and gets a 16 - Rhen walks 10 meters up the slope.
+
+====High Speed====
+High speed movement is running for a character - she moves at twice her Move speed. (A human with a Move of 10 would move up to 20 meters.)
+
+The character must roll her running for Very Easy, Easy or Moderate terrain.
+
+When moving at high speed, Difficult, Very Difficult, and Heroic terrains increase one difficulty level: Difficult terrain becomes Very Difficult to cross, Very Difficult terrain becomes Heroic, Heroic terrain becomes Heroic+10.
+
+'''Example:''' Rhen is running across an open field (Easy terrain; number 8). She rolls her Dexterity and gets a 10 - she runs 20 meters across the field.
+
+Later, Rhen's trying to run across a very rocky, uneven field pitted with craters and subsidences - it's Difficult to cross. Because she's running at high speed, the terrain is considered Very Difficult (difficulty number 24). Rhen rolls her Dexterity and gets a 16 - not enough. To find out what happens, see [[D6 Combat Rules#Movement Failures|Movement Failures]].
+
+====All-Out====
+All-out movement is running at all-out speed for a character - she moves at four times her Move speed. (A human with a Move of 10 would move 40 meters.)
+
+Characters making "all-out" movement may not do anything else in the round, including dodge or parry.
+
+Increase the difficulty one level for Very Easy, Easy, and Moderate terrains. Increase the difficulty two levels for Difficult, Very Difficult, or Heroic terrains.
+
+'''Example''': Rhen wants to move across an open field (Easy terrain) to reach a bunker before Imperial stormtroopers can take a shot at her. She decides to run all-out - the Easy terrain is considered one difficulty level higher: Moderate (difficulty number 11). She also can't dodge to avoid the trooper's shots. She rolls her Dexterity and gets a 12: Rhen sprints 40 meters to the bunker.
+
+Later, Rhen wants to run to a landspeeder, hoping to jump behind the controls and race away before more stormtroopers shoot at her. Unfortunately, the terrain is a dense forest, with tangled thickets and overgrown bushes: Difficult terrain. Rhen decides to move all-out, which increases the difficult two levels to Heroic (number 34). She has her work cut out for her if she wants to make it to the landspeeder...
+
+====Partial Moves====
+After picking a "move speed," a character can move anywhere between half and her full move speed.
+
+====Acceleration and Deceleration====
+Characters may increase or decrease their movement speed up to two levels per round.
+
+'''Example''': Rhen is moving cautiously in one round. The next round, she may stay at cautious speed, decrease one level to come to a complete stop, increase one level to cruising speed, or increase two levels to high speed movement. She cannot increase three levels to all-out movement.
+
+Later, Rhen is making all-out movement to run across a corridor. The next round, she can keep on going all-out, or she may reduce her movement to high speed or cruising speed; she couldn't slow down to cautious speed or no movement at all.
+
+====Long Distance Movement====
+All-out movement takes its toll after a long time. A character continuously going all-out must make a stamina roll every minute. The first stamina difficulty is Very Easy; increase the difficulty one level for each additional roll. If the character fails the roll, she must rest for twice as long as she was moving all out.
+
+High speed movement also requires stamina rolls: roll once every ten minutes. The first roll is at Very Easy difficulty and increases one difficulty level for each additional roll. if she fails the roll, she must rest for twice as she was moving at high speed.
+
+===Terrain Difficulties===
+When a character moves, you must determine the terrain's difficulty and then pick a difficulty number.
+
+*Very Easy: 1-5.
+**Flat, clear, even ground with no obstacles. Clear walkways or tracks. For swimming, clear water.
+
+*Easy: 6-10.
+**Flat but naturally uneven ground (fields, yards) that may have a few small obstacles such as rocks, holes, bushes, low branches, and so forth. For swimming, water with minor obstacles: occasional branches or reefs, or water with moderate currents.
+
+*Moderate: 11-15.
+**Rough ground or any area with many obstacles (large holes, rocks, thickets and bushes). For swimming, an area with many obstacles or a very confined area, such as a small tunnel.
+
+*Difficult: 16-20.
+**Running through a densely packed area that's difficult to navigate: a panicked crowd or a thick forest, for example. Very rough ground with drop outs, darkened tunnels, or an area that's being pelted by falling boulders. Swimming during a very rough storm or around attacking predators.
+
+*Very Difficult: 21-30.
+**Moving through any very dangerous terrain, such as a minefield, down a narrow crawl-way with whirling cooling fans, a starship as it breaks apart, or along the outside of a repulsorlift vehicle as it makes twisting maneuvers. Swimming in the middle of a dangerous storm with large waves.
+
+*Heroic: 31+.
+Heroic terrain is virtually impassable: running through an avalanche, or running down a corridor filled with falling debris, smoke and exploding consoles. For swimming, in the middle of a tidal wave or hurricane.
+
+====Maneuvers====
+The movement difficult number covers basic maneuvers; straight-line movement, a couple of basic turns and other simple movements. If a character wants to make a more difficult maneuver - such as maneuvering between tightly-grouped building support beams, grabbing something out of mid-air while running, or grabbing something off a counter while all-out running - you may add modifiers as needed:
+
+*+1-5
+**Maneuver that takes a little effort and coordination.
+
+*+6-10
+**Maneuver requires a modest amount of effort and coordination.
+
+*+11-15
+**Maneuver that requires a lot of concentration and appears to be very difficult to perform while moving quickly.
+
+*+16+
+**Maneuver appears to be very, very difficult to perform while moving quickly.
+
+Characters will often want to do something that crosses over into other skills: run and then jump over a ditch, or climb up a wall. The character rolls to move and then must make a separate climbing/jumping skill roll for the climb or jump.
+
+===Movement Failures===
+A character who fails a movement roll may have to slow down or may even fall and risk injury. Find the number of points by which the movement roll failed:
+
+*1-3. Slight slip.
+**The character loses her footing for a second. While she completes the movement, she suffers a penalty of -1D to all actions for the rest of the round (in addition to normal multiple action penalties).
+
+*4-6. Slip.
+**The character slips and nearly falls. The character only makes half her Move. She suffers a penalty of -3D to all actions for the rest of the round, and -1D to all actions for the next round (in addition to normal multiple action penalties).
+
+*7-10. Fall.
+**The character falls halfway through her Move, but manages to catch herself and is now kneeling. She may take no actions for the rest of the round and suffers a -2D penalty to all actions for the next round.
+
+*11-15. Minor tumble.
+**The character falls one-quarter of the way through her Move, suffering painful scrapes and bruises. She may take no actions for the rest of the round and the next round. She takes damage, but subtract -3D from normal collision damage. (In effect, the character takes 1D damage if she was moving all-out; if she was moving slower, she'd suffer no damage.)
+
+*16-20. Tumble.
+**The character falls, probably tumbling into a nearby object. She suffers painful scrapes and bruises (unlucky characters can suffer broken bones or worse): roll normal collision damage.
+
+*21+. Major tumble.
+**"That had to hurt!" The character falls at a bad angle and may suffer a serious injury. Increase collision damage by +2D.
+
+====Collisions====
+Collision damage depends on how fast the character was moving.
+
+<pre>Move             Character Damage
+Cautious         1D
+Cruise           2D
+High speed       3D
+All-out          4D
+
+</pre>
+
+Roll damage against the character's Strength, just as described in the Damage section of the chapter on Combat and Injuries.
+
+[[Category:The Way It Works]]

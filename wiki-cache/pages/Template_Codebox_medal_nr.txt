@@ -1,0 +1,12 @@
+TITLE: Template:Codebox medal nr
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-04T15:54:54Z
+======================================================================
+<br clear="all" />
+{| cellpadding="4" style="background-color: #eee; border: 1px solid #ddd; margin: 0 0 1em 1em; width: 90%; border-collapse: collapse; text-align: left;"
+|-
+| style="width: 50%; font-weight: bold; align:left; background-color: {{{color}}};" |{{{name}}} || style="width: 50%; background-color: #eee; align: left; font-weight: normal;" |{{{code}}}
+|- 
+! colspan="2" style="width: 100%; background-color: #eee; font-weight: normal;" |{{{desc}}}
+|}
+<noinclude>[[Category:Templates|Codebox Medal NR]]</noinclude>

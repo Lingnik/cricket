@@ -1,0 +1,31 @@
+TITLE: Gymsnor-3 Freighter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:47:57Z
+======================================================================
+<pre>Craft ........ CorelliSpace Gymsnor-3 Freighter
+Type ......... Light Freighter       Cargo Capacity ......... 95 metric tons
+Scale ........ Starship              Consumables ............ 1 month
+Length ....... 34 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... None
+Crew ......... 1                     Nav Computer ........... Yes
+Passengers ... 4                     Maneuverability ........ 1D
+Hull ......... 187                   Space Movement ......... 40 
+Shields ...... 36                    Atmosphere ............. 280; 800kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  600,  Focus:  30,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (1 filled)
+
+Stock Weapons:
+   One Single Laser Cannon:
+      Weapon Rating .... Class 3        Damage ........ 4D       
+      Fire Arc ......... Turret         Fire Control .. 1D+2
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 135000 cr             BASE COST USED: 33750 cr              
+SUGGESTED DOWNPAYMENT: 81000 (new), 20250 (used)</pre>
+
+[[Category:Starships]]
+[[Category:CEC Ships]]

@@ -1,0 +1,142 @@
+TITLE: Forum:Suggest new userboxes
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2007-11-01T04:02:56Z
+======================================================================
+{{Forum:Public_channel/header}}
+[[Category:Public channel|{{PAGENAME}}]]
+
+<!-- write after this line, please -->
+From [[:Wikipedia:Wikipedia:Userboxes|Wikipedia:Userboxes]]...<br/>
+:''<p>'''Userboxes''' (commonly abbreviated as UBX) are small colored boxes designed to appear on Wikipedians' user pages. They generally include one or two small graphics and a few short lines of text. Often they also include wiki markup that places the user in a category. Userboxes are generally created as templates and transcluded onto userpages, although their markup may be substituted directly onto userpages instead.</p>''
+
+The current list of SW1ki userboxes can be found here: [[:Category:Userbox Templates]].
+
+
+<center><font style="font-size: large">'''''Got an idea for a new userbox?  Suggest it here!'''''</font></center>
+
+== Image / Artist ==
+How about one or more userboxes for those users that are graphically-inclined, e.g. Hawke (maintenance of the Galaxy map), Gimel (character image manipulations)? -- [[User:Xerxes|Xerxes]] 22:12, 5 April 2007 (UTC)
+
+For those who are fluent in Photoshp: 
+
+<div style="float:left; border:1px solid black; margin:1px;">
+{| style="width:238px; background:#a9a9a9;border:1px solid #440044;border-collapse: collapse"
+| style="white-space: nowrap;height:45px; background:#4169e1; text-align:center; font-size: 14pt;padding: 0 5px 0 5px;color:white" | Ps
+| style="font-size:8pt; padding:4pt; line-height:1.25em" |This user is skilled with Photoshop and does character image alterations. 
+|}</div>
+
+--[[User:ImperialFH|ImperialFH]] 20:13, 8 April 2007 (UTC)
+
+:-I'm considering using the corporate icons for said software for the left cell of the box, and a color scheme more correlative to go with it. I can knock that out in a few minutes. -- [[User:Hawke|Hawke / Rtufo]] 20:21, 8 April 2007 (UTC)
+:-That is one of the icons. I thought it would be easier to use that one than upload one of the image files. --[[User:ImperialFH|ImperialFH]] 20:25, 8 April 2007 (UTC)
+== Stormtrooper / TIE Pilot / X-wing / etc. ==
+I think a Stormtrooper userbox would be pretty cool, or maybe a TIE Fighter and X-Wing one for all of the fighter pilots we have.--[[User:ImperialFH|ImperialFH]] 13:31, 6 April 2007 (UTC)
+
+===Stormtrooper Userbox===
+here are what I have come up with for Stormtroopers so far: 
+<div style="float:left; border:1px solid black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:white;"
+| style="width:45px; height:45px; background:#ffffff; text-align:center; font-size:14pt;" | [[Image:Canttroop.jpg|60px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user likes to travel to exotic planets and exterminate the inhabitants as an Imperial [[Stormtrooper]].
+|}</div><noinclude><br clear="all">
+
+or 
+
+<div style="float:left; border:1px solid black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:white;"
+| style="width:45px; height:45px; background:#ffffff; text-align:center; font-size:14pt;" | [[Image:Canttroop.jpg|45px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user supports [[Stormtroopers]] .
+|}</div><noinclude><br clear="all">
+
+I am not really happy with either, I think the first is too bulk and the second is not quite enough, any suggestions or comments would be appreciated. --[[User:ImperialFH|ImperialFH]] 21:26, 7 April 2007 (UTC)
+*What about something based on Kenobi's line in ANH?  ''This user's blast points, too accurate for Sand People, must be the work of an Imperial Stormtrooper.'' ...or simply... ''This user's blast points have the precision of an Imperial Stormtrooper.'' Something like that? -- [[User:Xerxes|Xerxes]] 01:04, 8 April 2007 (UTC)
+**Thats a good idea, but you know if I add this: 
+<div style="float:left; border:1px solid black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:white;"
+| style="width:45px; height:45px; background:black; text-align:center; font-size:14pt;" | [[Image:Canttroop.jpg|45px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" |This user's blast points, too accurate for Sand People, must be the work of an Imperial [[Stormtroopers|Stormtrooper]].
+|}</div><noinclude><br clear="all">
+[[template:user Stormtrooper]]
+
+
+then, to be balanced I should add this as well: 
+<div style="float:left; border:1px solid Brown; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#D2B48C;"
+| style="width:45px; height:45px; background:#ffffff; text-align:center; font-size:14pt;" | [[Image:TuskenVictory.jpg|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user likes to march in single file to hide their numbers.
+|}</div><noinclude><br clear="all">
+can be found here: 
+[[template:user Singlefile]]
+
+
+=== TIE Fighter Userbox===
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#708090;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:TIEINT.jpg|45px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user doesn't need shields to support the [[Imperial Starfighter Corps]].
+|}</div><noinclude><br clear="all">
+
+I like the image, though most of our fighters on the MUSH now have shields...  What about, "This user doesn't need a superior craft to support the Imperial Starfighter Corps." ? -- [[User:Nasa eagle|Nasa eagle]] 17:39, 8 April 2007 (UTC)
+*How is this? --[[User:ImperialFH|ImperialFH]] 17:48, 8 April 2007 (UTC)
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#708090;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:TIEINT.jpg|45px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user doesn't need a hyperdrive to support the [[Imperial Starfighter Corps]].
+|}</div><noinclude><br clear="all">
+
+
+* I think this one is a little better... keeps it to 2 lines...  [[User:Nasa eagle|Nasa eagle]] 19:10, 8 April 2007 (UTC)
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#708090;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:TIEINT.jpg|45px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user doesn't need a hyperdrive to fly in the [[Imperial Starfighter Corps]].
+|}</div><noinclude><br clear="all">
+
+:-I Like it, I think that will be what we put up, at least for now.--[[User:ImperialFH|ImperialFH]] 19:35, 8 April 2007 (UTC)
+It can be found here:[[template:user TIE]]
+=== X-Wing Userbox ===
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#ff0000;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:Xwing_Icon.jpg|45px]]
+| style="font-size:8pt;color:white; padding:4pt; line-height:1.25em;" | This user likes to lock S-foils into attack position to support [[New Republic StarOps]].
+|}</div>
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#ff0000;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:Xwing_Icon.jpg|45px]]
+| style="font-size:8pt;color:white; padding:4pt; line-height:1.25em;" | This user locks S-foils into attack position for [[New Republic StarOps]].
+|}</div><br clear="all">
+
+* Unsure if it means anything but I haven't had an appreciable headache in about six years and the X-Wing prototypes left an afterburn on my retinas and made me marginally queasy from the impact of that much red, the sort that originates behind the eyes and makes the sockets ache.  I like the design, though. - [[User:Alienplayer|Alienplayer]] 14:27, 8 April 2007 (UTC)
+** I don't think the red is that harsh but it isn't the right color anyway. Orange is: 
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#ff7010;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:Xwing_Icon.jpg|45px]]
+| style="font-size:8pt;color:white; padding:4pt; line-height:1.25em;" | This user locks S-foils into attack position for [[New Republic StarOps]].
+|}</div><br clear="all">
+
+--[[User:ImperialFH|ImperialFH]] 14:50, 8 April 2007 (UTC)
+
+This userbox can be found at: [[template:user Xwing]]
+
+:-You're correct ''about'' the orange, but the orange code you have is too... orange. Too tangerine. I'll do a color match and input the dead-on code later on this evening. -- [[User:Hawke|Hawke / Rtufo]] 20:23, 8 April 2007 (UTC)
+*Yeah, I tried to match it as best I could using a DVD screen capture of Luke in Ep IV but I don't have anything that uses the HTML codes and of the ones that Wiki lists, that one was the closest, but changes need to be made to the template now rather than the prototypes here. --[[User:ImperialFH|ImperialFH]] 20:29, 8 April 2007 (UTC)
+
+== Helpful / Roleplay Point-of-contact ==
+What about one for those that are able to help others put up pages? Or how about those that are points of contact for setting up RP for the factions?  [[User:Nasa eagle|Nasa eagle]] 13:44, 6 April 2007 (UTC)
+
+== Commander NR/Imperial ==
+While we're at it, what about commanders for each side of the battleline?  Also, for those players that lead a major force, perhaps putting the types of userboxes that serve under their command as well?  -- [[User:Nasa eagle|Nasa eagle]] 17:37, 8 April 2007 (UTC)
+
+*I still think having userboxes for the commanders of each side would be really neat to have, rather set apart those that would be facing off against each other.  I'll see what I can do about getting some graphics. --[[User:Nasa eagle|Nasa eagle]] 04:02, 1 November 2007 (UTC)
+
+=== Prototypes ===
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#ffff88;border:3px solid #ff8800; margin:1px;"
+| style="width:45px; height:45px; background:#ffffff; text-align:center; font-size:14pt;" | [[Image:Smiley_head_happy.png|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is a helpful sort of person, willing to assist with your wiki-work.
+|}
+
+== Languages ==
+
+I would suggest a template for the (RL) languages, since not all users are native English-speakers --Athena 14:15, 7 April 2007 (UTC)
+
+:-Fellow admins? Should I create some from scratch, or should I lift the complex lang-userbox system they have at Wookiepedia? (''View [[:starwars:category:Language templates]]'') -- [[User:Hawke|Hawke / Rtufo]] 14:32, 7 April 2007 (UTC)

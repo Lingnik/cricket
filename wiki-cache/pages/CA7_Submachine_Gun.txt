@@ -1,0 +1,18 @@
+TITLE: CA7 Submachine Gun
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T20:00:58Z
+======================================================================
+Steel blue is the identifiable colour of this weapon that is both a bane to 
+users and opponents alike. The retractable stock on this machine gun is handy
+when steadiness is needed more than a good spray, but this gun can handle 
+both adequately. With an extended magazine cartridge, gripping is superb. 
+However, against blaster pistols or rifles this projectile weapon - while 
+efficient - is severely outclassed.
+<pre>
+Name................CA7
+Weapon Type.........Firearm (uses Blaster)   Weight..............3kg
+Damage Type.........Ranged                   Stun Setting........No
+Accuracy............-1D+0 Penalty            Damage..............4D
+Conceal Difficulty..13                       Two-Handed..........No</pre>
+
+[[Category:Ranged Weapons]]

@@ -1,0 +1,11 @@
+TITLE: Template:Title icon
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-10-29T22:19:27Z
+======================================================================
+{{#switch:{{{1|}}}
+|approved=[{{fullurl:SW1ki:Mush Staff Approved}} Approved]
+|cdu=[{{fullurl::CDU}} CDU]
+|csa=[{{fullurl::Corporate Sectory Authority}} CSA]
+|imp=[{{fullurl::Galactic Empire}} IMP]
+|nr=[{{fullurl::New Republic}} NR]}}<noinclude>
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

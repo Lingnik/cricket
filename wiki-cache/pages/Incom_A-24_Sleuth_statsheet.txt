@@ -1,0 +1,33 @@
+TITLE: Incom A-24 Sleuth statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-02-07T18:42:41Z
+======================================================================
+<pre>Craft ........ Incom A-24 Sleuth     
+Type ......... Scout Ship            Cargo Capacity ......... 2 metric tons
+Scale ........ Starship              Consumables ............ 3 months
+Length ....... 14 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x10
+Crew ......... 1                     Nav Computer ........... Yes
+Passengers ... 1                     Maneuverability ........ 2D
+Hull ......... 123                   Movement ............... 80
+Shields ...... 72                    Atmosphere ............. 350; 1000kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  800,  Focus:  20,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 2 total (2 filled)
+
+Stock Weapons:
+   Two Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 4        Damage ........ 5D       
+      Fire Arc ......... Forward        Fire Control .. 2D+1
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/1.5km
+
+[Note: Equipped with high powered, coded transmitter. Sends on tight beam,
+       hard to block or decode.]
+
+BASE COST NEW: 127000 cr             BASE COST USED: 34290 cr              
+SUGGESTED DOWNPAYMENT: 76200 (new), 20574 (used)</pre>
+
+{{statsheet ship|A-24 Sleuth}}

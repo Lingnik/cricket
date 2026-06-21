@@ -1,0 +1,52 @@
+TITLE: D6 Combat Rules/Space Movement and Combat
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-05T23:20:00Z
+======================================================================
+{{working}}
+
+=Starship Movement=
+Starship movement works just like [[D6 Combat Rules/Vehicle Combat and Movement|vehicle movement]]. Every ship has a Space score; it's how many "space units" it moves at cruising speed.
+
+A slow ship might have a space score of two or three, while an average freighter would have a space score of about five or six. The galaxy's fastest starfighters - like A-wings and TIE interceptors - have Space movements as high as eleven and twelve.
+
+Moving is an action, just like firing a blaster or dodging. A ship can move once per round.
+
+When a ship moves, you describe the terrain and then pick a difficulty level and a difficultly number: Very Easy (1-5), Easy (6-10), Moderate (11-15), Difficult (16-20), Very Difficult (21-30), or Heroic (31+).
+
+The player decides how fast he wants to pilot the ship and then rolls the ship's piloting skill (either capital ship piloting, space transports, or starfighter piloting.) If the ship has a "maneuverability" code, add it to the pilot's skill roll.http://sw1mush.wikia.com/index.php?title=D6_Combat_Rules/Space_Movement_and_Combat&action=edit
+Editing D6 Combat Rules/Space Movement and Combat - SW1ki
+
+If the roll is equal to or greater than the difficulty number, the ship moves through space with no problem; if the roll is lower, the ship has a "movement failure."
+
+==Movement Speeds==
+The pilot can pick one of fur speeds.
+
+*'''Cautious Movement''': This is a very slow movement. The ship goes up to half its Space. Round up. (A ship with a Space of nine would move up to five units.)
+
+In Very Easy, Easy, and Moderate space, cautious movement is a "free action" and the pilot doesn't have to roll his space transports (or other skill).
+
+In Difficult, Very Difficult and Heroic space, roll the character's piloting skill, but reduce the difficultly one level.
+
+'''Example''': Danik, the brash pilot, jumps behind the controls of ''Nightmare of Athaniss'', an A-wing. The ship has a Space of twelve and a maneuverability of 4D. Danik's starfighter piloting is 7D. He's piloting in open space (Very Easy) at cautious speed. He doesn't have to rll - the A-wing starfighter automatically moves twelve space units. If he were also firing ''Nightmare of Athaniss'''s laser cannons, he'd get to roll his full starship gunnery skill of 7D because piloting in Easy space is a "free actin."
+
+Later, Danik is flying through the heart of a dense asteroid field - it's Very Difficult space. Since he decides to fly at cautious speed, the space is considered one difficultly level easier: it's only Difficult (the gamemaster picks a difficultly number of 17). Danik rolls his starfighter piloting of 7D and the A-wing's maneuverability of 4D and gets a 35. ''Nightmare of Athaniss'' maneuvers through the asteroid field with ease.
+
+*'''Cruising Movement''': "Cruising movement" is the normal movement speed for a starship. It moves at its Space speed. Moving at cruising speed counts as an action, but the pilot can automatically make the move for Very Easy, Easy, and Moderate space. The pilot must roll his piloting skill for Difficult, Very Difficult, and Heroic terrains.
+
+'''Example''': Danik is flying ''Nightmare of Athaniss'' through open space (Easy terrain), with two X-wings closing in fast. He can automatically fly the ship at cruising speed (it goes its Space of three), but it's an action. Firing the laser cannons is a second action, so he rolls 6D (subtract the -1D penalty from starship gunnery of 7D) to hit one of the X-wings.
+
+Later, Danik's racing through a thick asteroid belt (Difficult terrain; difficulty number of 19) at cruising speed. He rolls his starfighter piloting of 7D and the ship's maneuverability of 4D and gets a 38 - he swings around a large asteroid with ease.
+
+*'''High Speed''': High speed movement is pushing a starship for added speed: the ship moves at twice its Space speed. The pilot must roll for Very Easy, Easy and Moderate terrain. When moving at high speed, the difficulty for Difficult, Very Difficult, and Heroic space increases one level. Difficult becomes Very Difficult, Very Difficult becomes Heroic, and Heroic becomes Heroic+10.
+
+'''Example''': Danik is flying ''Nightmare of Athaniss'' through open space (Easy terrain; difficulty number 8) while trying to avoid Republic hotshots in Y-wings. He decides to go at high speed to outrace them. His starfighter piloting and maneuverability rolls total 31 - a success. The ship's move is 12, so it moves 24 space units.
+
+Later, Danik is trying to avoid the Republicans, this time by maneuvering through the girders of a partially completed space station - it's Difficult terrain. Because he's moving at high speed, the terrain is considered Very Difficult (difficulty number 24). Danik rolls his starfighter piloting and maneuverability, getting a 23: he fails. To find out what happens, see [[#Starship Movement Failures|Starship Movement Failures]].
+
+*'''All-Out''': A ship going at all-out speed moves at four times its space. Characters piloting a ship at "all-out" speed may not do anything else in the round, including starship dodges or firing the ship's weapons. Increase the difficulty one level for Very Easy, Easy and Moderate space. Increase the difficulty two levels for Difficult, Very Difficult, and Heroic space.
+
+'''Example''': Danik knows Republic A-wings are closing in on him, but if he's quick enough he may be able to make the jump to lightspeed and escape. He decides to move ''Nightmare of Athaniss'' all-out. The space is Easy terrain; since Danik is moving all-out, the difficult increases to Moderate (number 12). Danik rolls his starfighter piloting and maneuverability, getting a 29 - success! ''Nightmare of Athaniss'' has a space of 12, so it pulls ahead 48 units!
+
+Later, Danik decides to fly all-out while moving through a thick bunch of starships orbiting a planet. It's Difficult space, but because he's moving all-out, the difficulty increases two levels to heroic (Difficultly number 38). Danik rolls his starfighter piloting and maneuverability and gets a 27. Danik realizes that he's pushed the ''Nightmare of Athaniss'' too hard and that the ship is about to go spinning out of control! See [[#Starship Movement Failures|Starship Movement Failures]].
+
+[[Category:The Way It Works]]

@@ -1,0 +1,36 @@
+TITLE: Barloz-class Freighter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-06T11:35:55Z
+======================================================================
+[[Image:Barloz_2.jpg|right]]
+One of [[Corellian Engineering Corporation|CEC]]'s more popular freighters before the [[Galactic Civil War]], the Barloz shows its pre-YT series design in its triangular hull, rather than the saucer shape of later CEC vessels. A sectionalized round cockpit viewscreen and cylindrical docking rings foreshadow those of its successors, however with a centered cockpit and blocky lines it stands as a form separate from eventual CEC standards.
+
+<br clear=all>
+
+<pre>Craft ........ Corellian Engineering Corporation Barloz-class Freighter
+Type ......... Medium Freighter      Cargo Capacity ......... 85 metric tons
+Scale ........ Starship              Consumables ............ 2 months
+Length ....... 41 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x12
+Crew ......... 2, skeleton: 1/+5     Nav Computer ........... Yes
+Passengers ... 4                     Maneuverability ........ 1D
+Hull ......... 138                   Space Movement ......... 50 
+Shields ...... 36                    Atmosphere ............. 295; 850kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  20,  Passive:  100
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (1 filled)
+
+Stock Weapons:
+   One Single Laser Cannon:
+      Weapon Rating .... Class 3        Damage ........ 4D       
+      Fire Arc ......... Turret         Fire Control .. 1D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 130000 cr             BASE COST USED: 32500 cr              
+SUGGESTED DOWNPAYMENT: 78000 (new), 19500 (used)</pre>
+
+[[Category:Starships]]
+[[Category:CEC Ships]]

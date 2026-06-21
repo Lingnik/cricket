@@ -1,0 +1,56 @@
+TITLE: Template:War
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-10-24T00:01:55Z
+======================================================================
+<table border="0" cellspacing="0" cellpadding="0" style="float:right; clear:right; margin: 0 0 .5em 1em; width:300px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;">
+<tr><td colspan="2"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 0 0; width:300px; background:#ffffff; border-collapse:collapse;">
+{{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{c3|#F0F0F0}}};"><td colspan="2" style="padding:0; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align:top;"><td>'''Previous''':</td><td class="infoboxcell" style="width:100%;">
+{{{previous}}}
+</td></tr></table>
+</td></tr>|1{{{previous|}}}=}}
+{{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{c3|#F0F0F0}}};"><td colspan="2" style="padding:0; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align:top;"><td>'''Concurrent''':</td><td class="infoboxcell" style="width:100%;">
+{{{conc}}}
+</td></tr></table>
+</td></tr>|1{{{conc|}}}=}}
+{{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{c3|#F0F0F0}}};"><td colspan="2" style="padding:0; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align:top;"><td>'''Next''':</td><td class="infoboxcell" style="width:100%;">
+{{{next}}}
+</td></tr></table>
+</td></tr>|1{{{next|}}}=}}
+<tr style="text-align:center; color:#ffffff; background:{{{c1|#7995CA}}}; font-size:larger;"><th colspan="2">{{{name}}}</th></tr>
+<tr style="text-align:center;"><td colspan="2" style="padding:0; background:{{{c2|#B4C5E3}}};">{{{image|}}}</td></tr>
+<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: top; background:{{{c3|#F0F0F0}}};"><td style="padding:0; border-top: 1px solid #999999; border-bottom: 1px solid #999999; border-right: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align: top;"><td>'''Beginning''':</td><td class="infoboxcell" style="width:100%;">
+{{{begin}}}
+</td></tr></table>
+</td><td style="padding:0; border-top: 1px solid #999999; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align: top;"><td>'''End''':</td><td class="infoboxcell" style="width:100%;">
+{{{end}}}
+</td></tr></table>
+</td></tr>
+<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{c3|#F0F0F0}}};"><td colspan="2" style="padding:0; border-top: 1px solid #999999; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align:top;"><td>'''Place''':</td><td class="infoboxcell" style="width:100%;">
+{{{place}}}
+</td></tr></table>
+</td></tr>
+<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{c3|#F0F0F0}}};"><td colspan="2" style="padding:0; border-top: 1px solid #999999; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align:top;"><td>'''Outcome''':</td><td class="infoboxcell" style="width:100%;">
+{{{result}}}
+</td></tr></table>
+</td></tr>
+{{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{c3|#F0F0F0}}};"><td colspan="2" style="padding:0; border-top: 1px solid #999999; border-bottom: 1px solid #999999;"><table border="0" cellpadding="4" cellspacing="0" style="padding:0; margin: 0 0 0 0; width:100%; border-collapse:collapse;"><tr style="background:{{{c3|#F0F0F0}}}; vertical-align:top;"><td>'''Major&nbsp;battles''':</td><td class="infoboxcell" style="width:100%;">
+{{{battles}}}
+</td></tr></table>
+</td></tr>|1{{{battles|}}}=}}
+<tr><th colspan="2" style="text-align:left; font-weight:normal; background:#B4C5E3;">'''Combatants'''</th></tr>
+<tr style="spacing-top:0px; spacing-bottom:0px; vertical-align:top; text-align:center; background:{{{c3|#F0F0F0}}};"><td class="infoboxcell" width="50%"  style="border-top: 1px solid #999999; border-bottom: 1px solid #999999; border-right: 1px solid #999999;">
+{{{side1}}}
+</td><td class="infoboxcell" width="50%" style="border-top: 1px solid #999999; border-bottom: 1px solid #999999;">
+{{{side2}}}
+</td></tr>
+<tr><th colspan="2" style="text-align:left; font-weight:normal; background:#B4C5E3;">'''Commanders'''</th></tr>
+<tr style="spacing-top:0px; spacing-bottom:0px; vertical-align:top; background:{{{c3|#F0F0F0}}};"><td class="infoboxcell" width="50%"  style="border-top: 1px solid #999999; border-bottom: 1px solid #999999; border-right: 1px solid #999999;">
+{{{commanders1}}}
+</td><td class="infoboxcell" width="50%" style="border-top: 1px solid #999999; border-bottom: 1px solid #999999;">
+{{{commanders2}}}
+</td></tr>
+</table></div></td></tr><tr><td id="infoboxend" class="plainlinks" style="text-align:right; width:49%;"></td><td style="text-align:left; width:51%;">&nbsp;&nbsp;[[Template:War|[Source]]]</td></tr></table><noinclude>
+
+[[Category:Templates]]
+</noinclude>

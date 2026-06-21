@@ -1,0 +1,106 @@
+TITLE: Clients
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-28T06:19:18Z
+======================================================================
+Connecting to Star Wars MUSH is possible through raw Telnet, though doing so is not recommended. Instead, it is suggested that you browse the following list of clients, and select the one that fits your play-style and tastes.
+
+{| class="wikitable"
+! colspan="2" | OS Independent
+|-
+|[http://potatomushclient.com/ Potato]
+|Free. Runs on Windows XP, Vista, 7, and 8, as well as Linux, and Mac OS X. Raspberry Pi functionality is in the works. For help with client, see Jaspar in-game. For a list of features, look [https://github.com/potatomushclient/potato/wiki here] .
+|-
+|[http://www.ggsoft.org/ggmud/ GGMud]
+|Free. Java-based.
+|-
+|[http://netherland.ath.cx/nether/content.php?topic=thebean Java Bean MUD Client]
+|Free. Java-based. No longer maintained.
+|-
+|[http://lyntin.sourceforge.net/ Lyntin]
+|Free. Python-based.
+|-
+|[http://tinyfugue.sourceforge.net/ tinyfugue]
+|Free, but not recently maintained (c. 2007). Not for novice computer users due to command-line interface, and lack of GUI.
+|-
+|[http://tintin.sourceforge.net/ TinTin++]
+|Free. Java-based. Runs on any OS (OS X, Windows, UNIX). Requires base program; not for novice computer users.
+|-
+|[http://www.mudconnect.com/fmud/ TMC Flash Client]
+|Free, browser-based.
+|-
+! colspan="2" | Android
+|-
+|[https://play.google.com/store/apps/details?id=basement.lab.mudclient&hl=en AndroMUD]
+|Free. Last updated April 2010.
+|-
+|[https://play.google.com/store/apps/details?id=com.happygoatstudios.bt&hl=en BlowTorch]
+|Free. Last updated July 2011.
+|-
+|[https://play.google.com/store/apps/details?id=com.crap.mukluk&hl=en Mukluk]
+|Free. Last updated August 2013.
+|-
+! colspan="2" | iOS
+|-
+! colspan="2" | NOTE: Links below are from the US iTunes store. Please use your local iTunes to locate available apps.
+|-
+|[https://itunes.apple.com/us/app/mudmaster/id341160033?mt=8 MUDMaster]
+|$2.99. Last updated April 2012.
+|-
+|[https://itunes.apple.com/us/app/id597157072?mt=8 MUDRammer]
+|$3.99. Last updated December 2013.
+|-
+|[https://itunes.apple.com/us/app/pocket-mud-pro/id511678455?mt=8 Pocket MUD Pro]
+|$2.99. Last updated October 2012.
+|-
+! colspan="2" | UNIX (Linux/BSD/System V)
+|-
+|[http://www.kmud.de/ KMUD]
+|Free. KDE only.
+|-
+|[http://www.andreasen.org/mcl/ MCL]
+|Free. Abandonware.
+|-
+|[http://saywat.sourceforge.net/ SayWat]
+|Free.
+|-
+|[http://home.swipnet.se/heathen/linux/sclient.htm SClient]
+|Free, GTK-based.
+|-
+! colspan="2" | Mac OS X
+|-
+|[http://www.riverdark.net/atlantis/ Atlantis]
+|Free. Open-source client, highly versatile.
+|-
+|[http://www.jamochamud.org/ JamochaMUD Client]
+|Free.
+|-
+|[http://mudwalker.cubik.org/ MUDWalker]
+|Free.
+|-
+|[http://www.tucows.com/preview/205162 Rapscallion]
+|Free, though no longer maintained. Use at your own risk.
+|-
+|[http://www.heynow.com/Savitar/ Savitar]
+|Shareware, $15.
+|-
+! colspan="2" | Windows
+|-
+|[http://www.mushclient.com/ MUSHClient]
+|Free. Versatile.
+|-
+|[http://www.gameaxle.com/ Portal]
+|Shareware, $20. 32- and 64-bit versions available.
+|-
+|[http://pueblo.sourceforge.net/ Pueblo/UE]
+|Free/Open-source. No longer maintained.
+|-
+|[http://www.twyst.org/smud/ SMud]
+|Free, no longer maintained. Not recommended for XP/Vista/7 users.
+|-
+|[http://simplemu.onlineroleplay.com/ SimpleMU]
+|Crippleware/Abandonware, $20 for license. Not recommended for purchase due to lack of recent (c. 2010) activity from the publisher.
+|-
+|[https://www.zuggsoft.com/store/home.php ZMUD/CMUD]
+|Trialware (30 days), $35 license for ZMUD, $30 for CMUD, $40 for CMUD Pro. CMUD recommended for Windows Vista/7, ZMUD for XP and older.
+|-
+|}

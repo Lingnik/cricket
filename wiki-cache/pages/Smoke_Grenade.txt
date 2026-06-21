@@ -1,0 +1,14 @@
+TITLE: Smoke Grenade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T04:18:56Z
+======================================================================
+Smoke grenades when detonated generate bilious clouds of non-toxic colored or grey smoke. Some slightly more expensive models can obscure thermal imaging devices as well as standard visual interference. A switch at the side of the canister determines the quantity and color of the expelled gas, which is usually sufficient to obscure an area about ten meters wide and long.
+
+<pre>
+Name................Smoke Grenade
+Weapon Type.........Thrown Weapon            Weight..............0.5kg
+Damage Type.........Range                    Stun Setting........No
+Accuracy............0D+0                     Damage..............0D+0 
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Thrown Weapons]]

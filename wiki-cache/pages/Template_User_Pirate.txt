@@ -1,0 +1,13 @@
+TITLE: Template:User Pirate
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-08T21:45:23Z
+======================================================================
+<div style="float:left; border:1px solid Black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#000000;"
+| style="width:45px; height:45px; background:Black; text-align:center; font-size:14pt;" | [[Image:PirateFlag.png|45px]]
+| style="font-size:8pt;color:white; padding:4pt; line-height:1.25em;" | This user thinks that stealing ships and booty is a part of Star Wars.
+|}</div><noinclude><br clear="all">
+==== Do what you want because a pirate is free, you are a pirate! ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{User Pirate}}</nowiki></pre>
+[[Category:Userbox Templates|Pirate]]</noinclude>

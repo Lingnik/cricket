@@ -1,0 +1,13 @@
+TITLE: Template:User type nrep
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T17:04:19Z
+======================================================================
+<div style="float:left; border:2px solid #000a8d; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#b5a642;"
+| style="width:45px; height:45px; background:#efefef; text-align:center; font-size:14pt;" | [[Image:emblem_nr_starphoenix.png|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user believes in the justice & equality of the New Republic.
+|}</div><includeonly>[[Category:Users who are Diverse and Just]]</includeonly><noinclude><br clear="all">
+==== A New Republic Type of User ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user type nrep}}</nowiki></pre>
+[[Category:Userbox Templates|Type Nrep]]</noinclude>

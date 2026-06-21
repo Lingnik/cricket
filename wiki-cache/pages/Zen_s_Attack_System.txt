@@ -1,0 +1,89 @@
+TITLE: Zen's Attack System
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-06T00:59:48Z
+======================================================================
+'''Zen's Attack System (ZAT)''' is a public, beta-code project for roleplaying combat on the MUSH. In-game, these support files can be summoned by typing '''+help zat'''.
+
+=== Settings ===
+
+ +combat <on|off>..............Sets your willingness to +combat.
+ +newround.....................Declares a new round, creates round's order.
+ +dodge <full|on|off>..........Sets your dodge to off, on, or full.
+ +parry <full|on|off>..........Sets your parry to off, on, or full.
+ +health <1-100>...............Sets health to a lower %, for RP purposes.
+ +attack[/pri|sec] <victim>....Attacks someone.
+
+ +health <target>=<1-100>......Admin-only healing and wounding.
+
+=== Purpose & Use ===
+'''+combat''' (Zen's ATtack System) should first and foremost be an aid to RP and not a purpose for being here. All participants (attackers or targets) must agree to +combat by using the '''+combat on''' feature. Turn this flag to '''off''' when you're not using it for safety reasons. Additionally, the MUSH will periodically reset your combat readiness as a courtesy service.
+
+You should start a combat round with a '''+newround'''. That command will generate a list of everyone in your location that is ready for +combat and check character initiative (''perception'') to determine the round's order. All participants should set their defenses at the very beginning of the round (''parry'' and ''dodge'') first. That defensive status should remain in effect for the whole combat round. When you dodge, you gain a +1D bonus to avoid attacks but are also penalized -1D in your attacks. A full-dodge results in the same effect, but with +2D bonus and -2D penalty. A ''parry'' results in precisely the same. It's possible to ''dodge'' and ''parry'' all at once, but the penalties are severe.
+
+Then, in the order listed, everyone poses and uses the '''+attack''' command. You can specify the hand of the weapon you'd like to use if you have more than one wielded. Using this command with no weapons wielded will result in a ''brawl''. The '''+attack''' action considers all of the modifiers for dodging/parrying on both sides, the modifiers due to worn items (armor, cybernetics, etc.), the modifiers of the weapon you're using to attack, and so on. The '''+attack''' action automatically decides what skill to use for your attack and picks the best opposing skill, rolls all of those dice, and summarizes the result. If you successfully attack someone, this command will apply damage to your target after taking their protection (armor) into consideration. Once someone reaches 0% health they are considered dying.
+
+==== Example ====
+A sample +combat between Zen and Minkar. Zen is already wounded from a previous fight, and is wearing '''Stormtrooper armor''' for the purposes of the demonstration:
+
+*Zen> +combat on
+*Minkar> +combat on
+*Zen> +newround
+**<NEWROUND> Zen declares a new round. Set defenses and then pose and attack in this order: Minkar (30) and Zen (6).
+*Minkar> +dodge full
+**<DEFENSE> Minkar begins full-dodging.
+*Minkar> +wield DD6
+**Minkar wields her DD6 Blaster Pistol.
+*Zen> +dodge on
+**<DEFENSE> Zen begins dodging.
+*Zen> +wield chainblade
+**Zen wields his Chainblade.
+
+*Minkar> Minkar smoothly draws out her DD6 Holdout Blaster pistol, takes aim, and fires a volley at Zen from across the table.
+
+*Minkar> +attack zen
+**<ATTACK> Minkar attacks Zen with her DD6 Blaster Pistol (17) and misses (22)!
+
+*Zen> Sensing the oncoming conflict, Zen has already been looping his hand around the long thick chain that supports the heavy wrecking ball under the table. When Minkar shoots at him he cannot believe it -- after all, he has been so good to her. He gives a yelp, barely evades the blast, and arcs his back, bringing the ball up and over in Minkar's direction.
+
+*Zen> +attack minkar
+**<ATTACK> Zen attacks Minkar with his Chainblade (4) and misses (6)!
+
+*Zen> +newround
+**<NEWROUND> Zen declares a new round. Set defenses and then pose and attack in this order: Zen (8) and Minkar (4).
+
+*Zen> +dodge off
+**<DEFENSE> Zen stops dodging.
+
+*Minkar> [chooses not to change her full dodge, even though Zen is attacking with a melee weapon so she should be parrying]
+
+*Zen> Like a wild man, Zen's chain crashes through the tabletop and he swings it again, around his head, and aims to cut Minkar into two! Arrr!
+
+*Zen> +attack minkar
+**<ATTACK> Zen attacks Minkar with his Chainblade (33) and hits her head (13)! His attack inflicts (16) damage to Minkar, leaving Minkar stunned.
+
+*Minkar> Minkar takes one on the noggin! Ouch! She puts her gun to Zen's face and shoots wildly!
+
+*Minkar> +attack zen
+**<ATTACK> Minkar attacks Zen with her DD6 Blaster Pistol (26) and hits his torso (16)! Her damage is lessened by Zen's armor (by 2), but still inflicts 11 damage points, leaving Zen mortally wounded.
+
+*Zen> +newround
+
+...and so on.
+
+=== Comments ===
+The importance of item stats is greatly increased here. If you have a [[ZIS]] item wielded or equipped, it probably has stats that are affecting ZAT combat. For instance, a blaster has an accuracy modifier. Holdout blasters are nice but they are awful (in testing) to shoot with since they are inaccurate. Stormtrooper armor may block a lot of physical attacks, for instance, but also give you some other problems, like a -1D to all dexterity skills. All those mods are taken into account by ZAT. In addition, '''+RPGCHECK <skill>''' can be used to roll your skill and also include any equipped or wielded ZIS items that might affect the outcome of the roll. Command '''+zview''' to view any wielded or worn items and discover what stats might be affecting you.
+
+If you use a sword (for instance) to attack someone with, the game knows to roll your melee combat skill and appropriately rolls the opposing skill on your partner. If you use a blaster, the game rolls your blaster skill and sets up dodge as the opposing roll. You can have a melee weapon in your primary hand and a blaster in your secondary hand. Just specify which hand you want to attack with and it will all work the math and rolls out for you behind the scenes. You can have a blaster in one hand and punch somebody with your other hand by just specifying that empty hand to attack with ('''+attack/sec minkar''', for instance).
+
+You still have to use consent (and common sense) with this system. Positioning should be worked out before the first round is played (ie. "I am over by the bar about 2 meters from Chewie."). Spacing is important since you can't roleplay being down the street and shooting at someone, and then melee them. You can always call a judge to arbitrate over the ZAT +combat scene too.
+
+A round is considered to be about 5 seconds worth of action. You can only attack once per round.
+
+Feedback and comments are welcome.
+
+=== See Also ===
+*[[Combat RP]]
+*[[Roleplaying Etiquette]]
+
+
+[[Category:Interaction Guides]]

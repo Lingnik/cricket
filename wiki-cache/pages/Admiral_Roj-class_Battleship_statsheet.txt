@@ -1,0 +1,50 @@
+TITLE: Admiral Roj-class Battleship/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-31T21:29:14Z
+======================================================================
+<pre>
+Craft ........ CDU Navy Admiral Roj-class Battleship
+Type ......... Battleship (Command)  Cargo Capacity ......... 7000 metric tons
+Scale ........ Capital               Consumables ............ 6 months
+Length ....... 1150 meters           Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x8
+Crew ......... 4,882                 Nav Computer ........... Yes
+Passengers ... 1200 (Marines)        Maneuverability ........ 1D+1
+Hull ......... 1797                  Space Movement ......... 60
+Shields ...... 243                   Hangar Space ........... 500
+Can Land? .... No
+
+Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+
+Starfighter Compliment: 
+    Two fighter squadrons (24 Z-100), one bomber squadron (12 Z-105F), one
+    scout-interceptor squadron (12 Z-110), four EW craft (Z-105IR).
+Shuttle Compliment:
+    One assault shuttle squadron (4 L-200, 8 L-202). Miscellaneous tenders and logistical craft.
+
+
+Weapons:
+   Fifty Turbolasers (25 twin turrets):
+      Weapon Rating .. Standard            Damage ........ 6D
+      Fire Arc ....... 10F, 14L, 14R, 8B   Fire Control .. 3D
+      Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+   Thirty Ion Cannons (15 twin casemates):
+      Weapon Rating .. Type 3              Damage ........ 6D
+      Fire Arc ....... 6FR, 10L, 10R, 4B   Fire Control .. 2D+2
+      Space Range .... 1-10/25/50          Atmo Range .... 2-20km/50km/100km
+   Sixty Laser Cannons (fire seperately):
+      Weapon Rating ... Type 5               Damage ........ 5D
+      Fire Arc ........ 10FR, 20L, 20R, 10B  Fire Control .. 3D
+      Space Range ..... 1-3/12/25       Atmo Range .... 100-300m/1.2km/2.5km
+      Scale ........... Starfighter
+   Twelve HOWL (six twin turrets):
+      Weapon Rating .. Standard            Damage ........ 10D
+      Fire Arc ....... 8F/L/R, 4B/L/R      Fire Control .. 3D
+      Space Range .... 2-15/35/70          Atmo Range .... 2-35km/80km/175km
+   Ten Tractor Beam Projectors (Fire Seperately):
+      Weapon Rating .... Class 2           Damage ........ 6D
+      Fire Arc ......... 4FR, 2L, 2R, 2B   Fire Control .. 4D
+      Space Range ...... 1-5/15/30         Atmo Range .... n/a
+</pre>
+
+[[Category:Stat Sheets]]

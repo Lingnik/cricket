@@ -1,0 +1,86 @@
+TITLE: Imperator II-class Star Destroyer statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2016-06-06T01:40:42Z
+======================================================================
+{{statsheet ship|Imperator_II-class_Star_Destroyer}}
+
+=== D-Space ===
+<pre>
+Craft ....... KDY's Imperator II Star Destroyer
+Type ........ Star Destroyer        Cargo Capacity ......... 36000 metric tons
+Scale ....... Capital               Consumables ............ 6 years
+Length ...... 1,600 meters          Hyperdrive Multiplier .. x1
+Pilot Skill . Capital Ship Piloting Hyperdrive Backup ...... x8
+Crew ........ 37,085                Nav Computer ........... Yes
+Passengers .. 9,700 (Troops)        Maneuverability ........ 1D
+Hull ........ 1920                  Space Movement ......... 60
+Shields ..... 216                   Hangar Space ........... 750
+Can Land? ... No
+
+Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 194 total (130 filled)
+
+Stock Weapons:
+  Fifty Heavy Turbolaser Batteries:
+     Weapon Rating .. Type 1              Damage ........ 7D
+     Fire Arc ....... 20FR, 10L, 10R, 10B Fire Control .. 1D
+     Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+  Fifty Heavy Turbolaser Batteries:
+     Weapon Rating .. Type 2              Damage ........ 10D
+     Fire Arc ....... 20FR, 15L, 15R      Fire Control .. 0D
+     Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+  Ten Tractor Beam Projectors:
+      Weapon Rating .... Class 2        Damage ........ 6D
+      Fire Arc ......... 6FR, 2L, 2R    Fire Control .. 4D
+      Space Range ...... 1-5/15/30      Atmo Range .... 2-10km/30km/60km
+
+   Twenty Ion Cannons (fire separately):
+      Weapon Rating .... Type 2         Damage ........ 4D
+      Fire Arc ......... 10FR, 5L, 5R   Fire Control .. 4D
+      Space Range ...... 1-10/25/50     Atmo Range .... 2-20km/50km/100km
+
+Carries:
+        Full Division of Stromtroopers
+        20 ATATs
+        30 ATSTs
+        Six squadrons of TIE Fighters
+
+BASE COST NEW: 8000000 cr            BASE COST USED: 2240000 cr            
+SUGGESTED DOWNPAYMENT: 4800000 (new), 1344000 (used)</pre>
+=== West End Games - Star Wars D6 ===
+''Source: 2nd Edition Imperial Sourcebook''
+ Craft ....... KDY's Imperator II Star Destroyer
+ Type ........ Star Destroyer        Cargo Capacity ......... 36000 metric tons
+ Scale ....... Capital               Consumables ............ 6 years
+ Length ...... 1,600 meters          Hyperdrive Multiplier .. x1
+ Pilot Skill . Capital Ship Piloting Hyperdrive Backup ...... x8
+ Crew ........ 36,755 (+330 Gunners) Nav Computer ........... Yes
+ Passengers .. 9,700 (Troops)        Maneuverability ........ 1D
+ Hull ........ 7D+1                  Space Movement ......... 60
+ Shields ..... 2D+2                  Hangar Space ........... 750
+ Can Land? ... No
+ 
+ Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 194 total (130 filled)
+ 
+ Stock Weapons:
+   Fifty Heavy Turbolaser Batteries:
+      Weapon Rating .. Type 1              Damage ........ 10D
+      Fire Arc ....... 20FR, 15L, 15R      Fire Control .. 0D
+      Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+   Fifty Heavy Turbolaser Cannon:
+      Weapon Rating .. Type 2              Damage ........ 7D
+      Fire Arc ....... 20FR, 10L, 10R, 10B Fire Control .. 1D
+      Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+   Twenty Ion Cannons:
+       Weapon Rating .... Type 2           Damage ........ 4D
+       Fire Arc ......... 10FR, 5L, 5R     Fire Control .. 4D
+       Space Range ...... 1-10/25/50       Atmo Range .... 2-20km/50km/100km
+   Ten Tractor Beam Projectors:
+       Weapon Rating .... Class 2          Damage ........ 6D
+       Fire Arc ......... 6FR, 2L, 2R      Fire Control .. 4D
+       Space Range ...... 1-5/15/30        Atmo Range .... 2-10km/30km/60km

@@ -1,0 +1,13 @@
+TITLE: Light Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-02-28T21:47:15Z
+======================================================================
+Scout armor made of a very light metalloid. The armor covers the upper and lower torso as well as the extremities of the individual. This material of the armor gives the wearer slight protection from energy and physical attacks without inhibiting the wearer's movement or agility. This unit is equipped with a breathmask and heating unit to allow it to operate in thin atmosphere, but not a vacuum.
+<pre>
+Name................Light Armor
+Weight..............10kg                     Covers..............Body
+Physical Protection.0D+2                     Energy Protection...0D+2
+Conceal Difficulty..23                       Dexterity Penalty...0
+Strength Bonus......0                        </pre>
+
+[[Category:Armor]]

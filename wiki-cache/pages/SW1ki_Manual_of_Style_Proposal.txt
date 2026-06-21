@@ -1,0 +1,192 @@
+TITLE: SW1ki:Manual of Style Proposal
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2025-11-08T22:10:47Z
+======================================================================
+<div class="firstHeading" style="font-size: 100%; padding-top: 0.2em; padding-bottom: 0.09em; float: right; position: absolute; right: 0.5em; top: 0em; white-space: nowrap"><table style="float: right; padding: 0px"></table></div>
+
+My Manual of Style proposal. It's more or less taken from Wookieepedia with changes to accommodate our MUSH and its community. It's just a proposal... make your comments, suggestions, critiques and votes here: [[SW1ki:Manual of Style Proposal/Comments and Voting|Comments and Voting]].
+
+<!--There is much to add to this. Please add to it if you feel something should be addressed.-->
+
+==Layout guide==
+===In-universe===
+All in-universe articles should be structured as follows:
+#Title/Infobox
+#Main article
+*Should include official and canonical information - and by canonical, we're referring to Star Wars MUSH canon, not the ''real'' canon - and original background material created by author that does not impede on the MUSH timeline or ''real'' canon before the MUSH went IC (such as saying your character averted the Clone Wars).
+#Character's Appearance/Description (optional)
+#Stub
+*used when an article is too vague or brief, AND when there is clearly more information that can be added
+#Behind the scenes/OOC
+*Any non-IC material that doesn't fit on the user's talk page or may lend some information to the article.
+#Sources
+*Should be used for "non"-MUSH subjects such as [[:Category:NPC Sheets|NPC Sheets]].
+#Notes and references
+*Perhaps we should have characters start adding references for some of their work? Such as writing that their character did so and so, and providing a reference such as a log.
+#See also
+*Anything related to the article that deserves note.
+#External links
+*If needed.
+#Succession box
+*If the character fills some important role (such as Emperor or Presav).
+#Category
+*Appropriate categories only.
+#Interwiki links
+*Links to any other Wikis on the same subject.
+
+Please note that not all articles use every section.
+
+==Naming articles==
+There are some rules regarding how articles should be named.
+*Article names should be in singular form, not plural.
+*The titles of articles about individual characters should be the name by which the character was most commonly known in the the MUSH universe, with later names preferred to earlier names, and full names preferred to partial names or nicknames.  Titles, such as military ranks or titles of nobility, should be omitted.
+*Unless the name of the article contains (or is) a proper noun, none of the words should be capitalized.
+
+==Perspective==
+===In-universe===
+If something is '''in-universe''', or is described as such, it belongs to the ''[[:starwars:Star_Wars|Star Wars]]'' universe exclusively and ''not to the real world''. Characters, for example, are in-universe, but the actors who play them are out-of-universe. 
+
+The only section where out-of-universe information is appropriate is the "Behind the scenes" section and its subsections of an in-universe article. See below for more details.
+
+===Out-of-universe===
+'''Out-of-Universe''' refers to the perspective in which an article is written; it is the opposite of in-universe. Something written from an out-of-universe (OOU) perspective is written from a real life point of view. It will refer, for example, to real life publications, actors, authors, events, and so on, acknowledging that its subject is fictional. In contrast, an in-universe perspective will strive for verisimilitude; that is, it will be written as though the author existed within the ''Star Wars'' universe. Articles about any in-universe things, such as characters, vehicles, terminology, or species, should always be written from an in universe perspective. If a section in the article is not, such as the listing of a character's  behind the scenes details, it should be tagged as such.
+
+==Headings==
+Use the <code>==</code> (heading) markup for headings, not the <code><nowiki>'''</nowiki></code> ('''bold''') markup. Example:
+
+:<code>===This is a heading===</code>
+
+which produces:
+
+<div style="background-color: white">
+:<b><font style="font-size: 120%">This is a heading</font></b>
+</div>
+
+If you mark headings this way, a table of contents is automatically generated from the headings in an article. Sections can be automatically numbered for users with that preference set and words within properly marked headings are given greater weight in searches. Headings also help readers by breaking up the text and outlining the article.
+
+*Capitalize the first letter only of the first word and of any proper nouns in a heading, and leave all of the other letters in lower case.
+*Avoid links within headings.  
+*Avoid overuse of sub-headings.
+
+==Usage and spelling==
+Though the readers and editors of may speak many varieties of English, we prefer standard [[Wikipedia:American English|American English]] spelling, punctuation, and word usage.  This is the variety of English used in the first printings of most primary sources.
+
+If the title of an article differs in different varieties of English, the American title should be the article title, with alternate names being used as redirects (for example, [[Lightsabre]] redirects to [[Lightsaber]]).
+
+===Tense===
+{{Quote|A long time ago in a galaxy far, far away…|''Star Wars'' films}}
+
+This is a matter of debate. Personally, I wouldn't mind writing articles in ''past-tense'' as the Star Wars universe, and the MUSH, are meant to be events that occured ''a long time ago''. However, I doubt others feel this way, so I'm not going to argue it. However, events that occured in the past, such as battles, or something has long passed, such as a character doing so and so, should be written in past-tense... Danik was born on Corellia, Danik was at the Battle of Corellia, Danik did so and so. When it comes to a present situation, like, Korynn is the current director of ISB, then that's when present-tense should be used. I dunno, I'll let the rest of us decide.
+
+==Capital letters==
+Standard English [[:wikipedia:Sentence_case|sentence case]] should be used at all times (for category names, article titles, section names, etc.).  Capitalize the first letter of the first word and all proper nouns.  Do not capitalize common nouns, unless they happen to be the first word in the phrase.  More complete rules for capitalization can be found at [[:wikipedia:Capitalization|Wikipedia]].
+
+The following sub-sections illustrate and clarify specific examples of this policy.
+
+===Sector versus system===
+When we name systems, and when we link to them, the word "'''s'''ystem" should remain in lower case, while the word "'''S'''ector" when coupled with the name of a sector, should be capitalized.
+
+Examples: [[Caspian Sector]] and Corellian system
+
+===Jedi and Sith===
+The words "Jedi" and "Sith" must always be capitalized. "Jedi" and "Sith" are metonyms that refer to "a member of the Jedi Order" and "a member of the Sith Order," respectively.
+
+===The Force===
+While "[[the Force]]" is a proper name and therefore must be capitalized, the light and dark sides of the Force are not capitalized in the vast majority of official sources and therefore must not be capitalized. For example: "[[:starwars:Anakin Skywalker/Legends|Anakin Skywalker]] fell to the dark side", not "...to the Dark Side".
+
+===Rebel and Imperial===
+If these adjectives refer to the [[:starwars:Alliance to Restore the Republic/Legends|Rebel Alliance]] or the [[Galactic Empire]], they should always be capitalized. "Mon Calamari supported the Rebel cause" and "The Imperial base on Kejim was..." 
+
+However, note that if the referent of these forms are not either of these organizations, there is no reason to capitalize: "The Galaxy was in turmoil by a series of rebellions and civil wars."
+
+===Human and other sentient species===
+:See also: [[:wikipedia:Demonym|Demonym at Wikipedia]] (The names of sentient species, when used to identify as a people, are technically demonyms.)
+
+In all sections of in-universe articles, the words "[[Human]]" and "[[Near-Human]]" should be capitalized, just as the name of any other [[:wikipedia:sentient|sentient]] species in the ''Star Wars'' universe would be.  The word "[[:wikipedia:humanoid|humanoid]]," however, should not be capitalized.
+
+Please note that semi-sentient or non-sentient creature names must not be in capitals. Hence, writing "Rancor" instead of "rancor" is agrammatical. As much as we don't capitalize "Dog" or "Cat" in real-life, we shouldn't capitalize fictional creature names.
+
+===Galaxy===
+Capitalized the word ''"Galaxy"'' refers to '''the''' ''Star Wars'' galaxy, which lacks a true proper name like the ''Milky Way''.  Uncapitalized it refers to '''any''' galaxy.  The community has decided that the word ''galaxy'' should always be capitalized if it refers to the ''Star Wars'' galaxy: "Order 66 aimed at the execution of all Jedi all across the Galaxy." If it refers to any galaxy or a galaxy that is other than the ''Star Wars'' galaxy, it must remain in the lower case: "A galaxy is a collection of constellations."
+
+===Ranks and titles===
+A rank's name is not to be capitalized if it refers to the rank, not a person. "Ackbar was a well-known admiral." or "As a captain, he had many responsibilities."
+
+However, if the word refers to a person, it should be capitalized. "As an experienced leader, Admiral Ackbar..." or "He never liked telling jokes to the Admiral."
+
+There are some ranks the name of which should always be capitalized, no matter the semantics. Such titles are Padawan, Vice Admiral, Flight Leader, and so on.
+
+===Literary titles===
+In instances where a phrase is the title of a literary work, standard English [[:wikipedia:Title Case|title casing]] should be used, e.g. ''Tatooine Bob and the Sanctum of Catastrophe''.
+
+==Italics==
+===Class and ship names===
+Names of specific spaceships should be:
+*Capitalized
+*Italicized
+*Used with the definite article
+:e.g.
+:"The ''Thunderflare'' operated in the Core region."
+:'''NOT''' "''Thunderflare'' operated in the Core region."
+*Referred to by neutral pronouns (it, its)
+
+:e.g.
+:"The ''Chimaera'' was a fine ship. Its commanding officer was Captain Pellaeon."
+
+Class names are italicized only when a spaceship in the class bears the same name. The definite article may be used, but it is not required.
+*When a ship’s class is a modifier, use a hyphen: 
+::"''Quasar Fire''-class Bulk Cruiser"
+*When it is a noun, do not use a hyphen:
+::"Ships of the ''Victory'' class were often overlooked"
+
+:e.g.
+:An ''Executor''-class Star dreadnought
+
+Do not italicize a class name when:
+*Using the class name and type, but without "-class"
+::"Venator Star Destroyer"
+*It is being used alone as a noun
+::"Most models of the Broadside were lightly armored and ran with a small crew."
+
+Starfighter, missile, and other craft types where a specific spaceship does not bear the class name should be
+*Capitalized
+*Un-italicized
+*Preceded by the full technical designation in the first instance, and may be referred to solely by type name or common name in all succeeding instances.
+*Referred to with neuter pronouns (it)
+
+:e.g.
+:The T-65 X-wing, or X-wing in all further instances
+
+==Quotations==
+Quotations should follow this general format:
+*If the quote is less than a paragraph long, simply including it in the article's body with "quotation marks" will suffice.
+*If the quote is at least a paragraph in length, or a dialogue, insert as a block quote:
+
+::"Block quotes are indented with a colon at the beginning of each new paragraph. Each paragraph needs only one colon, not a new colon for each line (word wrap will accomplish this automatically).
+
+::New paragraphs, however, do require their own colon."
+
+Please be sure to provide as much information as possible (for instance: source, page if applicable, and characters speaking if applicable).
+
+*Users should not correct the capitalization, spelling, grammar, or word usage within direct quotes taken from copyrighted sources as such modifications jeopardize our [[Wikipedia:Fair use|Fair use]] claim on that material. Article quotes ought to be verbatim and any changes, edits, or exclusions should be explicitly noted by using square brackets ("[ ]"). Any errors made by the author may be noted by using "[sic]." This includes the words such as Human and Galaxy that the community has decided to capitalize in all other contexts.
+*Quotes that serve as introductions to article subsections should not contain internal links because they appear unprofessional and are generally distracting. The only exception to this rule would be in-universe words or phrases of an obscure nature (ie. ''blue milk'').
+*Redundant internal links should not be added to quotes because they serve little purpose beyond making the quotes appear cluttered and messy. Links should only be added to quotes if they contain a specific article's ONLY mention of a particular concept, but even then, it is better to integrate the internal link into the body of the article's text.
+*Piped links should be avoided as much as possible. If the context of the quote is not readily apparent, it is best to add appropriate information to the quote attribution field of the [[Template:quote|quote template]] rather than adding piped links to ambiguous pronouns such as "you," "he," or "they."
+
+Per standards of American English, double quotation marks (" ") should be used and the period (full stop), comma, question and exclamation marks should be within the quotation.
+
+Single quotation marks (' ') should only be used when there is a quotation inside a quotation: "I never liked 'May the Force be with you.'"
+
+===Examples===
+*Single speaker
+{{quote|Hokey religions and ancient weapons are no match for a good blaster at your side, kid.|[[Han Solo]] to [[Luke Skywalker]]}}
+*Two or more speakers
+{{quote|I prefer more straightforward methods.''"<br>"''Master of understatement.|[[:starwars:Anakin Skywalker|Anakin Skywalker]] and [[:starwars:Obi-Wan Kenobi|Obi-Wan Kenobi]]}}
+
+==Units of measurement==
+For consistency, all in universe articles should use metric units of weight, mass, length, and other measurements. This follows the practice in most sources of official ''Star Wars'' canon. (See also List of measurement units.)
+
+==Article Length==
+How long is too long? When does it get broken off into subpages?
+
+[[Category:SW1ki|Manual of Style]]

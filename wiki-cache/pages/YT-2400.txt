@@ -1,0 +1,34 @@
+TITLE: YT-2400
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-27T17:52:36Z
+======================================================================
+<pre>The latest addition to the famous YT series of light freighters, the YT-2400 
+was designed with Corellian preferences in mind.
+ 
+Craft ........ Corellian YT-2400 Transport
+Type ......... Light Freighter       Cargo Capacity  ........ 100 metric tons
+Scale ........ Starfighter           Consumables ............ 2 months
+Length ....... 21 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x10
+Crew ......... 2                     Nav Computer ........... Yes
+Passengers ... 4                     Maneuverability ........ 1D+2
+Hull ......... 172                   Space Movement ......... 60
+Shields ...... 72                    Atmosphere ............. 330; 950mh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  1000,  Focus:  20,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (4 filled)
+ 
+Stock Weapons:
+     Two Heavy Double Laser Cannons:
+      Weapon Rating .... Class 4        Damage ........ 5D
+      Fire Arc ......... Turrets        Fire Control .. 1D+2
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 175000 cr             BASE COST USED: 45500 cr              
+SUGGESTED DOWNPAYMENT: 105000 (new), 27300 (used)</pre>
+
+[[Category:Starships]]
+[[Category:CEC Ships]]

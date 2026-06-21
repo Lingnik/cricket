@@ -1,0 +1,64 @@
+TITLE: Sentinel-class Landing Craft
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-28T21:13:05Z
+======================================================================
+With its folding wing configuration and matching cockpit module, the '''''Sentinel''-class Landing Craft''' was similar to the [[Lambda-class Shuttle|''Lambda''-class Shuttle]]. Both vehicles shared the same manufacturers.
+
+The landing craft's exterior, however, was encased in armor plating 25% heavier than the armor of a Lambda. The landing craft was equipped with four deflector shield projectors. Despite its size, the Sentinel was fast and agile due to its Cygnus HD7 engine array.
+
+[[Image:ship_starship_sentinel02.jpg|left|280px|Sentinel-class Landing Craft]]
+The Sentinel relied on a pilot and a sensor officer along with the three gunners to pilot it. The vehicle's sensor suite which was located in the cockpit allowed navigation in nearly all conditions and featured infrared imaging, motion detectors and life-form indicators. The vessel's computer also had an automatic mapping function and a rudimentary autopilot that could pilot the vessel towards an Imperial garrison or starship or homing beacon during emergencies and featured powerful communication arrays which enabled contact with all Imperial starships and garrisons within a given system.
+
+In its usual configuration, it could carry approximately six stormtrooper squads or 54 stormtroopers, 12 E-Web repeating blasters and 6 74-Z speeder bikes. When its seats were removed and it was converted to carrying supplies, it could carry 36 74-Z speeder bikes or 2 compact assault vehicles like AT-STs and AT-PTs. Its total cargo capacity was 180 metric tons.
+
+The landing craft's weapons complement consisted of 8 laser cannons, 2 concussion missile launchers, 1 retractable ion cannon and 2 rotating repeating blasters. Three gunners were responsible for manning these weapons, which were all linked to the shuttle's precise targeting computers. Since the Sentinel was heavily armed, it also served as a combat support vehicle.
+
+It was introduced before the Battle of Yavin and became the main troop transport in the [[Imperial Navy]]. The Sentinel was often used to transport troops between Star Destroyers/Cruisers/Star Dreadnoughts and planets.
+
+The vehicle also made an excellent atmospheric transport and many Imperial garrisons had one of these vehicles. Several Sentinels were used on the desert world [[Tatooine]], where they deployed sandtroopers and their Dewback mounts to search for the missing Death Star plans.
+
+Sentinels were also used in conjunction with larger Y-85 Titan dropships or AT-AT barges for joint infantry/armor assaults. However, because of their popularity, they were used by other groups including the Rebel Alliance, the New Republic, Galactic Federation of Free Alliances, mercenary groups, and the Imperial Remnant.
+
+During the Galactic Civil War, the Rebels used a fleet of captured Sentinel landing craft as support ships. The Alliance logo was painted on their central wing, to help tell them apart from the Imperial ships. The New Republic also developed its own unique replacement for the Sentinel-class. The New Republic's ''Bantha''-class assault shuttle featured much heavier armor than its Imperial counterpart.
+
+
+<pre>
+Sienar Fleet Systems / Cygnus Spaceworks "Sentinel" -class Assault Shuttle
+Type ........... Landing Craft / Shuttle  Cargo Capacity .......... 180 metric tons
+Scale .......... Starship                 Consumables ............. 1 month
+Length ......... 30 meters                Hyperdrive Multiplier ... x1
+Pilot Skill .... Starship Piloting        Hyperdrive Backup ....... x10
+Crew ........... 5                        Nav Computer ............ Yes
+Passengers ..... 54                       Manuverability .......... 2D
+Hull ........... 162                      Space Movement .......... 50
+Shields ........ 70                       Hangar Space ............ None
+Can Land? ...... Yes
+
+Sensors ...... Normal:  1000,  Focus:  30,  Passive:  250
+
+
+Weaponry :
+	8 Laser Cannons
+		Fixed Forward, Fire-Linked
+		Fire Control - 3D
+		Damage - 6D
+
+	2 Concussion Missile tubes (6 rockets each)
+		Computer Guided
+		Fire Control - 3D
+		Damage - 9D
+
+	2 Repeating Blasters
+		Turret Mounted
+		Fire Control - 4D
+		Damage - 3D+2
+
+	1 Ion Cannon
+		Turret Mounted
+		Fire Control - 4D
+		Damage - 4D (electrical)
+
+</pre>
+
+----
+[[Category:Starships]]

@@ -1,0 +1,48 @@
+TITLE: Strike-class Medium Cruiser/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-31T21:49:21Z
+======================================================================
+<pre>
+
+Craft ........ Loronar Strike Cruiser
+Type ......... Medium Cruiser        Cargo Capacity ......... 6000 metric tons
+Scale ........ Capital               Consumables ............ 1.5 years
+Length ....... 450 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+Crew ......... 2,112                 Nav Computer ........... Yes
+Passengers ... 340 (Troops)          Maneuverablity ......... 2D
+Hull ......... 1446                  Space Movement ......... 60
+Shields ...... 216                   Hangar Space ........... 250
+Can Land? .... Yes
+
+Sensors ...... Normal:  1200,  Focus:  40,  Passive:  300
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 84 total (50 filled)
+
+Stock Weapons:
+
+   Ten Heavy Turbolaser Batteries:
+      Weapon Rating .... Type 1          Damage ........ 7D
+      Fire Arc ......... 4FR, 3L, 3R     Fire Control .. 1D
+      Space Range ...... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+
+   Twenty Turbolaser Batteries (fire separately):
+      Weapon Rating .... Type 1           Damage ........ 5D
+      Fire Arc ......... 5FR, 5L, 5R, 5B  Fire Control .. 2D
+      Space Range ...... 3-15/35/75       Atmo Range .... 6-30km/70km/150km 
+
+   Ten Tractor Beam Projectors (fire separately):
+      Weapon Rating .... Class 1           Damage ........ 4D
+      Fire Arc ......... 2F, 3L, 3R, 2B    Fire Control .. 2D
+      Space Range ...... 1-5/15/30         Atmo Range .... 1-5km/15km/30km
+
+   Ten Ion Cannon Batteries:
+      Weapon Rating .... Type 1            Damage ........ 4D
+      Fire Arc ......... 4FR, 3L, 3R       Fire Control .. 4D
+      Space Range ...... 1-5/15/30         Atmo Range .... 2-1km/30km/60km
+
+BASE COST NEW: 5000000 cr            BASE COST USED: 1400000 cr            
+SUGGESTED DOWNPAYMENT: 3000000 (new), 840000 (used)</pre>
+
+[[Category:Stat Sheets]]

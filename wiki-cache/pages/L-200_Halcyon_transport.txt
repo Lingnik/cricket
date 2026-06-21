@@ -1,0 +1,51 @@
+TITLE: L-200 Halcyon transport
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2008-04-22T18:14:30Z
+======================================================================
+{{ship Common|
+image=|
+name=Lokkai/CDMC L-200 Halcyon|
+type=Multi-role Craft, Lifter|
+scale=Transport / Starship|
+manuf=[[Lokkai Starworks|Lokkai]] - [[CDMC]]|
+status=Coded; ? credits|
+length=36|
+land=Yes|
+crew=3-12|
+pass=98 short-term / 16 long-term|
+cargo=120|
+consume=2 months|
+hyper1=x2|hyper2=x15|
+space=70|
+manuv=2D|
+sensor-standard=1000|sensor-focus=30|sensor-passive=300|
+hull=172|
+shields=72|
+gunnery=2 x double-laser turrets<br />2 x medium ion cannons|
+launchers=2 x concussion missile launchers|
+tractor=None|
+statsheet=[[L-200 Halcyon transport statsheet|Available]]|
+}}
+The '''L-200 Halcyon''' is a modular, heavy-lifting, multi-role, aerospace combat vehicle designed, produced, and in use by the [[Caspian Democratic Union]].
+
+=== Overview ===
+Originally developed for the [[Union Marines|CDU Marines]], the Halcyon has proven to be a rugged and versatile craft. Specific versions include the L-200A used as a Marine assault boat, the L-200B used for patrol duties by the [[Caspian Navy|Navy]], the L-200C used as an armed courier, and others, each with specific adaptations to their role.
+
+Further adding to the versatility of the craft, the cargo bay is a separate modular pod that can be dropped from the craft. Modules come in varying configurations, with combinations of short-term seating, long-term quarters, cargo, and on-board facilities. Without the cargo pod, the Halcyon can move truly immense slung loads, easily lifting many small freighters, though it cannot carry a payload through hyperspace in this fashion.
+
+=== Class Features ===
+* The figure used for short term passengers has the pod fitted out with a 50/50 mix of high density passenger seating and cargo, with amenities such as freshers and galleys for meal service. Typically the longest flight that can be sustained with this arrangement is 24 hours. Typically, this constitutes an interplanetary journey, or the shortest interstellar hops. Beyond this, things get notably uncomfortable, and even dangerous, as life support systems are over-used. Other possible short-term passenger loads include 72 medical evacuees in litters, or a platoon of Marines (62) in powered combat armor with four Lynx APC's and supplies. Alternately the Halcyon can carry drop capsule launchers instead of the APC's and deploy a platoon of Marines by meteoric re-entry.
+
+* The figure for long-term passengers assumes that the ship is outfitted with 'coffins' (bunks with partitions, each effective functioning as a small 'room') rather than seats, with a galley, long-term life support, a common area, and an aid station with auto-medic. This figure can be increased through hot-bunking. This is again a 50/50 mix of accommodations and cargo. This arrangement is often used for insertion and retrieval of commando/reconnaissance teams, and though it doesn't afford a great amount of personal space it is reasonably comfortable. Crews enjoy similar arrangements on craft outfitted for long-range missions.
+
+* For Naval roles, the Halcyon is often equipped with long-term quarters for additional crew as above, and reduced cargo space to accommodate additional mission equipment (ie a brig, ECM gear, towed sensor arrays, space mines, or sensor buoys).
+
+* VIP quarters with full staterooms (still hardly luxurious) can be added, though with reduced capacity, or at sacrifice to cargo capacity. This is perhaps an exercise in perverse ingenuity, but not unknown.
+
+* Due to its powerful lifters the Halcyon's cargo capacity is more limited by space than weight. 120 metric tons is a 'typical' load of econ goods that can be wedged into the available space.
+
+* 'Variants' (L-200A/B/C/etc) are created with space code mods and different internal descs.
+
+
+[[Category:Starships]]
+[[Category:Lokkai Ships]]

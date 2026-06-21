@@ -1,0 +1,50 @@
+TITLE: Interdictor Corvette
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-28T05:04:33Z
+======================================================================
+<pre>   A  modified version of the Corellian Corvette, the Interdictor Corvette
+   is known for its fighting power, not its speed. It is a popular defense
+   vessel for small independent systems. This ship projects no gravity wells.
+
+Craft ........ Sardakh Ship Systems Interdictor Corvette
+Type ......... Interdictor Vessel    Cargo Capacity ......... 2,000 metric tons
+Scale ........ Capital               Consumables ............ 6 months
+Length ....... 175 meters            Hyperdrive Multiplier .. x3
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... None
+Crew ......... 200 (50 skeleton)     Nav Computer ........... Yes
+Passengers ... 200 at maximum space  Maneuverability ........ 2D
+Hull ......... 1122                  Space Movement ......... 80
+Shields ...... 243                   Atmosphere ............. 400; 1000 kmh
+Can Land? .... No                    Hangar Space ........... 100
+
+Sensors ...... Normal:  1600,  Focus:  50,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 36 total (13 filled)
+
+Stock Weapons:
+   Four Double Turbolaser Cannons (fire separately):
+      Weapon Rating .... Standard         Damage ........ 5D
+      Fire Arc ......... 1FR, 1L, 1R, 1B  Fire Control .. 3D
+      Space Range ...... 3-15/35/75       Atmo Range .... 30-60km/70km/150km
+   Two Turbolaser Batteries (fire separately):
+      Weapon Rating .... Standard         Damage ........ 5D
+      Fire Arc ......... 1FR, 1B          Fire Control .. 4D
+      Space Range ...... 3-15/36/75       Atmo Range .... 6-15km/72km/150km
+         
+   Two Ion Cannons (fire-linked):
+      Weapon Rating .... Standard       Damage ........ 3D
+      Fire Arc ......... 2FR            Fire Control .. 2D+2
+      Space Range ...... 1-10/25/50     Atmo Range ....  2-20km/50km/100km
+
+    One Tractor Beam Projector:
+      Weapon Rating .... Class 2        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 4D
+      Space Range ...... 1-5/15/30      Atmo Range ....  2-10km/30km/60km
+
+BASE COST NEW: 3450000 cr            BASE COST USED: 966000 cr             
+SUGGESTED DOWNPAYMENT: 2070000 (new), 579600 (used)</pre>
+
+[[Category:Capital Ships]]
+[[Category:Rendili Ships]]
+[[Category:Stat Sheets]]

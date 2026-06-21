@@ -1,0 +1,20 @@
+TITLE: Training Blaster
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T19:28:57Z
+======================================================================
+This blaster resembles the Sorosuub [[DY-255]], however, with various differences.
+It lacks the actual interface on the back to insert the energy pack. It also
+lacks the mount that allows a scope to be added. In the place of these items,
+the training blaster contains a small digital control keypad that allows the
+user to set the frequency of the photonic emmissions that resemble the
+release of a blaster bolt. This weapon is used for various individuals to
+train in the use of a blaster without the risk of injury to themselves, to
+others and to property.
+<pre>
+Name................Training Blaster
+Weapon Type.........Blaster Pistol           Weight..............4kg
+Damage Type.........Range                    Stun Setting........Yes
+Accuracy............0D+0                     Damage..............1D+0
+Conceal Difficulty..18                       Two-Handed..........No</pre>
+
+[[Category:Miscellaneous Weapons]]

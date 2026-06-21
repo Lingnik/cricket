@@ -1,0 +1,16 @@
+TITLE: Spear
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T04:58:51Z
+======================================================================
+A primitive weapon created for a more modern age. The spear consists of a long
+polymer-based pole. At the tip of the pole, which extends to about 1.8 meters,
+is the sharp durasteel welded blade. The tip can be anywhere from 3 to 6 
+inches in length.
+<pre>
+Name................Spear
+Weapon Type.........Melee Weapon             Weight..............3kg
+Damage Type.........Melee                    Stun Setting........Yes
+Accuracy............0D+0                     Damage..............1D+1
+Conceal Difficulty..28                       Two-Handed..........Yes</pre>
+
+[[Category:Melee]]

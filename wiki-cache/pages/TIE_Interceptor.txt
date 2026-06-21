@@ -1,0 +1,70 @@
+TITLE: TIE Interceptor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2014-08-07T21:09:42Z
+======================================================================
+[[Image:fighter_tieint_01.jpg|right|280px]]
+:''If referencing the more prolific, shield-equipped '''Mark 2 variant''', [[TIE Interceptor#Mark 2 variant|see below]]''
+
+Derived from the technological strides made with Darth Vader's TIE x1 Advanced prototype, the '''TIE Interceptor''' heralded a substantial progression in Imperial fighter capability. It possesses a much more aggressive layout and styling, but utilizes many of the same components and control interfaces as those prior fighters that it now serves alongside.
+
+Most noticiably, the solar fins have been bent and elongated into a "dagger" shape. This increases the surface area to provide more collected power, while actually keeping the pilot's wide field of vision. This also reduces the craft's profile, making it much more difficult to target. Most importantly in this case, the four laser cannons are concentrated at the tips of these daggers, creating a deadly kill zone that is rarely forgiving to an opponent.
+
+The Mark 1 fighter was intended to replace the [[TIE/ln Fighter|TIE fighter]] series but to date, this has not been achieved. Hard-pressed by the successes of rebel starfighters, the Imperial TIE Corps took a bold step and experimented with shield-equipped craft. The overwhelming sentiment amongst the ''pilots'' of the TIE Corps was that they didn't need a new fighter &#x2014; but that they needed ''their'' fighter to ''survive'' longer. Rebel "rejects" could survive a mistake because they had shields, while Imperial pilots, even novices, were not afforded that luxury.
+
+The TIE interceptor Mark 2, featuring a deflector shield generator was the result. The increased power-draw had a modest impact on the speed of the already lightning-fast craft, but simulations projected exponentially greater effectiveness and the drawback was dismissed.
+
+<pre>
+Craft ........ Sienar Fleet Systems TIE Interceptor
+Type ......... Superiority Fighter   Cargo Capacity ......... 75 kg
+Scale ........ Starfighter           Consumables ............ 2 days
+Length ....... 9.6 meters            Hyperdrive Multiplier .. None
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1                     Nav Computer ........... None
+Passengers ... None                  Maneuverability ........ 3D+2
+Hull ......... 94                    Space Movement ......... 110
+Shields ...... None                  Atmosphere ............. 435; 1250kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  40,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (4 permanently filled)
+
+Weapons:
+   Four Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km     
+
+BASE COST NEW: 120000 cr             BASE COST USED: 27600 cr              
+SUGGESTED DOWNPAYMENT: 72000 (new), 16560 (used)</pre>
+
+<pre>         
+Craft ........ Sienar Fleet Systems TIE Interceptor Mk2
+Type ......... Superiority Fighter   Cargo Capacity ......... 75 kg
+Scale ........ Starfighter           Consumables ............ 2 days
+Length ....... 9.6 meters            Hyperdrive Multiplier .. None
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1                     Nav Computer ........... None
+Passengers ... None                  Maneuverability ........ 3D+2
+Hull ......... 94                    Space Movement ......... 100
+Shields ...... 36                    Atmosphere ............. 415; 1200kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  40,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (4 permanently filled)
+
+Weapons:
+   Four Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km     
+
+BASE COST NEW: 245000 cr             BASE COST USED: 61250 cr              
+SUGGESTED DOWNPAYMENT: 147000 (new), 36750 (used)</pre>
+
+[[Category:Starfighters]]
+[[Category:KDYSFS Ships]]
+[[Category:ImpMil Restricted Ships]]

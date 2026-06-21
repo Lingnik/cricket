@@ -1,0 +1,171 @@
+TITLE: Forum:New system coordinates
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2025-08-03T07:41:50Z
+======================================================================
+{{Forum:Debate_channel/header}}
+[[Category:Debate channel|{{PAGENAME}}]]
+
+<!-- write after this line, please -->
+
+Discussion begins below...
+
+== Proposed Coordinates ==
+
+[[Image:overhead-map.jpg|right|thumb|300px|Proposed map from Inanna ]]
+[[Image:GFFA_map.png|right|thumb|300px|Example from Xerxes]]
+[[Image:galaxy-shape.jpg|right|thumb|300px|cut-away side view of the galaxy ]]
+
+{| class="sortable"
+! System !! adj X !! adj Y !! adj Z !! Space Object !! Transponder
+|-
+| Athaniss || -37 || -22 || 48 || [[Athaniss]] || [P-9851]
+|-
+| Bespin || -48 || -425 || 12 || [[Bespin]] / [[Cloud City]] || [P-1131]
+|-
+| Bonadan || 372 || 300 || 2 || [[Bonadan]] || [P-9927]
+|-
+| Bonadan || 372 || 300 || 2 || [[Rendili Shipyards]] || [SS-5743]
+|-
+| Both || 310 || -218 || -3 || [[Bothawui]] || [P-6311]
+|-
+| Bright Jewel || 1 || 126 || -5 || [[Ord Mantell]] || [P-3811]
+|-
+| Caspia || 344 || 67 || -19 || [[Caspar]] || [P-9613]
+|-
+| Caspia || 344 || 67 || -19 || Kichnar ([[Kichnar Orbital Station|OS]] + [[Kichnar|Planet]]) || [SS-7199]
+|-
+| Chandrila || 26 || 16 || -2 || [[Chandrila]] || [P-4868]
+|-
+| Cochran || 290 || -157 || -16 || [[Cochran]] (ruined planet) || [P-4578]
+|-
+| Corellia || 75 || -81 || 9 || [[Corellia]] || [P-9120]
+|-
+| Corellia || 75 || -81 || 9 || [[CEC Shipyards]] || [SS-2025]
+|-
+| Coruscant || 0 || 0 || 0 || [[Coruscant]] || [P-9645]
+|-
+| Calamari (Daca) || 453 || 165 || -11 || [[Dac|Mon Calamari (Dac)]] || [P-9880]
+|-
+| Calamari (Daca) || 453 || 165 || -11 || [[Orbital Station Paladin]] || [SS-4744]
+|-
+| Etti || 367 || 297 || 6 || [[Etti IV]] || [P-5596]
+|-
+| Etti || 367 || 297 || 6 || [[Theseus Station]] || [SS-9775]
+|-
+| Faylar || 93 || 260 || 21 || [[Dreven]] || [P-8825]
+|-
+| Kalla || 345 || 300 || 11 || [[Kalla VII]] || [P-2067]
+|-
+| Kashyyyk || 236 || 5 || -22 || [[Kashyyyk]] || [P-8359]
+|-
+| Kashyyyk || 236 || 5 || -22 || [[Trandosha]] || [P-4321]
+|-
+| Kessel || 418 || -8 || * || [[Kessel]] || [P-7666]
+|-
+| Kiilaniri || 358 || 270 || 3 || [[Justa]] || [M-9167]
+|-
+| Kiilaniri || 358 || 270 || 3 || [[Mutanda]] || [P-3561]
+|-
+| Mikassa || 314 || 56 || -14 || [[Mikassa]] || [P-2440]
+|-
+| Nal Hutta || 351 || -103 || 1 || [[Nar Shaddaa]] || [M-4313]
+|-
+| O'Paal || -50 || -2 || 42 || [[O'paal]] || [P-2591]
+|- 
+| O'Paal || -50 || -2 || 42 || [[Orbital Station Guardian]] || [SS-9329]
+|-
+| Ottega || 55 || 160 || -18 || [[Ithor]] || [P-4783]
+|-
+| Scythia || 203 || -122 || 10 || [[Pride-1]] || [SS-1138]
+|-
+| Selene || -45 || 11 || 36 || [[Kuat Drive Yards|KDY-SFS Shipyards]] || [SS-6805]
+|-
+| Selene || -45 || 11 || 36 || [[Selene]] || [P-9092]
+|-
+| Sluis || 81 || -458 || 8 || [[Sluis Van]] || [P-3923]
+|-
+| Smuggler's Run || 239 || -195 || * || [[Smuggler's Run]] || [A-2612]
+|-
+| Sullust || 78 || -390 || 14 || [[Sullust]] || [P-8285]
+|-
+| Tatoo || 316 || -357 || -4 || [[Tatooine]] || [P-1324]
+|-
+| Yavin || 245 || 189 || -13 || [[Yavin 4]] || [M-2180]
+|}
+
+''Proposed Planet Addition''
+{| class="sortable"
+! System !! adj X !! adj Y !! adj Z !! Space Object !! Transponder
+|-
+| Carida || 65 || 42 || 42 || [[Carida]] || [P-2591]]
+|-
+| Carida Moon|| 65 || 42 || 42 || [[Carida]] || [SS-9329]
+|}
+
+<nowiki>*</nowiki> undisclosed location
+
+== Discussion ==
+
+Okay folks, as has been [[Talk:List_of_Systems_and_Planets|mentioned]], there is a movement (and it's actually moving) to set new coordinates for systems in-game, which will match the Galaxy map here on the wiki and make more sense.  I present above a proposal for new X,Y coordinates (I haven't done the Z coordinates yet, but wanted to share what I have).
+
+How did I arrive at this?  I started with [http://starwarsatlas.uw.hu/ Modi's Map] which is a direct overhead shot of the galaxy (as opposed to an angled view).  I marked off all of our systems (either in the spot they're shown on the map, or adding them in the right places).  Then I determined the X,Y coordinates for each system.  ''Then'' I multiplied those numbers by 0.4.  I believe the longest jump in-game is about 690 units.  The longest jump with these proposed coordinates (Bespin to Bonadan) is about 670 units, thanks to the calculations.  This way we won't have to change the calculation for jump speeds, and end up close to the same "longest jump".
+
+This does mean we now have decimal places on the coordinates.  Maybe we keep them, maybe we round... I leave that open to discussion.
+
+One system I had to pick a spot for, since it hasn't been shown on the map yet (or even really placed ''anywhere'') is Smuggler's Run.  I set it between Cochran and Talon's Cut, which puts it in the mid rim.  I welcome any discussion about this, and can offer more about why I chose this spot if people want to hear.
+
+I've posted my map work file (with very rough trade routes marked) above.  Discuss away.-- [[User:Inanna|Inanna]] 21:48, 22 November 2007 (UTC)
+
+*I dug around in the CSA Sourcebook and there's nothing pertaining to planets or systems. So that's a dead end, sorry. --[[User:Danik Kreldin|Danik Kreldin]] 03:09, 23 November 2007 (UTC)
+**Looking more thoroughly at the planets with the question marks on that CSA list, I can say for certain that you'll never find canon source names for them. Most of those planets are just referenced once or twice in passing in a book, sourcebook, or adventure journal, and practically zilch is known about them save that they are CSA planets. So it's in situations like that that you take some creative license and just apply system names. For instance, we can infer that Orron III's system is most likely "Orron," and the rest are just as simple... just name them after the planet. That's what I did with Selene, O'Paal, and Athaniss, but with Dreven I decided to create "Faylar." I seriously doubt people will have objections to you naming those systems - they're uncoded on the MUSH and they have practically zero significance to Star Wars and the MUSH, other than them fleshing out CSA's information. So go for it and fill in those question marks. --[[User:Danik Kreldin|Danik Kreldin]] 03:15, 23 November 2007 (UTC)
+***Thanks for checking on this, Danik.  When I looked through TheForce.net for system names and didn't really find any of the ones we're missing, I started to think that we probably ''do'' have a fairly complete set of the ones that have been named anywhere in the canon.  I agree with going ahead to set our own, based on planet names.  Will work on that sometime if nobody else beats me to it. --[[User:Inanna|Inanna]] 00:37, 24 November 2007 (UTC)
+
+{{User:Xerxes/sig}} Yeah, I'm fairly familiar with the CSA sourcebook... being a CSAer for over a decade and owning multiple copies of the book.  It's been pretty well mined for information at this point.  As for the map, I'd recommend pushing Mutanda further "south".  It's not in the Corporate Sector proper (recent annexation within the MUSH timeline) and is actually supposed to be in the Almanian Sector.  So, it should be in the vicinity of the Almania system which is visible on our map and others. -- [[User:Xerxes|Xerxes]] 03:57, 23 November 2007 (UTC)
+*South it is.  I see a reference to Mutanda being in the Almanian Sector indeed, and this places it appropriately.  Map and coordinates above updated.  Anything else? --[[User:Inanna|Inanna]] 00:37, 24 November 2007 (UTC)
+
+{{User:Xerxes/sig}} Inspired by this, I've been working on a little mapping app.  It generates the galaxy map based on a config file that allows you to tweak all the coordinates, formatting, visibility, zoom, etc.  I'm not very artistic, but I can program.  Once the app is a bit more complete, I'll make it available to all.  I used Modi's map as a base, a conversion factor of 0.5, and scale of 2.25 (1 Modi coordinate = 0.5 SW1 coordinate = 2.25 pixels) to generate the example above.  Obviously, not all the systems are represented, nor have they all been placed (Scythia, Cochran, and Smuggler's Run haven't been adjusted) nor properly affiliated.  Comments welcome.  -- [[User:Xerxes|Xerxes]] 19:59, 29 November 2007 (UTC)
+*Nice work, both of you. I must admit that's it all a little beyond me (the programming aspect... and the whole mathematical aspect ;p), but it looks good. Just gotta get Z coordinates in. Once that is done, I think Krieg should take it before Minkar and create a test space system using the new coordinates - purely to test the hyperspace distances to make sure it all balances out. --[[User:Danik Kreldin|Danik Kreldin]] 20:12, 29 November 2007 (UTC)
+
+{{User:nasa_eagle/sig}} Excellent work!  I've been a bit busy, but I think I can come up with some Z coords based on a sort of orbital plane (AKA all within a certain tolerance from 0).  Say plus or minus 100 units?  It would increase/decrease distances slightly, but probably not enough to affect anything.  And perhaps an operational test of times to places might be a bit more optimal to determine where placement should be. 
+
+I'd also like to propose an idea I think might be interesting to discuss - having certain places only be able to go to other places in hyperspace, or perhaps have certain 'routes' be faster than others?  I just think there should be some way to actually deliniate actual trade lanes and regular paths people travel rather than everyone being an explorer or heading directly to a location.  Just a thought - Probably something very hard to code, but maybe worthy of some discussion. --[[User:Nasa eagle|Nasa eagle]] 03:37, 30 November 2007 (UTC)
+
+For Caspia and Mikassa, it looks to me like they should probably be further southeast just a touch, but I might be missing something with the orientation of this map. I'd also like to open up the distance between them by approximately double (Mikassa having sat roughly on the very edge of CDU territory up until now). In any case, this strikes me as a vast improvement over the previous 'spitball' distribution. --[[User:Mahon|Mahon]] 05:39, 30 November 2007 (UTC)
+
+{{User:Xerxes/sig}} I added the surrounding planets and tried to place Caspar and Mikassa (also Krittain, Yariz, and Rauther).  How does that look?  I also changed the size of the grid and scale so that the image should line-up with Modi's map. -- [[User:Xerxes|Xerxes]] 14:06, 30 November 2007 (UTC)
+
+1. Xerxes, I think that mapping app is a good idea, and has lots of potential.  Switching to a conversion factor of 0.5 does give me reason to pause.  I tried it too, at first, but the reason I lean toward 0.4 (as I mentioned above) is that it keeps the longest jump distance (and thus jump time) roughly the same as it is now.  We could use 0.5 if: a) it is possible and game staff is willing to update the actual calculations used for jumps, so that the speeds and distances will come out the way we want them, or b) we, as players, are willing to have the longest possible jumps (one end of the galaxy to the other) take ''longer'' than they do now.  I don't rule either of these out, but running with 0.4 seemed like a path of least resistance to me.
+2. I also wondered about trade routes acting differently from the rest of space.  I think you're right Krieg, that it would be a challenge to code... but I haven't done enough mush code (or seen the current system) to really speak to this.  I'd be in favor of it, if it's not too much of a hassle... and could live without it if it doesn't happen.
+3. The main concern in placing Caspian space is to have it fit between the Perlemian and planets like Bimmisaari, Iotra and Anzat (all shown on Hawke's map, and all with set coordinates on Modi's map, which Xerxes and I have both worked with).  There's some wiggle room, especially with distances between the Caspian planets... so I'll wait to see what you make of Xerxes' suggestion, Mahon.
+4. I've had something in mind that I want to check into for the Z coordinates (and the range they fall in)... *goes off to tinker* --[[User:Inanna|Inanna]] 02:14, 1 December 2007 (UTC)
+
+Okay, here's my thoughts on the Z coords... looking at maps like the one from [http://starwars.wikia.com/wiki/Image:Starwarsgalaxy.jpg SW Insider], there is an actual spherical mass of stars in the middle of the galaxy (centered on the core, but also stretching out into the inner rim and colonies in a way)... and then everything beyond that (expansion, mid and outer rim) is more "flat" in the "arms" of the galaxy.  (Why that map doesn't make the center of the spherical mass the same as the "true center" of the galaxy, in the deep core, is beyond me).  Anyway... I've worked up a rough graphic... *does her best Jack McCoy, "i present into evidence, exhibit C"* (new graphic, above) This is a direct, cut-away side view of the galaxy now.  The "arms" have a +/- of 20 (that's using my 0.4 calculation... +/- 50 in Modi's scale).  The Inner Rim and Colonies can go up to +/- 40.  The core and deep core can co up to +/- 80 (or 200 in Modi's scale) at the highest point.
+
+In other words... Selene, O'paal, Athaniss, Chandrila and Corellia could all have a range of +/- 80.  Maybe Selene, O'paal and Athaniss (and the whole Tarkin Corridor) can actually be farther out in that range, since Chandrila and Corellia are on major trade routes that stretch farther into the galaxy.  We don't have coded planets in the colonies or inner rim, so nothing to discuss there.  Everything else, if we're using 0.4, I'd say +/- 20.  (Not trying to shoot down your "100" theory, Krieg... it was good at first blush, but I think it makes for a pretty fat galaxy).
+
+For consideration, here are some jump times from Tripe Zero using the game's current jump calculations, and an astrogation skill of 5D+0.
+
+{|
+! What I'm doing: !! sample coords: !! with 0.6 hyperdrive: !! with 1.0 hyperdrive:
+|-
+| 0.4 conversion for Bespin || -38.4,-339.6,14.5 || ~30 minutes || ~50 minutes 
+|-
+| 0.4 conversion for Bonadan || 298,240.8,-12.8 || ~33 minutes || ~54 minutes
+|-
+| 0.4 cross galaxy jump || || ~63 minutes || ~104 minutes 
+|-
+| 0.5 conversion for Bespin || -48,-425,14.5 || ~37 minutes || ~62 minutes
+|-
+| 0.5 conversion for Bonadan || 372,300,-12.8 || ~43 minutes || ~70 minutes
+|-
+| 0.5 cross galaxy jump || || ~80 minutes || ~132 minutes 
+|}
+
+And that's enough from me tonight. --[[User:Inanna|Inanna]] 03:49, 1 December 2007 (UTC)
+
+I've just updated the proposed numbers in the table above.  They now use a multiplier of 0.5 instead of 0.4, and have been adjusted to round to whole numbers.  Some of these fall between my initial placements and Xerxes' map... some pick one or the other.  Also added Z coordinates.  I think we've got a final draft!  (Now I'm off for the other type of Z's) --[[User:Inanna|Inanna]] 03:54, 24 January 2008 (UTC)
+
+*So. Did anything ever come from this? --[[User:Danik Kreldin|Danik Kreldin]] 13:04, 26 July 2008 (UTC)
+
+== Requested Info Update ==
+Alright, looking at taking O'Pall and turning it into Carida.  New system coordinates are needed, I am looking at (65, 42, 42).  OS Guardian will go with it, and be converted into a moon.  More details on that later, but I am seeking if these coordinates fall into what everyone else thinks as should be the proper location.  I'm still working on getting the rest of the planets moved to the updated coordinates here on the wiki.  --{{User:Nasa_eagle/sig}}

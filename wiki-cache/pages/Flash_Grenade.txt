@@ -1,0 +1,16 @@
+TITLE: Flash Grenade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T21:03:31Z
+======================================================================
+This small sphere is black matte in color and slightly oblong with textured
+nubs running along its length in straight lines. A simple pin and safety
+trigger system detonate the item, which is labeled as a flash grenade and is
+decorated with tiny but colorful warnings about covering ocular organs.
+<pre>
+Name................Flash Grenade
+Weapon Type.........Thrown Weapon            Weight..............2kg
+Damage Type.........Range                    Stun Setting........Yes
+Accuracy............0D+0                     Damage..............0D+0 (Stun)
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Thrown Weapons]]

@@ -1,0 +1,7 @@
+TITLE: Template:Header
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-10-26T06:48:54Z
+======================================================================
+<h2 style="padding:0.2em 0.4em; margin:0 0 10px 0; background:#FF9933; border: 1px groove blue; border-color: #663333; color:Black; font-size:130%; font-weight:bold; text-align:left;">{{{1}}}</h2>
+
+<noinclude>[[Category:Templates]]</noinclude>

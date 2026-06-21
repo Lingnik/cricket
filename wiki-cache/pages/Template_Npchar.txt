@@ -1,0 +1,24 @@
+TITLE: Template:Npchar
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-05-21T10:44:23Z
+======================================================================
+{| class="toccolours" style="float:right; margin:0 0 0.5em 1em; width:25em;"
+|-
+|colspan=2 style="text-align:center;" | {{{image|}}}
+|-
+!colspan=2 style="text-align:center; font-size: larger; background-color:{{{bgcolor|#000000}}}; color:{{{fgcolor|#FFFFFF}}};" | {{{name}}}
+|-
+|'''Homeworld''' || {{{planet|unknown}}}
+|-
+|'''Species''' || {{{species|unknown}}}
+|-
+|'''Gender''' || {{{gender|unknown}}}
+|-
+|'''Affiliation''' || {{{affiliation|unknown}}}
+|-
+|'''Appearances''' || {{{appearances|unknown}}}
+|-
+|colspan=2 style="text-align:center;" | '''Played By''' 
+|-
+|colspan=2 style="text-align:center;" | {{{player|unknown}}}
+|}<noinclude>[[Category:Templates|Character]]</noinclude>

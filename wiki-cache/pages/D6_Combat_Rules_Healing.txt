@@ -1,0 +1,81 @@
+TITLE: D6 Combat Rules/Healing
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-04T22:46:28Z
+======================================================================
+These rules cover natural and medical healing for characters.
+
+=Healing=
+Characters can heal in a variety of ways, but the three most common methods of healing are natural healing, medpacs, and bacta tanks (also known as rejuvenation tanks).
+
+==Natural Healing==
+A character can heal naturally, but this process is both slower and much riskie than bacta healing. The character must rest a specified amount of time and then can make a healing roll: roll the character's full Strength to see if the character heals.
+Healing characters can do virtually nothing but rest. A character who tries to work, exercise, or adventure must subtract -1D from his Strength when he makes a healing roll. Any character who opts to take it easy and do virtually nothing for twice the necessary time may add +1D to his Strength roll to heal.
+
+A wounded character must rest for three standard days before rolling to heal.
+
+<pre>Strength Roll		Result
+2-4			Character worsens to wounded twice
+5-6			Character remains wounded
+7+			Character is fully healed.</pre>
+
+A character who is wounded twice must rest for three days before rolling to heal.
+
+<pre>Strength Roll		Result
+2-4			Character worsens to incapacitated
+5-6			Character remains wounded twice
+7+			Character improves to wounded</pre>
+
+
+Incapacitated characters must rest for two weeks before making a healing roll.
+<pre>Strength Roll		Result
+2-6			Character worsens to mortally wounded
+7-8			Character remains incapacitated
+9+			Character improves to wounded twice.</pre>
+
+Mortally wounded characters must rest for one month (35 standard days) before making a healing roll.
+<pre>Strength Roll		Result
+2-6			Character dies
+7-8			Character remains mortally wounded.
+9+			Character improves to incapacitated.</pre>
+
+
+==Medpacs==
+A standard medpac contains a combination of healing medicines, syntheflesh, coagulants, body chemistry boosters, adrenaline drugs, and computer diagnostic hardware to treat seriously injured individuals. Medpacs are very common around the galaxy and can be found aboard most starships, in most buildings and homes...and anyone who thinks he might get into a battle is advised to carry a couple, too.
+
+A first aid (or Technical) roll is needed to use a medpac. The difficulty depends upon the severity of the patient's injury.
+
+<pre>Degree of Injury		Difficulty
+Stunned, unconscious		Very easy
+Wounded, wounded twice	Easy
+Incapacitated			Moderate
+Mortally wounded		Difficult</pre>
+
+If the first aid roll is successful, the patient heals one level: stunned and wounded characters are fully healed; unconscious characters are revived; wounded twice characters improve to wounded; incapacitated characters improve to wounded twice; mortally wounded characters improve to incapacitated.
+
+If the first aid roll is unsuccessful, the character's condition remains the same. If the first aid roll misses the difficulty by more than 10 points, the medpac has pushed the injured character's bod to its limit, and no more medpacs can be used on him fora full standard day.
+
+Multiple medpacs can be used on a character within a single day, but increase the difficulty one level for each additional use.
+
+A medpac is fully expended when it's used - someone who expects to heal several people must carry multiple medpacs.
+
+A character can use a medpac on himself, but he suffers an extra -1D penalty (in addition to any other penalties, such as being injured).
+
+
+==Bacta Tanks==
+Bacta is a specially formulated treatment liquid which promotes rapid healing and acts as a disinfectant. The attending physician can use the bacta tank's computers to add skin-contact medicines to the bacta fluid, inject medicines into the patient's bloodstream, or dispense medicines orally. Characters must have the Medicine skill to use a bacta tank. On most planets, only licensed doctors can administer bacta treatments.
+
+A Very Easy medicine skill is necessary to use a bacta tank - regardless of the wound level. If the roll is made, the character will heal - it's just a matter of time.
+A character attempting to use a bacta tank without the medicine skill must make a Heroic first aid or Technical roll. If the roll fails, the patient's injury worsens two levels. 
+
+The character's healing time depends on the severity of the injuries.
+
+*Wounded: 1D hours
+*Incapacitated: 4D hours
+*Mortally wounded: 1D days
+
+==Medicines==
+There are many different medicines in the galaxy, ranging from mass-produced Pharmaceuticals to "local cures" known only on remote planets.
+
+Each medicine has different game effects. Some may add a bonus to a character's first aid or Medicine skill; others may allow a patient to heal faster; still others may only affect certain injuries or diseases and provide no help for others. You can create new medicines (and describe game terms) as needed for your games.
+
+[[Category:The Way It Works]]

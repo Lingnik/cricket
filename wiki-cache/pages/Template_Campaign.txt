@@ -1,0 +1,27 @@
+TITLE: Template:Campaign
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-30T05:16:53Z
+======================================================================
+{| class="toccolours" border="1" cellpadding="4" style="font-size: 8pt; float: right; margin: 0 0 1em 1em; width: 300px; border-collapse: collapse; clear: right;"
+|-
+!colspan="2" style="text-align: center; background:#99aa99"|'''{{{name}}}'''
+|-
+|colspan="2" style="font-size: 90%; text-align: center;"|{{{image}}}
+|-
+| colspan="2" |'''Date''': {{{date}}}
+|-
+| colspan="2" |'''Outcome''': {{{result}}}
+|-
+!colspan="2" style="text-align: center; background:#99aa99"|Combatants
+|-
+|width="50%"| <center><small>
+{{{side1}}}
+</small></center>
+|width="50%"| <center><small>
+{{{side2}}}
+</small></center>
+|-
+!colspan="2" style="text-align: center; background:#99aa99"|Actions, Battles, & Engagements
+|-
+|colspan="2"| {{{battles}}}
+|}<includeonly>[[Category:Conflicts|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Templates|Campaign]]</noinclude>

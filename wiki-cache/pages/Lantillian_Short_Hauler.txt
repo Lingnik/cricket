@@ -1,0 +1,37 @@
+TITLE: Lantillian Short Hauler
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:51:42Z
+======================================================================
+<pre>   The general uses of this ship are merchant vessel, pleasure yacht, or 
+   luxury passenger liner.  The passenger version comes with many more 
+   amenities including holotheatre, galley, and even geriatric suites.  
+   The main drawback is that the common room was designed for the freight
+   version, and becomes crowded on a fully loaded passenger version.
+ 
+Craft ........ Lantillian Short Hauler
+Type ......... Modified Vessel       Cargo Capacity ......... 85 metric tons 
+Scale ........ Starship              Consumables ............ 1 month
+Length ....... 27 meters             Hyperdrive Multiplier .. x2 
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x12
+Crew ......... 2                     Nav Computer ........... Yes
+Passengers ... 6                     Maneuverability ........ 1D
+Hull ......... 138                   Space Movement ......... 40
+Shields ...... None                  Atmosphere ............. 480; 800kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  600,  Focus:  20,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (2 filled)
+ 
+Stock Weapons:
+   One Double Blaster Cannon (fire separately):
+      Weapon Rating .... Standard     Damage ........ 4D
+      Fire Arc ......... Turret       Fire Control .. 2D
+      Space Range ...... 1-5/10/17    Atmo Range .... 100-500m/1km/1.7km
+
+BASE COST NEW: 110000 cr             BASE COST USED: 25300 cr              
+SUGGESTED DOWNPAYMENT: 66000 (new), 15180 (used)</pre>
+
+[[Category:Starships]]
+[[Category:AEC Ships]]

@@ -1,0 +1,27 @@
+TITLE: Sector Plexus
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-09-17T19:43:35Z
+======================================================================
+'''Sector Plexus''' was the heart of the information system for [[Imperial Intelligence]]. While none of the bureaus were completely centralized, Sector Plexus was the most dispersed. Equipped with the most advanced communication computers and equipment in the galaxy, Sector Plexus conduits handled better than 99.95 percent of all Imperial Intelligence communications. The Plexus encoded, categorized, transmitted, stored, received and decoded more messages in a single standard day than most planetary communications nets would transmit in over 800 standard years.
+
+Sector Plexus assigned each agent or branch office its code number and sequence, and Plexus computers compute and send agents the PSEGs (''see [[How to Read an Imperial Intelligence Scandoc]]'') they were most likely to need. There were typically half a dozen PSEgs for a field agent, 5,000 for a typical branch office agent, and better than a million for a high ranking official of a bureau. Sector Plexus recorded and updated all PSEgs according to a complicated security algorithm. If a transmitting agent's PSEG was sufficiently out of date, even if the message was encoded properly, the computers would transfer the message to a Plexus officer who decided whether or not to authorize the sending of the message. These officers would often route copies of messages which were the slighest bit suspicious to [[Internal Organization Bureau#Internal Counter-intelligence Bureau (IntCon)|IntCon]], [[Bureau of Operations#Renik|Renik]] and the [[Ubiqtorate]].
+
+When a message was sent through the Plexus, it was copied and transmitted to at least two different conduits at each link along the way. Each Sector Plexus staion was a surprisingly small affair, and while they were well hidden, their security is far from guaranteed. If enemy forces destroyed a few Plexus conduits, parallel transmission would allow the message to get through despite the loss. Lower priority messages were sent on less secure channels, and only two copies of each message were transmitted from each conduit. But there were five or more links along the message path before transmision to the final destination, and the message was transmited to additional conduits even after the message had been received at the final destination. This meant the message was routed to thousands of places, only one of which was the actual destination. Even if a message was intercepted, enemy agents had a slim chance of discovering the location of the initial sender or the recipient; the chain was too long.
+
+Sending message over many links took time, so higher priority messages were sent over more secure channels and fewer links, but there copies of each message was sent frm a single conduit to better protect against the destruction of Plexus conduits.
+
+When copies of a message were transmitted, there could have been many reasons for errors - power fluctuations during transmission, sginal degradation over long range, interference from other beamcasts or star activity. The message may have been interrupted by a message of higher priority. The comptuer may have received readings which indicated enemy sensors were sweeping the area for evidence of transmissions, and quickly stop transmissions.
+
+When the message reached the final conduit, the Plexus computer assembled and compared all received versions of the message, and synthesized them into the message most likely to be an exact copy of the original. The computer then generated the authenticity code for the message - the more secure the channel and the fewer deviations between copies of the message, the higher the authenticity code.
+
+==Plexus Droid Vessels (PDV)==
+Sector Plexus had access to portions of the [[HoloNet]], but most of their information was carried from sysetm to system on droid vessels. These were small, extremely fast starships ran strictly by CNLinked droids and computers. The ship had a nav computer, a storage/transceiving 12-CG droid (based on Cybot Galactica's ED4 model), a "ship's captain" R2-M3 droid (based on the R2 astromech droid), and an analysis/encoding computer equipped with a TranLang III Communication module. These ships contained no accomodations or space for living beings, nor did they have life support systems.
+
+Essentially the PDV was a fuel source and engine, with supporting electrnics and droids attached. It was built strictly to send and receive Plexus conduit transmissions within a system and then jump to the next system on its route. A combination of PDV speed, programmed skills and efficient route algorithms guaranteed that a PDV never had a jump duration greater than one standard day, except in extreme emergencies.
+
+The PDV had the ability to avoid detection by long range sensors. PDV's were often given minimal camouflage to make them look like mining probes or scavenger droids to casual observers.
+
+==See Also==
+''[[How to Read an Imperial Intelligence Scandoc]]''
+
+[[Category:Imperial Entities & Terminology]]

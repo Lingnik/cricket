@@ -1,0 +1,7 @@
+TITLE: RPlog talk:Cochran Invaded
+NAMESPACE: 101 (RPlog_talk)
+LAST_EDIT: 2006-12-06T20:00:24Z
+======================================================================
+I can't figure out what's wrong with the template. --[[User:Danik Kreldin|Danik Kreldin]] 22:40, 17 April 2006 (UTC)
+
+You had a missing <nowiki>]</nowiki> after Cochran. It causes a parse error, and the template fails. Fixed. -- [[User:Hawke|Hawke / Rtufo]] 23:10, 17 April 2006 (UTC)

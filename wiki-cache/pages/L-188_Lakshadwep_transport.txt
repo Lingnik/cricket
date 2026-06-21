@@ -1,0 +1,36 @@
+TITLE: L-188 Lakshadwep transport
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-01-18T17:57:51Z
+======================================================================
+The [[SubPro]] '''L-188 Lakshadwep''' was an unglamorous utility craft hastily developed and offered by the starwright in its early days within the [[Caspian Democratic Union]]. It was roughly a long, rectangular box with a single-place cockpit at the front, two adjustable outrigger engine pods on the flanks, and a third engine pod attached in a swivel carriage at the back. Never known for its speed, armament, or cargo capacity, it was inexpensive and suited for travel from a mother ship (such as an [[Ushton-class Heavy Freighter|''Ushton''-class freighter]]) to the surface and back.
+
+The craft received the designation '''"APC"''' for All-Purpose Craft; however, several [[Union Marines|Marine]] and [[Provincial Army of the Union|Army]] units, in classic form, called it the "Awful Puke Crate". It found its employment reduced over the next few years until it was finally replaced by the [[L-200 Halcyon transport|L-200 Halcyon]] and [[L-202 Hellhawk transport|L-202 Hellhawk]] -type craft. Hundreds were promptly scrapped, but one might find one or two rusting or lurking about on a backwater planet.
+
+<pre>    
+Craft ........ SubPro Lakshadwep Class APC
+Type ......... Utility Shuttle       Cargo Capacity ......... 35 metric tons
+Scale ........ Starship              Consumables ............ 2 days
+Length ....... 20 Meters             Hyperdrive Multiplier .. None
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... None
+Crew ......... 1 + 1 R4 Droid        Nav Computer ........... Yes
+Passengers ... 16                    Maneuverability ........ 1D
+Hull ......... 94                    Space Movement ......... 70
+Shields ...... 36                    Hangar Space ........... None
+Can Land? .... Yes
+ 
+Sensors ...... Normal:  400,  Focus:  10,  Passive:  100
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 2 total (2 filled)
+ 
+Stock Weapons:
+   Two Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 3D+1
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 65000 cr              BASE COST USED: 16250 cr              
+SUGGESTED DOWNPAYMENT: 39000 (new), 9750 (used)</pre>
+
+[[Category:Starships]]
+[[Category:SubPro Ships]]

@@ -1,0 +1,467 @@
+TITLE: RPlog:Third Battle of Kessel
+NAMESPACE: 100 (RPlog)
+LAST_EDIT: 2023-08-14T05:51:00Z
+CHARACTERS: Danik Kreldin, Comwiz, Darenak Alesis, Tynan Aileron, Seppi Kharan, Mat Cypher
+RL_DATE: 2002-09  ABY: 11
+FACTIONS: Galactic Empire, New Republic
+======================================================================
+{{rplog|
+title=Third Battle of Kessel|
+author=[[Danik Kreldin]]|
+date=[[11 ABY]]|
+setting=[[Kessel]]|
+characters=[[Danik Kreldin]]<br />Comwiz<br />[[Darenak Alesis]]<br />[[Tynan Aileron]]<br />[[Seppi Kharan]]<br />[[Mat Cypher]]|
+synopsis=The [[New Republic]] launches an assault against [[Galactic Empire|Imperial]]-held [[Kessel]].|
+}}
+
+<SPACE> The dagger shaped form of the Imperial-class Mark II Star Destroyer "Tormentor" orbited over the planet Kessel, the prison world of the Empire. The Tormentor, under the command of Rear Admiral Danik Kreldin, was participating in battle drills with a small portion of the fleet\; that of the VSD Renegade and the Interdiction Picket "Oppressor." At the moment the picket's gravity well generators were powered down\; there was no reason for them. In this simulated battle drill there would be simulated gravity. The TIE squadrons, including the famed Black Star Squadron, had been dispatched. They were attacking simulated targets, mostly rebel A-wings and X-wings. And they were all performing quite well. But then again, this was only simulations...nothing could compare to real battle, which they were all ready for. Kreldin was ordering his new Chief Gunner of the Tormentor, Petty Officer Comwiz, to attack the simulated targets coming at them. Although he was new, Comwiz was an excellent shot. He foresaw an excellent career in his future...
+
+The system was relatively deserted, other than the three vessels participating in the battle drills. There wasn't much of a defense fleet at Kessel. The Empire had little to fear of an attack on the planet....
+<pre>
+ __________________________________________________________________________
+/                                                                          \
+| Designation         X      Y      Z       Range       Status     Docked? |
+============================================================================
+| CS-3723            20     20     20       317.4         Normal       No  | 
+| P-7666           -109    301    100         5.0         Normal       No  | 
+| CS-2061            23    301    100       127.0         Normal       No  | 
+| SF-2326          -104    301    100         0.0         Normal       No  | 
+| CS-9937          -109    301    100         5.0         Normal       No  | 
+| SF-3764          -104    301    100         0.0         Normal       No  | 
+| SF-8352            20     20     20       317.4         Normal       No  | 
+| SF-4786          -104    301    100         0.0         Normal       No  | 
+| SF-3766            20     20     20       317.4         Normal       No  | 
+| SF-1608            20     20     20       317.4         Normal       No  | 
+| JUDGE             168    138    148       320.7        Damaged       No  | 
+| CS-4166          -104    301    100         0.0         Normal       No  | 
+| SF-8001            20     20     20       317.4         Normal       No  | 
+| SF-8106            20     20     20       317.4         Normal       No  | 
+| SF-8473          -104    301    100         0.0         Normal       No  | 
+| SF-904           -104    301    100         0.0         Normal       No  | 
+| CS-9198          -104    301    100         0.0         Normal       No  | 
+| CS-9685            20     20     20       317.4         Normal       No  |
+============================================================================
+\__________________________________________________________________________/
+
+
+----=< Combat Display >=----------------------------------------------------
+  Transponder             X      Y      Z     Range  Status    Combat Group
+============================================================================
+  CS-3723                20     20     20       317  Normal         1  
+  CS-2061                23    301    100       127  Normal         1  
+  CS-9937              -109    301    100         5  Normal         1   
+  SF-4786              -104    301    100         0  Normal         1     
+  SF-8001                20     20     20       317  Normal         1  
+  SF-8473              -104    301    100         0  Normal         1 
+  SF-904               -104    301    100         0  Normal         1 
+  CS-9198              -104    301    100         0  Normal         1 
+============================================================================
+</pre>
+<SPACE> In a move contrary to 'accepted doctrine' to this point, the gunships move to lag behind the wave of NR fighters, and to fan out along the four directions: starboard, port, up and down to stay on the edges of the fight.
+
+<COMBAT> CS-9198 poses: And as the battle drills neared their end the klaxons began to roar..."Sir! Rebel ships have just entered the system! We count a Republic Star Destroyer, a MCSC, and seven other combat craft!" the sensors officer yelled out. Kreldin was quick to respond, shouting out orders, "Send our bombers to engage that Rep Star Destroyer," he said, "I want a fighter screen protecting those bombers. Draw as much of the rebel starfighters away as possible from the bombers," he said, shaking his head. They were completely outnumbered. "Get us in firing range of their fleet. Target the Star Destroyer," he said, tapping his fingers on his command chair...this wasn't good at all. They need reinforcements, fast..
+                 
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-17
+SKILL ROLL FOR Comwiz..............13
+FORCE BONUS........................0
+FIRE CONTROL.......................4
+Total Attack Score.................0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-21
+SKILL ROLL FOR Comwiz..............21
+FORCE BONUS........................0
+FIRE CONTROL.......................3
+Total Attack Score.................3
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                 
+</pre>
+<COMBAT> CS-9685 does not maneuver in defense.<br />
+<COMBAT> CS-9198 attacked CS-9685 and hit! CS-9685's shields are still up.
+<br />
+<COMBAT> SF-8473 poses: 	Razor 1 weaved through space towards the Republic Star Destroyer, it's missiles chirping as they were armed and prepared for launch. As Darenak gained a solid lock on the Star Destroyer, he pulled the trigger, firing a missile at the enemy ship.<br />
+
+<COMBAT> CS-9685 does not maneuver in defense.<br />
+<COMBAT> SF-8473 attacked CS-9685 and hit! CS-9685's shields are still up.
+<br />
+<SENSORS> CS-9685 The Crusader rolls over to the side, it's sheilds up and weapons on line. It's sheilds recoiling slightly from the turbolaser attack, It it's self returns fire on 'Tourmentor' from it's upper deck Batteries, as Sevral of it's lower banks concentrate on the Interdictor... Again, a nonstandard tatic.<br />
+<COMBAT> CS-9685 has attacked you. You must now specify a Defense. See CBT/HELP2 for details.
+<br />
+<COMBAT> CS-2061 does not maneuver in defense.<br />
+<COMBAT> CS-9685 attacked CS-2061 and hit! CS-2061's shields are still up.<br />
+<COMBAT> CS-9198 does not maneuver in defense.<br />
+<COMBAT> CS-9685 attacked CS-9198 and hit! CS-9198's shields are still up.<br />
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Defending From CS-9685
+------------------------------------------------------------------------------
+SIZE MOD...........................-160
+SKILL ROLL FOR Danik...............13
+FORCE BONUS........................0
+MANEUVERABILITY BONUS..............0
+Total Defense Score................-147
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                                  
+</pre>
+<SPACE> The Corguns begin their part as well. Again, in a role previously unexplored, the quartet of small ships begin lobbing their missiles toward the Interdictor Class cruiser as their smaller laser cannons swivel to engage on any TIE fighters that decide to follow them to the outskirts of sane range.
+
+<COMBAT> SF-3766 poses: A lone A-Wing makes it past the Imperial Fighter Screen, spiralling towards the oncoming bombers with it's twin cannon blasting at long range towards one of the Bombers, Razor 1.<br />
+<SENSORS> SF-4392 has just entered the system at -11,127,50.
+
+<COMBAT> CS-9198 poses: The Tormentor continued to open fire on the enemy Star Destroyer, pouring green blasts towards the mighty warship. Kreldin continued to give out orders, and finally took the comm. to send a message to the Imperial capitol. "Selene Control, this is the Tormentor...we have come under attack by a large NR task force. Requesting reinforcements immediately! Repeat, we are under attack. Kessel system has been invaded. Requesting reinforcements immediately," he sent to Selene. "Continue firing on that Star Destroyer! Don't give up! Help is on the way!"
+                  
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-14
+SKILL ROLL FOR Danik...............24
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................10
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                  
+</pre>
+<COMBAT> CS-9198 attacked CS-9685 and hit! CS-9685's shields are still up.
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-12
+SKILL ROLL FOR Danik...............21
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................9
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                  
+</pre>
+
+<COMBAT> CS-2061 poses: The Oppressor comes under fire, it's shields flicker as the blasts disappear, causing no real damage....this time around. The smaller of the Capital Ships lurches forward slightly as the sublight engines come to life and the Laser Cannon Batteries begin to open fire. One on the A-Wings causing trouble for the bombers, and the other on the Rebel Star Destroyer.
+
+<COMBAT> SF-3766 rolls as it moves with extreme speed toward CS-2061.<br />
+<COMBAT> CS-2061 attacked SF-3766 and missed completely.<br />
+<br />
+<COMBAT> CS-9685 flees away from CS-2061.<br />
+<COMBAT> CS-2061 attacked CS-9685 and hit! CS-9685's shields are still up.<br />
+<br />
+<COMBAT> CS-9685 flees away from CS-9937.<br />
+<COMBAT> CS-9937 attacked CS-9685 and hit! CS-9685's shields are still up.<br />
+
+<COMBAT> CS-9685 flees away from CS-9937.<br />
+<COMBAT> CS-9937 attacked CS-9685 and hit! CS-9685's shields are still up.<br />
+
+<COMBAT> SF-3766 poses: The A-Wing continues to hound the Bombers, despite their ignoring the small fighter. The pilot lines up it's targetting reticle on the other Bomber this time, twin cannons flashing in the night sky.
+
+<COMBAT> SF-2326 poses: Amid the confusion, Seppi nearly loses his target several times\; but only for a short while. Naturally, even in the unfamiliar cockpit of a Scimitar, a capital ship is relatively easy to spot.. and easy to lock on. Thusly, another missile fired, and sailed towards the enemy ship, CS-9685.
+
+<COMBAT> CS-9685 flees away from SF-2326.
+<COMBAT> SF-2326 attacked CS-9685 and hit! CS-9685's shields are still up.
+<COMBAT> SF-8473 poses: 	The Razor 1 Scimitar headed still towards it's target after evading an enemy attack, then headed back to attack the Republic Star Destroyer again. He launched another missile towards the enemy.
+<COMBAT> CS-9685 flees away from SF-8473.
+<COMBAT> CS-9685's shields are down! SF-8473 does damage to CS-9685's hull.
+
+<COMBAT> SF-3766 poses: The A-Wing continues to hound the Bombers, despite their ignoring the small fighter. The pilot lines up it's targetting rectical on the other Bomber this time, twin cannons flashing in the night sky. (repose)
+
+<COMBAT> CS-9685 poses: Shields crackle over the Crusader, CS-9685, the static electricity spreading over the shields, attempting to even out the damage taken from the I2SD's hailstorm of laser bolts and the accompanying bolts from the Interdictor and Renegade. A grim faced Lt. Mat Cypher grinds his teeth before barking a command to the gunnery chief, "Concentrate heavy turbolasers on that Interdictor Cruiser and distracting the ImpStar Duece!" The vessel shakes with the force of the attack, "Engines, full reverse!" Heavy turbolasers bristling along the sides of the Republic Star Destroyer swivel to aim at the Oppressor and Tormentor as the engines come to life. The forceful explosion of the twin concussion missiles causes the Lieutenant to almost lose his balance and with forcely calmed voice, he calls out, "Sensors, give me shield reports." A paled face youth replies, "Shields down sir!" Mat growls, "Fire on the Interdictor and Duece, now!"<br />
+<COMBAT> CS-2061 does not maneuver in defense.<br />
+<COMBAT> CS-9685 attacked CS-2061 and hit! CS-2061's shields are still up.<br />
+<COMBAT> CS-2061 does not maneuver in defense.<br />
+<COMBAT> CS-9685 attacked CS-2061 and hit! CS-2061's shields are still up.<br /><br />
+<COMBAT> CS-3723 poses: Does anyone ever ask Oppenhiemer his opinion? No, of course not. It's give us this information Oppenheimer, shoot at these targets Doi - the whole think is totally FUBAR - but then again no one asks his opinion. And as a consequence, the Lexi Doi continues to fire at the Interdictor as ordered, in hopes they can bring that one ship down so the Rebel fleet can escape. No they are long past trying to win - now it's merely a matter of escaping, the battle was lost (or won depending on your perspective) in those first seconds. Does he think its messed up, could he have done better in his estimation? Absolutely. But as he stands on the Bridge of the Lexi Doi watching his Corellian Gunship squadron perform he is also very aware of the point that no one asked for, or even seems to want, his opinion.
+	
+Feelings are similar among the gunships as they move out on separate vectors doing their best to stay away from everything else, loading and firing their missiles as fast as they can.<br />
+<COMBAT> CS-9685 has attacked you. You must now specify a Defense. See CBT/HELP2 for details.<br />
+<COMBAT> CS-2061 does not maneuver in defense.<br />
+<COMBAT> CS-3723 attacked CS-2061 and hit! CS-2061's shields are still up.<br />
+<COMBAT> CS-9198 does not maneuver in defense.<br />
+<COMBAT> CS-9685 attacked CS-9198 and hit! CS-9198's shields are still up.<br />
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Defending From CS-9685
+------------------------------------------------------------------------------
+SIZE MOD...........................-160
+SKILL ROLL FOR Danik...............20
+FORCE BONUS........................0
+MANEUVERABILITY BONUS..............0
+Total Defense Score................-140
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=    
+</pre>                                
+<COMBAT> CS-2061 does not maneuver in defense.<br />
+<COMBAT> CS-3723 attacked CS-2061 and hit! CS-2061's shields are still up.
+
+
+
+
+<COMBAT> CS-9198 poses: Kreldin could only smile at what he saw. The rebels were retreating..and the battle had only begun. Two Star Destroyers held off the attacking fleet, which had surprised him...he was entirely outnumbered here. But now he had the NR in his grasp\; they were caught by the Oppressor's gravity well, and the guns of his mighty Star Destroyer. All was going well. And if the reinforcements arrived, so be it. He would have the NR completely surrounded. "Continue firing on that retreating Star Destroyer," he said, reading the shield read outs. THey were holding, but couldn't take much more abuse.
+                  
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-9
+SKILL ROLL FOR Danik...............31
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................22
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  
+</pre>                
+<COMBAT> CS-9685 flees away from CS-9198.<br />
+<COMBAT> CS-9685's shields are down! CS-9198 does damage to CS-9685's hull.<br />
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-19
+SKILL ROLL FOR Danik...............28
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................9
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+</pre>            <br />      
+<COMBAT> CS-9685 flees away from CS-9198.<br />
+<COMBAT> CS-9685's shields are down! CS-9198 does damage to CS-9685's hull.
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-19
+SKILL ROLL FOR Danik...............25
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................6
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+</pre>                 
+<COMBAT> CS-9685 flees away from CS-9198.<br />
+<COMBAT> CS-9685's shields are down! CS-9198 does damage to CS-9685's hull.<br />
+
+<COMBAT> CS-2061 poses: As the Tormentor begins to pummel the Crusader, the Oppressor turns one of her laser batteries on the craft, the other one remaining focused on the A-Wing's that are trying to shoot down the bombers.<br />
+<COMBAT> CS-9685 flees away from CS-2061.<br />
+<COMBAT> CS-9685's shields are down! CS-2061 does damage to CS-9685's hull.<br />
+<SENSORS> CS-9937 The Renegade continues firing at the NR Star Destroyer, flinging shot after shot at it.<br />
+                  
+                  
+<COMBAT> SF-3766 rolls as it moves with extreme speed away from CS-2061.<br />
+<COMBAT> CS-2061 attacked SF-3766 and missed completely.<br />
+<COMBAT> CS-9685 flees away from CS-9937.<br />
+<COMBAT> CS-9685's shields are down! CS-9937 does damage to CS-9685's hull.<br />
+<COMBAT> CS-9685 flees away from CS-9937.<br />
+<COMBAT> CS-9685's shields are down! CS-9937 does damage to CS-9685's hull.<br />
+                  
+<COMBAT> SF-2326 poses: Continuing his so-far unhindered bombing run on the New Republic Star Destroyer, Seppi moves his Scimitar into position and fires another missile at CS-9685.<br />
+<COMBAT> CS-9685 flees away from SF-2326.<br />
+<COMBAT> CS-9685's shields are down! SF-2326 does damage to CS-9685's hull.
+
+<COMBAT> SF-8473 poses: 	Soon after his second missile had hit, he gained another lock and joined with Seppi in firing again, never relenting on the NR flagship. Smiling, Darenak released another missile.
+
+<COMBAT> CS-9685 flees away from SF-8473.<br />
+<COMBAT> CS-9685's shields are down! SF-8473 does damage to CS-9685's hull.
+
+<COMBAT> SF-3766 poses: Spiralling after the Bombers, the A-Wing keeps up the fire on the Bombers, twin blasters firing.
+
+<COMBAT> SF-2326 rolls as it moves quickly toward SF-3766.<br />
+<COMBAT> SF-3766 attacked SF-2326 and hit! SF-2326's shields are still up.
+
+<COMBAT> CS-3723 poses: The Corellian Gunships, and the Lexi Doi continue to fire, in the same pattern as before, hoping beyond hope to take out that Interdictor.
+
+<COMBAT> CS-2061 moves toward CS-3723.<br />
+<COMBAT> CS-3723 attacked CS-2061 and hit! CS-2061's shields are still up.
+
+<COMBAT> CS-2061 does not maneuver in defense.
+<COMBAT> CS-3723 attacked CS-2061 and hit! CS-2061's shields are still up.
+
+<COMBAT> CS-9198 poses: The Tormentor was closing in on the enemy fleet which was in retreat, the heavy turbolaser batteries opening fire on the enemy Star Destroyer as the bombers continued their relentless attacked on it. Everything was working out quite well...unless this was some trap to lure the Empire into some awaiting fleet Who knows? For now, the turbolasers continued firing on the enemy Star Destroyer, hoping to bring the big ship down.
+                 
+
+<COMBAT> CS-9685 poses: Blood trickles down Lt. Cypher's face, an expression of resolute defeat. A medic rushes up to slap a bacta bandage over the wound in his scalp, he hardly notices, "Shields down and Hull damaged." Another salvo of green laser pierces the perpetual night of space, stabbing at the Crusader's naked and unshielded form. A brilliant flare of light from a missile near the bridge almost upsets the Lieutenant's delicate balance on the deck. He growls a fiendish curse and oath before continuing to the communication officer, "Tell the fighters to concentrate missiles on the Interdictor." He frowns, "If we can break the Interdictor's shields, we should be able to take it out with the ion cannons." The gunnery chief nods glumly but with a glimmer of hope, "Yes sir!" The battle resumes as the Crusader's heavy guns target the Interdictor.<br />
+<COMBAT> CS-2061 moves toward CS-9685.<br />
+<COMBAT> CS-2061's shields are down! CS-9685 does damage to CS-2061's hull.<br />
+<COMBAT> CS-2061 moves toward CS-9685.<br />
+<COMBAT> CS-2061's shields are down! CS-9685 does damage to CS-2061's hull.<br />
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-20
+SKILL ROLL FOR Danik...............20
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-15
+SKILL ROLL FOR Danik...............25
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................10
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=                
+</pre>
+<COMBAT> CS-9685 flees away from CS-9198.<br />
+<COMBAT> CS-9685's shields are down! CS-9198 does damage to CS-9685's hull.
+
+               
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-9685
+------------------------------------------------------------------------------
+RANGE MOD..........................-20
+SKILL ROLL FOR Danik...............26
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................6
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=    
+</pre>            
+<COMBAT> CS-9685 flees away from CS-9198.<br />
+<COMBAT> CS-9685's shields are down! CS-9198 does damage to CS-9685's hull.<br />
+<COMBAT> CS-9685 flees away from CS-2061.<br />
+<COMBAT> CS-9685's shields are down! CS-2061 does damage to CS-9685's hull.<br />
+<COMBAT> CS-9685 flees away from CS-2061.<br />
+<COMBAT> CS-9685's shields are down! CS-2061 does damage to CS-9685's hull.<br />
+
+<COMBAT> CS-9685 flees away from CS-9937.<br />
+<COMBAT> CS-9685's shields are down! CS-9937 does damage to CS-9685's hull.<br />
+<COMBAT> CS-9685 flees away from CS-9937.<br />
+<COMBAT> CS-9685's shields are down! CS-9937 does damage to CS-9685's hull.<br />
+
+<COMBAT> SF-2326 poses: After having veered away from the pursuing republic fighter, it took some maneuvering to get into position once more, but upon the missile lock resounding, Seppi fires a missile from his third launcher towards the Republic Star Destroyer, known to him only as 'CS-9685'
+
+<COMBAT> CS-9685 flees away from SF-2326.<br />
+<COMBAT> CS-9685's shields are down! SF-2326 does damage to CS-9685's hull.<br />
+<COMBAT> SF-8473 poses: 	Darenak smiled as he pursued the wounded Star Destroyer, aware that for once they might actually destroy a rebel capital ship. Getting a red missile lock, he thrusted after the huge vessel, releasing another missile. Only 11 missiles left.<br />
+
+<COMBAT> SF-904 poses: At last! Finally, Black Star III is free of the meddling fightercraft that hindered it from joining the main confrontation. Indeed, it is soon on its way to join in the assault on the Star Destroyer that's so quickly leaving the scene, sending a volley of laser fire in it's direction. Unfortunately, however, this is likely much like a bee trying to sting an elephant.<br />
+<COMBAT> CS-9685 flees away from SF-8473.<br />
+<COMBAT> CS-9685's shields are down! SF-8473 does damage to CS-9685's hull.<br />
+
+<SENSORS> CS-9685 The battle scarred form of the Republic Class Star Destroyer Powers out of the Indertiction field, Fighter craft returning to it as they could. Shifting priorities, it fires it's batteries at the Kessel garrison, before it moves well out. Slowing at the sight, the Wedge takes one last volley at the Inderdictor, before, The Star destroyer's massive engines flare\; as the ship accelerates to, and past light speed in a manner of decameters. The fightercraft where not abandoned, as two for the Remaining RAF's Move in to strafe the Cruiser's Hull, before powering out of the area as fast as could.<br />
+
+<COMBAT> CS-9685 flees away from SF-904.<br />
+<COMBAT> CS-9685's shields are down! SF-904 does damage to CS-9685's hull.<br />
+<COMBAT> SF-3766 poses: Despite the order to retreat, the A-Wing harassing the Bombers doesn't give up it's firing solution, switching back to Razor 1 with it's laser cannons.<br />
+<COMBAT> CS-2061 moves toward CS-9685.<br />
+<COMBAT> CS-2061's shields are down! CS-9685 does damage to CS-2061's hull.<br />
+<COMBAT> CS-2061 moves toward CS-3723.<br />
+<COMBAT> CS-2061's shields are down! CS-3723 does damage to CS-2061's hull.<br />
+<COMBAT> SF-8473 rolls as it moves quickly toward SF-3766.<br />
+<COMBAT> SF-3766 attacked SF-8473 and missed completely.<br />
+<COMBAT> CS-2061 moves toward CS-3723.<br />
+<COMBAT> CS-2061's shields are down! CS-3723 does damage to CS-2061's hull.<br />
+
+<COMBAT> CS-9198 poses: The Tormentor had come through the battle with no damage, its shields still up and strong. The Crusader was damaged, and the Nr would have to pay a lot to get her repaired...and then it blipped out of sight as it escaped into the safety of hyperspace. Rebel wussies. He could only smile, as his attention was now turned on the gunship. "Gunners, target that gunship assaulting the Oppressor. Reduce it to rubble," he said, watching as the turbolasers now concentrated their fire on the gunship<br />
+      <pre>        
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-3723
+------------------------------------------------------------------------------
+RANGE MOD..........................-23
+SKILL ROLL FOR Danik...............24
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................1
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=              
+</pre>
+<COMBAT> CS-3723 flees away from CS-9198.<br />
+<COMBAT> CS-9198 attacked CS-3723 and missed completely.<br />
+<pre>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-3723
+------------------------------------------------------------------------------
+RANGE MOD..........................-13
+SKILL ROLL FOR Danik...............34
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................21
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+</pre>            
+<COMBAT> CS-3723 flees away from CS-9198.<br />
+<COMBAT> CS-9198 attacked CS-3723 and hit! CS-3723's shields are still up.
+
+<COMBAT> CS-2061 poses: The Oppressor is taking a beating, but not nearly as bad as the Rep SD took. Turning now, the INTC comes to bear on the CorGun, it's Laser Cannons reigning down little bolts of death upon the shields, the Captain hoping that the Destroyers can do more.<br />
+<COMBAT> CS-3723 flees away from CS-2061.<br />
+<COMBAT> CS-2061 attacked CS-3723 and hit! CS-3723's shields are still up.<br />
+<COMBAT> CS-3723 flees away from CS-2061.<br />
+<COMBAT> CS-2061 attacked CS-3723 and hit! CS-3723's shields are still up.<br />
+
+<SENSORS> CS-9937 The Renegade, also completely undamaged, follows after the Tormentor. Its Turbolasers rotate slowly, tracking the Gunship that is firing at the Oppressor. Green Laser bolts leap away from the VSD, heading towards the Gunship.
+<COMBAT> CS-3723 flees away from CS-9937.
+<COMBAT> CS-9937 attacked CS-3723 and missed completely.
+<COMBAT> CS-3723 flees away from CS-9937.
+<COMBAT> CS-9937 attacked CS-3723 and missed completely.
+
+<COMBAT> SF-904 poses: Disappointed at the lack of exploding rebel craft, Black Star III's attention goes towards the other ships that are remaining, opening fire on one of them as well. Not that it's likely to do much more than the previous effort.<br />
+<COMBAT> CS-3723 flees away from SF-904.<br />
+<COMBAT> SF-904 attacked CS-3723 and hit! CS-3723's shields are still up.
+<br />
+<SENSORS> CS-3723 The helmsman drives the smaller capital ship onward, giving the larger ships and SF-904 a good view of it's ion engines, however, it still gets hit a few times, causing a blue an green sparks to arc over her shields, as if it was angry at the laser bolts and missiles for daring to touch it.
+<br />
+<COMBAT> SF-3766 poses: After one final volley, the A-Wing turns away from the battle, kicking in the afterburners as it makes it's way out system to make a jump.
+
+<COMBAT> CS-2061 moves toward CS-3723.
+<COMBAT> CS-2061's shields are down! CS-3723 does damage to CS-2061's hull.
+
+<COMBAT> CS-9198 poses: The Tormentor continued after the Corellian gunship, which was far ahead and becoming more difficult to hit. It would be out of the gravity well soon, and most likely would escape, but at least the ship wouldn't get away without a few scars. Kreldin would make sure of that. The Tormentor continued to fire at the enemy gunship's aft section, its bow turrets pouring green blasts towards it<br />
+   <pre>          
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Firing on CS-3723
+------------------------------------------------------------------------------
+RANGE MOD..........................-24
+SKILL ROLL FOR Danik...............23
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................-1
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=   
+</pre>          
+<COMBAT> CS-3723 rolls as it moves away from CS-9198.
+<COMBAT> CS-9198 attacked CS-3723 and missed completely.
+
+Firing on CS-3723
+<pre>
+------------------------------------------------------------------------------
+RANGE MOD..........................-24
+SKILL ROLL FOR Danik...............28
+FORCE BONUS........................0
+FIRE CONTROL.......................0
+Total Attack Score.................4
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=    
+</pre>         
+<COMBAT> CS-3723 rolls as it moves away from CS-9198.
+<COMBAT> CS-9198 attacked CS-3723 and missed completely.
+
+<COMBAT> CS-2061 poses: As the Tormentor misses and the CorGun moves just outside the Oppressor's Gravity Well, the INTC begins to lurch forward slightly, it's weapons flaring at the CorGun as it flees.<br />
+
+<COMBAT> CS-3723 rolls as it moves away from CS-2061.<br />
+<COMBAT> CS-2061 attacked CS-3723 and hit! CS-3723's shields are still up.<br />
+<COMBAT> CS-3723 rolls as it moves away from CS-2061.<br />
+<COMBAT> CS-2061 attacked CS-3723 and hit! CS-3723's shields are still up.
+<br />
+<SPACE> The CorGun rolls, and turns out the line of fire from the big ships, managing to evade most of their fire for this volley, it then launches a few volleys at those near as the two men on the bridge converse with each other, the Helmsman still evading attacks, he reaches for the inertail compensator dial and raises it a bit, preparing for extreme maneuvers.
+<br />
+<COMBAT> SF-904 rolls as it moves with extreme speed away from CS-3723.
+<COMBAT> CS-3723 attacked SF-904 and missed completely.
+<COMBAT> SF-904 rolls as it moves with extreme speed away from CS-3723.
+<COMBAT> CS-3723 attacked SF-904 and missed completely.
+<pre>
+/                                                                          \
+| Designation         X      Y      Z       Range       Status     Docked? |
+============================================================================
+| CS-3723          -104    715    212       829.6         Normal       No  | 
+| P-7666           -109    301    100       418.2         Normal       No  | 
+| CS-2061           -13    230     76       317.8        Damaged       No  | 
+| CS-9937           -46    156     57       254.4         Normal       No  | 
+| SF-3764          -104    301    100       416.3         Normal       No  | 
+| SF-8352            20     20     20        99.2         Normal       No  | 
+| SF-4786           160    220     91       324.6        Damaged       No  | 
+| JUDGE             168    138    148       285.1        Damaged       No  | 
+| CS-4166          -104    301    100       416.3         Normal       No  | 
+| SF-8106           -44    354    145       460.6         Normal       No  | 
+| SF-8473             8     29     20       111.5         Normal       No  | 
+| SF-904            -68     71     31       188.9         Normal       No  | 
+| CS-9198            52    -69    -10         0.0         Normal       No  |
+============================================================================
+\__________________________________________________________________________/
+<SENSORS> CS-9139 has just entered the system at 720,720,720.
+</pre>

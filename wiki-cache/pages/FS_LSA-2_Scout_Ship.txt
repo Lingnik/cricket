@@ -1,0 +1,32 @@
+TITLE: FS LSA-2 Scout Ship
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-06-01T07:24:33Z
+======================================================================
+<pre>Craft ........ Incom FS LSA-2    
+Type ......... Scout Ship            Cargo Capacity ......... 125 metric tons
+Scale ........ Starship              Consumables ............ 1 year
+Length ....... 24 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x12
+Crew ......... 1                     Nav Computer ........... Yes
+Passengers ... 3                     Maneuverability ........ 0D
+Hull ......... 138                   Space Movement ......... 50
+Shields ...... 36                    Atmosphere ............. 295; 850kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1200,  Focus:  50,  Passive:  300
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (1 filled)
+
+Stock Weapons:
+   One Single Laser Cannon:
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... Forward        Fire Control .. 0D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 125000 cr             BASE COST USED: 30000 cr              
+SUGGESTED DOWNPAYMENT: 75000 (new), 18000 (used)</pre>
+
+[[Category:CEC Ships]]
+[[Category:Starships]]
+[[Category:Stat Sheets]]

@@ -1,0 +1,13 @@
+TITLE: Template:User MUSH code
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-10-23T11:21:30Z
+======================================================================
+<div style="border:1px solid #440044; margin:1px;width: 0px">
+{| style="width:238px; background:#aa00aa;border:1px solid #440044;border-collapse: collapse"
+| style="white-space: nowrap;height:45px; background:#000000; text-align:center; font-size: 14pt;padding: 0 5px 0 5px;color:#aa00aa" | @emit
+| style="font-size:8pt; padding:4pt; line-height:1.25em" | This user is fluent in MUSH Code.
+|}
+</div><noinclude><br clear="all">
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{User MUSH code}}</nowiki></pre>
+[[Category:Userbox Templates|MUSH code]]</noinclude>

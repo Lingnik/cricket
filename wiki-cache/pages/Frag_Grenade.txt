@@ -1,0 +1,17 @@
+TITLE: Frag Grenade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-02-27T23:23:08Z
+======================================================================
+This heavy orb of polished brass is slightly oblong with raised, textured
+squares running along its length in straight lines. A locking pin and safety
+trigger system allow a variable length fuse to detonate the item, which is
+labeled as a fragmentation grenade and features a small sticker with an
+illustration of safe handling on it.
+<pre>
+Name................Fragmentation Grenade
+Weapon Type.........Thrown Weapon            Weight..............0.5kg
+Damage Type.........Range                    Stun Setting........No
+Accuracy............0D+0                     Damage..............5D+0 
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Thrown Weapons]]

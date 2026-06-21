@@ -1,0 +1,17 @@
+TITLE: Gas Grenade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-29T20:23:39Z
+======================================================================
+Grenades come in all shapes and sizes and functions: this one is a short
+durasteel canister with a lever and pin system along one end that are no
+doubt used to activate it. When it is triggered the cannister will begin
+to emit a cloud of yellow noxious vapor that is powerful enough to choke
+and blind any organic in its stunning cloud.
+<pre>
+Name................Gas Grenade
+Weapon Type.........Thrown Weapon            Weight..............0.5kg
+Damage Type.........Range                    Stun Setting........No
+Accuracy............0D+0                     Damage..............0D+0 
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Thrown Weapons]]

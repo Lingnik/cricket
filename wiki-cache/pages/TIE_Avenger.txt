@@ -1,0 +1,68 @@
+TITLE: TIE Avenger
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-07-20T04:43:17Z
+======================================================================
+{{working}}
+[[Image:TIEAvenger.jpg|right]]
+
+=== History ===
+The TIE Advanced x3 is the the most technically innovative Starfighter to be produced by the Galactic Empire since the [[:starwars:Battle of Endor/Legends|Battle of Endor]]. The ship traces its heritage back to the TIE Advanced x1 prototype flown by [[:starwars:Anakin Skywalker/Legends|Darth Vader]] at the [[:starwars:Battle of Yavin/Legends|Battle of Yavin]].
+
+Many of the advancements of the x1 were put into the x2 model. This model was dubbed the '''Avenger''' by early test pilots. It was really the first of the TIE Advanced series to go from the prototype to production stage. However only a few dozen of the vessels were ever constructed before production was stopped in favor of the vessel's sister craft the [[TIE Interceptor]] which was both easier and cheaper to produce.
+
+The TIE Advanced x2 was all but forgotten about in the turmoil that followed the death of the Emperor Palpatine at Endor. Most of the models that had been produced were either destroyed in combat or scrapped due to high operating costs. One prototype and a single production model as well as the relevant data plans were hauled off by Imperial Archivist for storage in one of the secret data vaults deep in the Inner Core.
+
+The TIE Advanced line of fighters would remain dormant until a series of events started early in the year [[10 ABY]]. [[Galactic Emperor|Emperor]] [[Bacharan Valak]] commissioned [[Warlord]] [[Jarl Rellik]] with overseeing a new department he was forming within the Imperial Government. Given the innocuous title of Curator of the Imperial Archives, Rellik was given the assignment of pouring through the various data repositories throughout the Empire in search of technology that could turn the tide of the war. With the troubles that begin bubbling up in the Empire, this secret department and its important mission would be lost to successive administrations.
+
+In [[14 ABY]], Archaeologists uncovered a nondescript warehouse deep in the bowels of the city planet Empress Teta. Inside that warehouse not only were both of the surviving x2 fighters found, but the prototype for a new power plant, that would provide nearly 50% more power at half the weight of the x2s. The fighters, power plant and documents were clandestinely relocated to an Imperial Archives facility deep within Imperial space, known as Point Omega.
+
+Imperial scientists would pull the x2 fighters apart hundreds of times over the next two years, using what was found in the archives along with their own to design the TIE Advanced x3. The chaos going on in the galaxy all but unknown as the station was kept isolated from the larger galaxy. It would be in mid 16 ABY when Point Omega would end its isolation and again make contact with the outside world.
+
+Warlord Rellik would contact another of Emperor Valak's inner circle, [[Vassily Korolov]] to let him know what they had discovered. In a clandestine meeting on Point Omega, Korolov along with his Naval Advisor [[Jal'Dana Rall]] would be the first members of the Imperial Government to see the TIE Avenger take flight in over 15 years. They were duly impressed at the fighter’s performance, quickly putting into motion the assets necessary to construct the vessels quickly and with complete secrecy.
+
+Point Epsilon would be constructed first with a pair of [[Imperial Star Galleon]]'s with a single [[Strike-class Medium Cruiser|Imperial Strike Cruiser]] for support. Later a full space station would be constructed, funded in part by the Imperial Government and by [[Kuat Drive Yards-Sienar Fleet Systems|KDY-SFS]] to become part production facility, part test station.
+
+Within a couple of months, an entire squadron of the advanced fighters was ready for trials and deployment. Warlord Korolov chose the commander of his task force, Marshal [[Krieg Inrokana]] would be given the task of picking the best pilots from his Task Force, training them and then testing how they fared in combat. [[Liza Molokai]] and [[Richter Varion]] were hand picked by the Marshal to be some of his first combat test pilots.
+
+Initial trials were conducted in secret - out in the deep depths of empty space. However, the fighter was quickly proving itself to be one of the finest weapons ever produced, and efforts were soon underway to see its effectiveness in combat. Marshal Inrokana, in conjunction with the ISB, planned raids on civilian convoys passing to the [[Mon Calamari]] system. [[Lone Scout-A|TIE Scouts]], [[Skipray Blastboat]]s, and [[Lambda-class Shuttle]]s were used in the raids to resupply the Avengers in combat as well as to block all communications traffic. Everything was destroyed in the raid, and ejected pilots were killed, leaving no traces. Larger and larger targets were taken on and from the resulting confusion of a 'deadly space ghost' was thought to be the cause of the lost convoys. The sheer power and speed of the fighter along with its ability to conduct highly secretive operations anywhere in the galaxy deemed it a major success.
+
+The end result of those trials would be seen early in [[17 ABY]] when Rogue Squadron would be annihilated in a trap laid by Marshal Inrokana and assisted by Warlord Korolov who would lead one of the flights of Avengers personally.
+
+=== Description ===
+
+The TIE Avenger is a small fighter with a very low profile. The typical geodesic dome bubble has been elongated into a more oval shape and a rear deck has been attached to allow the vessel to accommodate its vastly upgraded and enhanced electrical systems. This more powerful reactor allows the vessel to support a Hyperdrive and vastly upgraded shields without sacrificing it's speed or maneuverability. The trade off is that the vessel is notoriously thin skinned even compared to other Imperial fighters. It's upper and lower deflector panels are bent inwardly at a sharp angle to reduce the fighters profile. Attached to the each of both the upper and lower 'wing' tips is a SFS L-s9.3 laser cannon. All four are fire-linked through the ships targeting computer fire in a variety of modes. Parts of the lateral panels have been removed as well to provide both visibility and allow exhaust from the SFS M-g-2 warhead launchers to be vented away from the vessel.
+=== Stats ===
+<pre>         
+Craft ........ Sienar Fleet Systems TIE Advanced x3 'Avenger'
+Type ......... Superiority Fighter   Cargo Capacity ......... 80 kg
+Scale ........ Starfighter           Consumables ............ 5 days
+Length ....... 7.8 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1                     Nav Computer ........... Yes
+Passengers ... None                  Maneuverability ........ 4D+1
+Hull ......... 82                    Space Movement ......... 133
+Shields ...... 80                    Atmosphere ............. 522
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  40,  Passive:  250
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (6 permanently filled)
+
+Weapons:
+   Four Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km  
+
+   Two Concussion Missile Launchers: 
+      Weapon Rating .... Class 4        Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1/3/7          Atmo Range .... 100-500m/1km/5km     
+
+BASE COST NEW: 250000 cr             BASE COST USED: 70000 cr              
+SUGGESTED DOWNPAYMENT: 150000 (new), 42000 (used)</pre>
+
+[[Category:ImpMil Restricted Ships]]
+[[Category:KDYSFS Ships]]
+[[Category:Starfighters]]

@@ -1,0 +1,31 @@
+TITLE: Firespray-class Patrol/Attack Craft
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:47:01Z
+======================================================================
+<pre>Craft ........ Kuat Systems Engineering Firespray-class
+Type ......... Patrol/Attack Craft   Cargo Capacity ......... 70 metric tons
+Scale ........ Starship              Consumables ............ 1 month
+Length ....... 22 meters             Hyperdrive Multiplier .. x2
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x15
+Crew ......... 1, gunners: 2         Nav Computer ........... Yes
+Passengers ... 4                     Maneuverability ........ 1D
+Hull ......... 138                   Space Movement ......... 50 
+Shields ...... 36                    Atmosphere ............. 295;850kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  20,  Passive:  100
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 4 total (2 filled)
+
+Stock Weapons:
+    Two Twin Mounted Blaster Cannons:
+      Weapon Rating .... Standard       Damage ........ 5D
+      Fire Arc ......... Turret         Fire Control .. 2D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+
+BASE COST NEW: 145000 cr             BASE COST USED: 36250 cr              
+SUGGESTED DOWNPAYMENT: 87000 (new), 21750 (used)</pre>
+
+[[Category:Starships]]
+[[Category:KDYSFS Ships]]

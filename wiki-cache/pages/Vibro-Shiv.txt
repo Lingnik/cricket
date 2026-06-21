@@ -1,0 +1,14 @@
+TITLE: Vibro-Shiv
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T18:34:17Z
+======================================================================
+These crude melee weapons are larger than [[Vibro-Knife|vibroknives]] but not as large as
+vibrodaggers. They're commonly used by street toughs and ruffians.
+<pre>
+Name................Vibro-Shiv
+Weapon Type.........Melee Weapon             Weight..............1kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............1D+0
+Conceal Difficulty..10                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

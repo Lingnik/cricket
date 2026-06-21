@@ -1,0 +1,18 @@
+TITLE: M434
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-10-10T05:30:20Z
+======================================================================
+Modeled similarly to the [[M44]], this weapon is clearly an enhancement to its 
+predecessor. Sleek and easy to carry, the '''M434''', has a slim nozzle with a 
+blow-back cycle tube connected to it. This allows the dispersed energy from 
+a blaster shot to be channeled back into the main power output, increasing 
+the power of the next blaster bolt. It has a clip action mount on the dorsal
+surface which enables a scope to be added. 
+<pre>
+Name................Merr-Sonn M434
+Weapon Type.........Blaster Pistol           Weight..............1.5kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-0D+2 Penalty            Damage..............5D+1
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Standard Blaster Pistols]]

@@ -1,0 +1,47 @@
+TITLE: Executor-class Star Dreadnought statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-02T19:53:51Z
+======================================================================
+<pre>Craft .................. Kuat Drives Yard's Star Dreadnought
+Type ................... Executor-class Star Dreadnought
+Length ................. 19,000
+Crew ................... 404,330
+Troops ................. 150,391
+Hyperdrive Multiplier .. x2
+Hyperdrive Backup ...... x8
+Nav Computer ........... Yes
+Sublight ............... 100
+Maneuverability ........ 0D
+Hull ................... 10D
+Shields ................ 8D
+Hangar Space ........... 9000
+         
+Weapons:
+     1,400 Turbolaser Batteries
+       Damage: 5D
+     1,150 Heavy Turbolaser Batteries
+       Damage: 7D
+     950 Heavy Turbolaser Batteries
+       Damage: 10D
+     250 Concussion Missile tubes
+       Damage: 9D
+     1,500 Ion Cannons
+       Damage: 4D
+     100 Tractor Beams
+       Damage: 9D
+        
+Carries:
+     12 wings of starfighter and bomber craft
+     Many Lambda-class shuttles
+     Many Sentinel-class transports
+     Many TIE Shuttles
+     Skipray blastboats
+     Other craft 
+     Full corp of Stormtroopers
+     Several Army divisions
+     Many AT-ATs
+     Many AT-STs
+     At least 3 prefabricated Garrisons
+     Numerous other vehicles</pre>
+
+{{statsheet ship|Executor-class Star Dreadnought}}

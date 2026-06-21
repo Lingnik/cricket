@@ -1,0 +1,20 @@
+TITLE: Jubilee Wheel
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-05-25T07:51:31Z
+======================================================================
+A large colorful wheel for gambling, the jubilee wheel has two rings that spin in opposite directions. The outer one has numbers from 1-100, while the inner one is divided into four colors: red, blue, green and gold. A spiraling beam of light indicates a winning number and color. There are 5 ways to win. You only win if nobody wins a higher 'ranking' prize. (i.e. if someone picks the correct number, color bets are ignored)
+Betting on Number & Color:
+  1. House pays ten times the pot if both number and color come up.
+  2. House pays five times the pot if only the number is correct.
+Betting on Number only:
+  3. Win the pot if the number is correct.
+  4. 90% of pot is divided amongst wagers within 5 of winning number.
+Betting on Color only:
+  5. Win four times your wager.
+COMMANDS:
+  +JBET on <number>
+  +JBET on <color>
+  +JBET on <number> <color>
+Wager is currently set at 500 chips.
+
+[[Category:Games]]

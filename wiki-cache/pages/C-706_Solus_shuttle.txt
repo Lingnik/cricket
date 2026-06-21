@@ -1,0 +1,35 @@
+TITLE: C-706 Solus shuttle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-27T17:43:05Z
+======================================================================
+<pre>Craft ........ Subpro Solus-class Shuttle
+Type ......... Solus-class Shuttle   Cargo Capacity ......... 50 metric tons
+Scale ........ Starfighter           Consumables ............ 2 months
+Length ....... 20 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... x8
+Crew ......... 2 to 6                Nav Computer ........... Yes
+Passengers ... 10                    Maneuverablity ......... 1D
+Hull ......... 138                   Space Movement ......... 40
+Shields ...... 60                    Hangar Space ........... None
+Can Land? .... Yes
+
+Sensors ...... Normal:  1100,  Focus:  30,  Passive:  300
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 10 total (10 filled)
+
+Stock Weapons:
+   Three Double Blaster Cannons (fire separately):
+      Weapon Rating .... Standard       Damage ........ 4D
+      Fire Arc ......... 2FR, 1B        Fire Control .. 2D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+   Four Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 3D+1
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+
+BASE COST NEW: 105000 cr             BASE COST USED: 26300 cr              
+SUGGESTED DOWNPAYMENT: 63000 (new), 15780 (used)</pre>
+
+[[Category:Starships]]
+[[Category:SubPro Ships]]

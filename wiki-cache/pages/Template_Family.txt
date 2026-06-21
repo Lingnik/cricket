@@ -1,0 +1,42 @@
+TITLE: Template:Family
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-11-02T01:33:22Z
+======================================================================
+{| class="toccolours" style="float:{{{float|left}}}; width:{{{width|20em}}}; margin:{{{margin|0 1em 0.5em 0}}};clear:{{{clear|both}}};"
+|-
+|colspan=2 style="text-align:center;" | {{{image|}}}
+|-
+!colspan=2 style="text-align:center; font-size: larger; background-color:{{{bgcolor|#000000}}}; color:{{{fgcolor|#FFFFFF}}};" | {{{family|unknown}}}
+
+{{#if:{{{fosterfather|}}}|
+{{!}}-
+{{!}}'''Foster Father''' {{!}}{{!}} {{{fosterfather}}}|
+{{!}}-
+{{!}}'''Father''' {{!}}{{!}} {{{father|unknown}}}
+}}
+{{#if:{{{fostermother|}}}|
+{{!}}-
+{{!}}'''Foster Mother''' {{!}}{{!}} {{{fostermother}}}|
+{{!}}-
+{{!}}'''Mother''' {{!}}{{!}} {{{mother|unknown}}}
+}}
+|-
+|'''Siblings'''
+| {{{siblings|unknown}}}
+{{#if:{{{cousins|}}}|
+{{!}}-
+{{!}}'''Cousins''' 
+{{!}} {{{cousins}}}
+}}
+|-
+|'''Spouse''' || {{{spouse|unknown}}}
+|-
+|'''Children''' || {{{kids|unknown}}}
+{{#if:{{{other|}}}|
+{{!}}-
+{{!}}'''Other'''
+{{!}} {{{other|unknown}}}
+}}
+|-
+|colspan=2 style="text-align:center;" | {{{uniform|}}}
+|}<noinclude>[[Category:Templates|Character]]</noinclude>

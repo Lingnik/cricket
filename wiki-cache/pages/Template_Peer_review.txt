@@ -1,0 +1,13 @@
+TITLE: Template:Peer review
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-05T18:06:57Z
+======================================================================
+{| {{#ifeq:{{{small|}}}|yes|class="messagebox small-talk"|class="messagebox standard-talk"}}
+|-
+| A '''[[SW1ki:Peer review/{{PAGENAME}}|request has been made]]''' for this article to be [[SW1ki:Peer review|peer reviewed]] to receive a broader perspective on how it may be improved. Please make any edits you see fit to improve the quality of this article.<includeonly>[[Category:Requests for peer review|{{PAGENAME}}]]</includeonly><noinclude>
+|-
+| colspan="2" style="border-top:1px solid black;" |
+This template adds articles to [[:Category:Requests for peer review]].
+[[Category:Templates|Peer{{PAGENAME}}]]
+</noinclude>
+|}

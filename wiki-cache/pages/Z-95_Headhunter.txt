@@ -1,0 +1,51 @@
+TITLE: Z-95 Headhunter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-06-29T13:32:01Z
+======================================================================
+[[Image:fighter_z95_01.jpg|280px|right|Z-95 Headhunter]]
+The '''Z-95 Headhunter''' was a starfighter designed jointly by the Incom and [[SubPro]] Corporations years before the [[:starwars:Battle of Naboo|Battle of Naboo]]. The prototype for the Z-95 was ''Onyx Star'', developed at the Bahalian Shipyards. 
+
+Considered one of the most capable fighters of its day, it boasted a distinctive bubble canopy and a set of triple blasters mounted at the ends of each of its two variable geometry wings; later versions dispensed with the swing wings and bubble canopy in favor of more precise maneuvering thrusters and canopy instrumentation. Its sleek, yet rugged, design was attributed to Seti Ashgad, a scientist in Incom's Hyperdrive Design Division.
+
+It was named after the Coromon Headhunter, a predator native to the Coromon Islands on [[:starwars:Fresia|Fresia]], the planet where Incom was headquartered.
+
+The Z-95 was smaller in size than its successors: the Incom/Subpro [[:starwars:ARC-170|ARC-170]], designed during the Clone Wars; and the Incom T-65 [[X-wing]], designed shortly before the outbreak of the Galactic Civil War.
+
+While the Z-95 still enjoyed considerable use in the years following the establishment of the New Republic, it was clearly outclassed by fighters developed in the decades since its original release. When compared to the T-65, it is slower, less-maneuverable, has lighter armor and shielding, and is not as heavily armed. Yet it is fairly inexpensive and reliable, making it a favorite amongst smugglers, Outer Rim organizations, local system defense forces, and bright-eyed youngsters with dreams of becoming fighter jockeys.
+
+Owing to its longevity, it was not surprising that many variants of the Z-95 had come into existence due to the efforts of starship mechanics and hotrod pilots throughout the Galaxy; these included a split-wing version, a courier version that can accommodate a single passenger, variants with various alternative weapons loadouts, and a trainer version that was commonly used by the Rebel Alliance and later New Republic.
+
+After Subpro and Incom ended their partnership, Incom reportedly bought the intellectual property rights and proprietary systems of the Z-95. Because of demand, at least for repairs and upgrades, SubPro chose to conservatively support existing Z-95 airframes, and briefly made a re-badged production run, the [[Z-96 Headhunter]].
+
+<pre>
+Craft ........ Incom / Subpro Z-95 Headhunter
+Type ......... Multi-Purpose Fighter Cargo Capacity ......... 85 kg
+Scale ........ Starfighter           Consumables ............ 1 day
+Length ....... 11.8 meters           Hyperdrive Multiplier .. None
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1                     Nav Computer ........... None
+Passengers ... None                  Maneuverability ........ 1D
+Hull ......... 138                   Space Movement ......... 70
+Shields ...... 36                    Atmosphere ............. 400; 1150kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  600,  Focus:  10,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (3 permanently filled)
+
+Stock Weapons:
+    Two Triple Blasters (fire-linked):
+      Weapon Rating .... Standard       Damage ........ 3D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+    One Concussion Missle Launcher:
+      Weapon Rating .... Class 3        Damage ........ 7D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m 
+      Ammunition ....... 5 Missiles
+
+This ship is no longer in production.
+</pre>
+
+[[Category:Starfighters]]

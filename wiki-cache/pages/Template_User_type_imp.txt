@@ -1,0 +1,13 @@
+TITLE: Template:User type imp
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-08-18T21:43:52Z
+======================================================================
+<div style="float:left; border:1px solid #000a8d; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#cfcfcf;"
+| style="width:45px; height:45px; background:#ffffff; text-align:center; font-size:14pt;" | [[Image:emblem_empire_starburst.png|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is an Imperial type of person, and likes invading planets.
+|}</div><noinclude><br clear="all">
+==== An Imperial Type of User ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user type imp}}</nowiki></pre>
+[[Category:Userbox Templates|Type Imp]]</noinclude>

@@ -1,0 +1,19 @@
+TITLE: Ison Trade Corridor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-01-11T19:40:22Z
+======================================================================
+The '''Ison Trade Corridor''' is a small route that branches off from the Corellian Trade Spine, passing through five systems before reconnecting with the Spine. Along this corridor are, from Coreward to Rimward, the Varonat, [[Bespin]], Hoth, Anoat, and Ison systems.
+
+The jumping-off points from the Corellian Trade Spine onto the Corridor are the planets Indellian (coreward) and Mataou (rimward).
+
+The Ison Corridor was widely seen as an obscure dead end, and the systems in it largely devoid of potential. The corridor is also prone to ambushes by pirates. Knowing this, the Rebel Alliance decided to start their base on Hoth. 
+<br>
+<br>
+{{Route|
+color=#ffee00|
+start=Indellian|
+items=Varonat, [[Bespin]], Hoth, Anoat, Ison|
+end=Mataou|
+}}
+----
+[[Category:Trade_Routes]]

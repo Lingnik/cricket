@@ -1,0 +1,89 @@
+TITLE: How to Read an Imperial Intelligence Scandoc
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2023-08-02T03:55:54Z
+======================================================================
+''The below information is intended for [[IC]] purposes only, and only [[Imperial Intelligence]] agents are privy to this information.''
+
+[[Imperial Intelligence]] is famous for the security of its scandocs, as well the structure (which often baffles new recruits). To help test the security of its communications, Imperial Intelligence often sends sample communications to the [[Imperial Navy|Navy]] or to [[Commission for the Preservation of the New Order|COMPNOR]], challenging them to break the security of the scandoc. No one has yet broken a completely encoded communication.
+
+A fully secured scandoc will look like this when decoded:
+
+'''''From:''' Pouquor Elegin, Intelligence: Sedition''<br />
+'''''To:''' Murtan Andes, Tatooine/3''<br />
+'''''Subject:''' Reallocation of Efforts''<br />
+'''''Confirmed:''' SEND; TRAN59/64; RECV''<br />
+'''''CONTEXT:''' 6E6; AMAN; IMMD; ROPT''<br />
+'''''Phasecycle:''' PSEG144513567390290; ICON; 00.12BMUT;00.30RMUT''
+
+''Murtan,<br />''
+''Now that the Rebels have fled their base on Tatooine, we feel you should dismantle the Tatooine/3 operation and take any essential personnel with you to the Al'Nasrl sector. There are strong indications that there is a nascent Rebel movement in that sector.''
+
+''Murtan, we must deny you permission to continue your contacts with the underworld lord, Jabba the Hutt. The Bureau had dealings with him before, and despite Jabba's antipathy toward certain Rebel Alliance personnel, we can scarcely be said to have any interest in the New Order other than as a new source of revenue.''
+
+'''Explanation'''
+
+'''From:''' The sender is from the headquarters of a certain branch of Imperial Intelligence ([[Internal Organization Bureau]], [[Analysis Bureau]], [[Bureau of Operations]], or [[Intelligence (Galactic Empire)|Intelligence]]).
+
+The sender's name is always a pseudonym. Each sender will have better than a dozen personal code names, as well as several hundred "pool" names which may be used by any member of the sender's branch. Once a code name is used in a particular transmission, [[Sector Plexus]] will keep the names and the destinations straight for future use.
+
+Next is the bureau of the sender, followed by the sender's branch within the bureau. If the sender is from a system cell, the cell designation is the only information given.
+
+'''To:''' If the recipient is not in a system cell, the recipient's name is also a pseudonym. In a system cell, the recipient's name is often a pseudonym, but Imperial Intelligence chooses these names with particular care. A random percentage of a system cell's agents are assigned their own names. The remaining agents are given a pseudonym which is the name of some poor citizen who is not connected with Imperial Intelligence in any way.
+
+Murtan is a member of the system cell "Tatooine/3". If he had been a member of a bureau, the designation would be his bureau and branch names.
+
+'''Subject:''' When transmitting to system cells, the subject is usually plaintext. When transmitting to other branches, code phrases are often substituted for plaintext, just in case. In such cases, the majority of the message is embedded in the subject, and the main body of the text will make no sense without the necessary context of the encoded subject.
+
+'''Confirmed:''' This status line tells the recipient which send and receive codes were acknowledged and matched without any error.
+*'''SEND''' indicates the send code was confirmed and matched.
+*'''RECV''' means the receive code was also confirmed. If either code is not confirmed, the message is aborted or alerted.
+*'''TRAN''' indicates how many of the information conduits in Sector Plexus have transmitted the message with all the appropriate codes and the content completely intact and error free. There are several reasons why these numbers rarely match. In this scandoc, 59 of 64 information conduits have transmitted perfectly.
+
+'''Context:''' The first item in this status line is the authenticity of the message. "6E6" is standard notation for 6,000,000; the odds that the message has been faked or tampered with are 6,000,000 to 1 against. 100,000 to 1, or E5, is usually the lowest acceptable security level for field agents. Levels of secrecy in Imperial Intelligence directly correspond to the authenticity level necessary to act upon the information. Bureau-to-branch communications has a minimum authenticity of E8, often rising to E18, while branch-to-branch communications have a minimum authenticity of E25. Ubiqtorate communications have an authenticity no lower than E50.
+
+The next item is the action code: "AOPT" tells the agent that the action described in the text is optional, and the sender expects the recipient to use his best judgment in deciding whether or not to undertake the task.
+
+"AADV" says the actions are "advised," which is an Imperial Intelligence euphemism; the sender believes the action should be optional but there is considerable political pressure for this operation. An agent must factor these risks in addition to the risks inherit in the mission.
+
+"AMAN" means the actions described in the text are mandatory. In case of contradictions, the more recent mandatory action takes precedence. 
+
+"AEXC" is an exclusive action. The agent is expected to execute this action to the exclusion of everything else.
+
+The security item is next. 
+
+"PERS" indicates the information is restricted to the recipient. He may inform no one else of the message.
+
+"IMMD" security means the information is restricted to the immediate peers of the agent and necessary subordinates. This can mean different things to different agents, depending on how Imperial Intelligence is structured around them.
+
+"USYS" means the message may be relayed by the agent to any of his superiors in Imperial Intelligence.
+
+"DSYS" means he may inform any subordinates.
+
+"ASYS" tells an agent he may contact any level of Imperial Intelligence which needs this information.
+
+The "SYS" levels are generally reserved for bureau and branch level communications, as field agents have little use for those classifications.
+
+The response item lets the agent know if he must acknowledge the receiving message.
+
+"ROPT" indicates an optional response.
+
+"RMAN" means the agent must acknowledge receipt of the message as soon as possible.
+
+'''Phasecycle:''' The message which Imperial Intelligence sends are dynamic, which means software which modifies the scandoc is embedded within the scandoc itself. The scandoc is continually regenerating itself, receding itself according to a deterministic sequence. This coding will change word order, sentence order, paragraph structure, as well as individual ciphers for words or characters. This technique means breaking the code of an Intelligence scandoc nearly impossible.
+
+The "PSEG" item is a contraction for "product segment." When Imperial Intelligence codes messages, it uses "prime product matching" in which the coding sequence is related to the product of two huge prime numbers (200 to 5,000 digits long), one assigned to the sender and one to the recipient. The actual numbers are kept in Sector Plexus and are unknown to both the sending and receiving agent.
+
+The recipient is given a list of PSEGs, digits which come from some segment of the product of the primes. PSEGs are from five to twenty-five digits in length. If an agent's PSEG matches the PSEG of the message, the agent knows that his security and operations file (SOF) is current with Sector Plexus. If there is a discrepancy, then the agent is out of date. The greater the discrepancy, the more of out of date his SOF. The agent must contact Sector Plexus for an update.
+
+The next item is the message packet. "ICON" means the smallest message packet with which the scandoc works is a single graphic icon or text character. The other possible choices are "WORD," "LINE" and "SCAN." The size of a message packet relates to the sensitivity of the message as well as the size of the main body of the message; a very large, very sensitive message will almost always be set at SCAN.
+
+An Imperial Intelligence scandoc is constantly regenerating itself. Initially this reproduction is absolutely accurate. After a time, the message will mutate, changing about one of every 1,000 of the individual message packets. When these mutant packets are reproduced, some of the message packets sequenced after them will mutate as well. After a while the message is altered to incomprehensible gibberish.
+
+As the mutations are basically random and there is no record of any intermediate scans, there is no hope of reconstructing the original message from sufficiently mutated descendents.
+
+The number before "BMUT" tells the agent how long before the mutation begins, given in the form days, hours and minutes.
+
+The number before "RMUT" tells the agent approximately how often a mutation occurs, given in hours and minutes. For every minute of RMUT, an agent has one hour of time before his message degrades significantly; if a day has passed for every two minutes of RMUT, the agent can forget about retrieving any useful information from the message.
+
+[[Category:Guides]]
+[[Category:Imperial Entities & Terminology]]

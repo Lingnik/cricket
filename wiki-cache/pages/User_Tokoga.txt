@@ -1,0 +1,27 @@
+TITLE: User:Tokoga
+NAMESPACE: 2 (User)
+LAST_EDIT: 2010-06-29T09:17:02Z
+======================================================================
+==About me==
+
+Oddly enough, I'm [[Tokoga|Tokoga's]] player; as you can probably discern from his biography, I joined the MUSH in 18 ABY, where I started out playing Sherk in that Sith arc. My first plot playing Tokoga in large was [[The Capitals Underworld]]. Incidentally, I also used to play [[Lemos Ackinbrac]], Tokoga's somewhat less awesome predecessor.
+
+I do a lot of editing here, generally trying to keep the wiki up to date with the current canon record by cleaning/formatting logs (via the generous use of GNU sed, the UNIX stream editor) and crafting pages for plot characters such as [[Bavon Nass]].
+
+==My contributions==
+
+* [[Special:Contributions/Tokoga|User contributions]]
+
+==Log cleaning regex (yay)==
+ sed -e  '1,/^START_SCENE/d'
+This one deletes everything up to where the log says START_SCENE.  So, just open up your log, find the first pose, and stick START_SCENE above it.  This statement will delete everything up to and including it.
+ sed -e 's/^[ \t]*//'
+Deletes leading whitespace (tabs and spaces at the start of poses).
+ sed -e '/^<[^(ROLL)]*[^(SKILL)]*>/d'
+Deletes anything that's between < > symbols that isn't either ROLL or SKILL.  This deletes any <OOC>, <Public>, <Welcome>, etc. chatter without deleting rolls or skill checks.  If that's what you want,
+ sed -e '/^<*>*/d'
+will delete any line that starts with something inside < > symbols followed by something.
+ sed -e '/^.* has disconnected./d' -e '/^.* has partially disconnected./d' -e '/^.* has connected./d' -e '/^.* has reconnected./d
+This will delete the various connection messages that show up if you're in a room (the preceeding regex, that delete chatter from channels, will handle the others).
+ sed -e G
+This one double spaces.  :)

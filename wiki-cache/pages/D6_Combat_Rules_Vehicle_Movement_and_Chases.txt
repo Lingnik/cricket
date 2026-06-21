@@ -1,0 +1,164 @@
+TITLE: D6 Combat Rules/Vehicle Movement and Chases
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-04T22:33:50Z
+======================================================================
+==Vehicle Movement==
+Vehicle movement works in much the same way as character movement.
+
+Every vehicle has a Move score, which is how many meters per round the vehicle moves at cruising speed.
+
+Moving is an action, just like firing a blaster or dodging. A vehicle can move once per round.
+
+Most repulsorlift vehicles - from landspeeders to airspeeders and speeder bikes - use the repulsorlift operation skill or Mechanical attribute. (Walkers use Walker operation; old-fashioned wheeled-and tracked-vehicles use ground vehicle operation, while hovercraft use hover vehicle operation. Swoops use swoop operation. Each vehicle's description lists its skill.)
+
+When a vehicle moves, you describe the terrain and then pick a difficulty level and a difficulty number: Very Easy (1-5), Easy (6-10), Moderate (11-15), Difficult (16-2), Very Difficult (21-30) or Heroic (31+).
+
+The player decides how fast she wants her character to drive the vehicle and makes her repulsorlift operation (or other skill) roll. If a vehicle has a "maneuverability code," add it to the pilot's skill roll.
+
+If the roll is equal to or greater than the difficulty number, the vehicle moves across the terrain without a problem; if the roll is lower, the vehicle as a movement failure.
+
+===Move Speeds===
+While a vehicle can only move once per round, the driver can pick one of four speeds.
+
+====Cautious Movement====
+This is a very slow movement - the vehicle goes at half its Move. (A vehicle with a Move of 200 would move up to 100 meters.)
+
+In Very Easy, Easy, and Moderate terrains, cautious movement is a "free action" and the driver doesn't have to roll her repulsorlift operation (or other skill).
+
+In difficult, Very Difficult and Heroic terrains, roll the character's vehicle operation skill, but reduce the difficultly one level. (Very Difficult terrain is Difficult to cross; Modereate terrain is Easy to cross.)
+
+'''Example''': Rhen, the brash pilot, is now in her natural element: she's got a repulsorlift operation skill of 5D. She's behind the controls of an airspeeder with a Move of 200 and a maneuverability of 1D+2. She's piloting in open air (easy terrain) at cautious speed. She doesn't have to roll - the airspeeder moves 100 meters. If she were also firing the speeder's aircannons, she'd get to roll her full vehicle blasters skill (or in this case, her Dexterity attribute of 3D) because this is a free action.
+
+Later, Rhen is trying to pilot her speeder through a narrow, twisting canyon in the middle of a rainstorm - it's Very Difficult terrian. Since she decides to move at cautious speed, the terrain is considered one difficulty level easier: it's only Difficult (19). Rhen gets to roll 5D and the speeder's maneuverability of 1D+2 - she gets 23. Then maneuvers the speeder through the canyon without much difficulty, although she knows she'd better not go too much faster or she may bounce the speeder off the canyon walls.
+
+====Cruising Movement====
+Cruising movement is normal driving speed for a vehicle - it moves at its Move speed.
+
+Moving at cruising speed counts as an action, but the pilot can automatically make the move for Very Easy, Easy and Moderate terrains. A pilot must roll the vehicle's operation skill for Difficult, Very Difficult, and Heroic terrains.
+
+====High Speed====
+High speed movement is pushing the vehicle for added speed - the vehicle moves at twice its Move speed.
+
+The pilot must roll for Very Easy, Easy or Moderate terrain.
+
+When moving at high speed, the difficulty for Difficult, Very Difficult and Heroic terrains increase one level.
+
+====All-Out====
+All-out movement is moving at a vehicle's all-out speed - it moves at four times its Move.
+
+Characters piloting a vehicle at "all-out" speed may not do anything else in the round, including vehicle dodges or firing the vehicle's weapons.
+
+Increase the difficulty one level for Very easy, Easy and Modereate terrains. Increase the difficulty two levels for Difficult, Very Difficult or Heroic terrains.
+
+====Acceleration and Deceleration====
+Vehicles may increase or decrease their movement one level per round.
+
+====Partial Moves====
+Characters can move anywhere between half their "move speed" and the full move speed.
+
+====Long Distance Movement====
+All-out movement takes its tolls on vehicles - a vehicle continuously going all-out must make a body strength roll every 10 minutes.
+
+The first body strength difficulty is Very Easy; increase the difficulty one level for each additional roll. If the vehicle fails the roll by 1-10 points, the vehicle is suffering from strain (such as overheating) and must "rest" for twice as long as it moved all-out. If the rolls fails by 11 or more points, the vehicle has suffered a mechanical failure and requires a Moderate repair roll at least one hour of work.
+
+High speed movement also requires body strength rolls: roll once every hour. The first roll is at Very Easy difficulty and increases one difficulty level for each additional roll.
+
+===Terrain Difficulties===
+*Very Easy: 1-5.
+**Driving over flat, artificial surfaces with no obstacles, such as roads. Driving in light traffic. Repulsorlift flight over any flat, stable surface.
+
+*Easy: 6-10.
+**Driving over smooth surfaces with minor obstacles. Driving in moderate traffic. Repulsorlift through uneven terrain, or in moderate traffic, such as on a highway or on city streets.
+
+*Moderate: 11-15.
+**Driving in heavy traffic at high speed. Driving over rough terrain or through an intense storm with thunder and lightning. Repulsorlift flight over very uneven terrain, such as down a chasm, or in any situation that severely limits visibility (bad storm or thick fog).
+
+*Difficult: 16-20.
+**Driving a vehicle over very rough terrain, such as up a mountainside, through a crater field or during a meteor storm. Conducting a chase in heavy traffic or with other major obstacles. Repulsorlift flight through thick forests or in Beggar's Canyon.
+
+*Very Difficult: 21-30.
+**Driving through a city during an earthquake or fierce battle, as stray shots land all around your vehicle, buildings topple in front of you, or the highway you're driving on begins to collapse. Repulsorlift flight under similar circumstances.
+
+*Heroic: 31+
+**Driving or repulsorlift flight in any situation that verges on the impossible: trying to navigate through thick swamps with branches and vines blocking the way at every turn. Racing through the core of an immense drilling machine and avoiding its heavy machinery.
+
+====Maneuvers====
+The difficulty number covers basic flight maneuvers: straight-line movement, a couple of turns and other simple movements. If a character wants to make a more difficult maneuver, such as jumping an obstacle or making an extremely tight turn at high speed, add modifiers as needed:
+
+*+1-5
+**Maneuver is fairly easy.
+
+*+6-10
+**Maneuver is somewhat difficult and requires a certain amount of skill.
+
+*+11-15
+**Maneuver is very difficult and requires a very talented (or lucky) driver or pilot.
+
+*+16+
+**Maneuver appears to be almost impossible. Only the very best drivers can pull off a maneuver of this difficulty.
+
+Here are some possible maneuvers and their difficulties. Gamemasters (and players) are not limited to this lsit - many other maneuvers can be attempted and you must determine a difficulty for the task.
+
+*Bootlegger Turn.
+**Ground vehicles; +6-+15 depending upon situation. The vehicle slams on its brakes, spinning around and sliding. it only moves half of its normal Move, and ends up facing the oppose direction.
+
+*Extreme Climb or Extreme Dive.
+**Flying vehicles: +6-+20 or more depending upon situation. The vehicle climbs or dives at an extreme angle (45 degrees or more).
+
+*Extreme Turn.
+**Ground and flying vehicles; +6-+15 depending upon the situation. The vehicle is attempting a very tight turn (any turn over 45 degrees) while maintaining a high speed. The specific modifier depends on how fast the vehicle is going and the difficulty or making the turn without losing control.
+
+*Jump.
+**Ground vehicles; +5-+20 depending upon situation. The vehicle is jumping, either off a bridge, from a cliff or from some other obstacle or ramp. The difficulty depends on how far the vehicle is attempting to jump and the difficult of maintaining control upon landing.
+
+*Loop.
+**Flying vehicles; +15-+30 or more depending upon situation. The vehicle performs a loop (loop-de-loop) over the course of its entire move.
+
+*Rotate.
+**+5-+15 or more depending upon situation. A hover vehicle (and some ground repulsorlift vehicles) at cruising speed or less can rotate - change direction up to 360 degrees - without changing its inertia.
+
+===Movement Failures===
+A vehicle that fails a movement roll may have to slow down or may even collide with an obstacle.
+
+Find the number of points by which the movement roll failed.
+
+*1-3. Slight slip. 
+**The vehicle experiences a slight "slip" (gets sideways or almost swerves out of control). While the vehicle completes the movement, the pilot suffers a penalty of -1D to all actions fort he rest of the round (in addition to normal multiple action penalties).
+
+*4-6. Slip.
+**The vehicle nearly slides out of control and only makes half its Move. The pilot suffers a penalty of -3D to all actions for the rest of the round, and -1D to all actions for the next round (in addition to normal multiple action penalties).
+
+*7-10. Spin.
+The vehicle completes one-quarter of its Move and then goes spinning out of control. It can make no movements for the rest of the round and the next round. If the vehicle hasn't been damaged by a collision, it may begin moving in two rounds.
+
+*11-15. Minor collision.
+**The vehicle glances off another vehicle or nearby obstacle. (Subtract -3D from normal collision damage; see Collisions.) If there's nothing to hit, the vehicle simply spins out of control and can make no movements for the rest of the round and the next round.
+
+*16-20. Collision.
+**The vehicle smashes into another vehicle or nearby object, doing normal collision damage. (See "Collisions".) If there's nothing to hit, the vehicle may spin out of control, or at the gamemaster's discretion, the vehicle may begin to tumble, flip over, or experience some other collision.
+
+*21+. Major collision.
+**Crash!!! The vehicle runs into an obstacle and at such a poor angle as to increase collision damage by +4D. If there's nothing to hit, the vehicle flips out of control or experiences some other serious collision.
+
+===Collisions===
+The amount of collision damage depends on how fast the vehicle was moving. (When resolving collision damage with ships or objects of different scales, don't forget to use appropriate damage die caps.)
+
+<pre>Speed          Collision Damage
+Cautious          2D
+Cruise            4D
+High Speed        6D
+All-out           10D</pre>
+
+Roll the collision damage and compare it to the vehicle's body strength roll. Vehicle Damage explains what happens.
+
+If the vehicle runs into another vehicle, the damage changes based on the angle of the collision. 
+
+Head-on crash: +3D
+Rear-ender/sideswipe: -3D
+T-bone: 0D
+
+You may want to adjust collision damage to reflect what a vehicle runs into. If a vehicle smashes into a hardened plasticrete wall, it suffers full damage. On the other hand, something with a little "give" - like a wooden fence or thickbushes - may absorb some of the impact while slowing the vehicle down: you may want to reduce collision damage by -1D, -2D, or more.
+
+You should describe collisions in colorful detail since they're one of the emotional payoffs of chase scenes.
+
+[[Category:The Way It Works]]

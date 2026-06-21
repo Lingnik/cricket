@@ -1,0 +1,121 @@
+TITLE: User:Xerxes/sandbox
+NAMESPACE: 2 (User)
+LAST_EDIT: 2007-10-30T02:20:21Z
+======================================================================
+<div id="title-icons" style="float: right; display: none">http://images.wikia.com/starwars/images/d/d8/30px-Era-leg.png [[Image:Sm_csa_logo.png|30px]] [[Image:Emblem_cdu_vectapex.png|30px]][[Image:Emblem_empire_starburst.png|30px]][[Image:Emblem_nr_starphoenix.png|30px]]</div>
+
+== Character infobox ==
+{{character infobox
+|name=Buddy Christ
+|width=325px
+|image=http://upload.wikimedia.org/wikipedia/en/d/d8/Buddy_Christ.jpg
+|homeworld=Earth
+|born=1
+|died=33
+|species=[[Human]]
+|gender=Male
+|height=Average
+|hair=Brown
+|affiliation=* Good guys
+* [[:wikipedia:Dogma (film)|Dogma (film)]]
+|rank=Right-hand
+|position=Savior, Spokesman
+}}
+
+<div class="" style="margin:0 0 0.5em 1em; padding:0px;text-align:center;background:#000;border:0px;width:325px">{{rtop|#000}}{{#if:{{{image|on}}}|<div style="border:1px solid #000;width:250px;height:100px">http://upload.wikimedia.org/wikipedia/en/d/d8/Buddy_Christ.jpg</div>}}
+{| style="width:100%;margin:0px;border-collapse:collapse;text-align:left;border: 1px solid #000" cellspacing="0"
+|-
+!colspan=2 style="text-align:center; font-size: larger; background-color:{{{bgcolor|#000000}}}; color:{{{fgcolor|#FFFFFF}}};" | {{{name}}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Homeworld'''
+|style="padding:0 0.5em 0 0;"| {{{planet|unknown}}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Species''' || {{{species|unknown}}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Gender''' || {{{gender|unknown}}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Height''' || {{{height|unknown}}}
+{{#if:{{{hair|}}}|
+{{!}}-
+{{!}}style="padding:0 0.5em 0 0.5em;"{{!}}'''Hair Color''' {{!}}{{!}} {{{hair}}}
+}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Eye Color''' || {{{eyes|unknown}}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Skin Color''' || {{{skin|unknown}}}
+|-
+|style="padding:0 0.5em 0 0.5em;"|'''Affiliation''' || {{{affiliation|unknown}}}
+|-
+|colspan=2 style="text-align:center;" | {{{uniform|}}}
+|}
+{{rbottom|#000}}</div>
+
+<br clear="all" />
+
+== Vehicle / Ship infobox ==
+<div width="48%" style="float:left">
+{| border=1
+|-
+|Craft
+|colspan="3"|Modified Tenloss Hornet Interceptor
+|-
+||Type||Space Superiority Fighter||Cargo Capacity||80 kg
+|-
+||Scale||Starfighter||Consumables||5 days
+|-
+||Length||14 meters||Hyperdrive Capability||No
+|-
+||Pilot Skill||Starfighter Piloting||Hyperdrive Backup||None
+|-
+||Crew||1||Nav Computer||No
+|-
+||Passengers||None||Maneuverability||3D+2
+|-
+||Hull||45||Space Movement||90
+|-
+||Shields||96||Atmosphere||400; 1150kmh
+|-
+||Can Land?||Yes||Hangar Space||None
+|-
+|colspan="4"|Sensors ...... Normal:  1300,  Focus:  30,  Passive:  200<br/>
+
+Weapon Skill ...... Starship Gunnery<br/>
+Weapon Slots ...... 2 total (2 permanently filled)<br/>
+
+Stock Weapons:<br/>
+Two Single Laser Cannons (fire linked):<br/>
+Weapon Rating .... Class 5        Damage ........ 6D<br/>
+Fire Arc ......... Front          Fire Control .. 3D<br/>
+Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km<br/>
+         
+BASE COST NEW: 75000 cr              BASE COST USED: 32000 cr<br/>
+SUGGESTED DOWNPAYMENT: 45000 (new), 19200 (used)<br/>
+|}
+</div><div width="48%" style="float:right">
+<pre>
+Craft ........ Modified Tenloss Hornet Interceptor
+Type ......... Space Superiority Fighter Cargo Capacity ......... 80 kg
+Scale ........ Starfighter               Consumables ............ 5 days
+Length ....... 14 meters                 Hyperdrive Capability .. No
+Pilot Skill .. Starfighter Piloting      Hyperdrive Backup ...... None
+Crew ......... 1                         Nav Computer ........... No
+Passengers ... None                      Maneuverability ........ 3D+2
+Hull ......... 45                        Space Movement ......... 90
+Shields ...... 96                        Atmosphere ............. 400; 1150kmh
+Can Land? .... Yes                       Hangar Space ........... None
+
+Sensors ...... Normal:  1300,  Focus:  30,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 2 total (2 permanently filled)
+
+Stock Weapons:
+    Two Single Laser Cannons (fire linked):
+      Weapon Rating .... Class 5        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 3D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+         
+BASE COST NEW: 75000 cr              BASE COST USED: 32000 cr              
+SUGGESTED DOWNPAYMENT: 45000 (new), 19200 (used)
+</pre>
+</div>

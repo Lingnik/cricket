@@ -1,0 +1,92 @@
+TITLE: Victory-class Star Destroyer
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-06-11T06:31:58Z
+======================================================================
+=== '''DSpace''' ===
+{{title|''Victory''-class Star Destroyer}}
+
+<pre>  The Victory Star Destroyer carries out three standard mission types: 
+  planetary defense, planetary assault and troop support, and ship-to-ship
+  combat. It is much better at the first two than at the latter. One of 
+  this vessel's most powerful advantages is its ability to enter the upper 
+  levels of a planet's atmosphere. This permits precision ground attacks and 
+  the persuit of smaller craft hoping to escape by diving toward planet.
+ 
+Craft ........ Rendili StarDrive's Victory I Star Destroyer
+Type ......... Star Destroyer        Cargo Capacity ......... 8100 metric tons
+Scale ........ Capital               Consumables ............ 4 years
+Length ....... 900 meters            Hyperdrive Multiplier .. x1
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x15
+Crew ......... 5,200                 Nav Computer ........... Yes
+Passengers ... 2,040 (Troops)        Maneuverability ........ 1D
+Hull ......... 1446                  Space Movement ......... 40
+Shields ...... 162                   Hangar Space ........... 750
+Can Land? .... No
+ 
+Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+ 
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 252 total (210 filled)
+ 
+Stock Weapons:
+   Fourty Turbolaser Batteries (fire separately):
+      Weapon Rating .... Type 1         Damage ........ 5D
+      Fire Arc ......... 5L, 5R         Fire Control .. 4D
+      Space Range ...... 3-15/35/75     Atmo Range .... 6-30km/70km/150km
+   Eighty Turbolaser Batteries (fire separately):
+      Weapon Rating ... Type 1          Damage ........ 3D
+      Fire Arc ........ 10FR, 15L, 15R  Fire Control .. 3D
+      Space Range ..... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+   Eighty Concussion Missile Launchers:
+      Weapon Rating .. Class 5a            Damage ........ 9D
+      Fire Arc ....... 20FR, 20L, 20R, 20B Fire Control .. 2D
+      Space Range .... 2-12/30/60          Atmo Range .... 200m-1.2km/3km/6km
+      Ammunition ..... 5 Missiles
+   Ten Tractor Beam Projectors:
+      Weapon Rating .. Class 2             Damage ........ 6D
+      Fire Arc ....... Front               Fire Control .. 4D
+      Space Range .... 1-5/15/30           Atmo Range .... 2-10km/30km/60km
+
+BASE COST NEW: 5750000 cr            BASE COST USED: 1610000 cr            
+SUGGESTED DOWNPAYMENT: 3450000 (new), 966000 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: Imperial Sourcebook''
+ Craft ........ Rendili StarDrive's Victory I Star Destroyer
+ Type ......... Star Destroyer        Cargo Capacity ......... 8100 metric tons
+ Scale ........ Capital               Consumables ............ 4 years
+ Length ....... 900 meters            Hyperdrive Multiplier .. x1
+ Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x15
+ Crew ......... 5,200                 Nav Computer ........... Yes
+ Passengers ... 2,040 (Troops)        Maneuverability ........ 1D
+ Hull ......... 4D                    Space Movement ......... 40
+ Shields ...... 3D+1                  Hangar Space ........... 750
+ Can Land? .... No
+  
+ Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+  
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 252 total (210 filled)
+  
+ Stock Weapons:
+    Ten Quad Turbolaser Batteries (fire separately):
+       Weapon Rating .... Type 1         Damage ........ 5D
+       Fire Arc ......... 5L, 5R         Fire Control .. 4D
+       Space Range ...... 3-15/35/75     Atmo Range .... 6-30km/70km/150km
+    Forty Double Turbolaser Batteries (fire separately):
+       Weapon Rating ... Type 1          Damage ........ 3D
+       Fire Arc ........ 10FR, 15L, 15R  Fire Control .. 3D
+       Space Range ..... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+    Eighty Concussion Missile Launchers:
+       Weapon Rating .. Class 5a            Damage ........ 9D
+       Fire Arc ....... 20FR, 20L, 20R, 20B Fire Control .. 2D
+       Space Range .... 2-12/30/60          Atmo Range .... 200m-1.2km/3km/6km
+       Ammunition ..... 5 Missiles
+    Ten Tractor Beam Projectors:
+       Weapon Rating .. Class 2             Damage ........ 6D
+       Fire Arc ....... Front               Fire Control .. 4D
+       Space Range .... 1-5/15/30           Atmo Range .... 2-10km/30km/60km
+{{Common Warship Class Victory}}
+
+[[Category:Capital Ships]]
+[[Category:Rendili Ships]]

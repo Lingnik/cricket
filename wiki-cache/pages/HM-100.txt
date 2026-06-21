@@ -1,0 +1,20 @@
+TITLE: HM-100
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-11T23:23:57Z
+======================================================================
+This large and bulky stun gun is the choice of crowd control officers 
+everywhere. The '''HM-100''' carries 30 rounds of high power stun charges, capable 
+of dispersing even the largest of crowds. The size and weight of this weapon 
+also makes it an effective bashing apparatus should it become necessary after
+it's ammo is depleted.  This "blast tube" is most often employed by law 
+enforcement riot reaction teams and militias. Its stun damage rating is 
+powerful enough in a short, wide blast radius to be effective against large 
+targets such as [[Wookiee|Wookiees]], Talz, [[Gamorrean|Gamorreans]], etc.
+<pre>
+Name................HM-100
+Weapon Type.........Riot Gun                 Weight..............6kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............0D+2 Bonus               Damage..............8D (Stun)
+Conceal Difficulty..25                       Two-Handed..........Yes</pre>
+
+[[Category:Stun Weapons]]

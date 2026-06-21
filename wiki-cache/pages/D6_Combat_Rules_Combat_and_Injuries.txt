@@ -1,0 +1,201 @@
+TITLE: D6 Combat Rules/Combat and Injuries
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-04T22:51:30Z
+======================================================================
+These are the combat rules for character-to-character combat.
+
+=Combat and Injuries=
+==Range==
+#Shooting at a target at point-blank range is a Very Easy task.
+#Shooting at a target at short range is an Easy task.
+#Shooting at a target at medium range is a Moderate task.
+#Shooting at a target at long range is a Difficult task.
+
+Estimating ranges: Rather than measuring out ranges, you can estimate:
+
+*Targets that are very close - within three meters of each other - are at point-blank range (Very easy)
+*Most combat indoors is at short range. (Easy difficulty) If the room is fairly large and the combatants are at opposite ends of it, blaster rifles will still be at short range (Easy), but blaster pistols will probably be at medium range (Moderate).
+*Most combat outdoors is at medium range (Moderate). Sometimes, blaster pistols are are long range (Difficult), while blaster rifles are still at Medium (Moderate)
+*Outdoor combat at great distances is generally at long range (Difficult).
+
+
+==Full Reaction== 
+A character can make a "full reaction." A full reaction - dodge, melee parry, brawling parry, lightsaber, vehicle dodge, or starship dodge - can be the only action the character makes in the entire round.
+
+The character rolls his dodge or other reaction skill and adds it to the difficulties of all attacks made against him that round.
+'''Example''': Sandor is getting shot at by three stormtroopers: two are at medium range (Moderate difficulty, difficulty number 13), while one is at short range (easy, 8). Sandor decides to make a full dodge and rolls a 27. Now the troopers at meduim range must roll a 40 to hit, while the trooper at short range must roll a 35 to hit him.
+
+Unfortunately, later in the round a thug attacks Sandor with a virbo-ax: a melee combat attack, at Moderate difficulty number of 12. Sandor can't melee parry because he's made a full dodge: he has to hope that the thug's attack misses.
+
+==Called Shots==
+Attackers can make a "called shot" against a small target, such as a specific part of a target's body or shooting a weapon out of a target's hand.
+Add +1D to the difficulty for a target 10 to 50 centimeters long. Add +4D to the difficulty for a target one to 10 centimeters long. Add +8D to the difficulty for a target less than a centimeter long.
+
+==Grenades and Thermal Detonators==
+When throwing a grenade, the thrower picks a target point; you determine the difficulty based on the range. Add a +5 to +10 modifier to the difficulty if the thrower cannot see where he is throwing the grenade (such as over a wall). If the roll is equal to or greater than the difficulty number, the grenade hits its target point. If the roll is lower it misses; see "Grenade Deviation."
+
+Grenades have several activators: some are contact-based, some are time-based. If the grenade is contact-based, it will explode when it hits something. If it uses a timer, it will explode after a set amount of time. If the timer is set for less than five seconds, the grenades explodes at the end of the round in which it was thrown.
+
+==Grenade Deviation==
+If the character misses with the grenade throw, the weapon lands somewhere else. First, roll 1D to determine in which direction it deviates from the target point (see Grenade Deviation Diagram).
+
+You must also determine how far the grenade goes. If the throw was at point-blank or short range, it deviates 1D meters. If the throw was at medium range, it deviates 2D meters. If the throw was at long range, it deviates 3D meters. 
+
+Example: There is a cluster of five stormtroopers 20 meters away. Sandor decides a grenade will fix this problem nicely. Twenty meters away is medium range (Moderate difficulty; difficulty number 14). Sandor rolls his Grenade skill and gets an 11. He missed!
+
+Now the GM has to determine how far away the grenade lands. First, he rolls 1D to determine the deviation direction and gets a 4 - the grenade lands short of where Sandor was throwing it. The grenade was being thrown at medium range, which means it deviates 2D meters. The game master rolls and gets a 7 - the grenade falls seven meters short. Sandor only threw it 13 meters. The grenade has a blast radius of 10 meters, though - the stormtroopers are between six and ten meters away, so they each take 2D damage from the grenade. Fortunately for Sandor, he's more than 10 meters away from the grenade, so he doesn't take any damage.
+
+[[Image:D6GrenadeDeviation.png|right|thumb|Grenade Deviation Diagram]]
+
+(A standard fragmentation grenade has the following listings: damage: 5D/4D/3D/2D; blast radius: 0-2/4/6/10 meters. Hence why at 6-10 meters, the damage is reduced to 2D.)
+
+===Dodging Grenades=== 
+Characters can dodge grenades, but this only means they hit the deck and avoid damage.
+'''Example''': Sandor decides to throw a grenade at two stormtroopers 16 meters away. That's medium range (Moderate, 13). Sandor rolls Grenades and gets 17 - the grenade lands where Sandor was aiming.
+The stormtroopers decide to dodge - if they roll an 18 or higher, the grenade still hits where Sandor was aiming but they manage to hit the deck and take no damage. If one of the troopers rolls a 17 or less, he still takes damage..and since he's less than three meters from the grenade, he takes 5D damage.
+
+===Tossing Grenades Away===
+Brave characters can try to grab a grenade and throw it away if there's time left. (Most people set the time for five seconds so the grenade explodes immediately after it lands)
+
+The character may pick a specific spot to throw the grenade (determine difficulty normally) or can throw it "as far away as possible" - have the character roll his grenade or dexterity: the grenade goes as far as the roll will send it.
+'''Example''': Sandor is cautiously moving across a battlefield when he sees a grenade coming in at him. He ducks behind what's left of a plasticrete wall and waits for the big boom. There's no explosion after a second or two. Whoever threw it must have set the time for too long. Peeking out over the wall, he sees the grenade one meter in front of him. He jumps up, grabs the grenade and hurls it as far as he can. Sandor's Grenade roll is 13 - that's a Modereate total, which is medium range for a grenade: 11-20 meters away. That's good enough because it means Sandor isn't in the blast radius. Of course, things could have been uglier if the timer had run out before Sandor threw the grenade.
+
+==Cover==
+Characters are harder to hit when they've got cover: something that hides them from attackers. In some situations, such as thick smoke and fog, these modifiers may also be added to search or Perception difficulties to spot a hidden character.
+Add the cover modifier (or modifiers if more than one applies) to the difficulty to hit the target.
+
+<pre>Cover			Modifier
+Light smoke		+1D
+Thick smoke		+2D
+Very thick smok	e	+4D
+Poor light		+1D
+Moonlit night		+2D
+Complete darkness	+4D</pre>
+
+Characters may also hide behind objects - such as walls and parked speeders - which provide cover and protection (see Protection below). Add the cover modifier based on how much of the target is covered.
+
+<pre>Target is:
+1/4 covered		+1D
+1/2 covered		+2D
+3/4 covered		+4D
+Fully covered		Attacker must eliminate cover first.</pre>
+
+===Protection===
+Sturdy objects may provide protection. If the attacker rolled well enough to beat the basic difficulty, but not well enough to beat the added cover modifier, that means that the shot hit whatever the character was hiding behind.
+Roll the attack's damage against the protection's body strength.
+
+<pre>Simple Protection		Body Strength
+Flimsy wooden door		1D
+Standard wooden door		2D
+Standard metal door		3D
+Reinforced door			4D
+Blast door			6D</pre>
+
+If the damage roll is lower than the body strength roll, the protection is not damaged at all and the target suffers no damage. If the damage roll is equal to or greater than the protection's body strength roll, find the difference on the chart below to see how badly the protection is damaged.
+
+<pre>Damage Roll > Body Strength Roll by:
+		0-3		Not seriously damaged
+		4-8		Lightly damaged
+		9-12		Heavily damaged
+		13-15		Severely damaged
+		16+		Destroyed</pre>
+
+A character behind protection may suffer some damage depending upon how badly his protection is damaged. Subtract dice from the attack's damage based on the chart below.
+
+<pre>Protection is:				Reduce weapon damage by:
+Not seriously damaged			Character is completely protected.
+Lightly damaged				-4D
+Heavily damaged			-2D
+Severely damaged			-1D
+Destroyed				Character suffers full damage</pre>
+
+'''Example''': Sandor's target ducks behind a couple of metal garbage bins and he's now 1/2 covered. That's an extra +2D to the difficulty to hit him. The target is still at medium range (Moderate difficulty, 13). The GM rolls 2D for the moonlit night (gets a 10) and another 2D for the garbage bins (gets a 7): Sandor's difficulty to hit is now 30. If Sandor rolls a 30 or higher, he hits his target directly and rolls full damage. If Sandor rolls a 22 or less, his shot misses completely. If he rolls between a 23 and a 29, that means his shot smashes into one of the garbage bins. He rolls a 26 - his shot hits the bins.
+
+The GM decides the bins aren't too tough - he gives them a body strength of 2D and rolls, getting a 7. Sandor rolls his blaster pistol's 5D damage and gets a 20: that's a difference of 13. The bins are severely damaged. That means that Sandor's blaster shot hits his target, but at -1D damage. Sandor rolls 4D damage against his target's Strength.
+
+==Damage==
+Ranged weapons normally do a set amount of damage: for example, a blaster rifle does 5D damage. A melee weapon might have a damage code of STR+1D - that means, the attacker rolls his Strength and adds one extra die for damage. For brawling attacks, the attacker rolls his Strength. Some creatures have natural weapons, such as claws, which may cause STR+1D or STR+1D+2 - roll the Strength and add the die code as indicated.
+
+The target character rolls Strength to resist damage. If the character's Strength roll is higher than the damage roll, there's no effect. If the damage roll is higher, find the difference on the Character Damage Chart.
+
+<pre>Damage Roll > Strength Roll By:			Effect
+0-3							Stunned
+4-8							Wounded
+9-12							Incapacitated
+13-15							Mortally Wounded
+16+							Killed</pre>
+
+
+
+Stunned characters suffer a penalty of -1D to skill and attribute rolls for the rest of the round and for the next round. A stun no longer penalizes a character after the second round, but it is still "affecting" him for half an hour unless the character rests for one minute.
+
+If a character is being "affected" from a number of stuns equal to the number before the D for the character's Strength, the character is knocked unconscious for 2D minutes. A character making an Easy first aid skill total can revive an unconscious character.
+
+Wounded characters fall prone and can take no actions for the rest of the round. THe character suffers a penalty of -1D to skill and attribute rolls until he heals (through medpacs or natural rest). A character who is wounded a second time is wounded twice.
+
+A character who's wounded twice falls prone and can take no actions for the rest of the round. The character suffers a penalty of -2D to all skill and attribute rolls until he is healed. A wounded twice character who is wounded again is incapacitated.
+An incapacitated character falls prone and is knocked unconscious for 10D minutes. The character can't do anything until healed. An incapacitated character who is wounded or incapacitated again becomes mortally wounded.
+
+A character making a Moderate first aid total can revive an incapacitated character. The incapacitated character is now awake, but is groggy, cannot use skills, and can only move at half his "cautious" rate (See [[D6 Combat Rules/Character Movement and Chases|Movement and Chases]].)
+
+A mortally wounded character falls prone and is unconscious. The character can't do anything until healed. The character may die - at the end of each round, roll 2D. If the roll is less than the number of rounds that the character has been mortally wounded, the character dies. A mortally wounded character who is incapacitated or mortally wounded again is killed.
+
+A character making a Moderate first aid total can "stabilize" a mortally wounded character. The character is still mortally wounded but will survive if a medpac or bacta tank is used on him within one hour (Moderate first aid total); otherwise, he dies. (This is different from healing a character with a medpac, see Healing.)
+A killed character is killed.
+
+===Stun Damage===
+Weapons set for stun roll damage normally,  but treat any result more serious than "stunned" as unconscious for 2D minutes. (Unless specifically stated otherwise, all character-scale  blasters can be set for stun damage.)
+
+===Game Option: Severe Injuries===
+As an optional rule, a character who causes enough damage to kill another character has the option of causing a serious, permanent injury instead. (For example, a limb could be severed or a body part injured so badly that it could never be used again.)
+This is not necessarily an evil action - some would say this is more merciful than killing someone (although that's up for debate). In addition to the severe injury, the target character is wounded, wounded twice, or incapacitated (gamemaster's option).
+
+==Armor==
+Armor protects the wearer from damage. In game terms, armor simply adds to a character's Strength roll when resisting damage (It doesn't add to any other Strength rolls.)
+'''Example''': Sandor's Strength is 3D+2. He's wearing blast armor that adds +1D. He rolls 4D+2 to resist damage. However, when he makes a Strength roll to try to lift a heavy object, he rolls only his 3D+2.
+
+Armor may provide different levels of protection for different attack types. For example, stormtrooper armor provides +2D against physical attacks but only +1D against energy attacks. Some types of armor are bulky and reduce a character's Dexterity and all Dexterity skills: stormtrooper armor also fits this example, as it causes a -1D penalty to Dexterity and all related skills.
+
+Armor may not cover the wearer's entire body; if you use the optional hit location rules, this is important since armor can't protect an area it's not covering.
+
+Damaged Armor When someone wearing armor suffers damage through a protected area, the armor is also damaged.
+
+<pre>Injury suffered by wearer		Damage to armor
+Wounded				        Lightly damaged (-1 pip)
+Incapacitated				Heavily damaged (-1D)
+Mortally wounded			Severely damaged (Useless but may be repaired)
+Killed					Destroyed</pre>
+
+Armor repairs are discussed in the "[[D6 Combat Rules#Using Repair Skills|Using Repair Skills]]."
+
+==Damaged Weapons==
+Weapons can suffer damage in combat, such as when a lightsaber slices through a blaster or vibroweapon, or a weapon gets dropped, or as a result of a "complication" that leads to a serious malfunction.
+
+If a weapon is damaged, roll its body strength to resist damage. Most hand weapons - such as blaster pistols, vibro axes and so forth - have a body strength of 2D (regardless of how much damage they cause).
+
+<pre>Damage Roll > Body Strength Roll by:			Weapon is:
+0-3								Not seriously damaged
+4-8								Lightly damaged
+9-12								Heavily damaged
+13-15								Severely damaged
+16+								Destroyed</pre>
+
+#Lightly damaged weapons lose -1D of their damage value.
+#Heavily damaged weapons lose -2D off their damage and add +10 to all difficulties to use in combat.
+#Severely damaged weapons cannot be used, but may be repaired.
+#Destroyed weapons may not be repaired.
+#Weapon repairs are discussed in the "Using Repair Skills" section.
+
+Note: Damage to ordinary objects can also be covered using this rule. Pick the object's body strength and compare the roll to the damage roll. Find the result on the chart above.
+
+==Game Option: Hit Location==
+You may want to determine where a shot hits in combat.
+<pre>Roll 1D:
+1		Head
+2-3		Torso
+4		Arms (roll again: 1-3 left arm, 4-6 right arm)
+5		Left leg
+6		Right leg</pre>
+
+
+[[Category:The Way It Works]]

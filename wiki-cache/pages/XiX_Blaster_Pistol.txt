@@ -1,0 +1,21 @@
+TITLE: XiX Blaster Pistol
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-01-29T11:09:29Z
+======================================================================
+The '''XiX''' series blaster pistol is an unquestionably modern looking weapon. Its 
+black composite ergonomic frame almost looks as if it were meant to be poured 
+into a typical human or near human hand.  A cursory examination would seem to
+indicate that this weapon was designed with some form of concealability in 
+mind - there are few protusions to catch on clothing, and if necessary, the 
+'iron sights' look like they could be easily removed and replaced with a 
+lower profile type. The weapon's fire selector only contains two positions, 
+with no indication of a stun setting.  The XiX is known a reverberating, 
+hollow sound when it fires.
+<pre>
+Name................Galinolo XiX
+Weapon Type.........Blaster Pistol           Weight..............0.75kg
+Damage Type.........Energy                   Stun Setting........No
+Accuracy............-0D+2 Penalty            Damage..............4D
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Standard Blaster Pistols]]

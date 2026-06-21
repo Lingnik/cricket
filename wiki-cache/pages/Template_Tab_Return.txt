@@ -1,0 +1,16 @@
+TITLE: Template:Tab Return
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-12T14:51:23Z
+======================================================================
+{| class="noprint" style="border:1px solid #999; background:#fff; margin:0 0 .5em .5em; text-align:center; padding:5px; clear:center;" align="center"
+|-
+!This article is a child; a component of a larger article. [[{{{1}}}|Return to parent article]].
+|-
+|}
+<includeonly>
+[[Category:{{{2|Subpages}}}|{{{3|{{PAGENAME}}}}}}]]
+</includeonly><noinclude>
+== Categories ==
+* [[:Category:Subpages]] or <nowiki>{{{2}}}</nowiki>
+
+[[Category:Templates|Tab Return]]</noinclude>

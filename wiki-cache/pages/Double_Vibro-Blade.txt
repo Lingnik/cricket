@@ -1,0 +1,17 @@
+TITLE: Double Vibro-Blade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T18:48:55Z
+======================================================================
+This weapon features a curved and jagged blade that extends from the base of 
+the hilt to about midway up the one-meter length of the weapon. Just a few 
+centimeters past that point another curved blade, this one smooth, begins and
+continues past the end of the weapon, curving into a vicious looking point.
+This weapon is intended to be used two-handed and is very difficult to master.
+<pre>
+Name................Double Vibro-Blade
+Weapon Type.........Melee Weapon             Weight..............4.25kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............0D+0                     Damage..............3D
+Conceal Difficulty..15                       Two-Handed..........Yes</pre>
+
+[[Category:Melee]]

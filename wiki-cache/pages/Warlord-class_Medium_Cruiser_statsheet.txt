@@ -1,0 +1,83 @@
+TITLE: Warlord-class Medium Cruiser/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-28T04:06:41Z
+======================================================================
+=== '''D-Space''' ===
+ KDY-SFS Warlord Class Cruiser                                  
+          
+ Craft ........ KDY-SFS Warlord Class Cruiser
+ Type ......... Medium Cruiser        Cargo Capacity ......... 6500 metric tons
+ Scale ........ Capital               Consumables ............ 2 years
+ Length ....... 450  meters           Hyperdrive Multiplier .. x2
+ Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+ Crew ......... 2112                  Nav Computer ........... Yes
+ Passengers ... 350 (troops)          Maneuverability ........ 2D
+ Hull ......... 1200                  Space Movement ......... 60
+ Shields ...... 450                   Hangar Space ........... 250
+ Can Land? .... Yes                   
+ Sensors ...... Normal:  1600,  Focus:  30,  Passive:  300
+          
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 84 total (50 filled)
+ 
+ Stock Weapons:
+    Ten Heavy Turbolaser Batteries:
+       Weapon Rating .... Type 3          Damage ........ 7D
+       Fire Arc ......... 4FR, 3L, 3R     Fire Control .. 1D
+       Space Range ...... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+ 
+    Two Missile Batteries
+       Weapon Rating .... Type 3           Damage ........ 9D
+       Fire Arc ......... 2FR              Fire Control .. 2D
+       Space Range ...... 3-15/35/75       Atmo Range .... 6-30km/70km/150km 
+ 
+    Two Tractor Beam Projectors (fire separately):
+       Weapon Rating .... Class 1           Damage ........ 4D
+       Fire Arc ......... 2F, 3L, 3R, 2B    Fire Control .. 2D
+       Space Range ...... 1-5/15/30         Atmo Range .... 1-5km/15km/30km
+ 
+    Ten Ion Cannon Batteries:
+       Weapon Rating .... Type 1            Damage ........ 4D
+       Fire Arc ......... 4FR, 3L, 3R       Fire Control .. 4D
+       Space Range ...... 1-5/15/30         Atmo Range .... 200m-1.2km/3km/6km
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: SW1 unique ship''
+ KDY-SFS Warlord Class Cruiser                                  
+          
+ Craft ........ KDY-SFS Warlord Class Cruiser
+ Type ......... Medium Cruiser        Cargo Capacity ......... 6500 metric tons
+ Scale ........ Capital               Consumables ............ 2 years
+ Length ....... 450  meters           Hyperdrive Multiplier .. x2
+ Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+ Crew ......... 2112                  Nav Computer ........... Yes
+ Passengers ... 350 (troops)          Maneuverability ........ 2D
+ Hull ......... 5D+1                  Space Movement ......... 60
+ Shields ...... 4D+2                  Hangar Space ........... 250
+ Can Land? .... Yes                   
+ Sensors ...... Normal:  1600,  Focus:  30,  Passive:  300
+          
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 84 total (50 filled)
+ 
+ Stock Weapons:
+    Ten Heavy Turbolaser Batteries:
+       Weapon Rating .... Type 3          Damage ........ 7D
+       Fire Arc ......... 4FR, 3L, 3R     Fire Control .. 1D
+       Space Range ...... 3-15/35/75      Atmo Range .... 6-30km/70km/150km
+ 
+    Two Missile Batteries
+       Weapon Rating .... Type 3           Damage ........ 9D
+       Fire Arc ......... 2FR              Fire Control .. 2D
+       Space Range ...... 3-15/35/75       Atmo Range .... 6-30km/70km/150km 
+ 
+    Two Tractor Beam Projectors (fire separately):
+       Weapon Rating .... Class 1           Damage ........ 4D
+       Fire Arc ......... 2F, 3L, 3R, 2B    Fire Control .. 2D
+       Space Range ...... 1-5/15/30         Atmo Range .... 1-5km/15km/30km
+ 
+    Ten Ion Cannon Batteries:
+       Weapon Rating .... Type 1            Damage ........ 4D
+       Fire Arc ......... 4FR, 3L, 3R       Fire Control .. 4D
+       Space Range ...... 1-5/15/30         Atmo Range .... 200m-1.2km/3km/6km
+[[Category:Stat Sheets]]

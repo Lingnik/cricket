@@ -1,0 +1,38 @@
+TITLE: SW1ki:SW1kiProject Astrographics
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2006-08-29T14:06:04Z
+======================================================================
+{{SW1kiProject|name=Astrographics}}
+'''SW1kiProject Astrographics''' is an informal group of SW1kipedians that have gotten together to make some suggestions about how we might best organize information about the star systems, planets, moons, hyperspace routes that make up the MUSH galaxy, collectively referred to as Astrographics.
+
+==Scope==
+This [[SW1ki:SW1kiProject|SW1kiProject]] aims primarily to improve the coverage of Astrographical topics in the SW1ki. In support of this goal, this SW1kiProject will define standards for articles and track our progress in such coverage. It will also be a central place for those interested in such topics to discuss common themes.
+
+Articles within this project that need to be updated or created may be listed below.
+
+==Goals==
+'''The overall goal of this project is to provide the MUSH community with accurate, useful, content-rich articles regarding the SW1 galaxy.'''
+*Unify and improve articles regarding the star systems, planets, and other galactic components.
+*Identify and create articles for astrographical topics that have not been covered.
+*Keep articles synchronized with the MUSH.<br/>For example:
+**Update the galaxy map to accurately reflect shifts in territory.
+
+==Participants==
+*[[User:Xerxes|Xerxes]]
+*[[User:Hawke|Hawke]] (''cartographer'')
+
+==Templates, etc.==
+===Planets===
+There are two [[:Category:Templates|templates]] that have been created for planets. [[Template:Planet]] is intended for '''coded''' planets, and is an exhaustive, detailed listing. [[Template:Planet brief]] is intended for '''Canon''' and/or '''Original''' planets that are not coded. See other examples of existing planet articles to find out how to implement template/tables.
+
+*<nowiki>{{</nowiki>[[Template:Planet|Planet]]<nowiki>}}</nowiki> &mdash; for coded planets.
+*<nowiki>{{</nowiki>[[Template:Planet brief|Planet brief]]<nowiki>}}</nowiki> &mdash; for non-coded planets.
+
+==Todo==
+*'''Project Maintenance''' <br/>Setup activities remaining:
+**Determine what subpages need to be created.
+**Create project template.
+**Determine list of articles in scope of project.
+**Add project banner template to project articles.
+*'''Improvement Drive'''<br/>All planets present on [[Star Wars MUSH]] in a coded fashion need articles, and already existing planet articles need to be expanded upon and improved. For planets that do not exist codely on Star Wars MUSH, but are present in the Star Wars canon, simply link to Wookieepedia (such as [[:starwars:Endor|Endor]]).
+*'''Image Requests'''<br/>Need images for the various planets.

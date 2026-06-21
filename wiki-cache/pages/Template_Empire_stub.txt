@@ -1,0 +1,18 @@
+TITLE: Template:Empire stub
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-11-02T17:54:18Z
+======================================================================
+{| id="Stub" class="noprint" style="border:1px solid #999; background:#fff; margin:0 0 .5em .5em; text-align:center; padding:5px; clear:center; font-size:smaller;" align="center"
+|-
+!This article is a [[Wikipedia:Perfect stub article|stub]] related to the [[Galactic Empire]]. You can [[Wikipedia:Find or fix a stub|help]] SW1ki by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it].
+|-
+|}<includeonly>[[Category:Empire stub]]</includeonly><noinclude>
+
+== Usage instructions ==
+Paste the following at the bottom of an article:
+
+<pre>
+{{empire stub}}
+</pre>
+
+[[Category:Templates|{{PAGENAME}}]]</noinclude>

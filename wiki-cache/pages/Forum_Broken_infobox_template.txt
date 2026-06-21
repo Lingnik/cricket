@@ -1,0 +1,18 @@
+TITLE: Forum:Broken infobox template?
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2008-05-13T17:49:11Z
+======================================================================
+{{Forum:Public_channel/header}}
+[[Category:Public channel|{{PAGENAME}}]]
+
+<!-- write after this line, please -->
+
+== Broken infobox template? ==
+
+The [[Template:character infobox|<nowiki>{{character infobox}}</nowiki>]] template seems to be broken, as we've all noticed I think. It skips every other line and basically colours it entirely white making it unreadable unless someone does a 'right click/select all' type thing on it. Is there a way to fix this, or should we go back to the old style boxes until a better one comes along? --[[User:Raybatsford|Raybatsford]] 19:21, 12 May 2008 (UTC)
+
+{{user:xerxes/sig}} Modified the [[MediaWiki:Common.css|common stylesheet]].  Explicitly defined the color/background-color for the infoboxlabel and infoboxcell classes.  This seems to make things properly visible, but breaks the alternating row javascript. -- [[User:Xerxes|Xerxes]] 17:38, 13 May 2008 (UTC)
+
+
+== Replacing old infoboxes ==
+{{user:xerxes/sig}} If anyone is looking for something to do, there are still a lot of pages that reference the old character templates that could be updated to use the newer infobox.  You can find those pages: [[Special:Whatlinkshere/Template:Character|here]] and [[Special:Whatlinkshere/Template:Character military|here]]. -- [[User:Xerxes|Xerxes]] 17:49, 13 May 2008 (UTC)

@@ -1,0 +1,13 @@
+TITLE: Template:User char dual
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-03-17T17:50:27Z
+======================================================================
+<div style="float:left; border:1px solid #009933; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#99cc32;"
+| style="width:45px; height:45px; background:#99cc32; text-align:center; font-size:14pt;" | [[Image:func_ubox_char2.png|40px]]
+| style="font-size:9pt; padding:4pt; line-height:1.25em;" | This user runs '''dual''' characters.
+|}</div><includeonly>[[Category:Users Running Dual Characters]]</includeonly><noinclude><br clear="all">
+==== Dual Characters Player ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user char dual}}</nowiki></pre>
+[[Category:Userbox Templates|Char 2]]</noinclude>

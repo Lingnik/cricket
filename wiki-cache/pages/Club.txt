@@ -1,0 +1,15 @@
+TITLE: Club
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T18:22:28Z
+======================================================================
+A blunt object with a handle, made for bonking things with. Some are wood. 
+Some are metal. Some are made of advanced synthetics. Whatever the 
+composition, they all have the same simple principle.
+<pre>
+Name................Club
+Weapon Type.........Melee Weapon             Weight..............2kg
+Damage Type.........Melee                    Stun Setting........Yes
+Accuracy............0D+0                     Damage..............1D
+Conceal Difficulty..10                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

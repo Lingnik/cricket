@@ -1,0 +1,30 @@
+TITLE: X-23 Starworker
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T21:49:03Z
+======================================================================
+<pre>An unremarkable craft used for ferrying intrasystem cargo, generally from
+ship to surface. The X-23 is just a typical example of this type of ship.
+
+Craft ........ Incom X-23 StarWorker
+Type ......... Intra-System Barge    Cargo Capacity ......... 5000 metric tons
+Scale ........ Starship              Consumables ............ 1 week
+Length ....... 38 meters             Hyperdrive Multiplier .. None
+Pilot Skill .. Starship Piloting     Hyperdrive Backup ...... None
+Crew ......... 2, plus droid         Nav Computer ........... Yes
+Passengers ... None                  Maneuverability ........ 0
+Hull ......... 94                    Space Movement ......... 20 
+Weapons ...... None (2 open slots)   Shields ................ None  
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  400,  Focus:  20,  Passive:  100
+
+BASE COST NEW: 325000 cr             BASE COST USED: 87750 cr              
+SUGGESTED DOWNPAYMENT: 195000 (new), 52650 (used)</pre>
+
+[[Category:Starships]]
+[[Category:AEC Ships]]
+[[Category:CEC Ships]]
+[[Category:KDYSFS Ships]]
+[[Category:REC Ships]]
+[[Category:Rendili Ships]]
+[[Category:SubPro Ships]]

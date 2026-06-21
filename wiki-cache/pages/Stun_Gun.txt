@@ -1,0 +1,14 @@
+TITLE: Stun Gun
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T21:00:06Z
+======================================================================
+This is a compact blaster pistol that can only be fired on stun but
+packs a good wallop.
+<pre>
+Name................Stun Gun
+Weapon Type.........Stun (uses blaster)      Weight..............1kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-0D+1 Penalty            Damage..............4D (Stun)
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Stun Weapons]]

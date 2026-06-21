@@ -1,0 +1,68 @@
+TITLE: Judges
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-30T13:11:31Z
+======================================================================
+The [[Star Wars MUSH]] '''Judge''' system exists to allow for immediate online arbitration of [[In Character|IC]] activity that can not be resolved by those involved themselves, and to act as official witnesses of IC activity.
+ 
+This Judging system was designed with the idea that action on the MUSH should '''''never''''' be forced to stop just because there don't happen to be any judges online. Players are encouraged to try to settle their IC matters by themselves. However, sometimes a dispute occurs where a mediator is needed to keep RP from being completely disrupted, or where an official IC action needs to be monitored and logged with the administration.
+
+The '''+reqjudge''' command exists to notify the online Judges of situations where their presence is required. ('''+help +reqjudge''')
+ 
+Once a Judge arrives, they take charge of the situation and their decisions are official and binding.
+ 
+== When are judges needed? ==
+Judges are called into play when: 
+#An approved TP specifies a Judge must be present for certain events.
+#Players request a judge to mediate and arbitrate a situation.
+#Players would like an official witness for their RP.
+#Players have questions about their RP actions and need clarification.
+ 
+Generally speaking, if you're in doubt, call the Judges. Better to err on the side of safety than risk having your RP voided because of some extenuating circumstance.
+
+== Refusal to judge ==
+There are certain circumstances in which a Judge may opt not to arbitrate a particular situation, such as if his or her PC is involved in the scene, or if the scene creates another type of personal conflict. (Judges are ''required'' to refuse to judge scenes where their character(s) might be involved).
+ 
+In normal situations, however, once the decision is made to arbitrate the scene, the Judge is required to see it through to the end to the best of his or her ability.
+ 
+Judges who purposefully stall situations or consistantly refuse to judge will be released from the judge board.
+
+If a situation becomes too much to handle or a scene cannot be resolved in the time allotted, for whatever reason, Judges may call a "timestop" or "freeze" to the current RP. These typically occur when a scene begins to take on OOC 
+interference that disrupts it's progress, when an important clarification needs to be made in order for the scene to continue, or when too many key players have disconnected and the roleplay must continue another night before the scene is fully resolved. Timestops and freezes are a last resort and should be resolved as soon as possible, to allow players to continue gameplay.
+ 
+Accusations about judges being unfair or biased will generally be disregarded unless proof can be provided. It is not in the best interests of anyone to make such claims when judge rulings do not go their way, unless they can prove an injustice has occured. The proper avenue for making such claims is provided through the [[Petition|appeals process]].
+
+== Administration Info ==
+Judges are administrators who mediate player disputes, and/or combat situations, when requested to do so by the '''+reqjudge''' command. 
+
+The position of Judge demands maturity, patience in dealing with players and administrators, good common sense, creativity, and online activity near or in excess of 21 hours a week (3+ hours a day).
+
+When Judge positions are available for application, the Head Judge will post a notice to the player base of the opening. Applications should be sent to '''sw-rpa@starwarsmush.com''', and will be dealt with by the Head Judge personally. 
+
+Some criteria for selection are: length of time playing Star Wars MUSH, knowledge of MUSH systems, knowledge of the SWINFO and Administrative guidelines/policies, history of helpfulness to players, complaint records, dedication, ability to separate IC from OOC, objectivity, impartiality, activity, ability to be trusted with limited @powers, and ability to behave maturely and in an administrative fashion. 
+ 
+Judges will be expected to uphold established MUSH and Administrative policy at all times where their rulings are involved, and are also expected to behave in a mature and administrative fashion at all times.
+
+Judges will have a Judge Character named '''<nowiki>Judge_*</nowiki>''', where <nowiki>*</nowiki> will represent the current naming scheme for the Judge staff. There will be several pre-set public attributes on the character which will not be tampered with, in order to protect anonymity. This character will also be @powered with see_all, tport_anything, tport_anywhere, chat_privs, and will also be able to access administrative globals such as +jail. 
+
+Judges' regular Player Characters will be granted chat_privs and are expected to monitor the '''<Judge>''' channel at all times. When a Judge request comes through, they should then log their Judge_ character shell on to help the player in question.
+
+Judges will keep all private player information confidential.
+
+Judges should point out individual breaches of RP etiquette through pages. Correcting individual players on points of RP in front of their peers is not only disruptive, but counterproductive. If mass breaches of conduct are taking place, the Judge should then feel free to make a public statement. 
+
+If it becomes neccessary to remove a player from interacting with others because they are either harrassing others or being intentionally disruptive, use the '''+jail''' command and contact a wizard ASAP.
+
+Individual judging styles are left up to the judges and the wishes of the players they are mediating. The situations you will be called to will likely vary widely. A list of things you may be called upon to do is found in '''SWINFO JUDGES'''. If you are asked to help with a situation that doesn't quite fit into your job description, you are not required to, but you ''should'' inform the player who else they can go to for help.
+
+Always feel free to ask another judge or wizard for help if a situation becomes too confusing or too much to handle. 
+
+Have an open ear to the players. You may be called into the middle of situations where not all is as it seems to be, and players need to be able to fill you in on any special circumstances. 
+
+On the other hand, if you are called in to mediate a bickerfest of 'who shot first' or something else that is impossible to accurately determine, try to acquire a log or some other evidence. Failing that, you have free reign to arbitrate as you see fit. The players called in the judge, and should be willing to accept the judge's ruling, for better or for worse. Make that clear. 
+
+SWINFO JUDGES explains many of your rights when acting as a judge. Be very familiar with it, as players will expect you to abide by those guidelines and interact with you based on them.
+
+No matter what else you do, be consistent in your decisions, and don't second guess yourself. You should put some thought into your decisions before you make them, and once you do, you should stand firm. No one  expects you to be infallible, but players do need to be able to expect you to be consistent 100% of the time.
+
+[[Category:Rules & Regulations]]
+[[Category:MUSH Terminology]]

@@ -1,0 +1,94 @@
+TITLE: Template:Droid infobox
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2008-02-06T18:12:20Z
+======================================================================
+<div id="Droid_infobox" class="infobox" style="background: {{{boxcolor|#000}}};width: {{{boxwidth|250px}}};">{{rtop|{{{boxcolor|#000}}}}}
+{| class="infoboxtable" cellspacing="0" cellpadding="0" style="{{#if:{{{boxcolor|}}}|border: 1px solid {{{boxcolor}}};}}"
+|-
+{{#if:{{{image|}}}| {{!}} class="infoboximage" colspan="2" style="{{#if:{{{boxcolor|}}}|background: {{{boxcolor}}};}}" {{!}} {{{image}}}}}  
+|-
+! class="infoboxheading" colspan="2" style="{{#if:{{{boxcolor|}}}|background: {{{boxcolor}}};}}{{#if:{{{namecolor|}}}|color: {{{namecolor}}};}}" | {{{name}}}
+|-
+{{#if:{{{hideprod|}}}| |! class="infoboxsubheading" colspan="2" style="{{#if:{{{headercolor|}}}|background: {{{headercolor}}};}}{{#if:{{{headertextcolor|}}}|color: {{{headertextcolor}}};}}" {{!}} Production information }}
+|-
+{{infobox row|Homeworld|{{{homeworld|}}}}}
+|-
+{{infobox row|Date created|{{{born|}}}}}
+|-
+{{infobox row|Date destroyed|{{{died|}}}}}
+|-
+{{infobox row|Creator|{{{creator|}}}}}
+|-
+{{infobox row|Manufacturer|{{{manufacturer|}}}}}
+|-
+{{infobox row|Product line|{{{line|}}}}}
+|-
+{{infobox row|Model|{{{model|}}}}}
+|-
+{{infobox row|Class|{{{class|}}}}}
+|-
+{{#if:{{{hidetech|}}}| |! class="infoboxsubheading" colspan="2" style="{{#if:{{{headercolor|}}}|background: {{{headercolor}}};}}{{#if:{{{headertextcolor|}}}|color: {{{headertextcolor}}};}}" {{!}} Technical specifications }}
+|-
+{{infobox row|Gender|{{{gender|}}}}}
+|-
+{{infobox row|Height|{{{height|}}}}}
+|-
+{{infobox row|Width|{{{width|}}}}}
+|-
+{{infobox row|Length|{{{length|}}}}}
+|-
+{{infobox row|Sensor color|{{{sensor|}}}}}
+|-
+{{infobox row|Armaments|{{{armaments|}}}}}
+|-
+{{infobox row|Equipment|{{{equipment|}}}}}
+|-
+{{#if:{{{hidepol|}}}| |! class="infoboxsubheading" colspan="2" style="{{#if:{{{headercolor}}}|background: {{{headercolor}}};}}{{#if:{{{headertextcolor|}}}|color: {{{headertextcolor}}};}}" {{!}} Political information }}
+|-
+{{infobox row|Affiliation|{{{affiliation|}}}}}
+|-
+{{infobox row|Position|{{{position|}}}}}
+|-
+{{infobox row|Station|{{{station|}}}}}
+|}
+{{rbottom|{{{boxcolor|#000}}}}}</div><noinclude>
+
+<br clear="all" />
+===Usage instructions===
+Paste the following code into the top of an article, specifying values for known fields:
+
+<pre>
+{{droid infobox
+|boxwidth=
+|boxcolor=
+|namecolor=
+|headercolor=
+|headertextcolor=
+|image=
+|name=
+|hideprod=
+|homeworld=
+|born=
+|died=
+|creator=
+|manufacturer=
+|line=
+|model=
+|class=
+|hidetech=
+|gender=
+|height=
+|width=
+|length=
+|sensor=
+|armaments=
+|equipment=
+|hidepol=
+|affiliation=
+|position=
+|station=
+}}
+</pre>
+
+[[Category:Infobox templates|{{PAGENAME}}]]
+</noinclude>

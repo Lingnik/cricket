@@ -1,0 +1,5 @@
+TITLE: Template:Commander
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-13T21:55:07Z
+======================================================================
+*'''{{{rank}}}''' '''{{{commander}}}'''<br><font style="font-family: Arial; font-size: 8pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''{{{start}}} - {{{end}}}''<br>{{{commands}}}</font><noinclude>[[Category:Templates]]</noinclude>

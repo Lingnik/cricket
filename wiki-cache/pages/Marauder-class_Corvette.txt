@@ -1,0 +1,53 @@
+TITLE: Marauder-class Corvette
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-05T04:32:48Z
+======================================================================
+{{title|''Marauder''-class Corvette}}
+The '''''Marauder''-class corvette''' was a 195-meter-long war- and patrol- ship introduced prior to the [[:starwars:Clone Wars|Clone Wars]].
+
+==Characteristics==
+''Marauder''-class corvettes were equipped with eight double turbolasers and three tractor beam projectors, and could optionally support four more turbolasers if a larger power generator was installed. They had space for 12 [[:Category:Starfighters|starfighter]]s, and capacity for 80 troops for use in boarding actions or [[:Category:Planets|planet]]ary landings. Their very accurate tractor beams allowed them to capture ships with little collateral damage, and they were sometimes paired with ships equipped with gravity well projectors for this purpose. Some ''Marauder''-class ships were equipped with four concussion missile launchers in place of their heavy turbolasers.
+
+Sometimes called a "pocket cruiser," the ''Marauder'''s sublight speed was faster than a [[Victory-class Star Destroyer|''Victory''-class Star Destroyer]]. Although not powerful enough for engagements against warships such as those used by the [[Imperial Navy]], they were excellent as patrol and interdiction vessels.
+
+==History==
+Built by the profitable [[:starwars:Sienar Technologies|Sienar Technologies]] division of [[:starwars:Republic Sienar Systems|Republic Sienar Systems]], a precursor to [[Sienar Fleet Systems]], the ''Marauder''-class was intended for use as a patrol and escort ship by the [[:starwars:Galactic Republic|Galactic Republic]]. When the Republic declined to purchase them, mainly due to the Republic's inefficient bureaucracy and not any problems with the ship itself, Sienar managed to sell some to other small governments and organizations such as the [[:starwars:Kathol Republic|Kathol Republic]]. Orders were slow, and the ''Marauder'' was considered one of Sienar's rare failures, so RSS finally sold production rights to the [[Corporate Sector Authority]] to be produced and used in the Corporate Sector.
+
+The ship was used extensively by the forces of the Corporate Sector Authority, where they could often be found in use as escorts for ''Victory''-class ships in the Corporate Sector picket fleet, or employed for law enforcement or anti-piracy actions. They eventually came into use by private individuals and a few outlaw groups. The [[:starwars:Alliance to Restore the Republic|Rebel Alliance]] also employed a few of the ships, which were mostly acquired from the Corporate Sector through piracy and refitted into missile cruisers. Some Rebel ''Marauder''-class ships continued to serve in the [[New Republic FleetOps|New Republic Fleet]].
+
+<pre>   While Marauders lack the weaponry of Victory-class Star Destroyers,
+   they are able to hold their own against pirates and smugglers. 
+ 
+Craft ........ Sienar Systems Marauder-class Corvette
+Type ......... Combat Cruiser        Cargo Capacity ......... 300 metric tons
+Scale ........ Capital               Consumables ............ 3 months
+Length ....... 195 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... None
+Crew ......... 129                   Nav Computer ........... Yes
+Passengers ... 40 (Troops)           Maneuverability ........ 2D+1
+Hull ......... 740                   Space Movement ......... 50
+Shields ...... 108                   Atmosphere ............. 295; 850 kmh
+Can Land? .... Yes                   Hangar Space ........... 100
+ 
+Sensors ...... Normal:  1600,  Focus: 050,  Passive:  400
+ 
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 28 total (11 filled)
+ 
+Stock Weapons:
+     Eight Double Turbolaser Cannons:
+      Weapon Rating .... Standard         Damage ........ 5D
+      Fire Arc ......... 2FR, 2L, 2R, 2B  Fire Control .. 3D
+      Space Range ...... 3-15/35/7        Atmo Range .... 300m-1.5km/3.5km/7km
+ 
+     Three Tractor Beam Projectors:
+      Weapon Rating .... Class 1          Damage ........ 4D
+      Fire Arc ......... 2FR, 1B          Fire Control .. 3D
+      Space Range ...... 1-5/15/30        Atmo Range .... 2-10km/30km/60km
+ 
+BASE COST NEW: 1550000 cr            BASE COST USED: 434000 cr             
+SUGGESTED DOWNPAYMENT: 930000 (new), 260400 (used)</pre>
+
+[[Category:Capital Ships]]
+[[Category:KDYSFS Ships]]
+[[Category:ImpMil Restricted Ships]]

@@ -1,0 +1,24 @@
+TITLE: Template talk:Sheet
+NAMESPACE: 11 (Template_talk)
+LAST_EDIT: 2007-03-17T16:32:05Z
+======================================================================
+I want to create a template to add NPC stat sheets, but I'm pretty bad at this sort of stuff. --[[User:Danik Kreldin|Danik Kreldin]] 17:06, 15 March 2007 (UTC)
+
+List on here what you want to have displayed on the template, and I'll hammer one out this weekend. -- [[User:Hawke|Hawke / Rtufo]] 17:16, 15 March 2007 (UTC)
+
+*The main attributes should be "mandatory" on the Sheet display... you would see Dexterity, Knowledge, Mechanical, Perception, Strength, and Technical, and the editor will fill in their appropriate die value. However, immediately below each of the attributes, I wanted the skills displayed - but only the skills that have been advanced. Like, for instance, if a Stormtrooper has 3D Dexterity, which is listed, it would list DEXTERITY -- 3D, and then below it, Blaster -- 4D. I want it to look somewhat like an actual +SHEET on the MUSH, but setup in such a way that new skills and die values can be added without actually touching the Template. --[[User:Danik Kreldin|Danik Kreldin]] 17:23, 15 March 2007 (UTC)
+*Thanks, Xerxes. --[[User:Danik Kreldin|Danik Kreldin]] 20:13, 15 March 2007 (UTC)
+
+--
+
+I took a shot.  See it in action at [[Imperial Army Trooper (stats)]]. Given that we now have a compact template, maybe we don't need the dedicated NPC stats pages anymore? -- [[User:Xerxes|Xerxes]] 20:15, 15 March 2007 (UTC)
+*I somewhat prefer having the stat pages separate (same way we do it for the starship statsheets). But I'll leave it up to a vote or general consensus. --[[User:Danik Kreldin|Danik Kreldin]] 20:33, 15 March 2007 (UTC)
+**The reason I made ship statsheets seperate is that they are '''''ugly''''', in terms of formatting. They can be shaped and formatted fairly well until you hit the "Weapons" section(s), and then things go bonkers. I, like 99% of the web-developing community, '''''despise''''' pre-formatted text, but that seems to be the only way to "publish" those stats in a compact, cohesive manner. Ideally, we (MUSH) shouldn't even use those stats anymore (I don't recall if we do or not), and if we don't, we shouldn't even bother to publish this tripe (and yes, WEG material is tripe). Wookieepedia doesn't even _touch_ that. -- [[User:Hawke|Hawke / Rtufo]] 15:23, 17 March 2007 (UTC)
+
+--
+
+I've added optional (new wiki knowledge!) sections for languages and equipment.  See the equipment section in action at [[Security Division (CSA)/NPCs]].  If anyone has any suggestions regarding formatting or functionality, please share them. -- [[User:Xerxes|Xerxes]] 15:07, 17 March 2007 (UTC)
+
+:-"Optional"? Is this that fun-fun self-collapsing infobox trick that I see everywhere else?! If it is, I need to learn how you did that! That will help planet, character, and ship infoboxes '''greatly'''. -- [[User:Hawke|Hawke / Rtufo]] 15:23, 17 March 2007 (UTC)
+:* It's not the '''<nowiki>[hide]</nowiki>''' link like a lot of the wookieepedia infoboxes have.  Rather, it behaves thusly: if you don't specify a value for '''equipment''', the section does not appear.  So, it would probably eliminate the need for having multiple Character templates (Character, Character Military, etc.) just because they include different fields.  I'll go add an optional field to the Character template, so you see what I mean and can replicate. -- [[User:Xerxes|Xerxes]] 15:46, 17 March 2007 (UTC)
+:*Holy frakkin' crap. It's a switch, or more appropriately, an if-then trigger. '''If''' there's a value, meeting that variable, in place, '''then''' display... if not, then ignore. Uff-da! Nice discovery! Thank you!!! Well, you'll know where I'll be this weekend... building/fixing all the character, ship, star system, and planet infobox templates! -- [[User:Hawke|Hawke / Rtufo]] 16:32, 17 March 2007 (UTC)

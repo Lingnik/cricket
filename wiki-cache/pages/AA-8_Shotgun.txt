@@ -1,0 +1,19 @@
+TITLE: AA-8 Shotgun
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2008-01-15T05:14:49Z
+======================================================================
+Though this semi-automatic projectile weapon might seem out of place on a 
+battlefield dominated by blaster [[ZIS weapons|weapons]], the '''AA-8 Combat Shotgun''' remains a 
+decidedly potent weapon... at close ranges at least. Its stubby, wide barrel
+certainly seems to have a bit of a threatening quality to it. Its five-shot 
+magazine can load a wide variety of properly sized shells, including high 
+density slugs, flechette or shot rounds, or conceivably even small high 
+explosive projectiles.
+<pre>
+Name................AA-8
+Weapon Type.........Firearm (uses Blaster)   Weight..............5kg
+Damage Type.........Ranged                   Stun Setting........No
+Accuracy............1D+1 Bonus               Damage..............5D
+Conceal Difficulty..20                       Two-Handed..........Yes</pre>
+
+[[Category:Ranged Weapons]]

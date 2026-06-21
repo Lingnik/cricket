@@ -1,0 +1,13 @@
+TITLE: Template:User projcoord
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-09-05T23:17:25Z
+======================================================================
+<div style="float:left; border:1px solid #d3d3d3; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#899999;"
+| style="width:45px; height:45px; background:#195062; text-align:center; font-size:14pt;" | '''proj'''
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user is a [[SW1ki]] [[:Category:SW1kiProjects|project coordinator]].
+|}</div><noinclude><br clear="all">
+==== Project Coordinator ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user projcoord}}</nowiki></pre>
+[[Category:Userbox Templates|Project Coordinator]]</noinclude>

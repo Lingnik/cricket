@@ -1,0 +1,18 @@
+TITLE: Blast Vest
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T21:07:15Z
+======================================================================
+While not the most potent of defenses, this body armor is sufficient to 
+prevent many lower-powered attacks from messing up one's vital organs. Being
+made of a flexible (somewhat blaster-resistant) material makes this vest much
+more comfortable to wear then other forms of armor. Because it is so thin, it 
+is also conceivable to conceal it beneath any reasonably loose clothing - but
+this also makes it one-shot protection at best.
+<pre>
+Name................Blast Vest
+Weight..............3kg                      Covers..............Torso
+Physical Protection.1D+0                     Energy Protection...0D+1
+Conceal Difficulty..13                       Dexterity Penalty...0
+Strength Bonus......0                        </pre>
+
+[[Category:Armor]]

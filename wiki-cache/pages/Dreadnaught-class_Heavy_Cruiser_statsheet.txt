@@ -1,0 +1,71 @@
+TITLE: Dreadnaught-class Heavy Cruiser statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-06-09T23:33:53Z
+======================================================================
+<pre>
+Craft ........ Rendili StarDrives Dreadnaught
+Type ......... Heavy Cruiser         Cargo Capacity ......... 9000 metric tons
+Scale ........ Capital               Consumables ............ 2 years
+Length ....... 600 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x18
+Crew ......... 16,204                Nav Computer ........... Yes
+Passengers ... 3,000 (Troops)        Maneuverability ........ 1D
+Hull ......... 1335                  Space Movement ......... 40
+Shields ...... 189                   Hangar Space ........... 500
+Can Land? .... No
+
+Sensors ...... Normal:  1200,  Focus:  40,  Passive:  300
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 135 total (100 filled)
+
+Weapons:
+   Ten Turbolaser Batteries (fire separately):
+      Weapon Rating .... Type 3         Damage ........ 7D
+      Fire Arc ......... 5FR, 5B        Fire Control .. 1D
+      Space Range ...... 3-10/30/60
+   Ten Laser Cannons (fire separately):
+      Weapon Rating .... Type 5         Damage ........ 2D
+      Fire Arc ......... 5L, 5R         Fire Control .. 3D
+      Space Range ...... 3-15/35/75
+   Eighty Laser Cannons (fire separately):
+      Weapon Rating .... Type 6A        Damage ........ 4D
+      Fire Arc ......... 6FR, 7L, 7R    Fire Control .. 2D
+      Space Range ...... 3-20/40/80
+
+BASE COST NEW: 3800000 cr            BASE COST USED: 1064000 cr            
+SUGGESTED DOWNPAYMENT: 2280000 (new), 638400 (used)</pre>
+
+{{statsheet ship|Dreadnaught-class Heavy Cruiser}}
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: Imperial Sourcebook''
+ Craft ........ Rendili StarDrives Dreadnaught
+ Type ......... Heavy Cruiser         Cargo Capacity ......... 9000 metric tons
+ Scale ........ Capital               Consumables ............ 2 years
+ Length ....... 600 meters            Hyperdrive Multiplier .. x2
+ Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x18
+ Crew ......... 16,204                Nav Computer ........... Yes
+ Passengers ... 3,000 (Troops)        Maneuverability ........ 1D
+ Hull ......... 5d+2                  Space Movement ......... 40
+ Shields ...... 2d+1                  Hangar Space ........... 500
+ Can Land? .... No
+ 
+ Sensors ...... Normal:  1200,  Focus:  40,  Passive:  300
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 135 total (100 filled)
+ 
+ Weapons:
+    Ten Turbolaser Batteries (fire separately):
+       Weapon Rating .... Type 3         Damage ........ 7D
+       Fire Arc ......... 5FR, 5B        Fire Control .. 1D
+       Space Range ...... 3-10/30/60
+    Ten Laser Cannons (fire separately):
+       Weapon Rating .... Type 5         Damage ........ 2D
+       Fire Arc ......... 5L, 5R         Fire Control .. 3D
+       Space Range ...... 3-15/35/75
+    Twenty Quad Laser Cannons (fire separately):
+       Weapon Rating .... Type 6A        Damage ........ 4D
+       Fire Arc ......... 6FR, 7L, 7R    Fire Control .. 2D
+       Space Range ...... 3-20/40/80

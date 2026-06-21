@@ -1,0 +1,41 @@
+TITLE: Z-96 Headhunter
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-05-29T20:20:01Z
+======================================================================
+<pre>   Due to improved fighter technology, the somewhat outmoded Z-95 has been
+   replaced  on  the  production lines by  the  Z-96, although many Z-95's
+   still persist throughout the galaxy.
+ 
+Craft ........ SubPro Z-96 Headhunter
+Type ......... Multi-Purpose Fighter Cargo Capacity ......... 85kg
+Scale ........ Starfighter           Consumables ............ 1 day
+Length ....... 11.9 meters           Hyperdrive Multiplier .. x2
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1 + Astromech Droid   Nav Computer ........... None {Droid}
+Passengers ... None                  Maneuverability ........ 3D
+Hull ......... 187                   Space Movement ......... 80
+Shields ...... 36                    Atmosphere ............. 400, 1150kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  600,  Focus:  10,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 9 total (9 permanently filled)
+ 
+Weapons:
+    Two Triple Blasters (fire-linked):
+      Weapon Rating .... Standard       Damage ........ 3D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500/1km/1.7km
+ 
+     Three Medium Ion Cannons (fire-linked):
+      Weapon Rating .... Class 2        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 4D
+      Space Range ...... 1-3/7/36       Atmo Range .... 100-300/700/3.6km
+
+BASE COST NEW: 140000 cr             BASE COST USED: 49000 cr              
+SUGGESTED DOWNPAYMENT: 84000 (new), 29400 (used)</pre>
+
+[[Category:Starfighters]]
+[[Category:Stat Sheets]]
+[[Category:SubPro Ships]]

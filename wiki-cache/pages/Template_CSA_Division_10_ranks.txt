@@ -1,0 +1,58 @@
+TITLE: Template:CSA Division (10 ranks)
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-04-09T16:58:27Z
+======================================================================
+{| border="0" cellpadding="0" style="border:1px solid #aaa;float: right;width:20 em;border-collapse: collapse;font-family: Arial;font-size: 8pt; clear: right;margin:0 0 0 1em"
+|-
+|style="padding:0px;"|
+
+{|cellspacing="0" width="100%"
+|-
+|align="center" bgcolor="#aaaaff" colspan="2" style="font-weight:bold;"|Division Information
+|-
+|width="0%" bgcolor="#f9f9f9" style="padding:0 1em 0 1em"|{{{rank10}}}
+|style="padding:0 1em 0 0"|{{{viceprex}}}
+|-
+|bgcolor="#f9f9f9" style="padding:0 1em 0 1em"|{{{rank9}}}
+|style="padding:0 1em 0 0"|{{{deputy}}}
+|}
+
+|-
+||
+
+{|border="0" cellspacing="0" width="100%" style="padding:0 0 0 0;"
+|-
+|align="center" bgcolor="#aaaaff" colspan="2" style="font-weight:bold;"|Ranks
+|-
+|width="0%" align="right" style="padding:0 1em 0 1em"|10.
+|width="100%" style="padding:0 1em 0 0"|{{{rank10}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|9.
+|style="padding:0 1em 0 0"|{{{rank9}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|8.
+|style="padding:0 1em 0 0"|{{{rank8}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|7.
+|style="padding:0 1em 0 0"|{{{rank7}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|6.
+|style="padding:0 1em 0 0"|{{{rank6}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|5.
+|style="padding:0 1em 0 0"|{{{rank5}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|4.
+|style="padding:0 1em 0 0"|{{{rank4}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|3.
+|style="padding:0 1em 0 0"|{{{rank3}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|2.
+|style="padding:0 1em 0 0"|{{{rank2}}}
+|-
+|align="right" style="padding:0 1em 0 1em"|1.
+|style="padding:0 1em 0 0"|{{{rank1}}}
+|}
+
+|}

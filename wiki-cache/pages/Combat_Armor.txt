@@ -1,0 +1,14 @@
+TITLE: Combat Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-18T16:29:25Z
+======================================================================
+A massive suit of '''combat armor''', semi-mechanized. Provides limited
+ability to survive in any atmosphere.
+ <pre>
+Name................Combat Armor
+Weight..............14kg                     Covers..............Body
+Physical Protection.2D+0                     Energy Protection...1D+0
+Conceal Difficulty..20                       Dexterity Penalty...-1D+0
+Strength Bonus......0                </pre>
+
+[[Category:Armor]]

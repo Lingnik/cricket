@@ -1,0 +1,189 @@
+TITLE: User:Aleksis/Space Commands
+NAMESPACE: 2 (User)
+LAST_EDIT: 2008-12-30T14:51:17Z
+======================================================================
+I thought I'd make a simple guide to space movement and combat. This is just the basics, what everybody should know about getting from one place to another and combat using the space system.
+
+==Flying==
+
+There will be times when a pilot will need to go from one system to another or will need to change coordinates within the system that they're currently in. This is done via the '''''nav''''' commands.
+
+<pre>==< NAV Commands Help Index >===============================================
+
+NAV/HELP...................... This Help File. 
+NAV/LOCATION.................. Displays the ship's current location. 
+
+NAV/MOVETO X,Y,Z
+NAV/MOVETO <TRANS>............ Moves the ship to the designated
+                               coordinates or the coordinates of the
+                               specified Transponder. The destination
+                               must be within one ship speed distance of
+                               the ship's current location. 
+
+NAV/AUTO TO X,Y,Z
+NAV/AUTO TO <TRANS>........... Sets the autopilot to the coordinates or the
+                               coordinates of the specified Transponder.
+
+NAV/AUTO ON................... Engages the Autopilot.
+NAV/AUTO OFF.................. Disengages the Autopilot.</pre>
+
+So let's say you're wanting to move from point A to point B within a system. You'd simply use the '''nav/auto to X,Y,Z''' command and then follow it with '''nav/auto on'''. You can also use '''nav/moveto X,Y,Z''' which does the exact same thing as the previous example but it does it automatically - no having to use the '''nav/auto on''' command and without the travel time. '''<TRANS>''' refers to the identification designator that all ships and planets have. You can only do in-system 'jumps' in an amount equal to the speed of your ship but it is still considerably faster.
+
+Now, let's say you want to go from one system to another. This requires an entirely different set of commands.
+
+<pre>==< JUMP Commands Help Index >==============================================
+
+JUMP/HELP..................... This Help file.
+JUMP #........................ Enters the ship into hyperspace, using the
+                               specified jump number. 
+JUMP/CALC TO X,Y,Z
+JUMP/CALC TO <SYSTEM>......... Creates a route from your current system to
+                               the system specified by the coordinates, or
+                               by the name of the system.
+JUMP/CALC TO X,Y,Z LOC X,Y,Z
+JUMP/CALC TO
+  <SYSTEM> LOC X,Y,Z.......... Same as previous JUMP/CALC, only specifies
+                               where to arrive in target system. 
+JUMP/DEL #.................... Deletes the specified jump. 
+JUMP/INFO..................... Displays detailed information about all the
+                               jumps stored in the Navigational Computer. 
+JUMP/UNJUMP................... Takes the ship out of hyperspace. 
+JUMP/ETA...................... Tells you when you can disengage hyperdrive. 
+JUMP/DEST <Distance>.......... Displays all the publicly known jumps that
+                               are equal to or less than the specified
+                               distance away. 
+JUMP/GRAVWELL................. Displays the Gravity Well status within
+                               normal scanning range.
+JUMP/GRAVWELL TOGGLE.......... Turns on or off the Gravity Well Generator.</pre>
+
+There are a lot of '''''jump''''' commands but the majority of them aren't ones that are normally used so we'll stick with the basics. For this example, we will pretend we're in the Corellia system and we want to go to Tatooine. You first will want to make sure you're out of the range of any gravwells via the use of one of the '''''nav''''' commands. '''jump/gravwell''' will show you what has a gravwell activated and suggested coordinates to auto-pilot to. Once you're free from the gravitational pull, you '''jump/calc to tatooine'''. This will bring up an estimated time or it will tell you if your nav computer's full and that you need to '''jump/del #'''. If there is jump coords you want to save but not sure where it is on the nav computer you can find out by using '''jump/info''' which brings up something like this -
+
+<pre>JUMP INFORMATION
+____________________________________________________________________________
+#  FROM:          TO:            RANGE:    Trav Time:    Destinations:
+============================================================================
+1  265|225|530    190|367|553       162       15m 23s    NAR_SHADDAA
+---------------------------------------------------------------------------- 
+2  190|367|553    265|225|530       162       15m 33s    TATOOINE
+---------------------------------------------------------------------------- 
+3  265|225|530    190|367|553       162       15m 28s    NAR_SHADDAA
+---------------------------------------------------------------------------- 
+4  190|367|553    25|150|600        277       25m 48s    CORELLIA
+---------------------------------------------------------------------------- 
+5  25|150|600     350|350|575       382       38m 12s    ETTI_IV
+                                                         THESEUS
+----------------------------------------------------------------------------
+============================================================================
+CURRENT SYSTEM: Unavailable</pre>
+
+(This is just an example.)
+
+Once you got your jump all calculated you '''jump #''' and off you go. '''jump/eta''' will tell you how much time you have left on your journey and once you reach your destination it'll prompt you to use the '''jump/unjump''' command which will bring you to a stop in the system and coordinates you programmed in.
+
+Now that you're at your destination you'll most likely want to land on either a ship or on a planet. That'll be covered next.
+
+<pre>==< MAN Commands Help Index >===============================================
+
+MAN/HELP...................... This Help file. 
+MAN/TAKEOFF................... Moves the ship into space, if not already
+                               there. 
+MAN/LAND ON
+  <TRANS>/<HANGAR> <CODE>..... Lands the ship on the specified object.
+MAN/LAND ON <TRANS>........... Lands the ship in the PUBLIC hangar on the
+                               specified object.
+ 
+MAN/DOCK WITH <TRANS>......... Docks the ship with specified object.
+MAN/DOCK WITH <TRANS>/<TUBE>.. Docks with tube on specified object.
+MAN/DOCK WITH
+  <TRANS> WITH <TUBE>......... Docks the ship using specified tube.
+MAN/DOCK WITH
+  <TRANS>/<TUBE> WITH <TUBE>.. Docks with tube on specified object using
+                               specified tube.
+         NOTE  Some tubes being docked with may have a code. To use the
+         code, just place it after the tube's name.
+         Example  MAN/DOCK WITH <TRANS>/<TUBE> <CODE> 
+
+MAN/UNDOCK.................... Undocks the ship.
+MAN/UNDOCK <TUBE>............. Undocks the specified tube.</pre>
+
+Now, to land we need to backtrack just a bit as we'll have to reach the ship or planet we want to land on. '''nav/auto to <TRANS>''' and '''nav/auto on''' or '''nav/moveto <TRANS>''' will get you to where it is you need to get to. But what do you do then? First off, you have to figure out where on a ship or planet you want to land as they can have multiple landing pads or hangars. '''scan''' will give you a list of ships, their locations, etc. while '''scan/focus <TRANS>''' will give you more focused information on a ship or planet including how many hangars, landing areas or docking tubes it has.
+We'll pretend it's a ship you want to land on. '''Man/land on <TRANS>/<hangar> <hangar code>'''  will tell the space code which ship you want to land on, which hangar and it'll enter the code needed for entry if you enter one. You can also do this using a planet's transponder in place of that for a ship. In reverse, if you want to take off from a planet or ship, '''man/takeoff''' is the command you need to use. You'll need to be the pilot but if you weren't the last person to fly the vessel '''misc/pilot <ship code>''' will tell the ship you're taking over and you'll be able to use the commands.
+
+That's pretty much it as far as how to get somewhere and land/takeoff. If at any time you need to look up commands that weren't touched upon here, '''look navcom''' will bring up this menu of the various topics you can access -
+
+<pre>NavComp
+
+It's your standard console for managing space related tasks. The layout of the
+controls is such that one person can handle most of the basic functions 
+individually, or with some assistance if required.
+
+<OOC - For help, type any of the following:
+         MAN/HELP
+         SCAN/HELP
+         NAV/HELP
+         COM/HELP
+         JUMP/HELP
+         CBT/HELP
+         MISC/HELP
+         HANG/HELP</pre>
+
+==Fighting==
+
+Being a Star Wars mush, it shouldn't come as a surprise that RP can, and does, focus on space combat at times. The bsic space combat is done via the '''''misc''''' commands. '''misc/help''' and '''misc/help2''' bring up these help files - 
+
+<pre>==< MISC Commands Help Index >==============================================
+
+MISC/HELP..................... This Help file. 
+MISC/HELP2.................... Page 2 of this Help File. 
+MISC/POSE <Pose>.............. Displays a ship pose for all ships or people in
+                               the same system or area as the ship. This
+                               command will work while landed. 
+MISC/EMIT <Pose>.............. Much like MISC/POSE, except the pose is not
+                               prefaced with the Transponder. In space, the
+                               pose is prefaced with <SPACE>. Landed, the pose
+                               is prefaced with <SHIP POSE>. 
+MISC/PILOT <Code>............. Lets you take the main controls of the ship. 
+MISC/STATUS................... Displays a full readout of the ship and its
+                               weaponry. 
+MISC/RESCUE DOCK <Trans>...... Establishes a forced dock with <Trans> using
+                               both ship's Normal tubes.
+MISC/RESCUE LOAD <Trans>
+     USING <Hangar>........... Forces the specified crippled ship into the
+                               specified hangar. 
+MISC/QUIET.................... Turns some of the "spam" off, such as
+                               Autopilot noise. This command toggles the
+                               Quiet status.</pre>
+
+<pre>==< MISC Commands Help Index >==============================================
+
+MISC/CODE <Old Code>
+     TO <New Code>............ Changes the entry and pilot codes of the ship. 
+MISC/OOC <Message>............ Like MISC/POSE and MISC/EMIT. It is designed
+                               for Out of Character communication. 
+MISC/+CHECK <Skill>........... Displays skill roll to every ship in system,
+                               or your location if not in space.
+MISC/+CHECK BOOST <Skill>..... Same as previous, but uses a Character Point
+                               to boost roll by 2 dice. 
+MISC/AUTOMESSAGE SET <Msg>.... Sets the OOC Message to be broadcast to ships
+                               entering your system.
+MISC/AUTOMESSAGE CLEAR........ Clears the Automessage.
+MISC/AUTOMESSAGE VIEW......... Displays the ship's current Automessage. 
+MISC/TUBE CODES............... Displays a list of the Docking Tubes on the
+                               ship and the codes required to use them.
+MISC/TUBE CODE <Tube>=<Code>.. Changes the code on the specified tube. 
+MISC/TRANSMIT................. Transmits credits to a planetary control tower
+                               to speed you up through the takeoff queue.</pre>
+
+Again, there's a lot here you won't need for combat scenes but what is used is pretty straightforward and easy to remember. '''misc/emit''' and '''misc/pose''' are the two commands you need for the actual RP part of the combat. They look like this  -
+
+<pre><SPACE> This is an example of a pose using misc/emit.</pre>
+
+and -
+
+<pre><SENSORS> CS-XXXX gives an example of what a pose using the misc/pose command looks like.</pre>
+
+'''misc/emit''' is usually used for poses. Don't forget the '''misc/ooc''' command for when you want to communicate OOCly with those you're RPing with!
+
+Now, when it comes time for actual combat rolls you use the '''misc/+check  <skill>''' command. You can also boost your result using the '''misc/+check boost <skill>''' command but keep in mind that boosting a +check costs 1CP and you only get two per +nom cycle. For miscellaneous rolls you will want to use the '''misc/roll <die>''' command which would look like '''misc/roll 3d''', as an example.
+
+And that's pretty much the basics. If there are any questions or if I left anything out, feel free to page me or send me a @mail to either Liza or Aleksis and I'll edit/add as needed or answer any queries. Thanks!

@@ -1,0 +1,35 @@
+TITLE: Neutron Star-class Bulk Cruiser statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-02T20:18:46Z
+======================================================================
+<pre>
+Craft ........ Rendili StarDrive's Neutron Star Bulk Cruiser
+Type ......... Mod. Bulk Cruiser     Cargo Capacity ......... 5000 metric tons
+Scale ........ Capital               Consumables ............ 1 year
+Length ....... 600 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+Crew ......... 1993                  Nav Computer ........... Yes
+Passengers ... 200 (Troops)          Maneuverability ........ 1D
+Hull ......... 1122                  Space Movement ......... 40
+Shields ...... 162                   Hangar Space ........... 500
+Can Land? .... No
+
+Sensors ...... Normal:  1600,  Focus:  50,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 153 total (122 filled)
+         
+Weapons:
+   One Hundred and Twenty Laser Cannons (fire separately):
+      Weapon Rating .... Type 1          Damage ........ 4D
+      Fire Arc ......... 40FR, 40L, 40R  Fire Control .. 2D
+      Space Range ...... 1-5/10/17       Atmo Range .... 100-500m/1km/1.7km   
+   Two Tractor Beam Projectors:
+      Weapon Rating .... Class 1         Damage ........ 4D
+      Fire Arc ......... Front           Fire Control .. 2D
+      Space Range ...... 1-5/15/30       Atmo Range .... 2-10km/30km/60km 
+       
+BASE COST NEW: 2650000 cr            BASE COST USED: 742000 cr             
+SUGGESTED DOWNPAYMENT: 1590000 (new), 445200 (used)</pre>
+
+{{statsheet ship|Neutron Star-class Bulk Cruiser}}

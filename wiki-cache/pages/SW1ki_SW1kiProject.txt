@@ -1,0 +1,23 @@
+TITLE: SW1ki:SW1kiProject
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2025-07-30T08:25:57Z
+======================================================================
+A '''SW1kiProject''' is a collection of pages devoted to the management of a specific family of information within the [[SW1ki|Star Wars MUSH Wiki]].  It is not a place to write encyclopedia articles, but a resource to help coordinate and organize article writing.
+
+A current list of SW1kiProjects can be found in the [[:Category:SW1kiProjects|SW1ikiProjects category]].
+
+
+'''<big>How to create a new project</big>'''
+# '''Read the [[Wikipedia:Wikipedia:WikiProject_Council/Guide|guide to WikiProject organization]]''' over at [[Wikipedia:|Wikipedia]]!
+# '''Create the main project page''' at ''SW1ki:SW1kiProject <project name>''.
+# '''Create an outline on your project page:'''
+#*Add <nowiki>{{</nowiki>[[Template:SW1kiProject|SW1kiProject]]<nowiki>}}</nowiki> into your main project page and save. (See [[m:Help:Template#subst|Help:Template]] for details.)
+#  '''Identify pages within the scope of your project:'''
+#* A good way to do this is to copy the listings of [[Special:Whatlinkshere]] for the most important articles related to your project.
+#* You will probably want to save a copy of the list on a project status [[Wikipedia:subpage|subpage]].
+# '''Create a project [[Wikipedia:To-do list | to-do list]]''' to focus and coordinate your collaborative efforts.
+# '''If possible, link to a sample article''' to give other SW1kipedians a feel for the project's goals.
+# '''Advertise!'''
+#* Create a [[:Category:SW1kiProject banners|project notice template]], and insert it into the [[Wikipedia:talk page|talk page]] of related articles.
+
+[[Category:SW1kiProjects| ]]

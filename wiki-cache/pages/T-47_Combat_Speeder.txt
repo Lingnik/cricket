@@ -1,0 +1,25 @@
+TITLE: T-47 Combat Speeder
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2016-05-14T18:02:20Z
+======================================================================
+Originally a militarized jury-rig of the venerable Incom T-47 airspeeder first slapped together by enterprising Rebel Alliance engineers, it has time and again proven the value of close air-support and a key vulnerability to the otherwise nigh-unstoppable Imperial AT-ATs. The T-47 Combat Speeder is now a standardized production model for the New Republic.
+ Vehicle ... T-47 Republic Combat Airspeeder
+ Type ...... Combat Airspeeder           Cargo Capacity ... 10kg
+ Scale ..... Speeder                     Movement ......... 350 (1000 kph)
+ Length .... 5.5 meters                  Maneuver ......... 3D
+ Height .... 1 meter                     Body Strength .... 3D
+ Skill ..... Ground Vehicle Operation    Cover ............ Full  
+ Crew ...... 2 (1 Gunner)                Altitude ......... 250m
+ 
+ Weapons ...                             Weapon Skill ..... Vehicle Gunnery
+ <nowiki> </nowiki> *Double Laser Cannon (Fire-linked)
+ <nowiki> </nowiki>     Range ... 50-300m/800m/1.5km      Damage ........ 4D+2 
+ <nowiki> </nowiki>     Fire Arc: Front                   Fire Control .. 2D
+ 
+ <nowiki> </nowiki> *Power Harpoon:
+ <nowiki> </nowiki>     Range ... 25-50m/100m/200m        Damage ........ 3D (None if using tow cable*)
+ <nowiki> </nowiki>     Fire Arc: Rear                    Fire Control... 2D
+ 
+ <nowiki>*</nowiki>Tripping an AT-AT requires that the pilot pass a 'Very Difficult' piloting check on the three consecutive rounds immediately following a tow cable hit.
+ If the pilot stops making these checks for any reason, the tow cable is lost and the process must be started again.
+ Failing the check indicates a collision (6D Walker scale damage to the speeder).

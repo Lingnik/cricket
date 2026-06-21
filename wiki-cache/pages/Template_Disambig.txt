@@ -1,0 +1,7 @@
+TITLE: Template:Disambig
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-08-27T02:25:34Z
+======================================================================
+[[Image:func_sign_disambig.png|36px|left]]<div class="notice metadata" id="disambig">''This is a [[:wikipedia:wikipedia:disambiguation|disambiguation]] page &mdash; a list of articles associated with the same title.  If an [[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}|internal link]] referred you to this page, you may wish to change the link to point directly to the intended article.''</div>
+
+<includeonly>[[Category:Disambiguation]]</includeonly><noinclude>[[Category:Templates|Disambig]]</noinclude>

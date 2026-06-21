@@ -1,0 +1,5 @@
+TITLE: User:PotatoFarm4632/global.js
+NAMESPACE: 2 (User)
+LAST_EDIT: 2021-10-03T18:53:38Z
+======================================================================
+importArticles({    type: 'script',    articles: [        'u:dev:MediaWiki:OasisRevived.js',    ]});

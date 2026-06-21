@@ -1,0 +1,42 @@
+TITLE: Template:Planet brief
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-08-08T00:46:52Z
+======================================================================
+<table width="260" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="100%" align="right" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="0%" align="center" valign="top" colspan="2">{{{image}}}</td></tr>
+<tr style="font-family: Arial; font-size: 10pt;">
+<td width="100%" align="center" valign="top" bgcolor="#978a7a" colspan="2"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#d1d0a5" colspan="2"><b>Astrographics</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Region:</td>
+<td align="left" valign="top">{{{region}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Parent system:</td>
+<td align="left" valign="top">{{{parent}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Sim Status:</td>
+<td align="left" valign="top">{{{status}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#d1d0a5" colspan="2"><b>Demographics</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Native Race(s):</td>
+<td align="left" valign="top">{{{native}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Other Races:</td>
+<td align="left" valign="top">{{{races}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="100" align="left" valign="top">Affiliation:</td>
+<td width="160" align="left" valign="top">{{{principal}}}</td>
+</tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Planet brief]]</noinclude>

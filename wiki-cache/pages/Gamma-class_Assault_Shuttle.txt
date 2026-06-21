@@ -1,0 +1,54 @@
+TITLE: Gamma-class Assault Shuttle
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-09-29T16:09:26Z
+======================================================================
+The '''Gamma-class Assault Shuttle''' was an [[Galactic Empire|Imperial]] craft used to ferry spacetroopers into battle.
+
+In a standard operation, a Gamma-class Assault Shuttle would pull up near an enemy ship and take hold of it with either its tractor beam or power harpoon. It would then launch its spacetroopers to seize control of the vessel, sometimes crippling the ship beforehand with a few well-placed turbolaser shots.
+
+[[Image:Ship_starship_gamma01.jpg|280px|left|Gamma-class Assault Shuttle]]
+
+These ships were composed of three sections. The first section was the command crew cockpit, where a crew of five not only controlled the shuttle, but monitored its spacetroopers as well. The second section, the main body, was where the spacetroopers were carried. There were forty holding compartments for Spacetrooper armor, enough for an entire platoon. While being stored in the assault shuttle, the spacetroopers' power armor was constantly being recharged. Each compartment was equipped with a fold-away door, allowing the shuttle to quickly launch its troopers into space.
+
+To protect its valuable cargo of elite spacetroopers, assault shuttles were very well shielded. Unlike most combat ships, which devoted 25% of their power to shields, the shields of a Gamma-class Assault Shuttle took up a full 62% of its power, with over half of that directed to the ship's front arc. This allowed assault shuttles to withstand heavy damage as they pulled up near hostile ships.
+
+Gamma-class Assault Shuttles were both atmosphere and space capable. They were equipped with Class 2 hyperdrives. However, their capability for hyperspace travel was limited, because their nav computers could only hold enough data for three jumps.
+
+Most [[Imperator-class Star Destroyer]]s and other large warships carried at least one Gamma-class Assault Shuttle as well as the corresponding Spacetrooper platoon. Additional assault shuttles were given out as needed and available. 
+
+<pre>Craft ....... Telgorn Corp Gamma Class Assault Shuttle
+Type ........ Assault Shuttle       Cargo Capacity ......... 5 metric tons
+Scale ....... Capital(power output) Consumables ............ 1 week
+Length ...... 30 meters             Hyperdrive Multiplier .. x2
+Pilot Skill . Starship Piloting     Hyperdrive Backup ...... None
+Crew ........ 5                     Nav Computer ........... Yes
+Passengers .. 40                    Maneuverability ........ 2D
+Hull ........ 123                   Space Movement ......... 80
+Shields ..... 168                   Hangar Space ........... None
+Can Land? ... Yes
+
+Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (6 filled)
+
+Stock Weapons:
+   Four Single Laser Cannons (fire separately):
+      Weapon Rating .... Class 1        Damage ........ 2D
+      Fire Arc ......... 2FR, 2B        Fire Control .. 4D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km     
+   One Tractor Beam Projector:
+      Weapon Rating .... Class 2        Damage ........ 6D
+      Fire Arc ......... Front          Fire Control .. 4D
+      Space Range ...... 1-5/15/30      Atmo Range .... 2-10km/30km/60km 
+   One Concussion Missile Launcher:
+      Weapon Rating .... Class 1        Damage ........ 4D
+      Fire Arc ......... Forward        Fire Control .. 2D+1
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 5 Missiles
+
+BASE COST NEW: 180000 cr             BASE COST USED: 45000 cr              
+SUGGESTED DOWNPAYMENT: 108000 (new), 27000 (used)</pre>
+
+[[Category:Starships]]
+[[Category:Rendili Ships]]

@@ -1,0 +1,13 @@
+TITLE: Template:Log
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2010-04-29T17:15:23Z
+======================================================================
+==={{{title}}}===
+{|
+| <small>''Characters: {{{participants}}}''</small>
+|-
+| <small>''Set: {{{place}}}''</small>
+|-
+| <small>''Recorded {{{date}}}''</small>
+|}
+{{{synopsis}}}

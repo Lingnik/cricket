@@ -1,0 +1,23 @@
+TITLE: Template:Title
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-11-11T13:25:31Z
+======================================================================
+<div id="title-meta" style="display: none">{{{1|{{PAGENAME}}}}}</div><div id="title-align" style="display: none">{{#switch:{{{align}}}|right=right|middle|center=center|left}}</div>
+{{#switch:{{usecss}}|yes|true=<div id="titlehack" style="text-align:{{#switch:{{{align}}}|right=right|middle|center=center|left}};">
+{{#switch:{{MediaWiki:Sitenotice}}|-|=|#default=<div id="siteNotice" style="visibility:hidden"><p>{{MediaWiki:Sitenotice}}</p></div>}}
+<div style="margin-bottom: 0; color: black; background-color: ; font-weight: normal; padding-top: .5em; padding-bottom: .17em; font-size: 188%; border-bottom: 1px solid #aaaaaa;">{{{1|{{PAGENAME}}}}}</div>
+</div>
+</div>}}<noinclude>
+
+Usage examples:
+*<code><nowiki>{{Title}}</nowiki></code> ''removes namespace''
+*<code><nowiki>{{Title|Foo Bar}}</nowiki></code> ''custom title
+*<code><nowiki>{{Title|align=center}}</nowiki></code> ''centered''
+*<code><nowiki>{{Title|align=right}}</nowiki></code> ''aligned to the right''
+*<code><nowiki>{{Title|Foo Bar|align=center}}</nowiki></code> ''etc''
+
+
+*<code><nowiki>{{Title|Foo|usecss=yes}}</nowiki></code> ''Uses old title hack method using css. This hides voting boxes, and has some other problems, so only use where the normal version won't work.''
+
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,35 @@
+TITLE: Interdictor-class Immobilizer 418 statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-08-02T20:22:20Z
+======================================================================
+<pre>
+Craft ........ Sienar Interdictor-class Immobilizer 418
+Type ......... Heavy Cruiser         Cargo Capacity ......... 5500 metric tons
+Scale ........ Capital               Consumables ............ 1.2 years
+Length ....... 600 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x8
+Crew ......... 2,807                 Nav Computer ........... Yes
+Passengers ... 80 (Troops)           Maneuverabilty ......... 1D
+Hull ......... 1122                  Space Movement ......... 60
+Shields ...... 243                   Hangar Space ........... 500
+Can Land? .... No
+
+Sensors ...... Normal:  1200,  Focus:  50,  Passive:  300
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 113 total (80 filled)
+
+Stock Weapons:
+   Eighty Laser Cannons (fire separately):
+      Weapon Rating .... Type 4          Damage ........ 4D
+      Fire Arc ......... 40FR, 20L, 20R  Fire Control .. 2D
+      Space Range ...... 1-3/12/25       Atmo Range .... 2-6km/24km/50km
+   Four Gravity Well Projectors:
+      Fire Arc ......... Turret          Fire Control .. 6D
+      Space Range ...... 1-5/75/150      Atmo Range .... 2-6km/24km/50km
+      Damage ........... Blocks all hyperspace travel.
+
+BASE COST NEW: 3300000 cr            BASE COST USED: 924000 cr             
+SUGGESTED DOWNPAYMENT: 1980000 (new), 554400 (used)</pre>
+
+{{statsheet ship|Interdictor-class Immobilizer 418}}

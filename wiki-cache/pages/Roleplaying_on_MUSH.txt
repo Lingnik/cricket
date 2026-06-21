@@ -1,0 +1,58 @@
+TITLE: Roleplaying on MUSH
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2014-08-16T10:20:02Z
+======================================================================
+The basics of role-playing on Star Wars MUSH are simple. You simply move around the MUSH and interact with the characters of other players. But, to get the most out of it, things are done a certain way.
+
+== What is a 'Scene' ==
+Role-play is usually conducted as a 'scene', in the sense of a scene of a play.
+
+One player will agree to 'set the scene' and then players will take it in turns to express their actions and react to the actions of others. Once everyone has had a turn, the 'round' is over and the next one begins.
+
+== Setting the Scene ==
+When a scene of a play begins, there is more than just the surrounding objects, represented by the room descriptions, that the audience sees. Setting the scene is about relating what is going on at the moment it begins - it will include information other players may find useful. Things to think about are...
+* The time of day
+* The weather
+* How busy is it?
+* Is there anything noteworthy or unusual going on?
+* A room can often represent a very large area - where is the scene within that space?
+Most players, though not all, include their character's 'pose' in the scene set.
+
+== Posing ==
+The most important commands on a MUSH are those that let you express your characters actions to other players. These are pose and @emit
+
+'pose' sends a message beginning with your name to the room, visible by everyone present. For example:
+
+For example if the character John types '''pose sits down''.' it will will produce John sits down.
+
+''Pose can be abbreviated to a colon '''(:)'''''
+
+@emit works just like pose but it doesn't put your name at the front of it. This can be very useful when setting the scene, or for stylistic reasons.
+
+== Better Posing ==
+Role-playing is a lot like writing a collaborative story. Lets say John walks into a busy cantina and gets a drink at the bar.
+
+He might do this by typing
+* pose enters the cantina.
+* pose walks to the bar.
+* pose orders a drink.
+But lets be honest, nobody's giving out a pulitzer prize for that!
+
+A much better way to pose is to include a bit more detail. Think like a writer.How does John walk? Does he swagger, like a cock-sure smuggler, or slink like a shady thief? 
+
+What about the other people in the cantina, the background chatacters. Its busy, so lets get them involved. Do they get out of his way or does the John have to squeeze or push his way through to even GET at the bar?
+
+If its busy, its probably noisy too. So how does the character communicate their order? Do they shout above the din? Point to what they want?
+
+== Hooks ==
+Good writing is a start, but its also very important that you give other players something their characters can react to.
+
+People walk into busy bars all the time, its busy after all! It doesn't mean that you'd get up and talk to them, particularly if they're a complete stranger.
+
+In every pose, you should try to give other players an avenue, a reason, to interact with you. This is called a 'hook'.
+
+Perhaps John bumps into their character while jostling to the bar, or elbows in ahead of their order? Maybe he asks them if they can recommend something. Whatever it takes to get two characters interacting, and keep the scene flowing!
+
+Happy role-playing!
+[[Category:Guides]]
+[[Category:Roleplaying]]

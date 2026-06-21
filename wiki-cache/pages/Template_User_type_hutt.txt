@@ -1,0 +1,13 @@
+TITLE: Template:User type hutt
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-09-05T22:56:19Z
+======================================================================
+<div style="float:left; border:1px solid green; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:#99ac90;"
+| style="width:45px; height:45px; background:#989054; text-align:center; font-size:14pt;" | [[Image:emblem_hutt_trident.png|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user likes being a lazy, corrupt slug. Ideally, they'd be a [[Hutt]].
+|}</div><noinclude><br clear="all">
+==== A Sluggish Type of User ====
+==== Use ====
+Type the following into your user article's edit field:<pre><nowiki>{{user type hutt}}</nowiki></pre>
+[[Category:Userbox Templates|Type Hutt]]</noinclude>

@@ -1,0 +1,14 @@
+TITLE: Slasher Blaster Carbine
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-01-15T23:50:54Z
+======================================================================
+The BlasTech Starslasher is an older weapon, predating even the E-11. But it is rugged and versatile enough that it still has a market. The weapon is reasonably compact, with a telescoping stock. A raked-back handgrip similiar to that of the E-11 is fitted at the midpoint, and the powerpack fits flush into the receiver. The result is a weapon that is handy for short to mid-range combat, though it falls short at longer ranges. The weapon can take a wide variety of accessories, and is often seen with scope, bipod, and a folding bayonet (STR+1d+2 damage, moderate difficulty to hit).
+
+<pre>Name................Blastech StarSlasher (MUSH Name Slasher)
+Weapon Type.........Blaster Carbine          Weight..............3.75kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-0D+1 Penalty            Damage..............5D
+Conceal Difficulty..17                       Two-Handed..........No
+</pre>
+
+[[Category:Carbines]]

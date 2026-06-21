@@ -1,0 +1,13 @@
+TITLE: Field Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-02-28T21:45:23Z
+======================================================================
+This (relatively) lightweight suit of body armor is composed of multiple layers of a drab, flexible material, which has the effect of padding the body against physical blows, and dissipating energy attacks... to an extent. For further protection of vital organs, the chest and back areas of the suit are reinforced with rigid inserts of composite or ceramic. Most such suits include a helmet, gloves, and boots, and are designed to be easily sealable against vacuum or other hostile environments, with the addition of a small life support pack. Armor like this won't even come close to conferring invulnerability from any enemy with a decent weapon, but it is effective against minor attacks like grenade fragments, and it will reduce the severity of many other battlefield injuries.
+ <pre>
+Name................Field Armor
+Weight..............18kg                      Covers..............Body
+Physical Protection.0D+2                     Energy Protection...0D+2
+Conceal Difficulty..35                       Dexterity Penalty...0
+Strength Bonus......0                        </pre>
+
+[[Category:Armor]]

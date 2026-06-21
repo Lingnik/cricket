@@ -1,0 +1,72 @@
+TITLE: Nebulon-B Frigate statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-04T13:11:09Z
+======================================================================
+{{statsheet ship|Nebulon-B Frigate}}
+
+=== '''D-Space''' ===
+<pre>    
+Craft ........ Kuat Drive Yards' Nebulon-B Frigate
+Type ......... Escort Starship       Cargo Capacity ......... 6000 metric tons
+Scale ........ Capital               Consumables ............ 2 years
+Length ....... 300 meters            Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+Crew ......... 920 (307 skeleton)    Nav Computer ........... Yes
+Passengers ... 75 (Troops)           Maneuverability ........ 1D
+Hull ......... 735                   Space Movement ......... 40
+Shields ...... 162                   Atmosphere ............. 280; 800kmh
+Can Land? .... No                    Hangar Space ........... 250
+ 
+Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+ 
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 41 total (22 filled)
+ 
+Stock Weapons:
+   Ten Laser Cannons (fire separately):
+      Weapon Rating .... Type 5           Damage ........ 2D
+      Fire Arc ......... 6FR, 2L, 2R, 2B  Fire Control .. 2D
+      Space Range ...... 1-3/12/25        Atmo Range .... 2-6km/24km/50km
+   Ten Turbolaser Batteries (fire separately):
+      Weapon Rating .... Type 2           Damage ........ 4D
+      Fire Arc ......... 6FR, 2L, 2R      Fire Control .. 3D
+      Space Range ...... 3-15/35/75       Atmo Range .... 6-30km/70km/150km
+   Two Tractor Beam Projectors (fire separately):
+      Weapon Rating .... Class 1          Damage ........ 4D
+      Fire Arc ......... Front            Fire Control .. 2D
+      Space Range ...... 1-5/15/30        Atmo Range .... 2-10km/30km/60km
+
+BASE COST NEW: 2250000 cr            BASE COST USED: 630000 cr             
+SUGGESTED DOWNPAYMENT: 1350000 (new), 378000 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: 2nd Edition Revised Rulebook''
+ Craft ........ Kuat Drive Yards' Nebulon-B Frigate
+ Type ......... Escort Starship       Cargo Capacity ......... 6000 metric tons
+ Scale ........ Capital               Consumables ............ 2 years
+ Length ....... 300 meters            Hyperdrive Multiplier .. x2
+ Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x12
+ Crew ......... 920 (307 skeleton)    Nav Computer ........... Yes
+ Passengers ... 75 (Troops)           Maneuverability ........ 1D
+ Hull ......... 3D+2                  Space Movement ......... 40
+ Shields ...... 2D                    Atmosphere ............. 280; 800kmh
+ Can Land? .... No                    Hangar Space ........... 250
+  
+ Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+  
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 41 total (26 filled)
+  
+ Stock Weapons:
+    Twelve Laser Cannons (fire separately, starfighter-scale):
+       Weapon Rating .... Type 5           Damage ........ 2D
+       Fire Arc ......... 6FR, 2L, 2R, 2B  Fire Control .. 2D
+       Space Range ...... 1-3/12/25        Atmo Range .... 2-6km/24km/50km
+    Twelve Turbolaser Batteries (fire separately):
+       Weapon Rating .... Type 2           Damage ........ 4D
+       Fire Arc ......... 6FR, 3L, 3R      Fire Control .. 3D
+       Space Range ...... 3-15/35/75       Atmo Range .... 6-30km/70km/150km
+    Two Tractor Beam Projectors (fire separately):
+       Weapon Rating .... Class 1          Damage ........ 4D
+       Fire Arc ......... Front            Fire Control .. 2D
+       Space Range ...... 1-5/15/30        Atmo Range .... 2-10km/30km/60km

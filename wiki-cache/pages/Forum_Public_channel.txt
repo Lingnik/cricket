@@ -1,0 +1,27 @@
+TITLE: Forum:Public channel
+NAMESPACE: 110 (Forum)
+LAST_EDIT: 2009-04-30T07:49:27Z
+======================================================================
+{{Title}}
+<div style="background: #eee; border: 1px solid #aaa; padding: 5px">'''[[:Category:SW1ki Forums|SW1ki Forums]]''' &gt; '''[[Forum:Index|Index]]''' &gt; '''[[Forum:Public channel|Public channel]]'''</div>
+
+The [[Forum:Public channel|Public channel]] is a site-wide discussion area. Feel free to post questions, suggestions and comments that relate to the [[SW1ki]] or [[Star Wars MUSH|MUSH]] here.
+
+''Please note: Questions, suggestions, and comments related to specific articles should be posted on the talk page for that article.''
+
+<table width="100%"><tr><td></td><td width="40%"><createbox>
+break=no
+prefix=Forum:
+preload=Forum:Public channel/preload
+buttonlabel=Add new topic
+</createbox></td></tr></table>
+<table class="forumlist" style="border: 1px solid #aaa" width="100%"><tr style="background: #eee"><th class="forum_title" align="left">Topic</th><th class="forum_edited" align="left">Last Edit</th><th class="forum_editor" align="left">Last Author</th></tr>
+<forum>
+namespace=Forum
+category=Public channel
+shownamespace=false
+addlasteditor=true
+count=40
+</forum></table>
+
+[[Category:SW1ki Forums|Public channel]]

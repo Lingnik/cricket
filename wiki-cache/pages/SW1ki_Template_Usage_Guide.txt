@@ -1,0 +1,55 @@
+TITLE: SW1ki:Template Usage Guide
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2008-04-22T20:16:58Z
+======================================================================
+These are guides for commonly-used wiki templates.
+
+==<nowiki>{{character infobox}}</nowiki>==
+:''See main article: [[Template:character infobox|<nowiki>{{character infobox}}</nowiki>]]''
+
+Include this as the ''very first text'' in your character article. When including <nowiki>[[]]</nowiki> wiki links, please use the Preview button or the Search feature to find the proper article names and to make sure your links work.
+
+==<nowiki>{{Family}}</nowiki>==
+
+<nowiki>{{Family|</nowiki><br>
+<nowiki>image=Insert image (optional)|</nowiki><br>
+<nowiki>family=Insert family name|</nowiki><br>
+<nowiki>father=Insert father|</nowiki><br>
+<nowiki>mother=Insert mother|</nowiki><br>
+<nowiki>siblings=Insert siblings|</nowiki><br>
+<nowiki>spouse=Insert spouse|</nowiki><br>
+<nowiki>kids=Insert children|</nowiki><br>
+<nowiki>other=|</nowiki><br>
+<nowiki>}}</nowiki>
+
+Include this anywhere on your character page to neatly summarize your character's family.
+
+==<nowiki>{{rplog}}</nowiki>==
+
+<nowiki>{{rplog|</nowiki><br>
+<nowiki>title=Insert title here|</nowiki><br>
+<nowiki>author=[[Your character page]]|</nowiki><br>
+<nowiki>date=[[IC Year]] - Insert RL date|</nowiki><br>
+<nowiki>setting=Insert location here|</nowiki><br>
+<nowiki>characters=[[Player 1]]<br />[[Player 2]]<br />etc...|</nowiki><br>
+<nowiki>synopsis=Insert synopsis here|</nowiki><br>
+<nowiki>}}</nowiki>
+
+Include this as the ''very first text'' in your roleplay log article. The '''title''' value will be displayed at the top of the log, obscuring that ugly RPlog: portion. Please make the title the same as the log name, or something close. When including <nowiki>[[]]</nowiki> wiki links, please use the Preview button or the Search feature to find the proper article names and to make sure your links work.
+
+==[[:Category:Userbox_Templates|Userboxes]]==
+
+<nowiki>{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 242px; border: #bfbfbf solid 1px"</nowiki><br>
+<nowiki>| <center><font style="font-family: Myriad, Arial;">'''Userbox Collection'''</font></center></nowiki><br>
+<nowiki>|-</nowiki><br>
+<nowiki>| {{user box 1}}</nowiki><br>
+<nowiki>|- </nowiki><br>
+<nowiki>| {{user box 2}}</nowiki><br>
+<nowiki>|-</nowiki><br>
+<nowiki>| {{user box etc...}}</nowiki><br>
+<nowiki>|}</nowiki>
+
+These are fun little templates that can be used to describe you as a Star Wars MUSH player. Include this as the ''very first text'' on your User: page.
+
+
+[[Category:Help|{{PAGENAME}}]]

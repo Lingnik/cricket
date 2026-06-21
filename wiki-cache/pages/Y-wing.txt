@@ -1,0 +1,90 @@
+TITLE: Y-wing
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2015-05-04T13:30:48Z
+======================================================================
+[[Image:fighter_y-wing_01.jpg|280px|right]]
+The '''BTL Y-wing''' starfighter, built by Koensayr, was a mainstay of the Rebel Alliance starfighter corps.
+
+The craft carried two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, plugged into a socket in the craft to act as a copilot. 
+
+The Y-wing was already nearly obsolete by the close of the Battle of Yavin, being slow and ungainly compared to other Alliance fighters; but it was still fielded by many planetary defense forces, mercenaries, and pirates.
+
+Its deficiencies were partly compensated for by the heavy proton torpedo load it could carry, and its ability to paralyze craft with ion cannon fire without destroying them, unique until the B-wing starfighter was introduced after the Battle of Yavin.
+
+It was a rugged design, but it had some design flaws requiring constant maintenance, which led many crews to remove the superficial hull plating. Many Y-wings had no hull plating (except on the cockpit), exposing the internals of the main hull.
+
+The cockpit could be ejected by the pilot from the engines and the rest of the ship. This was used when the ship was on a surface. After the cockpit was disconnected, it could be driven on the surface.
+
+Despite its shortcomings in speed and maneuverability, the Y-wing was an extremely durable craft, with heavier shielding than the T-65 X-wing starfighter. It could withstand many laser blasts, and it was quite difficult to destroy. 
+
+=== '''D-Space''' ===
+<pre>Craft ........ Koensayr BTL-S3 Y-wing
+Type ......... Attack Fighter        Cargo Capacity ......... 110 kg
+Scale ........ Starfighter           Consumables ............ 1 week
+Length ....... 16 meters             Hyperdrive Multiplier .. x1
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 1 or 2 + Astromech    Nav Computer ........... None {Droid}
+Passengers ... None                  Maneuverability ........ 2D
+Hull ......... 138                   Space Movement ......... 70
+Shields ...... 60                    Atmosphere ............. 350; 1,000kmh
+Can Land? .... Yes                   Hangar Space ........... None
+ 
+Sensors ...... Normal:  800,  Focus:  20,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 6 total (6 permanently filled)
+
+Stock Weapons:
+   Two Single Laser Cannons (fire-linked):
+      Weapon Rating .... Class 4        Damage ........ 5D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+   Two Proton Torpedo Launchers:
+      Weapon Rating .... Standard       Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+      Ammunition ....... 10 Torpedoes
+   Two Light Ion Cannons (fire-linked):
+      Weapon Rating .... Standard       Damage ........ 4D
+      Fire Arc ......... Turret         Fire Control .. 3D
+      Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km
+
+BASE COST NEW: 135000 cr             BASE COST USED: 41850 cr              
+SUGGESTED DOWNPAYMENT: 81000 (new), 25110 (used)</pre>
+
+=== '''West End Games - Star Wars D6''' ===
+''Source: 2nd Edition Revised Rulebook''
+ Craft ........ Koensayr BTL-S3 Y-wing
+ Type ......... Attack Fighter        Cargo Capacity ......... 110 kg
+ Scale ........ Starfighter           Consumables ............ 1 week
+ Length ....... 16 meters             Hyperdrive Multiplier .. x1
+ Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+ Crew ......... 1 or 2 + Astromech    Nav Computer ........... None {Droid}
+ Passengers ... None                  Maneuverability ........ 2D
+ Hull ......... 4D                    Space Movement ......... 70
+ Shields ...... 1D+2                  Atmosphere ............. 350; 1,000kmh
+ Can Land? .... Yes                   Hangar Space ........... None
+  
+ Sensors ...... Normal:  800,  Focus:  20,  Passive:  200
+ 
+ Weapon Skill ...... Starship Gunnery
+ Weapon Slots ...... 6 total (6 permanently filled)
+ 
+ Stock Weapons:
+    Two Single Laser Cannons (fire-linked):
+       Weapon Rating .... Class 4        Damage ........ 5D
+       Fire Arc ......... Front          Fire Control .. 2D
+       Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/2.5km
+    Two Proton Torpedo Launchers:
+       Weapon Rating .... Standard       Damage ........ 9D
+       Fire Arc ......... Front          Fire Control .. 2D
+       Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m
+       Ammunition ....... 10 Torpedoes
+    Two Light Ion Cannons (fire-linked):
+       Weapon Rating .... Standard       
+       Damage ........... 4D             Fire Control .. 3D
+       Fire Arc ......... Turret (May be fixed forward for use by pilot at 1D Fire Control)        
+       Space Range ...... 1-3/7/36       Atmo Range .... 100-300m/700m/3.6km
+[[Category:Starfighters]]
+[[Category:REC Ships]]
+[[Category:NRMil Restricted Ships]]

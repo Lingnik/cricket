@@ -1,0 +1,49 @@
+TITLE: Scimitar Assault Bomber
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2021-06-23T00:07:30Z
+======================================================================
+Pushed from the drafting board to the production line by Grand Admiral Thrawn himself, the '''Scimitar''' bomber embodies the latest step in bomber design. Most significantly, the craft places a crew of two inside an ejectable command cabin. Two crewmembers already replace an enormous amount of strain that a single pilot faced in the standard TIE Bomber, and survivability is greatly enhanced. However, unlike its hard-hitting predecessor, the Scimitar doesn't support torpedoes or similar large-scale ordinance. Instead, the payload usually consists of concussion missiles, gravity grenades, mines, and thermal detonators. In this regard, the Scimitar is much better suited to groud bombardment and suppression.
+
+Indeed, the performance ratings are much along the lines of the [[:starwars:TIE/sa_bomber|TIE Bomber]], with understandable improvements. Of greatest note is the atmospheric speed, which has been drastically improved with the incorporation of two high-output repulsorlift engines. These not only increase cruise speed, but also aid in the Scimitar's unbelieveable divebombing speeds, sometimes in excess of 1250 kph. This means that very few combat airspeeders can catch it during combat, and once it is in a dive, there is very little that can stop the bomber from destroying its target.
+
+While it does have shielding, the Scimitar still suffers from the [[Galactic Empire|Imperial]] trend of not outfitting its fighter craft with hyperdrives. In this, it must be launched and recovered by parent capital ships.
+
+Also, the TIE prefix is a misnomer of sorts. While it is of the same TIE line, developed by the traditional Sienar corporation, it only has a single Ion Engine, which is nearly triple the size of a normal TIE engine, but is just as efficient and powerful. The name Scimitar is the result of its prototype trials and use at the hands of the Scimitar Bomber Wing, the most decorated bomber unit in the Imperial Navy.
+
+<pre>
+Craft ........ Sienar Fleet Systems Scimitar
+Type ......... Assault Bomber        Cargo Capacity ......... 200 kg
+Scale ........ Starfighter           Consumables ............ 2 days
+Length ....... 13.8 meters           Hyperdrive Multiplier .. None
+Pilot Skill .. Starfighter Piloting  Hyperdrive Backup ...... None
+Crew ......... 2                     Nav Computer ........... None
+Passengers ... None                  Maneuverability ........ 2D+1
+Hull ......... 187                   Space Movement ......... 90
+Shields ...... 60                    Atmosphere ............. 295; 850kmh
+Can Land? .... Yes                   Hangar Space ........... None
+
+Sensors ...... Normal:  800,  Focus:  30,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 5 total (5 permanently filled)
+
+Stock Weapons:
+   Two Laser Cannons:
+      Weapon Rating .... Class 3        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1-3/12/25      Atmo Range .... 100-300m/1.2km/1.5km 
+
+   Three Concussion Missile Launchers: 
+      Weapon Rating .... Class 4        Damage ........ 9D
+      Fire Arc ......... Front          Fire Control .. 3D+2
+      Space Range ...... 1/3/7          Atmo Range .... 100-500m/1km/5km
+      Ammunition ....... 5 Missiles
+
+BASE COST NEW: 160000 cr             BASE COST USED: 41600 cr              
+SUGGESTED DOWNPAYMENT: 96000 (new), 24960 (used)</pre>
+
+[[Image:scimitar.gif]]
+
+[[Category:Starfighters]]
+[[Category:KDYSFS Ships]]
+[[Category:ImpMil Restricted Ships]]

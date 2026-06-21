@@ -1,0 +1,11 @@
+TITLE: Template:Purpose
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-04-14T17:22:56Z
+======================================================================
+{| width=85% align=center class="expansion" style="background: #ddcc44; border: 2px solid #000; padding: .2em; margin-bottom: 3px; font-size: 95%;"
+| style="padding-right: 4px; padding-left: 4px;" | [[Image:scene_yodawhy.jpg|80px|]]
+| <font size=3>'''Tell Me... Why Are You Here?'''</font><br ><small >This article does not seem to have a purpose, nor is it in a style that fits this Wiki's convention for articles. It has been listed in the [[:Category:Articles Needing Attention|Articles Needing Attention]], and may be suggested for deletion. Justify its purpose on the  [{{SERVER}}{{localurl:{{TALKPAGENAME}}}} talk page].</small >
+|}
+
+<includeonly>[[Category:Articles Needing Attention|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:Administrative Templates|Purpose]]</noinclude>

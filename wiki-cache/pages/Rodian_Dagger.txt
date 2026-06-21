@@ -1,0 +1,16 @@
+TITLE: Rodian Dagger
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-02-27T23:18:39Z
+======================================================================
+The '''Rodian Dagger''', with exotic edges and dangerous curves, is a blade that 
+stands out in a crowd. Fairly small in size, the edged curves and jagged blade
+make it a deadly weapon, and one that requires a great deal of practice to be 
+properly handled.
+<pre>
+Name................Rodian Dagger
+Weapon Type.........Melee Weapon             Weight..............1kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............STR+1D+1
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

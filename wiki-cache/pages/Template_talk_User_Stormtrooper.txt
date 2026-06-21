@@ -1,0 +1,14 @@
+TITLE: Template talk:User Stormtrooper
+NAMESPACE: 11 (Template_talk)
+LAST_EDIT: 2007-04-07T18:31:20Z
+======================================================================
+Is this userbox too big? I can cut out the phrase and go with something like this: 
+
+
+<div style="float:left; border:1px solid black; margin:1px;">
+{| cellspacing="0" cellpadding="0" style="width:238px; background:white;"
+| style="width:45px; height:45px; background:#ffffff; text-align:center; font-size:14pt;" | [[Image:Canttroop.jpg|40px]]
+| style="font-size:8pt; padding:4pt; line-height:1.25em;" | This user supports [[Stormtroopers]] .
+|}</div><noinclude><br clear="all">
+
+But it seems very plain to me. Suggestions, comments? --[[User:ImperialFH|ImperialFH]] 18:31, 7 April 2007 (UTC)

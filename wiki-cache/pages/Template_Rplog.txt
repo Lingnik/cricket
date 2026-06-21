@@ -1,0 +1,39 @@
+TITLE: Template:Rplog
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2023-02-09T05:41:36Z
+======================================================================
+<table class="infobox" width="200">
+<tr><td width="200" align="center" colspan="2">
+<small>A RolePlay Log by</small><br>
+'''{{{author}}}'''
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left" width="60">
+'''Date'''
+</td>
+<td align="left" width="140">
+{{{date}}}
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left">
+'''Setting'''
+</td>
+<td align="left" valign="top">
+{{{setting}}}
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left" valign="top">
+'''Appearing'''
+</td>
+<td align="left">
+{{{characters}}}
+</td></tr>
+<tr style="font-size: 8pt; font-face: Arial;">
+<td align="left" valign="top" colspan="2">
+''Read More Logs at [[Roleplay Logs]]''
+</td></tr>
+</table>
+=={{{title}}}==
+:''<font style="color: #000000;">{{{synopsis}}}</font>''
+<br>
+<includeonly>[[Category:Logs|{{PAGENAME}}]]</includeonly>

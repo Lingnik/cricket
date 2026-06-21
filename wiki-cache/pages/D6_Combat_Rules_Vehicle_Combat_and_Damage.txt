@@ -1,0 +1,149 @@
+TITLE: D6 Combat Rules/Vehicle Combat and Damage
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-04T22:35:01Z
+======================================================================
+=Vehicle Combat=
+Vehicle combat works just like regular combat and is fought in five second rounds.
+
+To attack a vehicle:
+
+Determine the difficulty number to hit the target (based on range).
+
+The attacker rolls his attack skill.
+
+If the roll is equal to or higher than the difficult number, the attack hits. Roll damage.
+
+'''Example:''' Rhen is shooting at an Imperial speeder bike. The bike is 150 meters away - that's medium range for her airspeeder's laser cannons. (Medium difficulty; difficulty number of 12.) Rhen's vehicle blasters skill is 3D and the cannons' fire control is 3D - if Rhen doesn't move the speeder, she gets to roll 6D to hit. If she rolls 12 or more Rhen's shot hits the speeder bike.
+
+==Reaction Skills==
+The target can roll a reaction skill - this is a vehicle dodge. Roll the pilot's repulsorlift operation (or other skill) and the vehicle's maneuverability code.
+
+This is the new difficulty number to hit the vehicle.
+
+'''Example:''' The speeder bike pilot decides to make a vehicle dodge to get out of the way of Rhen's attack. The pilot's repulsorlift operatin skill is 3D+2 and the bike's maneuverability code is 3D: his vehicle dodge roll is a 21 - Rhen's new difficulty number to hit the speeder is a 21.
+
+===Full Reaction===
+The pilot can make a full reaction. Roll the vehicle dodge; this can be the only action in the entire round.
+
+The character rolls his repulsorlift operation (or other skill) and the vehicle's maneuverability code and adds it to the difficulties of all attacks made against the vehicle that round.
+
+'''Example:''' Later on, Rhen fires again at the speeder bike; she's still at medium range, for a Moderate difficulty and difficulty number of 12.
+
+The Imperial speeder bike pilot decides to make a full vehicle dodge; he rolls his 6D+2 (repulsorlift operation of 3D+2 and the maneuverability of 3D) and gets a 25. Because this is a full vehicle dodge, Rhen's new difficulty number os a 37! However, the speeder bike pilot can't do anything else in the round, not even move his speeder.
+
+==Vehicle Combat Modifiers==
+All modifiers from the chapter on Combat and Injuries apply to vehicle combat. There are a few additional modifiers which may come into play.
+
+'''Scale''' - Be sure to take into account scale modifiers for combat between vehicles of different scales.
+
+'''Cover''' - Most vehicles provide some protection to the pilot and any passengers - it will be listed as None, 1/4, 1/2, 3/4, or Full. Add the cover and protection modifiers as described in the chapter on Combat and Injuries.
+
+==Vehicle Weapons==
+Vehicle weapon descriptions list what skill the weapon needs, its fire control and damage, as well as its fire rate and blast radius.
+
+'''Ranges''' - If a weapon lists four ranges, the first range listing is for point-blank range (Very Easy difficulty). Anything less than point-blank range is too close for the weapon to be targeted accurately - the difficulty is Very Difficult.
+
+'''Crew''' - A weapon's "crew" listing is the number of gunners necessary to fire the weapon in combat. A listing of Crew: 1 means the weapon be fired by one person. A listing of "Crew: 2" means that two people must work the weapon, but only one person rolls his vehicle blasters skill to see if the attack hits. If a weapon doesn't have a crew listing, it means it can be fired by the pilot.
+
+'''Fire Arc''' - Weapons also list fire arcs - the direction the weapon can be fird. Weapon fire arcs are front, back, left, right, and turrent (Turrets can fire in any direction.)
+
+===Ramming===
+One vehicle can try to ram another. To do so, it must pass very close to the target vehicle during its move.
+
+Add +10 to the movement difficulty for the ramming vehicle. Ramming also counts as a separate action: the pilot suffers an additional -1D penalty.
+
+If the pilot's repulsorlift operation (or other skill roll) is higher than the difficulty, the attacking vehicle rams the target vehicle.
+
+If the pilot's repulsorlift operation (or other skill roll) is higher than the difficulty, the attacking vehicle rams the target vehicle.
+
+If the pilot's repulsorlift operation (or other skill roll) is equal to or higher than the original difficulty, the vehicle completes the move successfully, but the ram attack misses.
+
+Target vehicles can make a vehicle dodge to avoid a ram attack. Ram attacks damage both vehicles: the attacker suffers damage as if involved in a sideswipe (-3D to normal damage), but the victim suffers damage as if involved in a T-bone (normal damage).
+
+'''Example:''' Rhen is trying to close in on that speeder bike but she's still 150 meters behind it.
+
+The speeder bike has a Move of 175. The pilot got initiative and decided to go first - he decides to move at cruising speed and succeeds at his repulsorlift operation roll. The speeder pulls ahead 175 meters; it's now 325 meters ahead of Rhen.
+
+Rhen decides she's going to take two actions (-1D penalty to both skill rolls): she wants to pull up close to the speeder bike and ram it. (To ram it, she has to pull at least even with the speeder bike.)
+
+Rhen decides to try the ramming attack. The terrain is Moderate; the difficulty number is 12. Her airspeeder's Move is 200; since the speeder bike is 325 meters ahead of her, she needs to move at high speed to catch up. The ramming attacks adds another +10 the difficulty number - it's now a 22.
+
+If Rhen rolls less than 12, she failed her repulsorlift operation roll and had a movement failure. If the roll is 23-21, she succeeds at the repulsorlift operation roll and crosses the terrain, but her ramming attack misses.
+
+Rhen rolls a 24. Her speeder races up on the speeder bike and smashes into the side. Rhen's speeder is moving at high speed (6D collision damage), but has the sideswipe result (-3D damage), so it only takes 3D damage.
+
+The speeder bike suffers the high speed collision damage (6D damage).
+
+==Vehicle Damage==
+Rather than suffering injuries, vehicles take damage; engines may be damaged, weapon systems may be disabled and so forth.
+
+When a vehicle has a collision, roll the collision damage and compare it to the vehicle's body strength roll (this is like a character's Strength roll to resist damage). If a vehicle is blasted in combat, compare the weapon's damage roll to the vehicle's body strength roll.
+
+If the damage roll is lower than the body strength roll, the vehicle takes no damage. If the damage roll is equal to or higher than the body strength roll, find the result on the Vehicle Damage Chart.
+
+<pre>Damage Roll > Body Strength Roll by:              Effect
+0-3                                               Shields blown/controls ionized
+4-8                                               Lightly damaged
+9-12                                              Heavily damaged
+13-15                                             Severely damaged
+16+                                               Destroyed</pre>
+
+'''Shields Blown''': A shields blown result means that the vehicle loses -1D from its shields total (if it has any). This loss lasts until the shields are repaired. If the vehicle has no dice remaining in shields (or has no shields to begin with), it suffers the control ionized result.
+
+'''Controls ionized''': A controls ionized result means that the vehicle's controls suffer a temporary power overload. The ship loses -1D from its maneuverability, fire control for weapons, damage from weapons, and shield dice for the rest of that round. (The vehicle's body strength stays at its full die code.)
+
+If a vehicle is suffering from as many controls ionized results as the vehicle has maneuverability dice, its controls are frozen for the next two rounds. The vehicle must maintain the same speed and direction for the next two rounds; it may not turn, fire weapons, make shield attempts or take any other action.
+
+When controls are frozen, blue lightning plays across the vehicle's controls, as shown  when Luke Skywalker's snowspeeder was disabled in The Empire Strikes Back. A pilot must still make the vehicle's operation rolls while the controls are frozen or the vehicle automatically crashes.
+
+'''Lightly Damaged''': Vehicles can be lightly damaged any number of times. each time a vehicle is lightly damaged, roll 1D to see which system is damaged.
+
+1-3: Vehicle loses -1D from maneuverability. If the vehicle's maneuverability has already been reduced to 0D, the vehicle suffers a -1 Move.
+
+4. One on-board weapon was hit and destroyed; the gunners take damage. (see passenger damage) Randomly determine which weapon is hit.
+
+5-6. Vehicle suffers a -1 Move.
+
+'''Heavily Damaged''': Heavily damaged vehicles have taken a much more serious amount of damage. If a heavily damaged vehicle is lightly damaged or heavily damaged again, it becomes severely damaged. Roll 1D to see what system is affected.
+*1-3. Vehicle loses -2D from its maneuverability until repaired. (If the vehicle's maneuverability has already been reduced to 0D, the vehicle suffers a -2 Move.)
+*4-6: Vehicle suffers a -2 Move.
+
+'''Sverely Damaged''': Severely damaged vehicles have taken major amounts of damage and are almost rendered useless. A severely damaged vehicle which is lightly damaged, heavily damaged or severely damaged again is destroyed. Roll 1D to see what system is affected.
+
+1-2: Destroyed powerplant. The vehicle's repulsorlift generator or motor is completely destroyed. If a ground vehicle is moving at high speed or all-out speed, it crashes. If the ground vehicle is moving at cruising or cautious speed, it simply rolls or bounces to a stop. Flying vehicles plummet towards the ground - the pilot must make an operation roll to land the vehicle (minimum difficulty of moderate) or it crashes.
+
+3. Overloaded generator. The engine or generator begins to overload and will explode in 1D rounds, completely destroying the vehicle. (The minimum difficulty to crash-land or stop the vehicle safely is Moderate.)
+
+4. Disabled weapons. All weapons systems completely shut down.
+
+5. Structural damage. The vehicle begins to break up or a major system fails. (The pilot has 1D rounds to eject or crash-land the vehicle; the minimum difficulty to crash-land or stop the vehicle safely is Moderate.)
+
+6. Destroyed. The vehicle is destroyed or crashes into another object due to complete loss of control.
+
+'''Destroyed''': The vehicle is immediately destroyed. All passengers take damage. (See Passenger Damage.)
+
+===Lost Moves===
+Lost Moves add together. For example, a vehicle that suffers a -1 Move result, then a -2D move result is at -3D moves.
+
+'''-1 Move''': The vehicle or creature can no longer move at all-out speed; it is limited to high speed.
+
+'''-2 Moves''': The vehicle or character is limited to its cruising speed.
+
+'''-3 Moves''': The vehicle or character can only move at its cautious speed.
+
+'''-4 Moves''': The vehicle's drive is disabled and it cannot move until repaired.
+
+'''-5 Moves''': The vehicle is destroyed.
+
+===Passenger Damage===
+Passengers may be injured when a vehicle suffers damage or crashes. Use your judgment to decide whether a character takes damage. If a vehicle is destroyed, everyone is almost certainly killed. On the other hand, if the characters are in the pilot's compartment of a sail barge and a weapon turret on the other side of the barge is destroyed, it's very unlikely they'll be injured.
+
+Determine character damage based on how badly the vehicle is damaged. (Damage is character-scale).
+
+Vehicle Is:   Passenger Suffers:<br />
+Lightly damaged: 1D<br />
+Heavily damaged: 3D<br />
+Severely damaged: 6D<br />
+Destroyed: 12D
+
+[[Category:The Way It Works]]

@@ -1,0 +1,16 @@
+TITLE: Vibro-Blade
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T18:38:21Z
+======================================================================
+Similar to a sword with the exception that it contains circuitry, the '''vibroblade''' is an improvement on its predecessor. The blade's hilt is much thicker 
+and has a hand guard to protect the hand of the wielder. The guard also 
+functions in producing the vibrating mechanism of the blade that allows it to
+inflict more damage as it cuts into its target.
+<pre>
+Name................Vibro-Blade
+Weapon Type.........Melee Weapon             Weight..............2.5kg
+Damage Type.........Melee                    Stun Setting........No
+Accuracy............0D+0                     Damage..............2D+2
+Conceal Difficulty..19                       Two-Handed..........No</pre>
+
+[[Category:Melee]]

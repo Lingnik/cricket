@@ -1,0 +1,9 @@
+TITLE: Template:Stub location
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2007-02-06T14:12:54Z
+======================================================================
+{| id="Stub" class="noprint" style="border:1px solid #999; background:#fff; margin:0 0 .5em .5em; text-align:center; padding:5px; clear:center; font-size:smaller;" align="center"
+|-
+!This article is a [[Wikipedia:Perfect stub article|stub]] about a location &ndash; such as a planet, moon, or place. You can [[Wikipedia:Find or fix a stub|help]] SW1ki by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it].
+|-
+|}<includeonly>[[Category:Location stubs]]</includeonly><noinclude>[[Category:Templates|Stub Location]]</noinclude>

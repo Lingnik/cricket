@@ -1,0 +1,56 @@
+TITLE: Template:GroundUnit
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-07-03T12:39:47Z
+======================================================================
+<noinclude>
+{| style="border: 1px solid #aaa;float:left;"
+|-
+!colspan=2|Parameters
+|-
+|{{{bgcolor}}}||Title bar's background color
+|-
+|{{{fgcolor}}}||Title bar's foreground color
+|-
+|{{{nickname}}}||Title bar text
+|-
+|{{{image}}}||Unit emblem image
+|-
+|{{{principal}}}||Affiliation
+|-
+|{{{des}}}||Designation
+|-
+|{{{station}}}||Station
+|-
+|{{{strength}}}||strength
+|-
+|{{{rating}}}||Rating
+|-
+|{{{status}}}||Status
+|-
+|{{{officers}}}||Commanding Officers
+|}
+
+
+[[Category:Templates|Ground Unit]]
+</noinclude>{| style="border: 1px solid #aaa;float:right; margin:0 0 1em 1em;padding:1em 1em 1em 1em; border-collapse: collapse;font-family: Arial; font-size: 8pt;"
+|-
+!colspan=2 style="text-align:center; font-size: larger; background-color:{{{bgcolor|#375e47}}}; color:{{{fgcolor|#bfbfbf}}};" |''{{{nickname}}}''
+|-
+|colspan=2 style="text-align:center;" | {{{image|}}}
+|-
+|'''Affiliation:'''|| {{{principal|n/a}}}
+|-
+|'''Designation:'''|| {{{des|n/a}}}
+|-
+|'''Station:'''|| {{{station|n/a}}}
+|-
+|style="vertical-align: text-top;" |'''Strength:'''|| {{{strength|unknown}}}
+|-
+|'''Rating:'''|| {{{rating|unknown}}}
+|-
+|'''Sim Status:'''|| {{{status|PC}}}
+|-
+!colspan=2 style="text-align:left; background-color:{{{fgcolor|#bfbfbf}}}; color:{{{bgcolor|#375e47}}};" |'''Commanding Officers'''
+|-
+|&nbsp;||{{{officers|NPC}}}
+|}

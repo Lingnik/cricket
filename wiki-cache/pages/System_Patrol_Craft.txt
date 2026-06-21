@@ -1,0 +1,37 @@
+TITLE: System Patrol Craft
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-26T20:38:24Z
+======================================================================
+<pre>   System  patrol craft are any number  of capital ships that fall between
+   100  and  250  meters,  although some  larger  vessels  are  given this
+   assignment.  They are built to engage  in "pre-jump" combat, making max
+   use of speed and maneuverablity.
+
+Craft ........ Sienar Fleet Systems IPV 1
+Type ......... System Patrol/Customs  Cargo Capacity ......... 200 metric tons
+Scale ........ Capital                Consumables ............ 3 months
+Length ....... 120 meters             Hyperdrive Multiplier .. None
+Pilot Skill .. Capital Ship Piloting  Hyperdrive Backup ...... None
+Crew ......... 12                     Nav Computer ........... None
+Passengers ... 10 (Troops)            Maneuverability ........ 2D+1
+Hull ......... 651                    Space Movement ......... 70
+Shields ...... 243                    Hangar Space ........... 75
+Can Land? .... Yes
+
+Sensors ...... Normal:  1600,  Focus:  40,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 24 total (10 filled)
+
+Stock Weapons:
+  Ten Turbolaser Cannons (fire separately):
+     Weapon Rating .... Type 2        Damage ........ 4D
+     Fire Arc ......... Turret        Fire Control .. 2D
+     Space Range ...... 3-15/35/75    Atmo Range .... 300m-1.5km/3.5km/7.5km
+
+BASE COST NEW: 1750000 cr            BASE COST USED: 490000 cr             
+SUGGESTED DOWNPAYMENT: 1050000 (new), 294000 (used)</pre>
+
+[[Category:Capital Ships]]
+[[Category:KDYSFS Ships]]
+[[Category:ImpMil Restricted Ships]]

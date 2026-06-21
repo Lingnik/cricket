@@ -1,0 +1,43 @@
+TITLE: Space Battle Guidelines/Smuggling Run
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-12-09T02:08:04Z
+======================================================================
+This is the guide to Space Combat for those doing smuggling runs.  This guide currently applies to worlds within Imperial space, but may be applied to any location at the discretion of the players in the scene. The basic premise of the space system is to have players roll an attack score against a defense score, resulting hits get a damage roll and that number is subtracted from the defender's shields/hull.
+
+== Introduction ==
+All players must be familiar with the following commands:
+
+'''misc/emit''' - Used for posing<br>
+'''misc/roll (dice)''' - Used to roll XD+X number of dice<br>
+'''misc/+check (skill)''' - Used to check that particular skill<br>
+
+If the misc/emit command is not used to pose, it will be emitted only in your cockpit or bridge, and nobody will be able to see it but you.  All poses will be seen by /everyone/ throughout the battle.  Please note:  '''There will be NO OOC CHATTER once the battle begins''' This is because it spams up the battle and takes away from the RP.  Please use pages or channels for talk: '''@channel/on combat'''.  Page the player in charge during battle for questions/comments.
+
+For guidelines on how to effectively pose in combat, [[Combat RP|''click here'']].
+
+== Pose Order / Detection ==
+In this scenario, the non-smuggling side will pose first, setting up the scene for the smugglers to enter into.  The smugglers will be subject to passing through the 'defense' either landing or departing a planet.  If cleared through, they have passed and will be allowed to continue their mission. If detected, the smugglers must either break through or flee the defending forces.  Depending on the standing orders of the defenders, smugglers may risk capture or destruction/death. (consent rules apply, however if taken down by the defenders the smuggler will be imprisoned and recieve applicable entries into their 'record')
+
+*The non-smuggling side should check sensors after the first round to detect the craft, counter roll will be applicable hide (any special cargo holds on the ship - those rules apply).  This may be done twice per scene.
+
+*To check if the ship has a 'history' the non-smuggling side will check security, counter roll will be applicable hide or forgery.  In the case where a craft has no history, this check does not apply.  All searches on a vessel's history will take 1 round to retrieve.  This only may be done once per scene. (Landing at a planet and departing a planet are two different scenes)
+
+'''NOTE:''' both of these checks may be accomplished at the same time, usually done in the round after both sides have posed in.
+
+Do note that these checks are not all encompasing as suspicious behaviour by any vessel will be noted and investigated.  There also may be standing orders to perform more throurough searches (more than 2 searches may be performed but only under explicit orders and declared before the scene starts). This is just a guide to avoid detection as smuggling is inherently dangerous. 
+
+=== System Defense ===
+The number of defenders or craft investigating a vessel should be proportionate to the threat and the current defense (alert) status of the planet/region.  Usually a flight of fighters (3-4) would investigate under a low threat/cause situation.  If not engaging a target, at most a squadron of fighters or corvette would investigate the new traffic and move on to the next traffic after their search is satisfied.  Should the smuggler be detected, all bets are then off and it is up to the defending force to decide how to engage while continuing their scans/defense of that particular planet/sector.
+
+== Combat ==
+Once the smugglers are found out (if it happens at all) this is the guide to resolving combat. Please use the links to applicable portions.
+
+*[[Space Battle Guidelines/Basic Combat|''Click Here to view the Guide'']]
+*[[Space Battle Guidelines#NPC Combat|''Click Here to view NPC Combat'']]
+*[[Space Battle Guidelines#Damage to Characters|''Click Here to view Character Damage'']]
+
+
+== Extra Information ==
+'''If there are any problems with this system or questions please contact Krieg.'''
+
+[[Category:Interaction Guides]]

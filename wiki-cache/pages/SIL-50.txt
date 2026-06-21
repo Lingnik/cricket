@@ -1,0 +1,23 @@
+TITLE: SIL-50
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T20:57:16Z
+======================================================================
+The '''SIL-50''' "Sleep Inducer" is a fairly common weapon for personal protection 
+and crowd control. It doesn't look especially threatening... it's appearance 
+is almost toy-like, maybe even comical, thanks to its somewhat bulbous sonic 
+emitter. Though the sonic blast that this weapon emits is more than capable 
+of disabling most sentients (when set to the proper frequency, of course) in
+as little time as two seconds. Though the effect isn't lethal, it's not 
+exactly pleasant... especially seeing as certain settings can cause splitting
+headaches or extreme nausea. A mounting bracket is fitted to the top of the 
+SIL-50's frame, allowing various special sights to be attached, though given
+this weapon's exceedingly short maximum range of about 15 metres, most such 
+additions would be of highly questionable usefulness.
+<pre>
+Name................SIL-50
+Weapon Type.........Stun Pistol              Weight..............1.25kg
+Damage Type.........Energy                   Stun Setting........Yes
+Accuracy............-1D+0 Penalty            Damage..............5D (Stun)
+Conceal Difficulty..12                       Two-Handed..........No</pre>
+
+[[Category:Stun Weapons]]

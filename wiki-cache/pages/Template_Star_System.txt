@@ -1,0 +1,36 @@
+TITLE: Template:Star System
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-05-26T06:50:30Z
+======================================================================
+<table width="280" align="right" border="1" cellpadding="0" cellspacing="0" style="border: 1px solid #aaa; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse;">
+<td>
+<table width="280" align="right" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="280" align="center" valign="top" colspan="2" bgcolor="{{{color}}}" style="font-family: Arial; font-size: 10pt;"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="280" valign="top" colspan="2" bgcolor="#cccccc"><b>Characteristics</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" valign="top">Principality:</td>
+<td width="220" valign="top">{{{principal}}}</td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" valign="top">Location:</td>
+<td width="220" valign="top">{{{location}}}</td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" valign="top">Neighbors:</td>
+<td width="220" valign="top">{{{neighbor}}}</td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" valign="top">Features:</td>
+<td width="220" valign="top">{{{features}}}</td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="280" valign="top" colspan="2" bgcolor="#dddddd"><b>Constituants</b></td></tr>
+<!-- star -->
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" align="center" valign="top" bgcolor="{{{color}}}">star</td>
+<td width="220" valign="top" align="left">{{{star}}}</td></tr>
+<!-- bodies -->
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="60" align="center" valign="top" bgcolor="#dddddd">bodies</td>
+<td width="220" valign="top" align="left">{{{bodies}}}</td></tr>
+</table>
+</td>
+</table><noinclude>[[Category:Templates|Star System]]</noinclude>

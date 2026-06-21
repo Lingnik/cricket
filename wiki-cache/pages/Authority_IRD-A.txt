@@ -1,0 +1,45 @@
+TITLE: Authority IRD-A
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2006-03-03T16:54:20Z
+======================================================================
+The '''Authority IRD''', short for '''I'''ntercept '''R'''econnaissance '''D'''efense, was a swift and heavily armed starfighter used by the [[Corporate Sector Authority|Corporate Sector's]] Picket Fleet. It featured powerful engines, two twin blaster cannons, and the best pilot ejection mechanism of any contemporary fighter, but lacked a hyperdrive. As a result, the Authority IRD had to be transported by larger vessels such as the [[Marauder-class Corvette|Marauder Corvette]] or the [[Victory-class Star Destroyer]].
+
+The Corporate Sector Authority designed the Authority IRD fighter for the various missions of the Picket Fleet. Early Authority IRD models were not aerodynamic and performed so badly in atmospheric combat that many pilots refused to engage targets in atmosphere; this led to the development of the Authority IRD-A, which was deployed during atmospheric battles. The IRD-A had a carefully molded fuselage that channeled air through a vector stabilizer, enhancing both maneuverability and speed; it also mounted concussion missiles, making it a tougher opponent than its predecessor.
+
+During [[Han Solo|Han Solo's]] days in the Corporate Sector, Solo and a group of outlaw techs fought against the new Authority IRD-A fighters, defeating them in early model [[Z-95 Headhunter|Z-95 Headhunters]]; this victory was anomalous, however, and other, more successful battles encouraged the Authority to begin a full production run of the IRD-A. 
+
+
+
+<pre>
+Craft ........ Authority IRD-A
+Type ......... Multipurpose Starfighter Cargo Capacity ......... 25 kg
+Scale ........ Starfighter              Consumables ............ 2 days
+Length ....... 10 meters                Hyperdrive Capability .. No
+Pilot Skill .. Starfighter Piloting     Hyperdrive Backup ...... None    
+Crew ......... 1                        Nav Computer ........... No
+Passengers ... None                     Maneuverability ........ 2D+1 (2D Atm)
+Hull ......... 138                      Space Movement ......... 90
+Shields ...... None                     Atmosphere ............. 400; 1150kmh
+Can Land? .... Yes                      Hangar Space ........... None
+
+Sensors ...... Normal:  1000,  Focus:  20,  Passive:  200
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 3 total (3 permanently filled)
+
+Stock Weapons:
+    One Twin Blaster Cannon:
+      Weapon Rating .... Standard       Damage ........ 5D
+      Fire Arc ......... Front          Fire Control .. 2D
+      Space Range ...... 1-5/10/17      Atmo Range .... 100-500m/1km/1.7km
+    One Concussion Missle Launcher:
+      Weapon Rating .... Class 3        Damage ........ 7D
+      Fire Arc ......... Front          Fire Control .. 1D
+      Space Range ...... 1/3/7          Atmo Range .... 50-100m/300m/700m 
+      Ammunition ....... 5 Missiles
+
+BASE COST NEW: 60000 cr              BASE COST USED: 15600 cr              
+SUGGESTED DOWNPAYMENT: 36000 (new), 9360 (used)</pre>
+----
+[[Category:Starfighters]]
+[[Category:Rendili Ships]]

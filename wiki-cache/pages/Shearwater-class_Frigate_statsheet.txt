@@ -1,0 +1,45 @@
+TITLE: Shearwater-class Frigate/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-03-31T18:51:58Z
+======================================================================
+<pre>
+Craft ........ Shearwater-class Frigate
+Type ......... Light Weapons Cruiser 	Cargo Capacity ......... 1000 metric tons
+Scale ........ Capital               	Consumables ............ 6 months
+Length ....... 406 Meters            	Hyperdrive Multiplier .. x1.5
+Pilot Skill .. Capital Ship Piloting 	Hyperdrive Backup ...... x8
+Crew ......... 647                   	Nav Computer ........... Yes
+Passengers ... 15                    	Manuverability ......... 2D+2
+Hull ......... 975                   	Space Movement ......... 75
+Shields ...... 216                   	Atmosphere ............. 425; 1200 kmh
+Can Land? .... No                    	Hangar Space ........... 250
+
+Sensors ...... Normal:  1600,  Focus:  50,  Passive:  400
+
+Small Craft Complement ..... 12 Z-110 Hellion, 1 L-200 Halcyon (external), 2 L-202 Hellhawk
+
+Stock Weapons:
+   Sixteen Turbolasers (Eight twin turrets):
+      Weapon Rating .. Standard           	Damage ........ 6D
+      Fire Arc ....... 2FR, 3 Turret, 1B  Fire 	Control .. 3D
+      Space Range .... 3-15/35/75         	Atmo Range .... 6-30km/70km/150km
+   Six Ion Cannons (fire separately):
+      Weapon Rating .. Type 3             	Damage ........ 6D
+      Fire Arc ....... 3FR, 3B            		Fire Control .. 2D+2
+      Space Range .... 1-10/25/50         	Atmo Range .... 2-20km/50km/100km
+   Twenty-four Laser Cannons ( fire separately):
+      Weapon Rating .... Type 5         	Damage ........ 5D
+      Fire Arc ......... 8L, 8R, 8T     		Fire Control .. 3D
+      Space Range ...... 1-3/12/25      	Atmo Range .... 100-300m/1.2km/2.5km
+      Scale: Starfighter
+   Six Variable-Warhead Missile Launchers:
+      Weapon Rating .... Class 5a        	Damage ........ 9D
+      Fire Arc ......... FR/L/R          		Fire Control .. 3D
+      Space Range ...... 2-12/30/60      	Atmo Range .... 4km-24km/60km/120km
+   Two Tractor Beam Projectors (fire seperately):
+      Weapon Rating .... Class 1         	Damage ........ 4D
+      Fire Arc ......... Front           		Fire Control .. 2D
+      Space Range ...... 1-5/15/30       	Atmo Range .... 2-10km/30km/60km
+</pre>
+
+[[Category:Stat Sheets]]

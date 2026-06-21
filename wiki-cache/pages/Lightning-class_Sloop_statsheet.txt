@@ -1,0 +1,41 @@
+TITLE: Lightning-class Sloop/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-01T14:44:01Z
+======================================================================
+<pre>
+Craft ........ SubPro Lightning-class Sloop
+Type ......... Armed Transport Sloop Cargo Capacity ......... 1200 metric tons
+Scale ........ Capital               Consumables ............ 3 months
+Length ....... 130 meters            Hyperdrive Multiplier .. x1.5
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... None
+Crew ......... 40 to 120             Nav Computer ........... Yes  
+Passengers ... 80                    Maneuverability ........ 3D
+Hull ......... 975                   Space Movement ......... 80
+Shields ...... 162                   Atmosphere ............. 500, 1200kmh
+Can Land? .... Yes                   Hangar Space ........... 80
+
+Sensors ...... Normal:  1600,  Focus:  50,  Passive:  400
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 39 total (15 filled)
+
+Stock Weapons:
+   Four Turbolaser Turrets: 
+      Weapon Rating .. Standard            Damage ........ 6D
+      Fire Arc ....... FR/L/R              Fire Control .. 3D
+      Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+   Ten Heavy Laser Cannons (starfighter scale, fire separately):
+      Weapon Rating .... Type 6            Damage ........ 5D
+      Fire Arc ......... 2FR, 3L, 3R, 2B   Fire Control .. 3D
+      Space Range ...... 1-5/15/30         Atmo Range .... 100-500m/1.5km/3km
+   One Tractor Beam Projector:
+      Weapon Rating .... Class 1           Damage ........ 4D
+      Fire Arc ......... Front             Fire Control .. 2D+2
+      Space Range ...... 1-5/15/30         Atmo Range .... 2-10km/30km/60km
+
+BASE COST NEW: 1850000 cr            BASE COST USED: 518000 cr             
+SUGGESTED DOWNPAYMENT: 1110000 (new), 310800 (used)</pre>
+
+
+
+[[Category:Stat Sheets]]

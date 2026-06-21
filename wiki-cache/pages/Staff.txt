@@ -1,0 +1,16 @@
+TITLE: Staff
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-17T18:21:48Z
+======================================================================
+More used for walking support than a weapon, but when push comes to shove, 
+sometimes a long stick works just fine. Capable of stunning an opponent 
+quickly and can keep them at distance just as easily. Never, however, bring a 
+staff to a blaster fight.
+<pre>
+Name................Staff
+Weapon Type.........Melee Weapon             Weight..............3kg
+Damage Type.........Melee                    Stun Setting........Yes
+Accuracy............0D+0                     Damage..............1D
+Conceal Difficulty..24                       Two-Handed..........Yes</pre>
+
+[[Category:Melee]]

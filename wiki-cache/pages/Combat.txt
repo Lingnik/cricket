@@ -1,0 +1,121 @@
+TITLE: Combat
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2014-11-04T14:54:21Z
+======================================================================
+Personal combat on Star Wars MUSH uses a simplified version of West End Games' D6 system. Players may wish to use the [[D6 Combat Rules|Advanced Combat System]], however this is not required and players may only insist upon the system set out below:
+
+Combat is divided into rounds, Each round represents five seconds of time and all participants may perform an action each round.  Each round, initiative is determined to know what order the participants act in, and then actions their are resolved.
+
+Each round players must:
+# Determine initiative
+# Resolve actions
+=== ===
+
+=== '''Initiative''' ===
+Initiative determines who acts in what order when a scene enters combat rounds. All parties roll Perception (PER) and the party with the highest roll decides whether they wish to go first or last.
+=== ===
+
+=== '''Actions & Attacks''' ===
+Most, though not all, actions taken in a combat round will be attacks and are handled by opposing rolls. The attacking player rolls the appropriate skull, and the defending player rolls against it. If the attacker's roll is equal to or higher than the defender's, the defender is struck by the attack.
+=== ===
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 300px; height: 100px;"
+|-
+! scope="col" style="text-align:center;"|Attack
+! scope="col" style="text-align:center;"|Defense
+|-
+|Blaster (DEX)
+|Dodge (DEX)
+|-
+|Brawling (STR)
+|Brawling (STR)
+|-
+|Melee (DEX)
+|Melee (DEX)
+|-
+|Thrown Weapons (DEX)
+|Dodge (DEX)
+|}
+=== ===
+
+=== '''Cover & Multiple Actions''' ===
+Shooting from, or into, cover and taking more than one action a round impose penalties on a character. Drawing a weapon, switching weapon mode from or to stun and making more than one attack are all distinct actions.
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col" style="text-align:center;"|Amount of Character Covered
+! scope="col" style="text-align:center;"|Bonus to Dodge Rolls
+! scope="col" style="text-align:center;"|Penalty to Attack Rolls
+|-
+|1/4 (25%) covered
+| style="text-align:right;"| +1D
+| style="text-align:right;"| -
+|-
+|1/2 (50%) covered
+| style="text-align:right;"| +2D
+| style="text-align:right;"| -1D
+|-
+|3/4 (75%) covered
+| style="text-align:right;"| +4D
+| style="text-align:right;"| -3D
+|-
+|100% covered
+| style="text-align:right;"|Cannot be hit
+| style="text-align:right;"|Cannot attack
+|}
+=== ===
+
+=== '''Damage and Injury''' ===
+If a character is struck by an attack, the severity of the injury must be determined. This is a contested roll. The attacker rolls the damage rating of the weapon and the defender rolls their strength characteristic. Unarmed (Brawling) attacks use the strength rating of the attacker.
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="height: 100px; width: 500px;"
+|-
+! scope="col"|Damage beats Strength by
+! scope="col"|Wound State
+|-
+|Less than 0
+|None (harmless)
+|-
+|0-3
+|Stunned
+|-
+|4-8
+|Wounded
+|-
+|9-12
+|Incapacitated
+|-
+|13-15
+|Mortally Wounded
+|-
+|16+
+|
+Killed
+|}
+
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 1000px; height: 100px;"
+|-
+! scope="col"|Wound State
+! scope="col"|Effects
+|-
+|Stunned
+| -1D to all skill & attribute rolls for the rest of the round and next round. Stunned persists (without penalties) for 30m, or until the characte rests for 1m. If the number of Stunned results equals the character's STR attribute, they are unconscious for 2D minutes. A Poor medical roll revives an unconscious character.
+|-
+|Wounded
+|The character falls prone and can take no actions for the rest of the round. Until healed, the character suffers a -1D penalty to all skill and attribute rolls. A second Wounded result increases the penalty to -2D. A third result Incapacitates the character.
+|-
+|Incapacitated
+|The character falls prone and is knocked unconscious for 10D minutes. The character cannot do anything until they are healed. An Incapacitated character who is Incapacitated again becomes Mortally Wounded.
+|-
+|Mortally Wounded
+|The character falls prone and is unconscious. At the beginning of each round, roll 2D. If the result is less than the number of rounds the character has been Mortally Wounded, the character dies. A Good medical roll will stabilize the character. A stabilized character must still receive proper medical attention within the hour, or die.
+|-
+|Killed
+|The character is killed.
+|}
+
+*Mortally wounded and Killed are [[consent]] level injuries which can only be applied where participants have consented to death. Otherwise, the highest wound level is incapacitated.
+* Some weapons inflict stun damage - any result more serious than ''stunned ''renders the target unconscious for 2D minutes.
+=== ===
+
+=== '''Armor''' ===
+Armor protects the wearer from damage. Armor is rated by its effectiveness against both physical and energy damage. This value is added to the defender's strength when rolling to determine the level of injury sustained.
+
+All but the lightest armors are heavy, bulky, and tiring to wear and slow down the wearer, making them less agile. This is represented by a penalty to the Dexterity statistic of the wearer and it applies in all cases. Certain kinds of heavy armor enhance the wearer's Strength statistic. This is only used for measurements of strength, such as for brawling and melee attacks and determining weight limits. It has no impact on absorbing damage.

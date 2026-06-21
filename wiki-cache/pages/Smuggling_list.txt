@@ -1,0 +1,190 @@
+TITLE: Smuggling list
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2008-03-26T11:06:44Z
+======================================================================
+{|align=right
+  |__TOC__
+  |}
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Caged Animals'''                                                       
+|-
+! ZIS Number
+! Item Name
+! Base Price
+|-
+|70049  || Caged Nabooian Sheep	|| 1000
+|-
+|70051	|| Caged Scurrier	|| 1500
+|-
+|70052	|| Caged Amas Hawk	||2400
+|-
+|70050	|| Caged Kowakian Monkey-Lizard	||3200
+|-
+|70048	|| Caged Nek Battle Dog	||4000
+|-
+|70047	|| Caged Bantha	||7000
+|-
+|70045	|| Caged Ronto	||10000
+|-
+|70046	|| Caged Rancor	||25000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Emergency Relief'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70038	|| Emergency Shelter	||2500
+|-
+|70039	|| Decontamination Unit	||5000
+|-
+|70040	|| Emergency Food Supply	||7500
+|-
+|70041	|| Emergency Medical Aid	||10000
+|-
+|70042	|| Emergency Power Generator	||15000
+|-
+|70017	|| Enriched Bacta Fluid Shipment	||25000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Spices and Drugs'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70005	|| Crate of Death Sticks	||5000
+|-
+|70004	|| Crate of Stimpacks	||10000
+|-
+|70003	|| Crate of Carsunum Spice	||20000
+|-
+|70002	|| Crate of Glitterstim	||30000
+|-
+|70026	|| Shipment of High-Grade Ryll	||40000
+|-
+|70006	|| Crate of Waterpipes	||50000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Art and Force Items'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70010	|| Stolen Holosculpture	||10000
+|-
+|70024	|| Ilum Crystal	||25000
+|-
+|70027	|| Stygium Crystal	||100000
+|-
+|70028	|| Jedi Holocron	||1000000
+|-
+|70029	|| Sith Holocron	||1000000
+|-
+|70030	|| Mystic Force Talisman	||250000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Espionage'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70012	|| Forged Document	||3000
+|-
+|70009	|| Encrypted Datacard	||6000
+|-
+|70016	|| Bothan SpyNet Datacylinder	||9000
+|-
+|70025	|| BoSS DataPlug	||12000
+|-
+|70014	|| Case of CSA Customs Seals	||15000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Enslaved Beings'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70001	|| Skrilling Slave	||5000
+|-
+|70031	|| Elomin Slave	||10000
+|-
+|70032	|| Nikto Slave	||15000
+|-
+|70033	|| Human Slave	||20000
+|-
+|70034	|| Klatooinan Slave	||22000
+|-
+|70035	|| Weequay Slave	||25000
+|-
+|70036	|| Twi'lek Slave Girl	||27000
+|-
+|70037	|| Wookiee Slave	||30000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Tax/Tariff Evasion and Theft'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70007	|| Crate of Chak-Root	||2500
+|-
+|70013	|| Barrel of R'alla Mineral Water	||5000
+|-
+|70011	|| Case of Exotic Spirits	||10000
+|-
+|70020	|| Tybanna Gas Carbonite Block	||15000
+|-
+|70015	|| Stolen Shipment of Durasteel	||20000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Underground Goods'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70022	|| Stasis Tube of Larval Kohouns	||5000
+|-
+|70008	|| Crate of Weapon Parts	||7500
+|-
+|70021	|| Sensor Baffler	||15000
+|-
+|70023	|| Crate of Illegal Droid Parts	||25000
+|}
+
+
+{| border="1" cellpadding="5" cellspacing="0" width="500" style="border-collapse:collapse;"
+|+ '''Black Market Currency'''
+|-
+! ZIS Number 
+! Item Name 
+! Base Price  
+|- 
+|70018	|| Cache of Durindfire Gems	||8000
+|-
+|70019	|| Pouch of Corusca Gems	||12000
+|}
+
+
+[[Category: Underworld]]

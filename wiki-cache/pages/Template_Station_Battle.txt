@@ -1,0 +1,62 @@
+TITLE: Template:Station Battle
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-02-27T15:50:46Z
+======================================================================
+<table width="260" border="1" cellpadding="0" cellspacing="0" align="right" style="border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; clear: right;">
+<td>
+<table width="260" align="right" border="0" cellpadding="2" cellspacing="0">
+<tr>
+<td width="260" align="center" valign="top" colspan="2">{{{image}}}</td></tr>
+<tr style="font-family: Arial; font-size: 10pt;">
+<td width="260" align="center" valign="top" bgcolor="#978a7a" colspan="2"><b>{{{name}}}</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td width="100" align="left" valign="top">Principality:</td>
+<td width="160" align="left" valign="top">{{{principal}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Parent system:</td>
+<td align="left" valign="top">{{{parent}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Location:</td>
+<td align="left" valign="top">{{{location}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Sim Status:</td>
+<td align="left" valign="top">{{{status}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#dedebd" colspan="2"><b>Specifications</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Diameter:</td>
+<td align="left" valign="top">{{{diameter}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Class:</td>
+<td align="left" valign="top">{{{class}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Type:</td>
+<td align="left" valign="top">{{{type}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Armament:</td>
+<td align="left" valign="top">{{{weapons}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Craft Support:</td>
+<td align="left" valign="top">{{{craft}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center" valign="top" bgcolor="#dedebd" colspan="2"><b>Complement</b></td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Crew:</td>
+<td align="left" valign="top">{{{crew}}}</td>
+</tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="left" valign="top">Troops:</td>
+<td align="left" valign="top">{{{troops}}}</td>
+</tr>
+</table>
+</td>
+</table>

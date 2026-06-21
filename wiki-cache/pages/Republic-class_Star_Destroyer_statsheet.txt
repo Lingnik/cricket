@@ -1,0 +1,42 @@
+TITLE: Republic-class Star Destroyer/statsheet
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-04-01T14:37:53Z
+======================================================================
+<pre>Craft ........ Republic-class Star Destroyer
+Type ......... Star Destroyer        Cargo Capacity ......... 11000 metric tons
+Scale ........ Capital               Consumables ............ 2 years
+Length ....... 1250 meters           Hyperdrive Multiplier .. x2
+Pilot Skill .. Capital Ship Piloting Hyperdrive Backup ...... x10
+Crew ......... 8,168, gunners: 260   Nav Computer ........... Yes
+               skeleton: 2,917/+10   Maneuverability ........ 1D
+Passengers ... 3200 (Troops)         Space Movement ......... 60
+Hull ......... 1446                  Hangar Space ........... 750
+Shields ...... 243                   Can Land? .............. No
+
+Sensors ...... Normal:  2000,  Focus:  60,  Passive:  500
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 130 total (110 filled)
+         
+Weapons:  
+  Forty Turbolaser Batteries:
+      Weapon Rating .. Type 1A             Damage ........ 6D
+      Fire Arc ....... 10FR, 10L, 10R, 10B Fire Control .. 1D
+      Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+  Forty Heavy Turbolaser Batteries:
+      Weapon Rating .. Type 1B             Damage ........ 8D
+      Fire Arc ....... 20FR, 10L, 10R      Fire Control .. 0D
+      Space Range .... 3-15/35/75          Atmo Range .... 6-30km/70km/150km
+  Twenty Ion Cannons:
+      Weapon Rating .. Type 3              Damage ........ 6D
+      Fire Arc ....... 5FR, 5L, 5R, 5B     Fire Control .. 3D
+      Space Range .... 1-10/25/50          Atmo Range .... 2-20km/50km/100km
+  Ten Tractor Beam Projectors:
+      Weapon Rating .... Class 2           Damage ........ 6D
+      Fire Arc ......... 6FR, 2L, 2R       Fire Control .. 4D
+      Space Range ...... 1-5/15/30         Atmo Range .... 2-10km/30km/60km       
+
+BASE COST NEW: 7000000 cr            BASE COST USED: 1960000 cr            
+SUGGESTED DOWNPAYMENT: 4200000 (new), 1176000 (used)</pre>
+
+[[Category:Stat Sheets]]

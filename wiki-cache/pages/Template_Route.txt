@@ -1,0 +1,10 @@
+TITLE: Template:Route
+NAMESPACE: 10 (Template)
+LAST_EDIT: 2006-06-09T00:31:44Z
+======================================================================
+<table width="600" align="center" border="1" cellpadding="2" cellspacing="0" style="border: 1px solid {{{color}}}; border-collapse: collapse; clear: right;">
+<tr bgcolor="{{{color}}}" style="font-family: Arial; font-size: 8pt; font-weight: bold;">
+<td width="80" align="center">Origin</td><td align="center">Systems, Planets, Features on Route</td><td width="80" align="center">Termination</td></tr>
+<tr style="font-family: Arial; font-size: 8pt;">
+<td align="center">{{{start}}}</td><td align="center">{{{items}}}</td><td align="center">{{{end}}}</td></tr>
+</table><noinclude>[[Category:Templates|Route]]</noinclude>

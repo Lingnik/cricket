@@ -1,0 +1,47 @@
+TITLE: SW1ki:Peer review
+NAMESPACE: 4 (Project)
+LAST_EDIT: 2007-11-07T22:48:46Z
+======================================================================
+{| style="clear:both; background:none;"
+{|
+| width="60%" style="padding:1em 1em 1em 1em; border:1px solid #dfdfdf; background-color:#FFFAF0" valign="top"|
+
+SW1ki's '''Peer review''' process exposes articles to closer scrutiny from a broader group of editors, and is intended for high-quality articles that have already undergone extensive work, often as a way of preparing a [[SW1ki:Featured article|featured article]]. 
+
+For feedback on articles that are less developed, use the article's talk page.
+
+|-
+| colspan=2 style="padding:1em 1em 1em 1em; border:1px solid #dfdfdf; background-color:#FFFAF0" valign="top"|
+<span style="font-size:14pt">Nomination procedure</span>
+
+Anyone can request peer review. '''The best way to get lots of reviews''' is to reply promptly and appreciatively '''on this page''' to any comments. If you post a request, please do not discourage reviewers by ignoring their efforts. 
+
+While not required it is '''strongly encouraged''' that users submitting new peer review requests choose an article from those already listed to peer review. Preference should be given to those articles which have been listed the longest with little or no response.
+
+To add a nomination:
+# Place <nowiki>{{peer review}}</nowiki> at the top of the article's '''talk page''', creating a peer review notice to notify other editors of the review.
+# Within the notice, click "'''<u>request has been made</u>'''" to open a new discussion page.
+# Place <nowiki>===[[ARTICLE NAME]]===</nowiki> at the top, with the name of your article in the link brackets, and then note the kind of comments/contributions you want, and/or the sections of the article you think need reviewing.  Sign with four tildes (<nowiki>~~~~</nowiki>) and save the new page.  
+# Edit '''this''' page, pasting <nowiki>{{SW1ki:Peer review/ARTICLE NAME}}</nowiki> <u>'''at the top'''</u> of the [[#Requests|list of nominees]].
+
+Your review may be more successful if you politely request feedback on the discussion pages of related articles and/or send messages to others who have contributed to the same or a related field.
+
+<span style="font-size:14pt">How to respond to a request</span>
+*Review one of the articles below.  If you think something is wrong—e.g., article length, the lead section, poor grammar/spelling, factual errors—post a comment in the article's section on this page. If you create a subsection within a review for your comments, please do not link your username: it is easily confused with an article title.
+*Feel free to correct the article yourself.  Please consider noting your edits here to keep others informed about the article's progress.
+
+<span style="font-size:14pt">How to remove a request</span><br>
+You may remove to the current archive any
+*inactive listings or listings older than one month, 
+*inappropriate or abandoned listings (where the nominator has not replied to comments)
+*articles that have become featured articles.
+
+After removing the listing, contributors should replace the <nowiki>{{peerreview}}</nowiki> tag on the article's talk page with <nowiki>{{oldpeerreview}}</nowiki>.
+
+|}
+
+==Requests==
+{{SW1ki:Peer review/Galactic Empire}}
+--[[User:Danik Kreldin|Danik Kreldin]] 21:46, 5 April 2007 (UTC)
+
+[[Category:SW1ki|{{PAGENAME}}]]

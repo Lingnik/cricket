@@ -1,0 +1,43 @@
+TITLE: Star Galleon-class Frigate
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2007-01-18T17:15:47Z
+======================================================================
+<pre>   Carries  about the same amount of cargo as regular cargo ships but with
+   added protection..the interior bristles with anti-intruder defenses and
+   the  cargo  hold  can detach and  be  jettisoned into hyperspace with a
+   beacon that calls for help as it randomly jumps through hyperspace.
+
+Craft ....... KDY's Star Galleon
+Type ........ Cargo/Escort Frigate  Cargo Capacity ........ 100000 metric tons
+Scale ....... Capital               Consumables ........... 6 months
+Length ...... 300 meters            Hyperdrive Multiplier . x2
+Pilot Skill . Capital Ship Piloting Hyperdrive Backup ..... x15
+Crew ........ 150                   Nav Computer .......... Yes
+Passengers .. 300 (Troops)          Maneuverability ....... 1D
+Hull ........ 1335                  Space Movement ........ 30
+Shields ..... 162                   Hangar Space .......... 200
+Can Land? ... Yes
+
+Sensors ..... Normal:  600,  Focus:  30,  Passive:  150
+
+Weapon Skill ...... Starship Gunnery
+Weapon Slots ...... 41 total (11 filled)
+
+Stock Weapons:
+     Ten Turbolaser Batteries (fire separately):
+      Weapon Rating .... Type 2         Damage ........ 4D
+      Fire Arc ......... 5L, 5R         Fire Control .. 2D
+      Space Range ...... 3-15/35/75     Atmo Range .... 6-30km/70km/150km
+
+     One Concussion Missile Launcher:
+      Weapon Rating .... Class 5        Damage ........ 4D
+      Fire Arc ......... Front          Fire Control .. 5D
+      Space Range ...... 2-12/30/60     Atmo Range .... 200m-1.2km/3km/6km
+      Ammunition ....... 5 Missiles      
+
+BASE COST NEW: 4000000 cr            BASE COST USED: 1120000 cr            
+SUGGESTED DOWNPAYMENT: 2400000 (new), 672000 (used)</pre>
+
+
+[[Category:Capital Ships]]
+[[Category:KDYSFS Ships]]

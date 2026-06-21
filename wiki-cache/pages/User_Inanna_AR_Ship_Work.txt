@@ -1,0 +1,80 @@
+TITLE: User:Inanna/AR Ship Work
+NAMESPACE: 2 (User)
+LAST_EDIT: 2008-03-14T23:57:24Z
+======================================================================
+Welcome to the main Work Page for the [[Angry Rancor]].  This page is for OOC information about the ship, including various bits and bobs that might be interesting or important for the crew to know about, and any matters that are in need of attention on board ("Wanted:").  Some of that might be code work, some of it administrative type stuff, and some of it other odds and ends.
+
+I (Inanna) am no longer planning to do active work on this stuff, so if anyone else on the crew wants to step in and get things done, feel free.  You are welcome to edit this page where it sits, in my personal userspace here on the wiki, or copy or move it elsewhere.
+
+
+== Flight Deck ==
+
+The Main Hangar is open for people to land in.  There's a Ship's Services area off of this, with a subset of different rooms that might come in handy, or might not.
+
+* Tip: If people want to set up an object as their own crew quarters on board, we recommend placing it (dark or not) in Ship's Services.  ICly, there's a crew area accessible off of this.
+
+* The official long-range shuttle for the ship is a [[Lambda-class Shuttle|Lambda]] called the ''Silver [[:starwars:Mosgoth|Mosgoth]]''.
+
+== Passenger Deck ==
+
+The Passenger Deck is pretty well set at this point.  It includes:
+
+=== Casino ===
+
+We have a variety of casino games set up - currently including a [[Jubilee Wheel]], [[Lugjack Machine]] and a [[Chance Table]].  There doesn't seem to be any coded [[Sabacc]] in-game... yet.
+
+* We now have a [[:starwars:Kowakian Monkey-Lizard|Kowakian Monkey-Lizard]], named Lloyd, in the Casino.
+
+=== Restaurant ===
+
+The restaurant is based on a [http://en.wikipedia.org/wiki/Churrascaria churrascaria] theme.  For now, we don't have a coded food and drink menu, but it can be assumed to include a lot of types of meat from around the galaxy, along with other exotic dishes.
+
+=== Lounge ===
+
+The Lounge is set up so that different descriptions can be applied, to change the layout of the room for different functions.
+
+* Wanted: a code setup to allow crew members to set a new desc, without connecting as the BC?  (could apply the same code to the Arena)
+** Quick and Dirty Sollution: Declare one of the Rooms of the Rancor as a Master Zone Room and add an evaluation zone lock that references the crew_list attribute. That should give them the ability to change the rooms, including their @descs, without giving them dominion over exits, etc, iirc. --[[User:Daana|Daana]] 11:56, 2 April 2007 (UTC)
+
+* Added code object to the Bridge that forwards all space-poses, -emits and -ooc chatter to the Wampa Lounge. Potentially Spammy. (and far from foolproof). --[[User:Daana|Daana]] 22:34, 13 April 2007 (UTC)
+** I've just added a switch for this, on the ZMO.  crew members can "arlounge/space on|off" - it will emit something to the lounge, informing people there of what was done. --[[User:Inanna|Inanna]] 19:36, 31 October 2007 (UTC)
+
+=== Hotel ===
+
+The Hotel is currently set up with four coded suites.
+
+* Suites are locked to a single renter at a time - I have added (undocumented) commands that crew can use to check people in and out of the hotel: arhotel/checkin <guest>=<suite> and arhotel/checkout <suite>.  Crew can see who is checked in with arhotel/register.  I intended to put together commands that the guests could use to allow /other/ people to enter their rooms (while still having the doors locked to the public), but didn't get that finished.  -[[User:Inanna|Inanna]] 23:57, 14 March 2008 (UTC)
+
+== Animal Deck ==
+
+This deck is currently closed off to passengers, until we have set up the Zoo space and populated the ship with at least some animals.
+
+* The code setup for the Zoo space is essentially in place, it just needs to be populated (which could make for some fun hunting TPs, if anyone cares to set those up and run them).  "The Zoo" is an object, currently carried by the BC and ultimately intended to be set on the Animal Deck, dark.  Sections are defined in the SECTION_<name> attributes, Animal details can be added on DESC_<animal> (for what they and their display case actually looks like) and INFO_<animal> (for whatever is on the sign next to that display case).  My thought was to have the animal names displayed in various colors, within the "section" descriptions.  The DESC and INFO attributes could also be called as Inspects, from other rooms on the ship.  Also see +zoo/help on the object. -[[User:Inanna|Inanna]] 23:57, 14 March 2008 (UTC)
+
+* Wanted: ticket code for the Arena and the Zoo?
+
+* Coded/smugglable animals on the game include: Amas Hawk (an original, non-canon animal), [[:starwars:Kowakian Monkey-Lizard|Kowakian Monkey-Lizard]], [[:starwars:Nek|Nek Battle Dog]], [[:starwars:Ronto|Ronto]], [[:starwars:Bantha|Bantha]], [[:starwars:Shaak|Nabooian Sheep]], [[:starwars:Rancor|Rancor]] and [[:starwars:Scurrier|Scurrier]].  Each comes caged, and can be uncaged with a command, becoming a movable or unmovable ZIS object.  Also available - a Stasis Tube of Larval [[:starwars:Kouhuns|Kohouns]].  Any of these that we want, should be acquired through the system.
+**We now have a Rancor.  Suggested identity: a female named "Princess."
+
+* There are some other animal objects scattered throughout the ZIS list ([[:starwars:Worrt|Worrt]], [[:starwars:Womp Rat|Womp Rat]], etc).  We'll use these only if it makes sense to have them wandering around in the open, or something like that, otherwise we'll stick with inspects.
+
+
+== Bridge ==
+
+The bridge is expected to stay closed off for crew-only access at all times.
+
+* Droid: R6-M6 ("M6") is a Computer Programming, Repair, Search and Astrogation Droid. Her personality is courtious and polite and she is not prone to foul language or temper tantrums like most of the Astromech series and thusly fit to be employed on a cruise liner. She is in charge to help the Bridge Crew in handling the Rancor and can be employed by Security if it is needed.  Daana wants to see how far the object can be used by others than the one owner the thing can have. 
+
+
+== Reference Files ==
+
+[[Image:Ac3dimage01.png|thumb|right|300px|Amateurish 3D-rendering of the ship.]]
+* Wanted: a ship diagram, as a graphic for the wiki page.  Maybe set up a text diagram, in-game under ARHELP, to match.  Inanna has this [http://www.knifethrowing.info/silberpfeilnieto.html#nieto throwing knife shape] in mind.
+
+
+'''Links:'''<br />
+[[Angry Rancor]] - main wiki page for the ship<br />
+[[Angry Rancor/Crew List]]<br />
+[[Angry Rancor/Administrative details‎]] - neutrality agreements and policies on board<br />
+[[Angry Rancor/Relations with the Empire]] - status with Empire and Task Force, not fully linked (until Krieg looks at it)<br />
+[[Adventure Cruiselines]] - complete enough?

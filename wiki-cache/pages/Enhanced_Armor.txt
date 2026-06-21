@@ -1,0 +1,26 @@
+TITLE: Enhanced Armor
+NAMESPACE: 0 (Main)
+LAST_EDIT: 2005-12-18T16:29:59Z
+======================================================================
+Plates of lightweight but durable composites and alloys shroud the wearer of
+this state of the art infantry armour system from head to toe. A skeleton of 
+reinforced structural supports and servo pseudo-muscles enables the wearer to
+easily handle heavy weapons. Such suits invariably come equipped with an 
+array of sophisticated sensors and targeting electronics, as well as life 
+support systems and an assortment of other accessories. In addition to having
+attachment points for various weapons on locations like the shoulder or the 
+forearm, this suit also has the capability to grasp most common infantry 
+weaponry in its articulated gauntlets. Another attachment point in the middle
+of the back can take such accessories as jump packs or space thruster packs 
+for improved mobility. Unlike heavier, larger suits of power armor, or 
+walkers, this nimble augmented combat exoskeleton moves in a manner which 
+closely mimics an unarmored human being - it is perhaps one of the most 
+agile and versatile of such systems found in The Slice today.
+<pre>
+Name................Enhanced Armor
+Weight..............45kg                     Covers..............Body
+Physical Protection.1D+2                     Energy Protection...1D+0
+Conceal Difficulty..35                       Dexterity Penalty...-0D+1
+Strength Bonus......0D+1                </pre>
+
+[[Category:Armor]]
