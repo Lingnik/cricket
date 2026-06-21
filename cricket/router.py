@@ -151,6 +151,7 @@ class Router:
         resp = await s.persona.respond(turn)
         if resp is not None:
             self._dispatch_response(resp, event.channel, "channel", event.speaker.name)
+            self._remember_own(event.channel, resp.text)
 
     def _engaged_text(self, cfg, text: str) -> Union[str, None]:
         """Return the text to act on if engaged, else None.
@@ -348,6 +349,27 @@ class Router:
                 dbref=event.speaker.dbref,
                 kind=event.kind.value,
                 text=event.text,
+            )
+        )
+        if len(buf) > RECENT_CAP:
+            del buf[: len(buf) - RECENT_CAP]
+
+    def _remember_own(self, location: str, text: str) -> None:
+        """Append the bot's OWN reply to a channel's history. The bot's echoed output is
+        self-filtered, so without this the model never sees its own side of the
+        conversation and re-treads topics it already covered."""
+        recent = getattr(self.s, "recent", None)
+        if recent is None:
+            return
+        bid = getattr(self.s, "bot_identity", None)
+        name = (bid.name if bid is not None else "") or "Cricket"
+        buf = recent.setdefault(location, [])
+        buf.append(
+            ContextLine(
+                speaker=name,
+                dbref=getattr(bid, "dbref", None),
+                kind="say",
+                text=text,
             )
         )
         if len(buf) > RECENT_CAP:

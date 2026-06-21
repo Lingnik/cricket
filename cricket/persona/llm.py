@@ -93,22 +93,29 @@ class LlmPersona(Persona):
                 messages.append({"role": "user", "content": u})
                 messages.append({"role": "assistant", "content": a})
 
-        # Live user message: memories block (changes only when the cast changes) first, then
-        # the scene oldest -> newest, then the triggering line and a turn instruction.
+        # Live user message: memories block (changes only when the cast changes) first,
+        # then prior history as its OWN block, then the live line called out explicitly.
         parts = []
         if memories.strip():
             parts.append("What you know about who is here:\n%s" % memories.strip())
-        scene = []
-        for line in turn.context:
-            scene.append("%s: %s" % (line.speaker, line.text))
-        if turn.text.strip():
-            scene.append("%s: %s" % (turn.speaker, turn.text))
-        if scene:
-            parts.append("\n".join(scene))
+        # History now includes the bot's own past replies (router feeds them back), so the
+        # model sees the real back-and-forth and stops re-treading topics it already hit.
+        history = ["%s: %s" % (line.speaker, line.text) for line in turn.context]
+        if history:
+            parts.append("Recent conversation (oldest first):\n" + "\n".join(history))
         if turn.mode == "rp":
-            parts.append("Compose %s's next pose, in character." % name)
+            parts.append(
+                "Compose %s's next pose, in character, reacting to the scene above." % name
+            )
         else:
-            parts.append("Reply as %s, in character." % name)
+            # Chat: call out the latest line and tell the model to engage IT -- not riff on
+            # the whole transcript, which is what makes him recycle old topics.
+            if turn.text.strip():
+                parts.append('%s just said: "%s"' % (turn.speaker, turn.text))
+            parts.append(
+                "Respond as %s to what was JUST said, in character. Engage the latest "
+                "message directly; do not rehash earlier lines or repeat yourself." % name
+            )
         messages.append({"role": "user", "content": "\n\n".join(parts)})
         return messages
 
