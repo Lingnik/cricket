@@ -111,6 +111,29 @@ def test_block_grouping_merges_consecutive_same_poser():
     assert q[2].text == "lunges."  # a later same-poser block after an interruption is separate
 
 
+def test_ooc_suggestion_captured_for_current_room():
+    s = make_services()
+    s.locations["OOC"].feeds_suggestions = True
+    s.suggestions = {}
+    s.current_room = "Room1"
+    s.rp_enabled = {"Room1": True}
+    s.active_profile_doc = {"favorites": ["Johanna"]}
+    router = Router(s)
+    run(router, ChannelMessage("OOC", Actor("Johanna", "#4"), SpeechKind.SAY,
+                               "cricket, you should tase Crestian next round"))
+    buf = s.suggestions["Room1"]
+    assert buf and buf[0]["from"] == "Johanna" and buf[0]["favored"] is True
+    assert "tase Crestian" in buf[0]["text"]
+    # a non-favorite, still addressed -> captured but not favored
+    run(router, ChannelMessage("OOC", Actor("Bob", "#5"), SpeechKind.SAY,
+                               "cricket set the room on fire"))
+    assert s.suggestions["Room1"][-1]["favored"] is False
+    # a line that does not address Cricket -> not captured
+    n = len(s.suggestions["Room1"])
+    run(router, ChannelMessage("OOC", Actor("Bob", "#5"), SpeechKind.SAY, "nice weather today"))
+    assert len(s.suggestions["Room1"]) == n
+
+
 def test_harass_on_connect_pages_newcomer():
     from cricket.mush.events import ConnectNotice
     s = make_services()
