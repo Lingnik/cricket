@@ -19,7 +19,7 @@ from .base import Persona, Response, Turn
 from .inference import InferenceClient
 
 # Ollama option keys passed straight through from the profile's inference block.
-_PASSTHROUGH = ("num_ctx", "num_predict", "temperature", "top_p", "stop")
+_PASSTHROUGH = ("num_ctx", "num_predict", "temperature", "top_p", "stop", "seed")
 
 # Standing guard against the 8B model's confabulation: it engages well but invents canon
 # (fake events/names/roles). Better to deflect than fabricate. Applied to every system prompt.
