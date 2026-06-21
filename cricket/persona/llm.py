@@ -55,6 +55,35 @@ def _looks_like_name(a: str) -> bool:
     return all(w[:1].isupper() and w.replace("'", "").replace("-", "").isalpha() for w in words)
 
 
+# Strip a leaked speech-verb/name prefix the @emit/say wrapper re-adds. Deliberately NOT
+# matching "Cricket's ..." or "Cricket whirs ..." -- those are valid third-person @emit openings.
+_NAME_PREFIX_RE = re.compile(
+    r"^\s*cricket(?:\s+mckenzie)?(?:\s+(?:says?|poses?|emits?|exclaims?)\b[,:]?|\s*:)\s*",
+    re.I,
+)
+
+
+def _clean_output(text: str, mode: str) -> str:
+    """Format-hygiene pass on a generated line (the scene-replay judge + live smoke tests both
+    flagged the 8B doing these): drop a leaked 'Cricket says,' prefix, remove `*asterisk*`
+    stage-directions (it's @emit prose / channel speech, never a script direction), and for
+    channel chat strip surrounding quotes so the 'X says, "..."' wrapper does not nest quotes."""
+    t = (text or "").strip()
+    t = _NAME_PREFIX_RE.sub("", t).strip()
+    # Asterisks are never wanted in his output; drop them and tidy the spacing they leave.
+    if "*" in t:
+        t = t.replace("*", "")
+        t = re.sub(r"[ \t]{2,}", " ", t).strip()
+    # Channel speech renders as `Cricket says, "..."`; a wrapping quote pair would nest.
+    if mode != "rp" and len(t) >= 2 and t[0] == '"' and t[-1] == '"':
+        t = t[1:-1].strip()
+    # Balance an odd number of double-quotes: a dangling close at the end -> drop it; an
+    # unclosed opener -> close it at the end. Either way the 8B's broken quoting is repaired.
+    if t.count('"') % 2 == 1:
+        t = t[:-1].rstrip() if t.endswith('"') else t + '"'
+    return t
+
+
 class LlmPersona(Persona):
     def __init__(
         self,
@@ -105,7 +134,7 @@ class LlmPersona(Persona):
         text = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
-        text = (text or "").strip()
+        text = _clean_output(text, turn.mode)
         if not text:
             return None
         action = "pose" if turn.mode == "rp" else "say"
@@ -333,12 +362,17 @@ class LlmPersona(Persona):
                     "most-recent beat -- not a generic rant. Draw on his history, grudges, and "
                     "the people present where they fit. Write it as a raw SW1 @emit -- "
                     "self-describing third-person prose (e.g. 'The little astromech's dome "
-                    "swivels...'); do NOT prefix it with your name or 'Cricket says/poses'." % name
+                    "swivels...'); do NOT prefix it with your name or 'Cricket says/poses'. "
+                    "Write ONE coherent pose; close every quotation mark you open; it is prose, "
+                    "so use NO *asterisks* or stage-directions." % name
                 )
             else:
                 parts.append(
                     "Respond as %s to what was JUST said, in character. Engage the latest "
-                    "message directly; do not rehash earlier lines or repeat yourself." % name
+                    "message directly; do not rehash earlier lines or repeat yourself. This is "
+                    "spoken on a channel (shown as '%s says, ...'), so give ONLY the words he "
+                    "speaks -- no surrounding quotation marks, no *asterisk* actions or "
+                    "stage-directions, no name prefix." % (name, name)
                 )
         messages.append({"role": "user", "content": "\n\n".join(parts)})
         return messages

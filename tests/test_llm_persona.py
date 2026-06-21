@@ -180,6 +180,33 @@ def test_claimed_field_merges_into_do_not_puppet():
     assert "Cricket" not in msg.split("belong to other players")[1][:60]  # bot filtered out
 
 
+def test_clean_output_format_hygiene():
+    from cricket.persona.llm import _clean_output
+    # leaked speech-verb/name prefix the wrapper re-adds is dropped
+    assert _clean_output('Cricket says, "Hi there"', "chat") == "Hi there"
+    assert _clean_output("Cricket: hello", "chat") == "hello"
+    # asterisk stage-directions removed (it is @emit prose, not a script)
+    assert _clean_output('*The dome dips.* "Mine."', "rp") == 'The dome dips. "Mine."'
+    # channel speech: a wrapping quote pair would nest inside `X says, "..."`
+    assert _clean_output('"Johanna is my owner"', "chat") == "Johanna is my owner"
+    # a single dangling close-quote reads as broken
+    assert _clean_output('He says hi"', "chat") == "He says hi"
+    # an unclosed opener gets closed at the end
+    assert _clean_output('The dome dips. "You are mine, meatbag', "rp") == 'The dome dips. "You are mine, meatbag"'
+    # valid third-person @emit openings are PRESERVED (not mistaken for a name prefix)
+    assert _clean_output("Cricket's dome swivels in disdain.", "rp") == "Cricket's dome swivels in disdain."
+    assert _clean_output("Cricket whirs angrily at the meatbag.", "rp") == "Cricket whirs angrily at the meatbag."
+
+
+def test_respond_applies_cleanup():
+    class DirtyClient(InferenceClient):
+        async def complete(self, messages, **params):
+            return 'Cricket says, "*beeps* You absolute fool"'
+
+    resp = _run(LlmPersona(DirtyClient(), lambda: {"prompts": {"system": "s"}}), _turn())
+    assert resp.text == "beeps You absolute fool"  # prefix + asterisks + nesting quotes gone
+
+
 def test_rp_charter_injected_on_rp_only():
     c = RecordingClient()
     LlmPersona(c, lambda: {"prompts": {"system": "s"}}, lore=_CharterLore())
