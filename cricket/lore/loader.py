@@ -167,6 +167,11 @@ class LoreStore:
         in OOC. Distilled from his RP logs. Empty if the artifact is absent."""
         return self._read("CRICKET-HISTORY.md")
 
+    def rp_charter(self) -> str:
+        """The standing RP rules (best-story-for-players, no puppeting, consent gate, serve the
+        plot). Injected on RP turns only. Empty if the artifact is absent."""
+        return self._read("RP-CHARTER.md")
+
     def known_characters(self) -> list:
         return sorted(self._index.get("characters", {}).keys())
 

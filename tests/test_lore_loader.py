@@ -123,6 +123,14 @@ def test_mentioned_empty_and_missing(tmp_path):
     assert ls.mentioned("") == []
 
 
+def test_rp_charter_and_self_history(tmp_path):
+    (tmp_path / "dossiers").mkdir(parents=True)
+    (tmp_path / "RP-CHARTER.md").write_text("Best story for the players.", encoding="utf-8")
+    ls = LoreStore(tmp_path)
+    assert "Best story" in ls.rp_charter()
+    assert ls.self_history() == ""  # absent artifact -> empty, no crash
+
+
 def test_missing_files_graceful(tmp_path):
     ls = LoreStore(tmp_path)  # empty dir, no artifacts
     assert ls.character_sheet() == ""
