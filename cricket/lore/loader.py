@@ -17,8 +17,45 @@ block depends only on the cast, not on call order).
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Union
+
+# Two-facet dossier convention. A per-player dossier MAY split its body into facets with
+# markdown headers `## IC` and `## OOC` (optionally with trailing text, e.g. "## OOC -- meta"):
+#   <shared preamble>
+#   ## IC
+#   <what Cricket plausibly knows in-universe -- used for room RP>
+#   ## OOC
+#   <wider meta / teasing / roast ammo -- used on channels>
+# `retrieve(scope=...)` returns the shared preamble plus the requested facet. Dossiers with
+# NO such headers are single-block and are returned whole under any scope (backward-compatible).
+# The richer per-player sheets distilled from the corpus PR should emit this format.
+_FACET_HEADER = re.compile(r"(?im)^##[ \t]+(IC|OOC)\b.*$")
+
+
+def _facet(text: str, scope: Union[str, None]) -> str:
+    """Return the part of a dossier relevant to `scope` ("ic"|"ooc"|None).
+
+    None -> whole text. With a scope: if the dossier has no `## IC`/`## OOC` headers,
+    return the whole text (legacy single-block). Otherwise return the shared preamble
+    (text before the first facet header) plus the requested facet's body; if the requested
+    facet is absent, return just the preamble (never leak the other facet).
+    """
+    if not scope:
+        return text
+    matches = list(_FACET_HEADER.finditer(text))
+    if not matches:
+        return text
+    want = scope.strip().lower()
+    preamble = text[: matches[0].start()].strip()
+    for i, m in enumerate(matches):
+        if m.group(1).lower() == want:
+            start = m.end()
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+            body = text[start:end].strip()
+            return (preamble + "\n\n" + body).strip() if preamble else body
+    return preamble
 
 
 def kebab(name: str) -> str:
@@ -105,12 +142,14 @@ class LoreStore:
         return []
 
     # -- retrieval -------------------------------------------------------------
-    def retrieve(self, cast, max_chars: int = 4000) -> str:
+    def retrieve(self, cast, scope: Union[str, None] = None, max_chars: int = 4000) -> str:
         """Assemble the dossiers for the present cast into a stable memories block.
 
-        Only characters with a dossier are included; duplicates are dropped; output is
-        ordered deterministically (by kebab stem) so the same cast always yields the same
-        block regardless of input order. The whole block is truncated to max_chars.
+        `scope` selects the IC or OOC facet of each dossier (see `_facet`): "ic" for room
+        RP (canon-plausible knowledge), "ooc" for channels (the wider roast/teasing suite),
+        None for the whole dossier. Only characters with a dossier are included; duplicates
+        are dropped; output is ordered deterministically (by kebab stem) so the same cast
+        always yields the same block regardless of input order, truncated to max_chars.
         """
         seen: set = set()
         chosen = []
@@ -125,6 +164,9 @@ class LoreStore:
         for n in chosen:
             text = self.dossier(n)
             if not text:
+                continue
+            text = _facet(text, scope)
+            if not text.strip():
                 continue
             piece = "## %s\n%s" % (n, text.strip())
             base = "\n\n".join(parts)

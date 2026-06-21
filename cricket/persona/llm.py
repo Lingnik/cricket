@@ -54,7 +54,10 @@ class LlmPersona(Persona):
 
     def _retrieve_memories(self, turn: Turn) -> str:
         """Dossiers for the characters present in this scene (name-based; channel and
-        room speakers are matched against known lore characters). Empty if no LoreStore."""
+        room speakers are matched against known lore characters). Empty if no LoreStore.
+
+        Scope follows the mode: room RP (`rp`) gets the IC facet (canon-plausible knowledge
+        only); channel chat gets the OOC facet (the wider meta/teasing suite)."""
         if self._lore is None:
             return ""
         cast = []
@@ -67,7 +70,8 @@ class LlmPersona(Persona):
         spk = (turn.speaker or "").strip()
         if spk and spk.lower() not in seen:
             cast.append(spk)
-        return self._lore.retrieve(cast)
+        scope = "ic" if turn.mode == "rp" else "ooc"
+        return self._lore.retrieve(cast, scope=scope)
 
     def _build_messages(self, turn: Turn, prompts: dict, memories: str = "") -> list:
         # Most-stable content first (system + bio), newest content last, so the prefix

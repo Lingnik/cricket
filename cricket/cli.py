@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import asyncio
 import os
+import socket
 import sys
 from pathlib import Path
 
@@ -20,6 +21,19 @@ from .daemon import run_async
 
 DEFAULT_CONFIG = "config.toml"
 DEFAULT_ENV = ".env"
+
+
+def _control_port_free(host: str, port: int) -> bool:
+    """True if we can bind the control port. A second daemon would otherwise connect as
+    the same character and double-respond, so we refuse to start when it is in use."""
+    probe = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        probe.bind((host, port))
+        return True
+    except OSError:
+        return False
+    finally:
+        probe.close()
 
 
 def _load(config_path: str, env_path: str):
@@ -51,6 +65,14 @@ def main(argv=None) -> int:
 
     if args.command == "run":
         config = _load(args.config, args.env)
+        if not _control_port_free("127.0.0.1", config.control.port):
+            print(
+                "cricket: a daemon already appears to be running (control port %d in "
+                "use). Stop it first -- two would both connect as the bot and "
+                "double-respond." % config.control.port,
+                file=sys.stderr,
+            )
+            return 1
         print("cricket: control socket on 127.0.0.1:%d" % config.control.port)
         print(
             "cricket: control panel on http://%s:%d/"
