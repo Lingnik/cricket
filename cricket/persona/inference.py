@@ -18,17 +18,30 @@ import urllib.request
 log = logging.getLogger("cricket.inference")
 
 # Some GGUF chat templates leak raw special tokens into the output (e.g. a trailing
-# "<|im_end|>" or a malformed "|im_end|>"). Strip them defensively.
+# "<|im_end|>" or a malformed "|im_end|>"), stray HTML break tags, or a role marker
+# followed by the model breaking character. Strip/cut them defensively.
 _SPECIAL_TOKEN = re.compile(
     r"<\|[^>]*?\|>"
     r"|<?\|?(?:im_end|im_start|eot_id|start_header_id|end_header_id"
     r"|begin_of_text|end_of_text)\|?>?"
+    r"|<br\s*/?>"
 )
+
+# A role marker at the START OF A LINE marks the model breaking character; everything
+# from there on is meta/out-of-character, so we cut at the first one. Anchoring to
+# start-of-string or a newline keeps us from matching the word inside dialogue, e.g.
+# "my assistant". (Wrapped forms like "<|assistant|>" are already removed above.)
+_ROLE_BREAK = re.compile(r"(?:\A|\n)[ \t]*(?:assistant|user|system)\b")
 
 
 def strip_special_tokens(text: str) -> str:
-    """Remove leaked chat-template special tokens from generated text."""
-    return _SPECIAL_TOKEN.sub("", text).strip()
+    """Remove leaked chat-template special tokens, HTML breaks, and any trailing
+    out-of-character role break from generated text."""
+    cleaned = _SPECIAL_TOKEN.sub("", text)
+    m = _ROLE_BREAK.search(cleaned)
+    if m is not None:
+        cleaned = cleaned[: m.start()]
+    return cleaned.strip()
 
 
 class InferenceClient(abc.ABC):

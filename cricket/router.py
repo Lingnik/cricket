@@ -91,6 +91,21 @@ class Router:
         if cfg.mode != "chat":
             return
 
+        # A chat channel can also be where admins drive RP: an addressed bang-command
+        # ("Cricket !pose") from an authorized admin is dispatched as a command. Bare
+        # addressed chat ("Cricket, hi") and non-admin senders fall through to chat.
+        cmdline = self._addressed_command(event.text)
+        if cmdline and cmdline.startswith("!"):
+            level = self._control_level(cfg, event.speaker)
+            if level is not None:
+                await self._dispatch_command(
+                    cmdline,
+                    event.speaker,
+                    lambda t: s.actions.say_channel(event.channel, t),
+                    level,
+                )
+                return
+
         if getattr(s, "muted", False):
             return
 
@@ -242,7 +257,16 @@ class Router:
                 actions.say_channel(location, resp.text)
         else:
             if resp.action == "pose":
-                actions.pose_room(resp.text)
+                # The model writes full third-person prose that often begins with the
+                # bot's own name ("Cricket's dome swivels..."). A `pose` (`:`) prepends
+                # the name too, producing "Cricket Cricket's dome...". When the text
+                # already names the bot, emit it raw so the name isn't doubled.
+                bid = getattr(self.s, "bot_identity", None)
+                name = (bid.name if bid is not None else "") or ""
+                if name and resp.text.lstrip().lower().startswith(name.lower()):
+                    actions.emit_room(resp.text)
+                else:
+                    actions.pose_room(resp.text)
             elif resp.action == "emit":
                 actions.emit_room(resp.text)
             elif resp.action == "page":

@@ -79,7 +79,17 @@ class LlmPersona(Persona):
             system = "%s\n\n%s" % (base, turn.directives)
         messages = [{"role": "system", "content": system.strip()}]
 
-        # User message: memories block (changes only when the cast changes) first, then
+        # Few-shot voice anchors as real turns (user prompt -> his actual pose). For an
+        # instruction-tuned model this anchors STYLE far harder than describing it in the
+        # system prompt -- it shows the model how Cricket specifically sounds, not just
+        # "be unhinged". Absent/empty -> behaves exactly as before.
+        for ex in prompts.get("fewshot") or []:
+            u, a = ex.get("user", ""), ex.get("assistant", "")
+            if u and a:
+                messages.append({"role": "user", "content": u})
+                messages.append({"role": "assistant", "content": a})
+
+        # Live user message: memories block (changes only when the cast changes) first, then
         # the scene oldest -> newest, then the triggering line and a turn instruction.
         parts = []
         if memories.strip():

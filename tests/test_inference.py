@@ -3,8 +3,32 @@ import json
 from unittest import mock
 
 from cricket.persona.base import BotIdentity, Turn
-from cricket.persona.inference import EchoInferenceClient, OllamaInferenceClient
+from cricket.persona.inference import (
+    EchoInferenceClient,
+    OllamaInferenceClient,
+    strip_special_tokens,
+)
 from cricket.persona.llm import LlmPersona
+
+
+def test_strip_special_tokens_removes_template_tokens_and_html():
+    assert strip_special_tokens("hello <|im_end|> world") == "hello  world"
+    assert strip_special_tokens("a trailing |im_end|>") == "a trailing"
+    assert "<br" not in strip_special_tokens("line one <br/> line two")
+
+
+def test_strip_special_tokens_truncates_role_break():
+    # The model breaks character on a new line with a role marker; cut it off.
+    out = strip_special_tokens(
+        "all his glory!\nassistant Let me know if you need changes."
+    )
+    assert out == "all his glory!"
+
+
+def test_strip_special_tokens_keeps_role_word_in_dialogue():
+    # "assistant" inside a sentence (not line-anchored) must NOT truncate.
+    text = '"Fetch my assistant, you fool," Cricket snaps.'
+    assert strip_special_tokens(text) == text
 
 
 class _FakeResp:

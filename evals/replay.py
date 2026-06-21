@@ -54,7 +54,13 @@ def is_cricket_pose(para: str) -> bool:
     )
 
 
-def make_replay_cases(corpus_dir: str, context_window: int = 3, per_log: int = 1) -> list:
+# The raw logs live here once the corpus is materialized into the tree.
+DEFAULT_CORPUS_DIR = "corpus/wiki"
+
+
+def make_replay_cases(
+    corpus_dir: str = DEFAULT_CORPUS_DIR, context_window: int = 3, per_log: int = 1
+) -> list:
     """Walk *.txt logs under corpus_dir and emit replay case dicts. Missing dir -> []."""
     if not corpus_dir or not os.path.isdir(corpus_dir):
         return []
