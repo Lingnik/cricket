@@ -2,223 +2,1090 @@
 <html lang="en">
 <head>
 <meta charset="us-ascii">
-<title>cricket control panel</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cricket Control</title>
 <style>
-  body { font-family: monospace; margin: 1.5em; max-width: 60em; color: #222; }
-  h1 { font-size: 1.3em; }
-  nav button { margin-right: 0.5em; }
-  .tab { display: none; }
-  .tab.active { display: block; }
-  textarea { width: 100%; height: 24em; font-family: monospace; box-sizing: border-box; }
-  select, input { font-family: monospace; }
-  button { cursor: pointer; padding: 0.3em 0.7em; }
-  .row { margin: 0.6em 0; }
-  .err { color: #a00; white-space: pre-wrap; }
-  .ok { color: #070; }
-  table { border-collapse: collapse; width: 100%; }
-  td, th { border: 1px solid #ccc; padding: 0.2em 0.5em; text-align: left; font-size: 0.9em; }
-  pre { background: #f4f4f4; padding: 0.5em; overflow-x: auto; }
-  .pill { display: inline-block; padding: 0.1em 0.5em; border: 1px solid #999; border-radius: 0.4em; }
+  :root {
+    --bg:        #0e1116;
+    --bg-2:      #161b22;
+    --bg-3:      #1c232d;
+    --panel:     #11161d;
+    --line:      #2a323d;
+    --line-2:    #3a4451;
+    --txt:       #cdd6e1;
+    --txt-dim:   #8a96a5;
+    --txt-faint: #5d6775;
+    --accent:    #4fd1a5;
+    --accent-2:  #2f9e7e;
+    --accent-dk: #123129;
+    --amber:     #e0b341;
+    --red:       #e8616a;
+    --red-dk:    #3a1c20;
+    --blue:      #5aa9f0;
+    --mono: ui-monospace, "Cascadia Mono", "Consolas", "Menlo", monospace;
+    --sans: -apple-system, "Segoe UI", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    font-family: var(--sans);
+    font-size: 14px;
+    color: var(--txt);
+    background: var(--bg);
+    line-height: 1.45;
+  }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--line-2); border-radius: 6px; }
+  ::-webkit-scrollbar-thumb:hover { background: #586272; }
+
+  /* ---- Layout shell ---- */
+  .app { display: grid; grid-template-columns: 260px 1fr; grid-template-rows: 52px 1fr; height: 100vh; }
+  header {
+    grid-column: 1 / 3;
+    display: flex; align-items: center; gap: 12px;
+    padding: 0 18px;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--line);
+  }
+  header .brand { display: flex; align-items: center; gap: 10px; font-weight: 600; letter-spacing: 0.3px; }
+  header .logo {
+    width: 26px; height: 26px; border-radius: 7px;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    color: #08120e; display: grid; place-items: center;
+    font-family: var(--mono); font-weight: 700; font-size: 15px;
+  }
+  header .brand small { color: var(--txt-faint); font-weight: 400; font-family: var(--mono); }
+  header .spacer { flex: 1; }
+  header .status-chip {
+    display: flex; align-items: center; gap: 7px;
+    font-family: var(--mono); font-size: 12px; color: var(--txt-dim);
+    padding: 5px 11px; border: 1px solid var(--line); border-radius: 20px; background: var(--bg-3);
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--txt-faint); box-shadow: 0 0 0 0 rgba(0,0,0,0); }
+  .dot.on  { background: var(--accent); box-shadow: 0 0 7px var(--accent); }
+  .dot.off { background: var(--red); }
+  .dot.mute{ background: var(--amber); }
+
+  /* ---- Sidebar ---- */
+  aside { background: var(--bg-2); border-right: 1px solid var(--line); display: flex; flex-direction: column; min-height: 0; }
+  .side-head { padding: 14px 14px 8px; display: flex; align-items: center; justify-content: space-between; }
+  .side-head h2 { margin: 0; font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--txt-faint); }
+  .plist { list-style: none; margin: 0; padding: 4px 8px; overflow-y: auto; flex: 1; }
+  .plist li {
+    display: flex; align-items: center; gap: 8px;
+    padding: 9px 11px; margin: 2px 0; border-radius: 8px;
+    cursor: pointer; font-family: var(--mono); font-size: 13px;
+    border: 1px solid transparent; transition: background .12s, border-color .12s;
+  }
+  .plist li:hover { background: var(--bg-3); }
+  .plist li.sel { background: var(--accent-dk); border-color: var(--accent-2); color: #e8fff6; }
+  .plist li .pname { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .plist li .dirty { color: var(--amber); font-size: 16px; line-height: 1; }
+  .badge {
+    font-family: var(--sans); font-size: 9.5px; font-weight: 700; letter-spacing: .6px;
+    text-transform: uppercase; color: #08120e; background: var(--accent);
+    padding: 2px 6px; border-radius: 5px;
+  }
+  .side-foot { padding: 10px; border-top: 1px solid var(--line); display: flex; gap: 8px; }
+  .side-foot .ctrl-link {
+    flex: 1; text-align: center; padding: 8px; border-radius: 8px; cursor: pointer;
+    font-family: var(--mono); font-size: 12px; color: var(--txt-dim);
+    border: 1px solid var(--line); background: var(--bg-3);
+  }
+  .side-foot .ctrl-link:hover { color: var(--txt); border-color: var(--line-2); }
+  .side-foot .ctrl-link.active { color: var(--accent); border-color: var(--accent-2); }
+
+  /* ---- Main ---- */
+  main { min-width: 0; min-height: 0; display: flex; flex-direction: column; overflow: hidden; }
+  .toolbar {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    padding: 12px 18px; border-bottom: 1px solid var(--line); background: var(--panel);
+  }
+  .toolbar .title { font-family: var(--mono); font-size: 15px; font-weight: 600; margin-right: 6px; }
+  .toolbar .title .at { color: var(--txt-faint); }
+  .toolbar .grow { flex: 1; }
+
+  .tabs { display: flex; gap: 2px; padding: 0 18px; background: var(--panel); border-bottom: 1px solid var(--line); }
+  .tabs button {
+    background: none; border: none; color: var(--txt-dim);
+    padding: 11px 15px; cursor: pointer; font-family: var(--mono); font-size: 13px;
+    border-bottom: 2px solid transparent; margin-bottom: -1px;
+  }
+  .tabs button:hover { color: var(--txt); }
+  .tabs button.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+  .scroll { overflow-y: auto; flex: 1; padding: 22px; }
+  .pane { display: none; max-width: 980px; }
+  .pane.active { display: block; }
+
+  /* ---- Form primitives ---- */
+  .field { margin-bottom: 16px; }
+  .field > label { display: block; font-size: 12px; color: var(--txt-dim); margin-bottom: 5px; letter-spacing: .2px; }
+  .field .hint { font-size: 11px; color: var(--txt-faint); margin-top: 4px; }
+  input[type=text], input[type=number], select, textarea {
+    width: 100%; background: var(--bg); color: var(--txt);
+    border: 1px solid var(--line); border-radius: 7px; padding: 8px 10px;
+    font-family: var(--mono); font-size: 13px; outline: none; transition: border-color .12s, box-shadow .12s;
+  }
+  input:focus, select:focus, textarea:focus { border-color: var(--accent-2); box-shadow: 0 0 0 2px rgba(79,209,165,.15); }
+  textarea { resize: vertical; line-height: 1.55; }
+  select { cursor: pointer; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; }
+  @media (max-width: 760px) { .grid2, .grid3 { grid-template-columns: 1fr; } }
+
+  .check { display: flex; align-items: center; gap: 9px; cursor: pointer; padding: 7px 0; font-family: var(--mono); font-size: 13px; }
+  .check input { position: absolute; opacity: 0; width: 0; height: 0; }
+  .check .box {
+    width: 18px; height: 18px; border-radius: 5px; border: 1px solid var(--line-2);
+    background: var(--bg); display: grid; place-items: center; flex: none; transition: all .12s;
+  }
+  .check input:checked + .box { background: var(--accent); border-color: var(--accent); }
+  .check input:checked + .box::after { content: ""; width: 5px; height: 9px; border: solid #08120e; border-width: 0 2px 2px 0; transform: rotate(45deg) translate(-1px,-1px); }
+  .check input:focus + .box { box-shadow: 0 0 0 2px rgba(79,209,165,.2); }
+
+  .section-card { background: var(--bg-2); border: 1px solid var(--line); border-radius: 12px; padding: 18px; margin-bottom: 18px; }
+  .section-card > h3 { margin: 0 0 14px; font-size: 13px; letter-spacing: .4px; color: var(--txt); display: flex; align-items: center; gap: 8px; }
+  .section-card > h3 .ico { color: var(--accent); }
+
+  /* ---- Buttons ---- */
+  .btn {
+    border: 1px solid var(--line-2); background: var(--bg-3); color: var(--txt);
+    padding: 7px 13px; border-radius: 7px; cursor: pointer; font-family: var(--mono); font-size: 12.5px;
+    display: inline-flex; align-items: center; gap: 6px; transition: all .12s; white-space: nowrap;
+  }
+  .btn:hover { border-color: var(--txt-faint); background: #232b35; }
+  .btn:active { transform: translateY(1px); }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #08120e; font-weight: 600; }
+  .btn.primary:hover { background: #5ee0b4; }
+  .btn.danger { border-color: #5a2b30; color: var(--red); }
+  .btn.danger:hover { background: var(--red-dk); border-color: var(--red); }
+  .btn.ghost { background: none; }
+  .btn:disabled { opacity: .45; cursor: not-allowed; transform: none; }
+  .btn.sm { padding: 5px 9px; font-size: 11.5px; }
+
+  /* ---- Repeatable rows (locations, fewshot, stop, admins, prefixes) ---- */
+  .repeat-item { background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 14px; margin-bottom: 12px; position: relative; }
+  .repeat-item .ri-head { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .repeat-item .ri-head .idx { font-family: var(--mono); font-size: 11px; color: var(--txt-faint); }
+  .repeat-item .ri-head .grow { flex: 1; }
+  .add-row { width: 100%; border-style: dashed; justify-content: center; color: var(--txt-dim); }
+  .add-row:hover { color: var(--accent); border-color: var(--accent-2); }
+
+  .taglist { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .tag {
+    display: inline-flex; align-items: center; gap: 6px; background: var(--bg-3);
+    border: 1px solid var(--line); border-radius: 6px; padding: 3px 4px 3px 9px;
+    font-family: var(--mono); font-size: 12px;
+  }
+  .tag input { width: auto; min-width: 70px; border: none; background: none; padding: 0; font-size: 12px; }
+  .tag input:focus { box-shadow: none; }
+  .tag .x { cursor: pointer; color: var(--txt-faint); border: none; background: none; font-size: 14px; padding: 0 3px; line-height: 1; }
+  .tag .x:hover { color: var(--red); }
+  .tag-add { color: var(--txt-faint); border-style: dashed; cursor: pointer; }
+  .tag-add:hover { color: var(--accent); }
+
+  /* ---- Control panel ---- */
+  .ctrl-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; align-items: start; }
+  @media (max-width: 860px) { .ctrl-grid { grid-template-columns: 1fr; } }
+  .stat-rows { font-family: var(--mono); font-size: 13px; }
+  .stat-rows .sr { display: flex; justify-content: space-between; padding: 7px 0; border-bottom: 1px solid var(--line); }
+  .stat-rows .sr:last-child { border-bottom: none; }
+  .stat-rows .k { color: var(--txt-dim); }
+  .stat-rows .v { color: var(--txt); }
+  .v.yes { color: var(--accent); } .v.no { color: var(--txt-faint); }
+  .logbox, .queuebox {
+    font-family: var(--mono); font-size: 12px; background: var(--bg); border: 1px solid var(--line);
+    border-radius: 8px; padding: 10px 12px; max-height: 320px; overflow-y: auto; white-space: pre-wrap; word-break: break-word;
+  }
+  .logline { padding: 2px 0; border-bottom: 1px solid #181e26; }
+  .logline:last-child { border-bottom: none; }
+  .logline .lk { color: var(--blue); }
+  .logline .la { color: var(--txt-faint); }
+  .qline .speaker { color: var(--accent); }
+  .qline .kind { color: var(--txt-faint); }
+  .rp-room { display: flex; align-items: center; justify-content: space-between; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; margin-bottom: 8px; font-family: var(--mono); font-size: 13px; background: var(--bg); }
+
+  /* toggle switch */
+  .switch { position: relative; display: inline-block; width: 42px; height: 23px; flex: none; }
+  .switch input { opacity: 0; width: 0; height: 0; }
+  .switch .sl { position: absolute; inset: 0; background: var(--line-2); border-radius: 23px; transition: .15s; cursor: pointer; }
+  .switch .sl::before { content: ""; position: absolute; height: 17px; width: 17px; left: 3px; bottom: 3px; background: #fff; border-radius: 50%; transition: .15s; }
+  .switch input:checked + .sl { background: var(--accent); }
+  .switch input:checked + .sl::before { transform: translateX(19px); }
+
+  .muted-line { color: var(--txt-faint); font-family: var(--mono); font-size: 12px; padding: 6px 2px; }
+  .empty { color: var(--txt-faint); font-style: italic; padding: 10px 2px; font-family: var(--mono); font-size: 12px; }
+
+  /* ---- Toasts ---- */
+  #toasts { position: fixed; right: 18px; bottom: 18px; display: flex; flex-direction: column; gap: 8px; z-index: 50; max-width: 380px; }
+  .toast {
+    background: var(--bg-2); border: 1px solid var(--line-2); border-left: 3px solid var(--accent);
+    border-radius: 8px; padding: 10px 14px; font-size: 13px; box-shadow: 0 6px 24px rgba(0,0,0,.4);
+    animation: slidein .18s ease; white-space: pre-wrap; word-break: break-word;
+  }
+  .toast.err { border-left-color: var(--red); }
+  .toast.warn { border-left-color: var(--amber); }
+  .toast .tt { font-family: var(--mono); font-size: 11px; color: var(--txt-faint); text-transform: uppercase; letter-spacing: .5px; margin-bottom: 2px; }
+  @keyframes slidein { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+  /* ---- Modal ---- */
+  .modal-bg { position: fixed; inset: 0; background: rgba(4,6,9,.7); display: none; place-items: center; z-index: 60; }
+  .modal-bg.show { display: grid; }
+  .modal { background: var(--bg-2); border: 1px solid var(--line-2); border-radius: 12px; padding: 22px; width: 380px; max-width: 92vw; }
+  .modal h3 { margin: 0 0 6px; font-size: 15px; }
+  .modal p { margin: 0 0 16px; color: var(--txt-dim); font-size: 13px; }
+  .modal .row { display: flex; gap: 8px; justify-content: flex-end; margin-top: 6px; }
+  .modal input { margin-bottom: 4px; }
+
+  .placeholder-pane { display: grid; place-items: center; height: 100%; color: var(--txt-faint); font-family: var(--mono); text-align: center; }
+  .placeholder-pane .big { font-size: 40px; margin-bottom: 10px; opacity: .5; }
 </style>
 </head>
 <body>
-<h1>cricket control panel</h1>
-<nav>
-  <button onclick="showTab('profiles')">Profiles</button>
-  <button onclick="showTab('control')">Control</button>
-</nav>
+<div class="app">
+  <header>
+    <div class="brand">
+      <div class="logo">C</div>
+      <div>cricket <small>control</small></div>
+    </div>
+    <div class="spacer"></div>
+    <div class="status-chip" id="connChip"><span class="dot" id="connDot"></span><span id="connText">connecting...</span></div>
+    <div class="status-chip" id="muteChip"><span class="dot" id="muteDot"></span><span id="muteText">--</span></div>
+    <div class="status-chip"><span id="activeChipText">active: --</span></div>
+  </header>
 
-<section id="profiles" class="tab active">
-  <div class="row">
-    <label>Profile:
-      <select id="profileSelect" onchange="loadProfile()"></select>
-    </label>
-    <span id="activeBadge" class="pill"></span>
-  </div>
-  <div class="row">
-    <input id="newName" placeholder="new-profile-name" size="24">
-    <button onclick="newProfile()">New</button>
-    <button onclick="saveProfile()">Save</button>
-    <button onclick="activateProfile()">Activate</button>
-    <button onclick="deleteProfile()">Delete</button>
-  </div>
-  <div class="row" id="profileMsg"></div>
-  <textarea id="profileDoc" spellcheck="false"></textarea>
-</section>
+  <aside>
+    <div class="side-head">
+      <h2>Profiles</h2>
+      <button class="btn sm ghost" onclick="newProfile()" title="New blank profile">+ New</button>
+    </div>
+    <ul class="plist" id="plist"></ul>
+    <div class="side-foot">
+      <div class="ctrl-link" id="navEditor" onclick="showView('editor')">Editor</div>
+      <div class="ctrl-link" id="navControl" onclick="showView('control')">Control</div>
+    </div>
+  </aside>
 
-<section id="control" class="tab">
-  <div class="row">
-    <strong>Status</strong>
-    <button onclick="refreshStatus()">Refresh</button>
-    <button id="muteBtn" onclick="toggleMute()">Mute</button>
+  <main>
+    <!-- EDITOR VIEW -->
+    <div id="view-editor" style="display:flex; flex-direction:column; height:100%; min-height:0;">
+      <div class="toolbar">
+        <div class="title"><span class="at">@</span><span id="curName">--</span></div>
+        <span class="badge" id="curActiveBadge" style="display:none;">active</span>
+        <span class="dirty" id="curDirty" style="display:none; color:var(--amber); font-family:var(--mono); font-size:12px;">unsaved</span>
+        <div class="grow"></div>
+        <button class="btn primary" id="btnSave" onclick="saveProfile()">Save</button>
+        <button class="btn" id="btnActivate" onclick="activateProfile()">Activate</button>
+        <button class="btn" id="btnClone" onclick="cloneProfile()">Clone</button>
+        <button class="btn danger" id="btnDelete" onclick="deleteProfile()">Delete</button>
+      </div>
+      <div class="tabs" id="editorTabs">
+        <button data-tab="identity" class="active" onclick="showTab('identity')">Identity</button>
+        <button data-tab="locations" onclick="showTab('locations')">Locations</button>
+        <button data-tab="prompts" onclick="showTab('prompts')">Prompts</button>
+        <button data-tab="inference" onclick="showTab('inference')">Inference</button>
+      </div>
+      <div class="scroll" id="editorScroll">
+        <div id="noProfile" class="placeholder-pane">
+          <div><div class="big">[ ]</div>Select a profile from the sidebar, or create a New one.</div>
+        </div>
+
+        <!-- Identity -->
+        <div class="pane active" data-pane="identity">
+          <div class="section-card">
+            <h3><span class="ico">#</span> Identity</h3>
+            <div class="grid2">
+              <div class="field">
+                <label>Presented name <span style="color:var(--red)">*</span></label>
+                <input type="text" id="id_presented_name" placeholder="Cricket">
+                <div class="hint">Required. The name the bot presents as.</div>
+              </div>
+              <div class="field">
+                <label>Pronouns</label>
+                <input type="text" id="id_pronouns" placeholder="they/them">
+              </div>
+              <div class="field">
+                <label>Bot dbref</label>
+                <input type="text" id="id_bot_dbref" placeholder="#3 (or blank for none)">
+                <div class="hint">Leave blank for null.</div>
+              </div>
+            </div>
+            <div class="grid3" style="margin-top:6px;">
+              <label class="check"><input type="checkbox" id="id_nospoof"><span class="box"></span> nospoof</label>
+              <label class="check"><input type="checkbox" id="id_paranoid"><span class="box"></span> paranoid</label>
+              <label class="check"><input type="checkbox" id="id_wizard"><span class="box"></span> wizard</label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Locations -->
+        <div class="pane" data-pane="locations">
+          <div class="section-card">
+            <h3><span class="ico">@</span> Locations <span id="locCount" style="color:var(--txt-faint);font-weight:400;font-family:var(--mono);font-size:12px;"></span></h3>
+            <div id="locList"></div>
+            <button class="btn add-row" onclick="addLocation()">+ Add location</button>
+          </div>
+        </div>
+
+        <!-- Prompts -->
+        <div class="pane" data-pane="prompts">
+          <div class="section-card">
+            <h3><span class="ico">&gt;</span> System &amp; Templates</h3>
+            <div class="field">
+              <label>System prompt</label>
+              <textarea id="pr_system" rows="6" spellcheck="false"></textarea>
+            </div>
+            <div class="grid2">
+              <div class="field">
+                <label>Chat template</label>
+                <textarea id="pr_chat_template" rows="5" spellcheck="false"></textarea>
+              </div>
+              <div class="field">
+                <label>RP template</label>
+                <textarea id="pr_rp_template" rows="5" spellcheck="false"></textarea>
+              </div>
+            </div>
+          </div>
+          <div class="section-card">
+            <h3><span class="ico">::</span> Few-shot examples <span id="fsCount" style="color:var(--txt-faint);font-weight:400;font-family:var(--mono);font-size:12px;"></span></h3>
+            <div id="fsList"></div>
+            <button class="btn add-row" onclick="addFewshot()">+ Add example pair</button>
+          </div>
+        </div>
+
+        <!-- Inference -->
+        <div class="pane" data-pane="inference">
+          <div class="section-card">
+            <h3><span class="ico">~</span> Inference</h3>
+            <div class="grid2">
+              <div class="field"><label>Backend</label><input type="text" id="inf_backend" placeholder="gpu / cpu (blank = null)"></div>
+              <div class="field"><label>Model</label><input type="text" id="inf_model" placeholder="cricket-abliterated:latest"></div>
+            </div>
+            <div class="grid3">
+              <div class="field"><label>num_ctx</label><input type="number" id="inf_num_ctx" step="1" min="0"></div>
+              <div class="field"><label>num_predict</label><input type="number" id="inf_num_predict" step="1" min="0"></div>
+              <div class="field"><label>keep_alive</label><input type="text" id="inf_keep_alive" placeholder="30m"></div>
+            </div>
+            <div class="grid2">
+              <div class="field"><label>temperature</label><input type="number" id="inf_temperature" step="0.01" min="0"></div>
+              <div class="field"><label>top_p</label><input type="number" id="inf_top_p" step="0.01" min="0" max="1"></div>
+            </div>
+            <div class="field">
+              <label>stop sequences</label>
+              <div class="taglist" id="inf_stop"></div>
+              <div class="hint">Each token is a JSON string. Newlines shown as \n.</div>
+            </div>
+            <label class="check"><input type="checkbox" id="inf_thinking"><span class="box"></span> thinking</label>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CONTROL VIEW -->
+    <div id="view-control" style="display:none; flex-direction:column; height:100%; min-height:0;">
+      <div class="toolbar">
+        <div class="title">control panel</div>
+        <div class="grow"></div>
+        <button class="btn" onclick="refreshStatus(); refreshLog();">Refresh</button>
+      </div>
+      <div class="scroll">
+        <div style="max-width:1000px;">
+          <div class="ctrl-grid">
+            <div class="section-card">
+              <h3><span class="ico">*</span> Status</h3>
+              <div class="stat-rows" id="statRows"><div class="muted-line">loading...</div></div>
+              <div style="display:flex; align-items:center; gap:12px; margin-top:14px;">
+                <label class="switch"><input type="checkbox" id="muteSwitch" onchange="toggleMute(this.checked)"><span class="sl"></span></label>
+                <span id="muteLabel" style="font-family:var(--mono);font-size:13px;">Muted: --</span>
+              </div>
+            </div>
+
+            <div class="section-card">
+              <h3><span class="ico">@</span> Roleplay rooms</h3>
+              <div id="rpRooms"><div class="empty">no rooms reported</div></div>
+              <div style="display:flex; gap:8px; margin-top:12px;">
+                <input type="text" id="rpAddRoom" placeholder="enable RP in room...">
+                <button class="btn" onclick="addRpRoom()">Enable</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="section-card">
+            <h3><span class="ico">::</span> Scene queue</h3>
+            <div style="display:flex; gap:8px; margin-bottom:12px;">
+              <input type="text" id="queueRoom" placeholder="room name">
+              <button class="btn" onclick="viewQueue()">View queue</button>
+            </div>
+            <div class="queuebox" id="queueBox"><span class="empty">enter a room and view its scene queue</span></div>
+          </div>
+
+          <div class="section-card">
+            <h3><span class="ico">&gt;</span> Recent log</h3>
+            <div class="logbox" id="logBox"><span class="empty">loading...</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<div id="toasts"></div>
+
+<div class="modal-bg" id="modalBg">
+  <div class="modal">
+    <h3 id="modalTitle"></h3>
+    <p id="modalMsg"></p>
+    <input type="text" id="modalInput" style="display:none;">
+    <div class="row">
+      <button class="btn ghost" onclick="modalCancel()">Cancel</button>
+      <button class="btn primary" id="modalOk" onclick="modalConfirm()">OK</button>
+    </div>
   </div>
-  <pre id="statusBox">(loading)</pre>
-  <div class="row">
-    <strong>Roleplay</strong>
-    <input id="rpRoom" placeholder="room name" size="20">
-    <button onclick="setRp(true)">RP on</button>
-    <button onclick="setRp(false)">RP off</button>
-    <button onclick="viewQueue()">View scene queue</button>
-  </div>
-  <pre id="queueBox"></pre>
-  <div class="row">
-    <strong>Recent log</strong>
-    <button onclick="refreshLog()">Refresh</button>
-  </div>
-  <table id="logTable"><tbody></tbody></table>
-</section>
+</div>
 
 <script>
-function showTab(name) {
-  var tabs = document.querySelectorAll('.tab');
-  for (var i = 0; i < tabs.length; i++) tabs[i].classList.remove('active');
-  document.getElementById(name).classList.add('active');
-  if (name === 'control') { refreshStatus(); refreshLog(); }
-}
+"use strict";
+
+/* ============================ helpers ============================ */
+function el(id) { return document.getElementById(id); }
+function esc(s) { return String(s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+function jstr(s) { return JSON.stringify(String(s)); }                 // "x\ny" with quotes
+function showStr(s) { return JSON.stringify(String(s)).slice(1, -1); } // x\ny, no quotes, escaped
 
 function api(method, path, body) {
-  var opts = { method: method };
-  if (body !== undefined) { opts.body = JSON.stringify(body); opts.headers = {'Content-Type':'application/json'}; }
+  var opts = { method: method, headers: {} };
+  if (body !== undefined) { opts.body = JSON.stringify(body); opts.headers['Content-Type'] = 'application/json'; }
   return fetch(path, opts).then(function(r) {
-    return r.json().then(function(j) { return { ok: r.ok, status: r.status, data: j }; });
-  });
-}
-
-var state = { active: null };
-
-function refreshProfiles() {
-  return api('GET', '/api/profiles').then(function(res) {
-    state.active = res.data.active;
-    var sel = document.getElementById('profileSelect');
-    var current = sel.value;
-    sel.innerHTML = '';
-    res.data.profiles.forEach(function(name) {
-      var o = document.createElement('option');
-      o.value = name; o.textContent = name;
-      sel.appendChild(o);
+    return r.text().then(function(t) {
+      var data = {};
+      try { data = t ? JSON.parse(t) : {}; } catch (e) { data = { error: 'bad response: ' + t.slice(0, 120) }; }
+      return { ok: r.ok, status: r.status, data: data };
     });
-    if (res.data.profiles.indexOf(current) >= 0) sel.value = current;
-    document.getElementById('activeBadge').textContent =
-      'active: ' + (state.active || '(none)');
-    if (sel.value) loadProfile();
+  }).catch(function(e) {
+    return { ok: false, status: 0, data: { error: 'network error: ' + e.message }, netfail: true };
   });
 }
 
-function loadProfile() {
-  var name = document.getElementById('profileSelect').value;
-  if (!name) return;
-  api('GET', '/api/profiles/' + encodeURIComponent(name)).then(function(res) {
-    if (res.ok) document.getElementById('profileDoc').value = JSON.stringify(res.data, null, 2);
-    else msg('profileMsg', res.data.error, true);
+function toast(msg, kind, title) {
+  var box = el('toasts');
+  var t = document.createElement('div');
+  t.className = 'toast' + (kind ? ' ' + kind : '');
+  t.innerHTML = '<div class="tt">' + esc(title || (kind === 'err' ? 'error' : kind === 'warn' ? 'notice' : 'ok')) + '</div>' + esc(msg);
+  box.appendChild(t);
+  setTimeout(function(){ t.style.transition = 'opacity .3s'; t.style.opacity = '0'; setTimeout(function(){ t.remove(); }, 300); }, kind === 'err' ? 6000 : 3200);
+}
+
+/* simple promise modal: confirm + optional prompt */
+var _modalResolve = null;
+function modal(opts) {
+  el('modalTitle').textContent = opts.title || '';
+  el('modalMsg').textContent = opts.msg || '';
+  var inp = el('modalInput');
+  if (opts.prompt) { inp.style.display = 'block'; inp.value = opts.value || ''; }
+  else { inp.style.display = 'none'; }
+  el('modalOk').textContent = opts.okText || 'OK';
+  el('modalOk').className = 'btn ' + (opts.danger ? 'danger' : 'primary');
+  el('modalBg').classList.add('show');
+  if (opts.prompt) setTimeout(function(){ inp.focus(); inp.select(); }, 30);
+  return new Promise(function(res){ _modalResolve = res; });
+}
+function modalConfirm() { var v = el('modalInput').value; el('modalBg').classList.remove('show'); if (_modalResolve) _modalResolve(el('modalInput').style.display === 'block' ? v : true); _modalResolve = null; }
+function modalCancel()  { el('modalBg').classList.remove('show'); if (_modalResolve) _modalResolve(null); _modalResolve = null; }
+el('modalInput') && el('modalInput').addEventListener('keydown', function(e){ if (e.key === 'Enter') modalConfirm(); });
+
+/* ============================ state ============================ */
+var DEFAULT_DOC = {
+  identity: { presented_name: 'Cricket', pronouns: 'they/them', bot_dbref: null, nospoof: true, paranoid: true, wizard: false },
+  locations: [],
+  prompts: { system: '', chat_template: '', rp_template: '', fewshot: [] },
+  inference: { backend: null, model: '', num_ctx: 16384, num_predict: 400, temperature: 0.85, top_p: 0.95, stop: [], keep_alive: '30m' }
+};
+
+var state = {
+  active: null,
+  profiles: [],
+  selected: null,     // name currently loaded in the editor (may be a new unsaved name)
+  isNew: false,       // selected is not yet persisted
+  doc: null,          // working copy being edited
+  dirty: false,
+  view: 'editor',
+  tab: 'identity'
+};
+
+function clone(o) { return JSON.parse(JSON.stringify(o)); }
+function markDirty() { state.dirty = true; el('curDirty').style.display = 'inline'; renderSidebar(); }
+
+/* ============================ views / tabs ============================ */
+function showView(name) {
+  if (name === 'control' && state.dirty) {
+    // allow switching to control even when dirty; just keep editor doc in memory
+  }
+  state.view = name;
+  el('view-editor').style.display = name === 'editor' ? 'flex' : 'none';
+  el('view-control').style.display = name === 'control' ? 'flex' : 'none';
+  el('navEditor').classList.toggle('active', name === 'editor');
+  el('navControl').classList.toggle('active', name === 'control');
+  if (name === 'control') { refreshStatus(); refreshRp(); refreshLog(); }
+}
+function showTab(name) {
+  state.tab = name;
+  var tabs = el('editorTabs').querySelectorAll('button');
+  for (var i = 0; i < tabs.length; i++) tabs[i].classList.toggle('active', tabs[i].dataset.tab === name);
+  var panes = document.querySelectorAll('#editorScroll .pane');
+  for (var j = 0; j < panes.length; j++) panes[j].classList.toggle('active', panes[j].dataset.pane === name);
+}
+
+/* ============================ profiles list ============================ */
+function refreshProfiles(keepSel) {
+  return api('GET', '/api/profiles').then(function(res) {
+    if (!res.ok) { toast(res.data.error || 'failed to load profiles', 'err'); return; }
+    state.active = res.data.active;
+    state.profiles = res.data.profiles || [];
+    el('activeChipText').textContent = 'active: ' + (state.active || '(none)');
+    renderSidebar();
+    if (keepSel && state.selected && state.profiles.indexOf(state.selected) >= 0) return;
+    if (!state.selected && state.profiles.length) selectProfile(state.profiles[0]);
+    else if (state.isNew) { /* keep the in-progress new doc */ }
+    else if (state.selected && state.profiles.indexOf(state.selected) < 0 && !state.isNew) {
+      if (state.profiles.length) selectProfile(state.profiles[0]); else blankEditor();
+    }
   });
 }
 
-function currentName() {
-  var n = document.getElementById('newName').value.trim();
-  return n || document.getElementById('profileSelect').value;
+function renderSidebar() {
+  var ul = el('plist');
+  ul.innerHTML = '';
+  if (!state.profiles.length && !state.isNew) {
+    var li0 = document.createElement('li'); li0.style.cursor = 'default';
+    li0.innerHTML = '<span class="pname" style="color:var(--txt-faint)">no profiles yet</span>';
+    ul.appendChild(li0);
+  }
+  var names = state.profiles.slice();
+  if (state.isNew && names.indexOf(state.selected) < 0) names.unshift(state.selected);
+  names.forEach(function(name) {
+    var li = document.createElement('li');
+    var isSel = name === state.selected;
+    var isNewUnsaved = state.isNew && name === state.selected && state.profiles.indexOf(name) < 0;
+    if (isSel) li.className = 'sel';
+    var dirtyMark = (isSel && state.dirty) ? '<span class="dirty" title="unsaved">*</span>' : '';
+    var label = isNewUnsaved ? (name + ' (new)') : name;
+    var badge = (name === state.active) ? '<span class="badge">active</span>' : '';
+    li.innerHTML = '<span class="pname">' + esc(label) + '</span>' + dirtyMark + badge;
+    li.onclick = function(){ attemptSelect(name); };
+    ul.appendChild(li);
+  });
 }
 
-function saveProfile() {
-  var name = currentName();
-  if (!name) { msg('profileMsg', 'pick or name a profile', true); return; }
-  var doc;
-  try { doc = JSON.parse(document.getElementById('profileDoc').value); }
-  catch (e) { msg('profileMsg', 'invalid JSON: ' + e.message, true); return; }
-  api('PUT', '/api/profiles/' + encodeURIComponent(name), doc).then(function(res) {
-    if (res.ok) { msg('profileMsg', 'saved ' + name, false); document.getElementById('newName').value=''; refreshProfiles(); }
-    else msg('profileMsg', res.data.error, true);
+function attemptSelect(name) {
+  if (name === state.selected) return;
+  if (state.dirty) {
+    modal({ title: 'Discard unsaved changes?', msg: 'You have unsaved edits to "' + state.selected + '". Switching profiles will discard them.', okText: 'Discard', danger: true }).then(function(go){
+      if (go) selectProfile(name);
+    });
+    return;
+  }
+  selectProfile(name);
+}
+
+function selectProfile(name) {
+  return api('GET', '/api/profiles/' + encodeURIComponent(name)).then(function(res) {
+    if (!res.ok) { toast(res.data.error || ('could not load ' + name), 'err'); return; }
+    state.selected = name;
+    state.isNew = false;
+    state.doc = normalizeDoc(res.data);
+    state.dirty = false;
+    el('curDirty').style.display = 'none';
+    renderEditor();
+    renderSidebar();
+    showView('editor');
   });
+}
+
+function blankEditor() {
+  state.selected = null; state.doc = null; state.isNew = false; state.dirty = false;
+  el('noProfile').style.display = 'grid';
+  document.querySelectorAll('#editorScroll .pane').forEach(function(p){ p.style.display = 'none'; });
+  el('curName').textContent = '--';
+  el('curActiveBadge').style.display = 'none';
+  el('curDirty').style.display = 'none';
+  ['btnSave','btnActivate','btnClone','btnDelete'].forEach(function(id){ el(id).disabled = true; });
 }
 
 function newProfile() {
-  document.getElementById('profileDoc').value = JSON.stringify({
-    identity: { presented_name: 'Cricket', pronouns: 'they/them', bot_dbref: null,
-                nospoof: true, paranoid: true, wizard: false },
-    locations: [], prompts: { system: '', chat_template: '', rp_template: '' },
-    inference: { backend: null, temperature: 0.7, max_tokens: 512, top_p: 0.95 }
-  }, null, 2);
-  msg('profileMsg', 'edit and Save under a new name', false);
+  var go = function() {
+    state.selected = 'untitled';
+    state.isNew = true;
+    state.doc = clone(DEFAULT_DOC);
+    state.dirty = true;
+    renderEditor();
+    renderSidebar();
+    showView('editor');
+    showTab('identity');
+    toast('Edit fields, then Save to create the profile. Rename via Clone/Save.', 'warn', 'new profile');
+  };
+  if (state.dirty) {
+    modal({ title: 'Discard unsaved changes?', msg: 'Creating a new profile will discard current unsaved edits.', okText: 'Discard', danger: true }).then(function(ok){ if (ok) go(); });
+  } else go();
+}
+
+/* normalize a server doc into the full shape we edit (tolerate missing fields) */
+function normalizeDoc(d) {
+  d = d || {};
+  var id = d.identity || {};
+  var inf = d.inference || {};
+  var pr = d.prompts || {};
+  return {
+    identity: {
+      presented_name: id.presented_name || '',
+      pronouns: id.pronouns || '',
+      bot_dbref: (id.bot_dbref === undefined ? null : id.bot_dbref),
+      nospoof: !!id.nospoof, paranoid: !!id.paranoid, wizard: !!id.wizard
+    },
+    locations: Array.isArray(d.locations) ? d.locations.map(normLoc) : [],
+    prompts: {
+      system: pr.system || '', chat_template: pr.chat_template || '', rp_template: pr.rp_template || '',
+      fewshot: Array.isArray(pr.fewshot) ? pr.fewshot.map(function(f){ return { user: (f && f.user) || '', assistant: (f && f.assistant) || '' }; }) : []
+    },
+    inference: {
+      backend: (inf.backend === undefined ? null : inf.backend),
+      model: inf.model || '',
+      num_ctx: inf.num_ctx, num_predict: inf.num_predict,
+      temperature: inf.temperature, top_p: inf.top_p,
+      stop: Array.isArray(inf.stop) ? inf.stop.slice() : [],
+      keep_alive: inf.keep_alive || '',
+      thinking: !!inf.thinking,
+      _hasThinking: ('thinking' in inf)
+    }
+  };
+}
+function normLoc(l) {
+  l = l || {};
+  return {
+    name: l.name || '', mode: l.mode || 'chat', engagement: l.engagement || 'addressed',
+    prefixes: Array.isArray(l.prefixes) ? l.prefixes.slice() : [],
+    directives: l.directives || '',
+    rate_limit: (l.rate_limit === undefined ? null : l.rate_limit),
+    enabled: l.enabled === undefined ? true : !!l.enabled,
+    admins: Array.isArray(l.admins) ? l.admins.slice() : []
+  };
+}
+
+/* ============================ render editor from state.doc ============================ */
+function renderEditor() {
+  if (!state.doc) { blankEditor(); return; }
+  el('noProfile').style.display = 'none';
+  document.querySelectorAll('#editorScroll .pane').forEach(function(p){ p.style.display = ''; });
+  ['btnSave','btnActivate','btnClone','btnDelete'].forEach(function(id){ el(id).disabled = false; });
+  el('btnActivate').disabled = state.isNew;   // can't activate an unsaved profile
+  el('btnDelete').disabled = state.isNew;
+  el('curName').textContent = state.selected + (state.isNew ? ' (new)' : '');
+  el('curActiveBadge').style.display = (state.selected === state.active && !state.isNew) ? 'inline' : 'none';
+  el('curDirty').style.display = state.dirty ? 'inline' : 'none';
+
+  var d = state.doc;
+  // identity
+  el('id_presented_name').value = d.identity.presented_name;
+  el('id_pronouns').value = d.identity.pronouns;
+  el('id_bot_dbref').value = d.identity.bot_dbref == null ? '' : d.identity.bot_dbref;
+  el('id_nospoof').checked = d.identity.nospoof;
+  el('id_paranoid').checked = d.identity.paranoid;
+  el('id_wizard').checked = d.identity.wizard;
+  // prompts
+  el('pr_system').value = d.prompts.system;
+  el('pr_chat_template').value = d.prompts.chat_template;
+  el('pr_rp_template').value = d.prompts.rp_template;
+  // inference
+  el('inf_backend').value = d.inference.backend == null ? '' : d.inference.backend;
+  el('inf_model').value = d.inference.model;
+  el('inf_num_ctx').value = numOrBlank(d.inference.num_ctx);
+  el('inf_num_predict').value = numOrBlank(d.inference.num_predict);
+  el('inf_temperature').value = numOrBlank(d.inference.temperature);
+  el('inf_top_p').value = numOrBlank(d.inference.top_p);
+  el('inf_keep_alive').value = d.inference.keep_alive;
+  el('inf_thinking').checked = !!d.inference.thinking;
+
+  renderLocations();
+  renderFewshot();
+  renderTagList('inf_stop', d.inference.stop, function(){ markDirty(); });
+}
+function numOrBlank(n) { return (n === undefined || n === null || n === '') ? '' : n; }
+
+/* ---- Locations ---- */
+function renderLocations() {
+  var host = el('locList'); host.innerHTML = '';
+  var locs = state.doc.locations;
+  el('locCount').textContent = '(' + locs.length + ')';
+  if (!locs.length) { host.innerHTML = '<div class="empty">no locations. The bot will not engage anywhere until you add one.</div>'; }
+  locs.forEach(function(loc, i) {
+    var item = document.createElement('div'); item.className = 'repeat-item';
+    item.innerHTML =
+      '<div class="ri-head">' +
+        '<span class="idx">#' + i + '</span>' +
+        '<label class="check" style="padding:0"><input type="checkbox" ' + (loc.enabled?'checked':'') + ' data-f="enabled"><span class="box"></span> enabled</label>' +
+        '<div class="grow"></div>' +
+        '<button class="btn sm danger" data-act="del">remove</button>' +
+      '</div>' +
+      '<div class="grid3">' +
+        '<div class="field"><label>name *</label><input type="text" data-f="name" value="' + esc(loc.name) + '"></div>' +
+        '<div class="field"><label>mode</label><select data-f="mode">' + opt(['chat','control','rp'], loc.mode) + '</select></div>' +
+        '<div class="field"><label>engagement</label><select data-f="engagement">' + opt(['addressed','always'], loc.engagement) + '</select></div>' +
+      '</div>' +
+      '<div class="grid2">' +
+        '<div class="field"><label>rate_limit</label><input type="text" data-f="rate_limit" placeholder="1 / 20s (blank = none)" value="' + esc(loc.rate_limit == null ? '' : loc.rate_limit) + '"></div>' +
+        '<div class="field"><label>directives</label><input type="text" data-f="directives" value="' + esc(loc.directives) + '"></div>' +
+      '</div>' +
+      '<div class="grid2">' +
+        '<div class="field"><label>prefixes</label><div class="taglist" data-tags="prefixes"></div></div>' +
+        '<div class="field"><label>admins (dbrefs)</label><div class="taglist" data-tags="admins"></div></div>' +
+      '</div>';
+    // wire scalar fields
+    item.querySelectorAll('[data-f]').forEach(function(inp) {
+      var f = inp.dataset.f;
+      var ev = (inp.type === 'checkbox' || inp.tagName === 'SELECT') ? 'change' : 'input';
+      inp.addEventListener(ev, function() {
+        if (inp.type === 'checkbox') loc[f] = inp.checked;
+        else if (f === 'rate_limit') loc[f] = inp.value.trim() === '' ? null : inp.value;
+        else loc[f] = inp.value;
+        markDirty();
+        if (f === 'name') el('locCount'); // no-op, header stays
+      });
+    });
+    item.querySelector('[data-act="del"]').addEventListener('click', function() {
+      state.doc.locations.splice(i, 1); markDirty(); renderLocations();
+    });
+    host.appendChild(item);
+    renderTagList(null, loc.prefixes, function(){ markDirty(); }, item.querySelector('[data-tags="prefixes"]'));
+    renderTagList(null, loc.admins, function(){ markDirty(); }, item.querySelector('[data-tags="admins"]'));
+  });
+}
+function opt(values, sel) { return values.map(function(v){ return '<option' + (v === sel ? ' selected' : '') + '>' + v + '</option>'; }).join(''); }
+function addLocation() {
+  state.doc.locations.push({ name: '', mode: 'chat', engagement: 'addressed', prefixes: [], directives: '', rate_limit: null, enabled: true, admins: [] });
+  markDirty(); renderLocations();
+  // focus the newly added name input
+  var inputs = el('locList').querySelectorAll('[data-f="name"]');
+  if (inputs.length) inputs[inputs.length - 1].focus();
+}
+
+/* ---- Few-shot ---- */
+function renderFewshot() {
+  var host = el('fsList'); host.innerHTML = '';
+  var fs = state.doc.prompts.fewshot;
+  el('fsCount').textContent = '(' + fs.length + ')';
+  if (!fs.length) { host.innerHTML = '<div class="empty">no few-shot examples.</div>'; }
+  fs.forEach(function(pair, i) {
+    var item = document.createElement('div'); item.className = 'repeat-item';
+    item.innerHTML =
+      '<div class="ri-head"><span class="idx">#' + i + '</span><div class="grow"></div><button class="btn sm danger" data-act="del">remove</button></div>' +
+      '<div class="field"><label>user / scene prompt</label><textarea rows="2" data-f="user" spellcheck="false"></textarea></div>' +
+      '<div class="field" style="margin-bottom:0"><label>assistant / response</label><textarea rows="3" data-f="assistant" spellcheck="false"></textarea></div>';
+    var tu = item.querySelector('[data-f="user"]'); tu.value = pair.user;
+    var ta = item.querySelector('[data-f="assistant"]'); ta.value = pair.assistant;
+    tu.addEventListener('input', function(){ pair.user = tu.value; markDirty(); });
+    ta.addEventListener('input', function(){ pair.assistant = ta.value; markDirty(); });
+    item.querySelector('[data-act="del"]').addEventListener('click', function(){ fs.splice(i, 1); markDirty(); renderFewshot(); });
+    host.appendChild(item);
+  });
+}
+function addFewshot() {
+  state.doc.prompts.fewshot.push({ user: '', assistant: '' });
+  markDirty(); renderFewshot();
+}
+
+/* ---- generic tag list (string arrays). Pass a container OR an id. ---- */
+function renderTagList(idOrNull, arr, onChange, containerArg) {
+  var host = containerArg || el(idOrNull);
+  if (!host) return;
+  host.innerHTML = '';
+  arr.forEach(function(val, i) {
+    var tag = document.createElement('span'); tag.className = 'tag';
+    var inp = document.createElement('input'); inp.type = 'text'; inp.value = showStr(val);
+    inp.size = Math.max(4, showStr(val).length || 4);
+    inp.addEventListener('input', function(){ arr[i] = unescapeStr(inp.value); inp.size = Math.max(4, inp.value.length || 4); onChange(); });
+    var x = document.createElement('button'); x.className = 'x'; x.textContent = 'x'; x.title = 'remove';
+    x.addEventListener('click', function(){ arr.splice(i, 1); onChange(); renderTagList(idOrNull, arr, onChange, containerArg); });
+    tag.appendChild(inp); tag.appendChild(x); host.appendChild(tag);
+  });
+  var add = document.createElement('span'); add.className = 'tag tag-add'; add.textContent = '+ add';
+  add.addEventListener('click', function(){ arr.push(''); onChange(); renderTagList(idOrNull, arr, onChange, containerArg); var ins = host.querySelectorAll('input'); if (ins.length) ins[ins.length - 1].focus(); });
+  host.appendChild(add);
+}
+/* tag inputs are shown escaped (\n etc.); convert back to real chars on the way out */
+function unescapeStr(s) { try { return JSON.parse('"' + s.replace(/\\/g,'\\\\').replace(/"/g,'\\"').replace(/\\\\n/g,'\\n').replace(/\\\\t/g,'\\t').replace(/\\\\"/g,'\\"') + '"'); } catch (e) { return s; } }
+
+/* ============================ collect editor -> doc ============================ */
+function collectDoc() {
+  var d = state.doc;
+  d.identity.presented_name = el('id_presented_name').value;
+  d.identity.pronouns = el('id_pronouns').value;
+  var dbref = el('id_bot_dbref').value.trim();
+  d.identity.bot_dbref = dbref === '' ? null : dbref;
+  d.identity.nospoof = el('id_nospoof').checked;
+  d.identity.paranoid = el('id_paranoid').checked;
+  d.identity.wizard = el('id_wizard').checked;
+
+  d.prompts.system = el('pr_system').value;
+  d.prompts.chat_template = el('pr_chat_template').value;
+  d.prompts.rp_template = el('pr_rp_template').value;
+
+  var bk = el('inf_backend').value.trim();
+  d.inference.backend = bk === '' ? null : bk;
+  d.inference.model = el('inf_model').value;
+  d.inference.num_ctx = parseNum(el('inf_num_ctx').value, true);
+  d.inference.num_predict = parseNum(el('inf_num_predict').value, true);
+  d.inference.temperature = parseNum(el('inf_temperature').value, false);
+  d.inference.top_p = parseNum(el('inf_top_p').value, false);
+  d.inference.keep_alive = el('inf_keep_alive').value;
+  d.inference.thinking = el('inf_thinking').checked;
+  // locations/fewshot/stop are bound live into state.doc already
+  return d;
+}
+function parseNum(v, isInt) {
+  v = String(v).trim();
+  if (v === '') return null;
+  var n = isInt ? parseInt(v, 10) : parseFloat(v);
+  return isNaN(n) ? null : n;
+}
+
+/* build the JSON payload to PUT (drop helper fields, drop nulls where appropriate) */
+function buildPayload() {
+  var d = clone(collectDoc());
+  // strip internal flags
+  var hadThinking = d.inference._hasThinking || d.inference.thinking;
+  delete d.inference._hasThinking;
+  if (!hadThinking && d.inference.thinking === false) {
+    // keep thinking only if it was present originally or set true; otherwise omit to stay minimal
+    delete d.inference.thinking;
+  }
+  // drop null numeric inference fields so we don't send junk
+  ['num_ctx','num_predict','temperature','top_p'].forEach(function(k){ if (d.inference[k] === null) delete d.inference[k]; });
+  if (d.inference.keep_alive === '') delete d.inference.keep_alive;
+  if (d.inference.model === '') delete d.inference.model;
+  return d;
+}
+
+/* ============================ actions ============================ */
+function saveProfile() {
+  collectDoc();
+  var name = state.selected;
+  if (!name || !name.trim()) { toast('profile needs a name', 'err'); return; }
+  if (state.isNew && (name === 'untitled')) {
+    return modal({ title: 'Name this profile', msg: 'Choose a name to save the new profile under.', prompt: true, value: 'untitled', okText: 'Save' }).then(function(nm){
+      if (!nm || !nm.trim()) return;
+      state.selected = nm.trim();
+      doPut(state.selected);
+    });
+  }
+  doPut(name);
+}
+function doPut(name) {
+  var payload = buildPayload();
+  el('btnSave').disabled = true;
+  api('PUT', '/api/profiles/' + encodeURIComponent(name), payload).then(function(res) {
+    el('btnSave').disabled = false;
+    if (res.ok) {
+      toast('saved "' + name + '"', 'ok');
+      state.dirty = false; state.isNew = false;
+      el('curDirty').style.display = 'none';
+      refreshProfiles(true);
+      renderEditor();
+    } else {
+      toast(res.data.error || ('save failed (HTTP ' + res.status + ')'), 'err', 'save rejected');
+    }
+  });
+}
+
+function cloneProfile() {
+  if (!state.doc) return;
+  collectDoc();
+  modal({ title: 'Clone profile', msg: 'Save a copy of the current edits under a new name.', prompt: true, value: (state.selected || 'profile') + '-copy', okText: 'Clone & Save' }).then(function(nm){
+    if (!nm || !nm.trim()) return;
+    nm = nm.trim();
+    if (state.profiles.indexOf(nm) >= 0) { toast('"' + nm + '" already exists', 'err'); return; }
+    var payload = buildPayload();
+    api('PUT', '/api/profiles/' + encodeURIComponent(nm), payload).then(function(res) {
+      if (res.ok) {
+        toast('cloned to "' + nm + '"', 'ok');
+        refreshProfiles(true).then(function(){ selectProfile(nm); });
+      } else {
+        toast(res.data.error || 'clone failed', 'err', 'clone rejected');
+      }
+    });
+  });
 }
 
 function activateProfile() {
-  var name = document.getElementById('profileSelect').value;
-  if (!name) return;
+  if (!state.selected || state.isNew) return;
+  var name = state.selected;
   api('POST', '/api/profiles/' + encodeURIComponent(name) + '/activate').then(function(res) {
-    if (res.ok) { msg('profileMsg', 'activated ' + name, false); refreshProfiles(); }
-    else msg('profileMsg', res.data.error, true);
+    if (res.ok) {
+      toast('activated "' + name + '"', 'ok');
+      state.active = (res.data && res.data.active_profile) || name;
+      refreshProfiles(true);
+    } else {
+      toast(res.data.error || 'activate failed', 'err');
+    }
   });
 }
 
 function deleteProfile() {
-  var name = document.getElementById('profileSelect').value;
-  if (!name) return;
-  api('DELETE', '/api/profiles/' + encodeURIComponent(name)).then(function(res) {
-    if (res.ok) { msg('profileMsg', 'deleted ' + name, false); refreshProfiles(); }
-    else msg('profileMsg', res.data.error, true);
+  if (!state.selected || state.isNew) return;
+  var name = state.selected;
+  modal({ title: 'Delete profile?', msg: 'Permanently delete "' + name + '". This cannot be undone.', okText: 'Delete', danger: true }).then(function(go) {
+    if (!go) return;
+    api('DELETE', '/api/profiles/' + encodeURIComponent(name)).then(function(res) {
+      if (res.ok) {
+        toast('deleted "' + name + '"', 'ok');
+        state.selected = null; state.doc = null; state.dirty = false; state.isNew = false;
+        refreshProfiles();
+      } else {
+        toast(res.data.error || 'delete failed', 'err');
+      }
+    });
   });
 }
 
-function msg(id, text, isErr) {
-  var el = document.getElementById(id);
-  el.textContent = text;
-  el.className = 'row ' + (isErr ? 'err' : 'ok');
+/* ============================ control panel ============================ */
+function applyStatusChips(s) {
+  var cd = el('connDot'), ct = el('connText');
+  if (s && s.connected) { cd.className = 'dot on'; ct.textContent = 'connected'; }
+  else { cd.className = 'dot off'; ct.textContent = 'disconnected'; }
+  var md = el('muteDot'), mt = el('muteText');
+  if (s && s.muted) { md.className = 'dot mute'; mt.textContent = 'muted'; }
+  else { md.className = 'dot on'; mt.textContent = 'live'; }
+  el('activeChipText').textContent = 'active: ' + ((s && s.active_profile) || state.active || '(none)');
 }
 
-function renderStatus(s) {
-  document.getElementById('statusBox').textContent = JSON.stringify(s, null, 2);
-  var btn = document.getElementById('muteBtn');
-  btn.textContent = s.muted ? 'Unmute' : 'Mute';
+function renderStatusRows(s) {
+  var rows = [
+    ['connected', s.connected ? 'yes' : 'no', s.connected ? 'yes' : 'no'],
+    ['muted', s.muted ? 'yes' : 'no', s.muted ? 'no' : 'yes'],
+    ['active profile', s.active_profile || '(none)', ''],
+    ['current room', s.current_room || '(none)', ''],
+    ['location count', s.location_count != null ? s.location_count : '--', ''],
+    ['rp enabled', (s.rp_enabled && s.rp_enabled.length) ? s.rp_enabled.join(', ') : '(none)', '']
+  ];
+  var sq = s.scene_queue_sizes || {};
+  var keys = Object.keys(sq);
+  rows.push(['scene queues', keys.length ? keys.map(function(k){ return k + ':' + sq[k]; }).join('  ') : '(empty)', '']);
+  el('statRows').innerHTML = rows.map(function(r){
+    var cls = r[2] === 'yes' ? ' yes' : r[2] === 'no' ? ' no' : '';
+    return '<div class="sr"><span class="k">' + esc(r[0]) + '</span><span class="v' + cls + '">' + esc(r[1]) + '</span></div>';
+  }).join('');
+  // mute switch
+  el('muteSwitch').checked = !!s.muted;
+  el('muteLabel').textContent = 'Muted: ' + (s.muted ? 'yes' : 'no');
+}
+
+function renderRpRooms(s) {
+  var host = el('rpRooms');
+  var enabled = (s && s.rp_enabled) || [];
+  var sq = (s && s.scene_queue_sizes) || {};
+  var rooms = {};
+  enabled.forEach(function(r){ rooms[r] = true; });
+  Object.keys(sq).forEach(function(r){ if (!(r in rooms)) rooms[r] = false; });
+  var names = Object.keys(rooms);
+  if (!names.length) { host.innerHTML = '<div class="empty">no RP rooms reported. Add one below.</div>'; return; }
+  host.innerHTML = '';
+  names.forEach(function(room) {
+    var on = rooms[room];
+    var div = document.createElement('div'); div.className = 'rp-room';
+    div.innerHTML = '<span>' + esc(room) + '</span>';
+    var lab = document.createElement('label'); lab.className = 'switch';
+    var inp = document.createElement('input'); inp.type = 'checkbox'; inp.checked = on;
+    inp.addEventListener('change', function(){ setRp(room, inp.checked); });
+    var sl = document.createElement('span'); sl.className = 'sl';
+    lab.appendChild(inp); lab.appendChild(sl); div.appendChild(lab);
+    host.appendChild(div);
+  });
 }
 
 function refreshStatus() {
-  api('GET', '/api/status').then(function(res) { if (res.ok) renderStatus(res.data); });
+  return api('GET', '/api/status').then(function(res) {
+    if (res.ok) { applyStatusChips(res.data); if (state.view === 'control') { renderStatusRows(res.data); renderRpRooms(res.data); } }
+    else if (res.netfail) { applyStatusChips({ connected: false }); }
+  });
+}
+function refreshRp() {
+  api('GET', '/api/rp').then(function(res){ /* status already carries rp_enabled; rp endpoint is a lightweight check */ });
 }
 
-function toggleMute() {
-  api('GET', '/api/status').then(function(res) {
-    var next = !res.data.muted;
-    api('POST', '/api/mute', { muted: next }).then(function(r) { if (r.ok) renderStatus(r.data); });
+function toggleMute(want) {
+  api('POST', '/api/mute', { muted: !!want }).then(function(res) {
+    if (res.ok) { applyStatusChips(res.data); renderStatusRows(res.data); renderRpRooms(res.data); toast(res.data.muted ? 'bot muted' : 'bot unmuted', 'ok'); }
+    else { toast(res.data.error || 'mute failed', 'err'); refreshStatus(); }
   });
 }
 
-function setRp(enabled) {
-  var room = document.getElementById('rpRoom').value.trim();
-  if (!room) return;
-  api('POST', '/api/rp', { room: room, enabled: enabled }).then(function(res) {
-    if (res.ok) renderStatus(res.data);
+function setRp(room, enabled) {
+  api('POST', '/api/rp', { room: room, enabled: !!enabled }).then(function(res) {
+    if (res.ok) { applyStatusChips(res.data); renderStatusRows(res.data); renderRpRooms(res.data); toast('RP ' + (enabled ? 'on' : 'off') + ' in "' + room + '"', 'ok'); }
+    else { toast(res.data.error || 'rp toggle failed', 'err'); refreshStatus(); }
   });
+}
+function addRpRoom() {
+  var room = el('rpAddRoom').value.trim();
+  if (!room) { toast('enter a room name', 'warn'); return; }
+  setRp(room, true);
+  el('rpAddRoom').value = '';
 }
 
 function viewQueue() {
-  var room = document.getElementById('rpRoom').value.trim();
-  if (!room) return;
+  var room = el('queueRoom').value.trim();
+  if (!room) { toast('enter a room name', 'warn'); return; }
   api('GET', '/api/queue/' + encodeURIComponent(room)).then(function(res) {
-    var lines = (res.data.lines || []).map(function(l) {
-      return '[' + l.kind + '] ' + (l.speaker || '?') + ': ' + l.text;
-    });
-    document.getElementById('queueBox').textContent = lines.join('\n') || '(empty)';
+    var box = el('queueBox');
+    if (res.status === 404) { box.innerHTML = '<span class="empty">no queue for "' + esc(room) + '"</span>'; return; }
+    if (!res.ok) { box.innerHTML = '<span class="empty">' + esc(res.data.error || 'failed') + '</span>'; return; }
+    var lines = res.data.lines || [];
+    if (!lines.length) { box.innerHTML = '<span class="empty">queue empty for "' + esc(room) + '"</span>'; return; }
+    box.innerHTML = lines.map(function(l) {
+      return '<div class="qline"><span class="kind">[' + esc(l.kind || '?') + ']</span> <span class="speaker">' + esc(l.speaker || '?') + '</span>: ' + esc(l.text || '') + '</div>';
+    }).join('');
   });
 }
 
 function refreshLog() {
   api('GET', '/api/log?n=50').then(function(res) {
-    var body = document.querySelector('#logTable tbody');
-    body.innerHTML = '<tr><th>loc</th><th>actor</th><th>kind</th><th>text</th></tr>';
-    (res.data.events || []).forEach(function(e) {
-      var tr = document.createElement('tr');
-      ['location','actor_dbref','kind','text'].forEach(function(k) {
-        var td = document.createElement('td');
-        td.textContent = e[k] === null || e[k] === undefined ? '' : String(e[k]);
-        tr.appendChild(td);
-      });
-      body.appendChild(tr);
-    });
+    var box = el('logBox');
+    if (!res.ok) { box.innerHTML = '<span class="empty">' + esc((res.data && res.data.error) || 'log unavailable') + '</span>'; return; }
+    var events = res.data.events || [];
+    if (!events.length) { box.innerHTML = '<span class="empty">no recent events</span>'; return; }
+    box.innerHTML = events.map(function(e) {
+      var loc = e.location == null ? '' : e.location;
+      var actor = e.actor_dbref == null ? '' : e.actor_dbref;
+      var kind = e.kind == null ? '' : e.kind;
+      var text = e.text == null ? '' : e.text;
+      return '<div class="logline"><span class="la">' + esc(loc) + '</span> ' +
+             '<span class="lk">[' + esc(kind) + ']</span> ' +
+             '<span class="la">' + esc(actor) + '</span> ' + esc(text) + '</div>';
+    }).join('');
   });
 }
 
+/* ============================ live editor binding for scalar inputs ============================ */
+['id_presented_name','id_pronouns','id_bot_dbref','pr_system','pr_chat_template','pr_rp_template',
+ 'inf_backend','inf_model','inf_num_ctx','inf_num_predict','inf_temperature','inf_top_p','inf_keep_alive']
+.forEach(function(id){ var node = el(id); if (node) node.addEventListener('input', markDirty); });
+['id_nospoof','id_paranoid','id_wizard','inf_thinking'].forEach(function(id){ var node = el(id); if (node) node.addEventListener('change', markDirty); });
+
+/* warn on tab/window close with unsaved edits */
+window.addEventListener('beforeunload', function(e) {
+  if (state.dirty) { e.preventDefault(); e.returnValue = ''; return ''; }
+});
+
+/* ============================ boot ============================ */
+showView('editor');
+showTab('identity');
+blankEditor();
 refreshProfiles();
+refreshStatus();
 setInterval(function() {
-  if (document.getElementById('control').classList.contains('active')) refreshStatus();
+  refreshStatus();                                   // keep header chips fresh everywhere
+  if (state.view === 'control') refreshLog();
 }, 4000);
 </script>
 </body>

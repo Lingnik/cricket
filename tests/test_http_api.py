@@ -69,7 +69,7 @@ def test_index_serves_html(tmp_path):
     status, ctype, payload = route("GET", "/", b"", bot, None)
     assert status == 200
     assert "text/html" in ctype
-    assert b"cricket control panel" in payload
+    assert b"Cricket Control" in payload
 
 
 def test_status(tmp_path):
@@ -200,6 +200,6 @@ def test_server_integration(tmp_path, loop):
             assert r.status == 200
             assert json.loads(r.read())["muted"] is False
         with urllib.request.urlopen(base + "/") as r:
-            assert b"cricket control panel" in r.read()
+            assert b"Cricket Control" in r.read()
     finally:
         server.stop()

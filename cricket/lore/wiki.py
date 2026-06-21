@@ -187,6 +187,11 @@ class WikiIndex:
         return out
 
     # -- topic extraction for OOC injection ------------------------------------
+    def topic_phrases(self, text: str) -> list:
+        """Capitalized topic phrases in `text` (whether or not they resolve to a page).
+        Used to decide if a line is even ASKING about a subject before a semantic fallback."""
+        return _capitalized_phrases(text)
+
     def topics(self, text: str, limit: int = 2, exclude: Union[set, None] = None) -> list:
         """Capitalized topic phrases in `text` that resolve to a wiki page, as
         [(title, summary)]. `exclude` is a set of lowercased names already covered (e.g. by a
