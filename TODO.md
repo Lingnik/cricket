@@ -1,7 +1,23 @@
 # Cricket -- open work
 
 Status: **NEXT** (in progress) / **SOON** / **LATER** / **DEFERRED** / **DONE**. See
-`STATUS.md` for the plain-language project summary.
+`STATUS.md` for the plain-language summary and `docs/OPERATIONS.md` for the runbook.
+
+## Resume context (post-compact)
+Everything is pushed to `origin/main` (verified secrets-clean; GitHub secret-scanning empty).
+The bot works end-to-end and in-character on the Pi test MUSH (`100.88.188.43:4201`) using the
+fixed `cricket-abliterated` model. Console (`:4250`) and web panel (`:4280`) are live but the
+UI hasn't had hands-on use yet. Recent fixes (all committed): chat-template root-cause fix,
+chat-focus (engage the latest line + feed the bot its own replies), `!help`, memory accretion,
+register tuning, IC/OOC scoping, connection/queue/auth hardening, single-instance guard.
+
+**On resume:** pick up PARALLEL workstreams across this list. A larger **wiki-content PR** is
+about to push -- it adds full wiki-cache extraction tooling, headline-character profiles since
+2020, and article lookup (eventually arbitrary vector search). When it lands: FIRST distill the
+headline-character profiles into the IC/OOC dossier facets (`lore/dossiers/<name>.md` with
+`## IC` / `## OOC`), THEN prototype the Tier-2 vector fallback. Known small follow-ups: the lore
+name-match is loose (test player "Bazil" pulled the "Bazil McKenzie" dossier); item **D**
+(retrieve on MENTIONED entities, not just present cast) is queued behind the wiki PR.
 
 ## Done (recent)
 - **DONE** -- IC/OOC mode-aware lore scoping (`retrieve(cast, scope)`; two-facet dossiers).
