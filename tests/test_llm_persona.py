@@ -78,3 +78,37 @@ def test_fewshot_skips_incomplete_pairs():
     persona = LlmPersona(client, lambda: doc)
     _run(persona, _turn())
     assert [m["role"] for m in client.messages] == ["system", "user"]
+
+
+class TwoCallClient(InferenceClient):
+    """Returns a plan on the first call, the final line on the second."""
+
+    def __init__(self):
+        self.calls = []
+
+    async def complete(self, messages, **params):
+        self.calls.append(messages)
+        if len(self.calls) == 1:
+            return "- react to Bob\n- threaten with the taser"
+        return "FINAL LINE"
+
+
+def test_thinking_runs_planning_pass_then_injects_plan():
+    client = TwoCallClient()
+    doc = {"prompts": {"system": "s"}, "inference": {"thinking": True}}
+    persona = LlmPersona(client, lambda: doc)
+    resp = _run(persona, _turn("oi droid"))
+    # Two completions: the hidden planning pass, then the real reply.
+    assert len(client.calls) == 2
+    assert "privately PLAN" in client.calls[0][-1]["content"]
+    final_user = client.calls[1][-1]["content"]
+    assert "Your private plan" in final_user and "threaten with the taser" in final_user
+    assert resp.text == "FINAL LINE"   # the plan is never the output
+
+
+def test_thinking_off_by_default_single_pass():
+    client = TwoCallClient()
+    persona = LlmPersona(client, lambda: {"prompts": {"system": "s"}})
+    _run(persona, _turn())
+    assert len(client.calls) == 1
+    assert "Your private plan" not in client.calls[0][-1]["content"]

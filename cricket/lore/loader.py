@@ -162,6 +162,11 @@ class LoreStore:
     def exemplars(self) -> str:
         return self._read("voice-exemplars.md")
 
+    def self_history(self) -> str:
+        """Cricket's own logged misadventures -- canon he can reference in RP and brag about
+        in OOC. Distilled from his RP logs. Empty if the artifact is absent."""
+        return self._read("CRICKET-HISTORY.md")
+
     def known_characters(self) -> list:
         return sorted(self._index.get("characters", {}).keys())
 

@@ -43,6 +43,8 @@ def test_single_block_dossier_backward_compatible(tmp_path):
 def test_llm_passes_scope_from_mode():
     lore = MagicMock()
     lore.retrieve.return_value = ""
+    lore.self_history.return_value = ""
+    lore.mentioned.return_value = []
     persona = LlmPersona(client=MagicMock(), lore=lore)
     rp_turn = Turn(
         mode="rp", location="#0", location_kind="room", directives="",
