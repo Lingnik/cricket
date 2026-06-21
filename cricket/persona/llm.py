@@ -28,6 +28,12 @@ _NO_FABRICATION = (
     "change the subject instead. Crude bravado is fine; fabricated facts are not."
 )
 
+# The 8B blends several terse memory bullets into one garbled run-on when asked to narrate.
+_RECOUNT_RULE = (
+    "When asked to recount a memory or tell a story, pick ONE specific event and tell it "
+    "straight through; never blend several separate events into a single garbled run-on."
+)
+
 
 class LlmPersona(Persona):
     def __init__(
@@ -229,7 +235,7 @@ class LlmPersona(Persona):
             )
         if turn.directives:
             system = "%s\n\n%s" % (system, turn.directives)
-        system = "%s\n\n%s" % (system, _NO_FABRICATION)
+        system = "%s\n\n%s\n%s" % (system, _NO_FABRICATION, _RECOUNT_RULE)
         messages = [{"role": "system", "content": system.strip()}]
 
         # Few-shot voice anchors as real turns (user prompt -> his actual pose). For an

@@ -138,7 +138,10 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
     # ledger -- the distilled arc that survives byte-trimming of the verbatim tail.
     recall = getattr(ctx.bot, "pending_recall", {}).get(room)
     ledger = getattr(ctx.bot, "scene_ledger", {}).get(room)
+    room_desc = getattr(ctx.bot, "current_room_desc", "")
     mem_lines = []
+    if room_desc:
+        mem_lines.append("The setting (room): %s" % room_desc)
     if recall:
         mem_lines.append("Earlier scene: %s" % recall)
     if ledger:
