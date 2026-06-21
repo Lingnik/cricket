@@ -97,6 +97,19 @@ def _route_api(method, api, query, body, bot, loop):
         bot.harass_on_connect = bool(data.get("harass"))
         return _json(200, bot.status_snapshot())
 
+    # /api/memory -- inspect + excise memory ("brain surgery"). The store connection is
+    # check_same_thread=False, so direct access from the HTTP thread is safe.
+    if api == ["memory"] and method == "GET":
+        return _json(200, bot.store.memory_digest())
+    if api == ["memory"] and method == "DELETE":
+        data = _body_json(body)
+        if data.get("room"):
+            return _json(200, bot.store.purge_scene(data["room"]))
+        if data.get("scope") and data.get("scope_key"):
+            n = bot.store.delete_memory(data["scope"], data["scope_key"], data.get("key"))
+            return _json(200, {"deleted_rows": n})
+        return _json(400, {"error": "provide {room} or {scope, scope_key}"})
+
     # /api/profiles
     if api == ["profiles"] and method == "GET":
         active = bot.config_store.active()

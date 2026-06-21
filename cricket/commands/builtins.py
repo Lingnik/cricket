@@ -166,6 +166,31 @@ async def cmd_harass(ctx: CommandContext, args: list) -> None:
     ctx.reply("harass_on_connect: %s" % ctx.bot.harass_on_connect)
 
 
+async def cmd_mem(ctx: CommandContext, args: list) -> None:
+    """Inspect / excise memory (the agentic 'brain surgery' CLI):
+    `mem` -> digest, `mem show <room>` -> a room's scene summary, `mem purge <room>` -> excise it."""
+    store = getattr(ctx.bot, "store", None)
+    if store is None:
+        ctx.reply("no memory store.")
+        return
+    sub = args[0].lower() if args else "list"
+    if sub in ("list", "digest"):
+        d = store.memory_digest()
+        out = ["events=%d memory_rows=%d scenes=%d"
+               % (d["events"], d["memory_rows"], len(d["scenes"]))]
+        for s in d["scenes"][:10]:
+            out.append("  [%s] %s" % (s["room"], (s["summary"] or "")[:80]))
+        ctx.reply("\n".join(out))
+    elif sub == "show" and len(args) >= 2:
+        ctx.reply("[%s] %s" % (args[1], store.recall_scene_summary(args[1]) or "(no scene summary)"))
+    elif sub == "purge" and len(args) >= 2:
+        r = store.purge_scene(args[1])
+        ctx.reply("purged %s: %d memory rows, %d events removed"
+                  % (r["room"], r["memory_rows_removed"], r["events_removed"]))
+    else:
+        ctx.reply("usage: mem [list] | mem show <room> | mem purge <room>")
+
+
 async def cmd_consent_ok(ctx: CommandContext, args: list) -> None:
     room = getattr(ctx.bot, "current_room", None)
     pend = getattr(ctx.bot, "pending_consent", {}).get(room) if room else None
@@ -418,6 +443,9 @@ def register_builtins(registry) -> None:
     registry.register(Command("!rp", Level.ADMIN, cmd_bang_rp, "!rp on|off"))
     registry.register(
         Command("!clearqueue", Level.ADMIN, cmd_bang_clearqueue, "clear the scene queue")
+    )
+    registry.register(
+        Command("mem", Level.ADMIN, cmd_mem, "mem [list] | mem show <room> | mem purge <room>")
     )
     registry.register(Command("help", Level.PUBLIC, cmd_help, "list your commands"))
     registry.register(Command("!help", Level.PUBLIC, cmd_help, "list your commands"))

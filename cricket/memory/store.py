@@ -161,6 +161,52 @@ class MemoryStore:
     def recall_scene_summary(self, room: str) -> Union[str, None]:
         return self.recall("scene", room, "summary")
 
+    # -- inspection + surgery (excising induced or test memories) ---------------
+    def memory_digest(self) -> dict:
+        """Compact overview for the control API / web panel: counts + the scene summaries."""
+        ev = self._conn.execute("SELECT count(*) AS n FROM events").fetchone()["n"]
+        mem = self._conn.execute("SELECT count(*) AS n FROM memory").fetchone()["n"]
+        scenes = [
+            {"room": r["scope_key"], "summary": r["value"], "updated_ts": r["updated_ts"]}
+            for r in self._conn.execute(
+                "SELECT scope_key, value, updated_ts FROM memory "
+                "WHERE scope = 'scene' AND key = 'summary' ORDER BY updated_ts DESC"
+            ).fetchall()
+        ]
+        return {"events": ev, "memory_rows": mem, "scenes": scenes}
+
+    def list_memory(self) -> list:
+        """All key/value memory rows (scene summaries etc.), newest first -- for inspection."""
+        cur = self._conn.execute(
+            "SELECT scope, scope_key, key, value, updated_ts FROM memory ORDER BY updated_ts DESC"
+        )
+        return [dict(r) for r in cur.fetchall()]
+
+    def delete_memory(self, scope: str, scope_key: str, key=None) -> int:
+        """Delete memory rows by scope + scope_key (+ optional key). Returns rows removed."""
+        if key is None:
+            cur = self._conn.execute(
+                "DELETE FROM memory WHERE scope = ? AND scope_key = ?", (scope, scope_key))
+        else:
+            cur = self._conn.execute(
+                "DELETE FROM memory WHERE scope = ? AND scope_key = ? AND key = ?",
+                (scope, scope_key, key))
+        self._conn.commit()
+        return cur.rowcount
+
+    def purge_location(self, location: str) -> int:
+        """Delete all logged events for a location/room. Returns rows removed."""
+        cur = self._conn.execute("DELETE FROM events WHERE location = ?", (location,))
+        self._conn.commit()
+        return cur.rowcount
+
+    def purge_scene(self, room: str) -> dict:
+        """Excise a room's scene entirely -- its scene summary/cast memory AND its logged events.
+        The 'brain surgery' for an induced or unwanted scene. Returns the counts removed."""
+        mem = self.delete_memory("scene", room)
+        ev = self.purge_location(room)
+        return {"room": room, "memory_rows_removed": mem, "events_removed": ev}
+
 
 class MemoryHandle:
     """The persona-facing view of the store. Passed on each Turn. The 3-argument
