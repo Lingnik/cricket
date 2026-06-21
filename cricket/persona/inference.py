@@ -12,9 +12,23 @@ import abc
 import asyncio
 import json
 import logging
+import re
 import urllib.request
 
 log = logging.getLogger("cricket.inference")
+
+# Some GGUF chat templates leak raw special tokens into the output (e.g. a trailing
+# "<|im_end|>" or a malformed "|im_end|>"). Strip them defensively.
+_SPECIAL_TOKEN = re.compile(
+    r"<\|[^>]*?\|>"
+    r"|<?\|?(?:im_end|im_start|eot_id|start_header_id|end_header_id"
+    r"|begin_of_text|end_of_text)\|?>?"
+)
+
+
+def strip_special_tokens(text: str) -> str:
+    """Remove leaked chat-template special tokens from generated text."""
+    return _SPECIAL_TOKEN.sub("", text).strip()
 
 
 class InferenceClient(abc.ABC):
@@ -71,7 +85,7 @@ class OllamaInferenceClient(InferenceClient):
         data = json.dumps(body).encode("utf-8")
         resp = await asyncio.to_thread(self._post, url, data)
         self._log_timing(resp)
-        return resp.get("message", {}).get("content", "")
+        return strip_special_tokens(resp.get("message", {}).get("content", ""))
 
     def _post(self, url: str, data: bytes) -> dict:
         req = urllib.request.Request(

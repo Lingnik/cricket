@@ -72,7 +72,7 @@ async def cmd_rp(ctx: CommandContext, args: list) -> None:
     ctx.reply("rp in %s: %s" % (room, ctx.bot.rp_enabled[room]))
 
 
-async def _trigger_rp(ctx: CommandContext, room, force_action) -> None:
+async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> None:
     if room is None:
         ctx.reply("no room specified and no current room.")
         return
@@ -84,7 +84,7 @@ async def _trigger_rp(ctx: CommandContext, room, force_action) -> None:
         directives=_directives_for(ctx.bot, room),
         speaker="",
         speaker_dbref="",
-        text="",
+        text=seed_text,
         context=list(queue),
         bot_identity=getattr(ctx.bot, "bot_identity", None),
         memory=getattr(ctx.bot, "memory", None),
@@ -112,6 +112,46 @@ async def cmd_clearqueue(ctx: CommandContext, args: list) -> None:
     room = _current_room(ctx, args, 0)
     if room is None:
         ctx.reply("no room specified and no current room.")
+        return
+    ctx.bot.scene_queues[room] = []
+    ctx.reply("cleared scene queue for %s." % room)
+
+
+# -- RP trigger verbs (the "!" forms used over the OOC control channel) --------
+# These always act on the bot's CURRENT room and treat their args as payload (the
+# OOC trigger never passes a room name). The bare pose/rpsay/rp/clearqueue commands
+# above keep their optional [room] argument for console use.
+
+
+def _bot_room(ctx: CommandContext):
+    return getattr(ctx.bot, "current_room", None)
+
+
+async def cmd_bang_pose(ctx: CommandContext, args: list) -> None:
+    await _trigger_rp(ctx, _bot_room(ctx), force_action="pose")
+
+
+async def cmd_bang_say(ctx: CommandContext, args: list) -> None:
+    await _trigger_rp(ctx, _bot_room(ctx), force_action="say", seed_text=" ".join(args))
+
+
+async def cmd_bang_rp(ctx: CommandContext, args: list) -> None:
+    if not args or args[0] not in ("on", "off"):
+        ctx.reply("usage: !rp on|off")
+        return
+    room = _bot_room(ctx)
+    if room is None:
+        ctx.reply("no current room.")
+        return
+    ctx.bot.rp_enabled[room] = args[0] == "on"
+    ctx.bot.scene_queues.setdefault(room, [])
+    ctx.reply("rp in %s: %s" % (room, ctx.bot.rp_enabled[room]))
+
+
+async def cmd_bang_clearqueue(ctx: CommandContext, args: list) -> None:
+    room = _bot_room(ctx)
+    if room is None:
+        ctx.reply("no current room.")
         return
     ctx.bot.scene_queues[room] = []
     ctx.reply("cleared scene queue for %s." % room)
@@ -155,5 +195,18 @@ def register_builtins(registry) -> None:
     )
     registry.register(
         Command("clearqueue", Level.ADMIN, cmd_clearqueue, "clearqueue [room]")
+    )
+    # RP trigger verbs over OOC ("Cricket !pose"), acting on the current room.
+    registry.register(
+        Command("!pose", Level.ADMIN, cmd_bang_pose, "RP pose from the scene queue",
+                triggers_persona=True)
+    )
+    registry.register(
+        Command("!say", Level.ADMIN, cmd_bang_say, "!say <text> -- RP say",
+                triggers_persona=True)
+    )
+    registry.register(Command("!rp", Level.ADMIN, cmd_bang_rp, "!rp on|off"))
+    registry.register(
+        Command("!clearqueue", Level.ADMIN, cmd_bang_clearqueue, "clear the scene queue")
     )
     registry.register(Command("help", Level.PUBLIC, cmd_help, "list commands"))

@@ -1,0 +1,13 @@
+{
+  "id": "lounge_banter",
+  "mode": "chat",
+  "location": "Lounge",
+  "location_kind": "channel",
+  "directives": "Anything goes here. Banter freely.",
+  "cast": ["Bob"],
+  "speaker": "Bob",
+  "context": [],
+  "text": "cricket, what do you really think of Johanna?",
+  "expect": {"action": "say"},
+  "tags": ["crass", "chat"]
+}

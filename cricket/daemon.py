@@ -26,6 +26,7 @@ from .http_api import HttpConfigServer
 from .memory.store import MemoryHandle, MemoryStore
 from .mush.actions import Actions
 from .mush.connection import Connection
+from .mush.events import CommandEcho
 from .mush.protocol import Parser
 from .persona.base import BotIdentity
 from .persona.stub import StubPersona
@@ -156,16 +157,30 @@ class Bot:
         event = self.parser.parse(line)
         if event is None:
             return
+        if isinstance(event, CommandEcho):
+            # Output framed by OUTPUTPREFIX/SUFFIX = response to a command we issued.
+            self._handle_command_echo(event.text)
+            return
         # Fire-and-forget so a slow persona never blocks the read loop.
         asyncio.ensure_future(self.router.handle(event))
 
+    def _handle_command_echo(self, text: str) -> None:
+        # The room-probe from _setup_commands reports the bot's current location so the
+        # RP scene queue and !pose have a room to key on.
+        if text.startswith("CRICKET_ROOM="):
+            parts = text.split("=", 2)
+            if len(parts) >= 2 and parts[1].strip():
+                self.current_room = parts[1].strip()
+
     def _setup_commands(self) -> list:
-        """Commands to run on each (re)connect: ensure NOSPOOF/PARANOID, then join every
-        chat/control channel via @channel/on (addcom is disabled on this server)."""
+        """Commands to run on each (re)connect: ensure NOSPOOF/PARANOID, join every
+        chat/control channel via @channel/on (addcom is disabled on this server), then
+        probe our current room so RP/!pose has a scene-queue key."""
         cmds = ["@set me=NOSPOOF", "@set me=PARANOID"]
         for name, loc in self.locations.items():
             if loc.mode in ("chat", "control"):
                 cmds.append("@channel/on %s" % name)
+        cmds.append("think CRICKET_ROOM=[loc(me)]=[name(loc(me))]")
         return cmds
 
     async def run(self) -> None:
@@ -208,12 +223,16 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
     default used by tests and offline runs."""
     bot = Bot(config)
     if persona == "llm":
+        from .lore.loader import LoreStore
         from .persona.inference import OllamaInferenceClient
         from .persona.llm import LlmPersona
 
         inference = (bot.active_profile_doc or {}).get("inference", {})
         client = OllamaInferenceClient(model=inference.get("model"))
-        bot.persona = LlmPersona(client, lambda: bot.active_profile_doc)
+        lore = LoreStore("lore")
+        bot.persona = LlmPersona(
+            client, lambda: bot.active_profile_doc, lore=lore
+        )
     return bot
 
 

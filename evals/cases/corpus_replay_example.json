@@ -1,0 +1,16 @@
+{
+  "id": "corpus_replay_example",
+  "mode": "rp",
+  "location": "Mos Espa Lockup",
+  "location_kind": "room",
+  "directives": "",
+  "cast": ["Atsvara Tarasar"],
+  "speaker": "Atsvara Tarasar",
+  "context": [
+    {"speaker": "scene", "kind": "pose", "text": "Atsvara steps into the detention area to speak to Cricket: 'If I get them to release you into my custody, can you promise not to murder, maim, or sue the constables here?'"}
+  ],
+  "text": "",
+  "expect": {"action": "pose"},
+  "reference": "\"HNNNNGGHHHH,\" the astromech replies, his wheels spinning fruitlessly in the air as he lies on the ground and rages. But even Cricket is smart enough to know a good out when one is presented, so after a few more moments of binary swearing he dials it down a notch. \"I... fine. Yes yes, I PROMISE,\" he zots, \"I PROMISE NOT TO VISIT JUSTICE UPON ALL WHO HAVE WRONGED ME. There, that good enough for you fascists?!\"",
+  "tags": ["rp", "replay"]
+}

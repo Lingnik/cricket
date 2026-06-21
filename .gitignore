@@ -13,3 +13,4 @@ config.toml
 /data/cricket-memory.sqlite3
 /data/cricket-memory.sqlite3-wal
 /data/cricket-memory.sqlite3-shm
+/evals/reports/*.json

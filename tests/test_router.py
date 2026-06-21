@@ -112,10 +112,11 @@ def test_muted_suppresses_persona():
     assert s.persona.turns == []
 
 
-def test_control_channel_dispatches_command():
+def test_control_channel_dispatches_addressed_command():
     s = make_services()
     router = Router(s)
-    run(router, ChannelMessage("admin", Actor("Bob", "#1"), SpeechKind.SAY, "status now"))
+    # Must be addressed to the bot by name; the name prefix is stripped.
+    run(router, ChannelMessage("admin", Actor("Bob", "#1"), SpeechKind.SAY, "cricket status now"))
     assert len(s.registry.dispatched) == 1
     name, args, ctx = s.registry.dispatched[0]
     assert name == "status"
@@ -123,6 +124,81 @@ def test_control_channel_dispatches_command():
     assert ctx.source == "mush"
     assert ctx.level == Level.ADMIN
     assert s.persona.turns == []  # control locations never reach the persona
+
+
+def test_control_channel_unaddressed_is_ignored():
+    s = make_services()
+    router = Router(s)
+    # An admin speaking on the control channel without naming the bot -> no command.
+    run(router, ChannelMessage("admin", Actor("Bob", "#1"), SpeechKind.SAY, "status now"))
+    assert s.registry.dispatched == []
+    assert s.actions.calls == []  # no reply emitted
+
+
+def test_control_channel_join_notice_produces_no_output():
+    s = make_services()
+    router = Router(s)
+    # The bug: a channel system notice was parsed as a command ("Unknown command: has").
+    run(router, ChannelMessage("admin", Actor("Bob", "#1"), SpeechKind.POSE, "has joined this channel."))
+    assert s.registry.dispatched == []
+    assert s.actions.calls == []
+
+
+def test_control_channel_nonadmin_addressed_is_ignored():
+    s = make_services()
+    router = Router(s)
+    # Eve is not in the location admins (#1) nor the global allowlist.
+    run(router, ChannelMessage("admin", Actor("Eve", None), SpeechKind.SAY, "cricket status"))
+    assert s.registry.dispatched == []
+    assert s.actions.calls == []
+
+
+def test_bang_pose_assembles_rp_turn_and_emits():
+    from cricket.commands.registry import Registry, CommandContext
+    from cricket.commands.builtins import register_builtins
+    from cricket.persona.base import ContextLine, Response
+
+    reg = Registry()
+    register_builtins(reg)
+
+    class P:
+        def __init__(self):
+            self.turns = []
+
+        async def respond(self, turn):
+            self.turns.append(turn)
+            return Response("CRICKET BEEPS FURIOUSLY", action="pose")
+
+    class A:
+        def __init__(self):
+            self.calls = []
+
+        def pose_room(self, text):
+            self.calls.append(("pose_room", text))
+            return True
+
+    persona, actions = P(), A()
+    bot = SimpleNamespace(
+        current_room="Room1",
+        scene_queues={"Room1": [ContextLine("Bob", "#9", "say", "oi cricket")]},
+        rp_enabled={"Room1": True},
+        persona=persona,
+        actions=actions,
+        locations={"Room1": LocationConfig(name="Room1", mode="rp", directives="crass")},
+        bot_identity=BotIdentity(name="Cricket"),
+        memory=None,
+        registry=reg,
+    )
+    ctx = CommandContext(source="mush", level=Level.ADMIN, reply=lambda t: None, bot=bot)
+    asyncio.run(reg.dispatch("!pose", [], ctx))
+    assert len(persona.turns) == 1
+    turn = persona.turns[0]
+    assert turn.mode == "rp"
+    assert turn.location == "Room1"
+    assert turn.location_kind == "room"
+    assert [c.text for c in turn.context] == ["oi cricket"]
+    assert ("pose_room", "CRICKET BEEPS FURIOUSLY") in actions.calls
+    assert bot.scene_queues["Room1"] == []  # scene consumed after the pose
 
 
 def test_room_traffic_fills_scene_queue_when_rp_enabled():

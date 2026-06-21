@@ -26,17 +26,22 @@ class LlmPersona(Persona):
         self,
         client: InferenceClient,
         profile_getter: Union[Callable, None] = None,
+        lore=None,
     ) -> None:
         self._client = client
         # () -> active profile doc (dict) or None. Read on each turn so live edits apply.
         self._get_profile = profile_getter or (lambda: None)
+        # Optional LoreStore: dossiers for the characters present are injected as a
+        # memories block between the stable system prompt and the volatile scene.
+        self._lore = lore
 
     async def respond(self, turn: Turn) -> Union[Response, None]:
         doc = self._get_profile() or {}
         prompts = doc.get("prompts", {}) if isinstance(doc, dict) else {}
         inference = doc.get("inference", {}) if isinstance(doc, dict) else {}
 
-        messages = self._build_messages(turn, prompts)
+        memories = self._retrieve_memories(turn)
+        messages = self._build_messages(turn, prompts, memories)
         options = self._build_options(inference)
         text = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
@@ -47,7 +52,24 @@ class LlmPersona(Persona):
         action = "pose" if turn.mode == "rp" else "say"
         return Response(text=text, action=action)
 
-    def _build_messages(self, turn: Turn, prompts: dict) -> list:
+    def _retrieve_memories(self, turn: Turn) -> str:
+        """Dossiers for the characters present in this scene (name-based; channel and
+        room speakers are matched against known lore characters). Empty if no LoreStore."""
+        if self._lore is None:
+            return ""
+        cast = []
+        seen = set()
+        for line in turn.context:
+            spk = (line.speaker or "").strip()
+            if spk and spk.lower() not in seen:
+                seen.add(spk.lower())
+                cast.append(spk)
+        spk = (turn.speaker or "").strip()
+        if spk and spk.lower() not in seen:
+            cast.append(spk)
+        return self._lore.retrieve(cast)
+
+    def _build_messages(self, turn: Turn, prompts: dict, memories: str = "") -> list:
         # Most-stable content first (system + bio), newest content last, so the prefix
         # cache only re-evaluates the tail. PHASE 2 owns the prompt text in prompts.system.
         name = turn.bot_identity.name if turn.bot_identity else "cricket"
@@ -57,18 +79,23 @@ class LlmPersona(Persona):
             system = "%s\n\n%s" % (base, turn.directives)
         messages = [{"role": "system", "content": system.strip()}]
 
-        # Context oldest -> newest, then the triggering line, then a turn instruction.
+        # User message: memories block (changes only when the cast changes) first, then
+        # the scene oldest -> newest, then the triggering line and a turn instruction.
+        parts = []
+        if memories.strip():
+            parts.append("What you know about who is here:\n%s" % memories.strip())
         scene = []
         for line in turn.context:
             scene.append("%s: %s" % (line.speaker, line.text))
         if turn.text.strip():
             scene.append("%s: %s" % (turn.speaker, turn.text))
+        if scene:
+            parts.append("\n".join(scene))
         if turn.mode == "rp":
-            instruction = "Compose %s's next pose, in character." % name
+            parts.append("Compose %s's next pose, in character." % name)
         else:
-            instruction = "Reply as %s, in character." % name
-        user = "\n".join(scene + ["", instruction]) if scene else instruction
-        messages.append({"role": "user", "content": user})
+            parts.append("Reply as %s, in character." % name)
+        messages.append({"role": "user", "content": "\n\n".join(parts)})
         return messages
 
     @staticmethod

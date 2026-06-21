@@ -1,0 +1,16 @@
+{
+  "id": "rp_pose_from_scene",
+  "mode": "rp",
+  "location": "Mos Espa Lockup",
+  "location_kind": "room",
+  "directives": "",
+  "cast": ["Atsvara Tarasar"],
+  "speaker": "Atsvara Tarasar",
+  "context": [
+    {"speaker": "Atsvara Tarasar", "kind": "pose", "text": "strolls into the lockup in her black Dragonflower uniform and demands to see Cricket."},
+    {"speaker": "Constable", "kind": "say", "text": "R2-CT won't be seeing anyone for a while, he's on the warpath."}
+  ],
+  "text": "",
+  "expect": {"action": "pose"},
+  "tags": ["rp"]
+}

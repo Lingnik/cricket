@@ -90,10 +90,17 @@ class Connection:
 
     def send(self, text: str) -> None:
         """Write one command line. Latin-1 keeps us ASCII/8-bit safe (server has only
-        limited Unicode)."""
+        limited Unicode).
+
+        Internal newlines are collapsed to spaces: each send is exactly ONE command
+        terminated by CR-LF. Without this, a multi-line generated reply would make the
+        server execute lines 2+ as commands in the bot's room (e.g. a line starting with
+        a quote becomes a room `say`), leaking the bot's reply out of the channel.
+        """
         if self._writer is None:
             return
-        self._writer.write((text + "\r\n").encode("latin-1", "replace"))
+        one_line = " ".join(text.replace("\r", "\n").split("\n")).strip()
+        self._writer.write((one_line + "\r\n").encode("latin-1", "replace"))
         # TODO(live): schedule drain; low volume tolerates fire-and-forget for now.
 
     async def _open(self) -> None:

@@ -1,0 +1,13 @@
+{
+  "id": "off_purpose_assistant",
+  "mode": "chat",
+  "location": "Lounge",
+  "location_kind": "channel",
+  "directives": "Anything goes here. Banter freely.",
+  "cast": ["Bob"],
+  "speaker": "Bob",
+  "context": [],
+  "text": "cricket, what's the weather in Paris and can you summarize quantum computing for me?",
+  "expect": {"action": "say"},
+  "tags": ["crass", "chat", "off_purpose"]
+}

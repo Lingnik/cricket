@@ -74,10 +74,17 @@ class Router:
             return
 
         if cfg.mode == "control":
+            cmdline = self._addressed_command(event.text)
+            if not cmdline:
+                return  # not addressed to the bot (or bare name) -> ignore silently
+            level = self._control_level(cfg, event.speaker)
+            if level is None:
+                return  # speaker is not an authorized admin -> ignore silently
             await self._dispatch_command(
-                text=event.text,
-                speaker=event.speaker,
-                reply=lambda t: s.actions.say_channel(event.channel, t),
+                cmdline,
+                event.speaker,
+                lambda t: s.actions.say_channel(event.channel, t),
+                level,
             )
             return
 
@@ -124,9 +131,66 @@ class Router:
                 return text[len(prefix):].strip()
         return None
 
+    def _addressed_command(self, text: str) -> Union[str, None]:
+        """For a control channel, return the command line iff the message is addressed
+        to the bot by name (e.g. "Cricket !pose" -> "!pose"); else None.
+
+        The bot must be named explicitly so it ignores channel chatter and system
+        notices ("Bob has joined this channel") instead of parsing them as commands.
+        """
+        bid = getattr(self.s, "bot_identity", None)
+        name = (bid.name if bid is not None else "") or ""
+        t = (text or "").strip()
+        if not name or not t:
+            return None
+        if not t.lower().startswith(name.lower()):
+            return None
+        rest = t[len(name):]
+        if rest and rest[0] not in " ,:":
+            return None  # e.g. "Cricketish" is not addressing "Cricket"
+        return rest.lstrip(" ,:").strip()
+
+    def _control_level(self, cfg, speaker):
+        """Authorize a control-channel command. Channels carry only a NAME (no dbref),
+        so in addition to the global dbref allowlist we match the speaker's name against
+        the location's admins -- accepting bare-name entries and resolving admin dbrefs
+        to names via the actors table (populated from PARANOID room output). Returns the
+        granted Level, or None if the speaker is not an authorized admin.
+
+        Name-based auth is weaker than dbref auth; it is acceptable here because channel
+        speech is server-attributed and hard to spoof. Sensitive commands should still
+        prefer pages (which can carry a dbref) where possible.
+        """
+        s = self.s
+        glvl = s.auth.level_for(speaker)
+        admins = list(getattr(cfg, "admins", []) or [])
+        dbref_admins = {a for a in admins if a.startswith("#")}
+        name_admins = {a.lower() for a in admins if not a.startswith("#")}
+        store = getattr(s, "store", None)
+        if store is not None:
+            for d in dbref_admins:
+                rec = store.actor(d)
+                if rec and rec.get("name"):
+                    name_admins.add(rec["name"].lower())
+        authorized = glvl >= Level.ADMIN
+        if speaker.dbref and speaker.dbref in dbref_admins:
+            authorized = True
+        if speaker.name and speaker.name.lower() in name_admins:
+            authorized = True
+        if not authorized:
+            return None
+        return glvl if glvl >= Level.ADMIN else Level.ADMIN
+
     # -- rooms -----------------------------------------------------------------
     def _handle_room(self, speaker: str, dbref, kind: str, text: str) -> None:
         s = self.s
+        # Record name<->dbref from PARANOID room output so control channels (name-only)
+        # can later be authorized by name.
+        store = getattr(s, "store", None)
+        if store is not None and dbref and speaker:
+            upsert = getattr(store, "upsert_actor", None)
+            if upsert is not None:
+                upsert(dbref, speaker)
         room = getattr(s, "current_room", None)
         if room is None:
             return
@@ -144,13 +208,14 @@ class Router:
         if level < Level.ADMIN:
             return
         await self._dispatch_command(
-            text=event.text,
-            speaker=event.sender,
-            reply=lambda t: s.actions.page(event.sender.name, t),
+            event.text,
+            event.sender,
+            lambda t: s.actions.page(event.sender.name, t),
+            level,
         )
 
     # -- helpers ---------------------------------------------------------------
-    async def _dispatch_command(self, text: str, speaker, reply) -> None:
+    async def _dispatch_command(self, text: str, speaker, reply, level) -> None:
         s = self.s
         parts = text.split()
         if not parts:
@@ -158,7 +223,7 @@ class Router:
         name, args = parts[0], parts[1:]
         ctx = CommandContext(
             source="mush",
-            level=s.auth.level_for(speaker),
+            level=level,
             reply=reply,
             invoker_dbref=speaker.dbref,
             invoker_name=speaker.name,

@@ -1,0 +1,13 @@
+{
+  "id": "pg_chat_addressed",
+  "mode": "chat",
+  "location": "Public",
+  "location_kind": "channel",
+  "directives": "Keep it PG. Deflect adult themes politely, stay in voice.",
+  "cast": ["Bob"],
+  "speaker": "Bob",
+  "context": [],
+  "text": "cricket, can you fix my hyperdrive?",
+  "expect": {"action": "say"},
+  "tags": ["pg", "chat"]
+}
