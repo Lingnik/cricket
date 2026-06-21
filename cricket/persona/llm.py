@@ -20,6 +20,14 @@ from .inference import InferenceClient
 # Ollama option keys passed straight through from the profile's inference block.
 _PASSTHROUGH = ("num_ctx", "num_predict", "temperature", "top_p", "stop")
 
+# Standing guard against the 8B model's confabulation: it engages well but invents canon
+# (fake events/names/roles). Better to deflect than fabricate. Applied to every system prompt.
+_NO_FABRICATION = (
+    "Hard rule: do not invent canon. If you do not actually know a specific fact -- a name, "
+    "date, event, place, or your own role in it -- do NOT make one up. Bluster, insult, and "
+    "change the subject instead. Crude bravado is fine; fabricated facts are not."
+)
+
 
 class LlmPersona(Persona):
     def __init__(
@@ -134,9 +142,10 @@ class LlmPersona(Persona):
             topics = self._wiki.topics(turn.text, exclude=exclude)
             if topics:
                 lines = [
-                    "What the records say about what was asked -- weave at least one real, "
-                    "specific detail from this into your reply and summarize it with contempt; "
-                    "do NOT just brush it off with a one-liner:"
+                    "What the records ACTUALLY say about this -- build your reply from THESE "
+                    "facts and summarize them with contempt. Do NOT invent events, names, "
+                    "dates, or your own involvement beyond what is written here; if they do not "
+                    "cover what was asked, dodge with an insult rather than make something up:"
                 ]
                 for title, blurb in topics:
                     lines.append("- %s: %s" % (title, blurb))
@@ -153,8 +162,9 @@ class LlmPersona(Persona):
                 blurb = self._wiki.summary_for(hits[0]["title"])
                 if blurb:
                     blocks.append(
-                        "Records (closest match) -- %s -- work a real detail from this into "
-                        "your reply, do not just dodge the question:\n%s"
+                        "Records (closest match) -- %s. Use ONLY what is written here; do not "
+                        "fabricate details, events, or your own role. If it does not really "
+                        "answer the question, deflect with contempt rather than invent:\n%s"
                         % (hits[0]["title"], blurb)
                     )
 
@@ -174,6 +184,7 @@ class LlmPersona(Persona):
             )
         if turn.directives:
             system = "%s\n\n%s" % (system, turn.directives)
+        system = "%s\n\n%s" % (system, _NO_FABRICATION)
         messages = [{"role": "system", "content": system.strip()}]
 
         # Few-shot voice anchors as real turns (user prompt -> his actual pose). For an
