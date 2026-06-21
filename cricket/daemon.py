@@ -52,6 +52,8 @@ class Bot:
         self.scene_ledger: dict = {}  # room -> [distilled ledger lines] (append-only per scene)
         self.scene_owners: dict = {}  # room -> set of characters OTHERS control (do-not-puppet)
         self.suggestions: dict = {}   # room -> [OOC nudges {from, text, favored}] for the next pose
+        self.pending_consent: dict = {}   # room -> {target} awaiting !consent-ok/!consent-deny
+        self.consent_granted: dict = {}   # room -> {target} one-time grant for the next pose
         self.recent: dict = {}
         self.current_room = None
         self.current_room_desc = ""

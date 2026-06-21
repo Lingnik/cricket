@@ -8,9 +8,57 @@ through ctx.bot (the daemon).
 
 from __future__ import annotations
 
+import re
+
 from ..auth import Level
 from ..persona.base import ContextLine, Response, Turn
 from .registry import Command, CommandContext
+
+# Lethal / agency-removing action keywords -- the consent gate fires when one co-occurs with a
+# player-controlled character in the live scene or the OOC nudges.
+# No trailing \b so stems match their inflections ('execut' -> execute/executing).
+_MORTAL_RE = re.compile(
+    r"\b(kill|murder|execut|behead|maim|cripple|dismember|destroy|vapori[sz]e|incinerat|"
+    r"assassinat|slit |disembowel|gut |to death|space (?:him|her|them|you)|put .* down)",
+    re.IGNORECASE,
+)
+
+
+def _mortal_intent(bot, room):
+    """Heuristic pre-gate: a planned lethal/agency-removing action against a player-CONTROLLED
+    character. Returns the target's name or None. Scans the live scene blocks + OOC nudges for a
+    mortal keyword co-occurring with a character others control (NPCs Cricket owns are exempt)."""
+    controlled = set(getattr(bot, "scene_owners", {}).get(room, set()))
+    if not controlled:
+        return None
+    texts = [getattr(b, "text", "") for b in getattr(bot, "scene_queues", {}).get(room, [])]
+    texts += [s.get("text", "") for s in getattr(bot, "suggestions", {}).get(room, [])]
+    blob = "\n".join(texts)
+    if not _MORTAL_RE.search(blob):
+        return None
+    low = blob.lower()
+    for name in sorted(controlled):
+        if name.lower() in low:
+            return name
+    return None
+
+
+def _ooc_channel(bot):
+    for n, loc in getattr(bot, "locations", {}).items():
+        if getattr(loc, "feeds_suggestions", False):
+            return n
+    return None
+
+
+def _consent_authorized(ctx, pend) -> bool:
+    """Only the named target or an admin may resolve a consent request."""
+    if ctx.level >= Level.ADMIN:
+        return True
+    inv = (getattr(ctx, "invoker_name", "") or "").strip().lower()
+    if inv and inv == (pend.get("target", "") or "").strip().lower():
+        return True
+    ctx.reply("only the target or an admin can resolve consent.")
+    return False
 
 
 def _cast_from_queue(bot, queue) -> list:
@@ -70,6 +118,10 @@ async def _set_rp(ctx: CommandContext, room, on: bool) -> None:
         bot.scene_owners.pop(room, None)
     if hasattr(bot, "suggestions"):
         bot.suggestions.pop(room, None)
+    if hasattr(bot, "pending_consent"):
+        bot.pending_consent.pop(room, None)
+    if hasattr(bot, "consent_granted"):
+        bot.consent_granted.pop(room, None)
     bot.pending_recall.pop(room, None)
     bot.rp_enabled[room] = False
     ctx.reply("rp in %s: False" % room)
@@ -109,6 +161,32 @@ async def cmd_harass(ctx: CommandContext, args: list) -> None:
     ctx.reply("harass_on_connect: %s" % ctx.bot.harass_on_connect)
 
 
+async def cmd_consent_ok(ctx: CommandContext, args: list) -> None:
+    room = getattr(ctx.bot, "current_room", None)
+    pend = getattr(ctx.bot, "pending_consent", {}).get(room) if room else None
+    if not pend:
+        ctx.reply("no pending consent.")
+        return
+    if not _consent_authorized(ctx, pend):
+        return
+    if hasattr(ctx.bot, "consent_granted"):
+        ctx.bot.consent_granted[room] = pend
+    ctx.bot.pending_consent.pop(room, None)
+    ctx.reply("consent granted for %s." % pend.get("target"))
+
+
+async def cmd_consent_deny(ctx: CommandContext, args: list) -> None:
+    room = getattr(ctx.bot, "current_room", None)
+    pend = getattr(ctx.bot, "pending_consent", {}).get(room) if room else None
+    if not pend:
+        ctx.reply("no pending consent.")
+        return
+    if not _consent_authorized(ctx, pend):
+        return
+    ctx.bot.pending_consent.pop(room, None)
+    ctx.reply("consent denied for %s; dropping it." % pend.get("target"))
+
+
 async def cmd_reload(ctx: CommandContext, args: list) -> None:
     """Re-derive identity/locations/auth from the active profile in the config DB."""
     apply_fn = getattr(ctx.bot, "_apply_active_profile", None)
@@ -143,6 +221,26 @@ async def cmd_rp(ctx: CommandContext, args: list) -> None:
 async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> None:
     if room is None:
         ctx.reply("no room specified and no current room.")
+        return
+    # Consent gate: a mortal/agency-removing action against a player-character needs OOC consent
+    # FIRST. If a request is pending, block. Otherwise, if intent is detected and not already
+    # granted, solicit consent on OOC and block this pose until !consent-ok / !consent-deny.
+    pending = getattr(ctx.bot, "pending_consent", {})
+    granted = getattr(ctx.bot, "consent_granted", {})
+    if pending.get(room):
+        ctx.reply("awaiting consent for %s (!consent-ok / !consent-deny)."
+                  % pending[room].get("target"))
+        return
+    target = _mortal_intent(ctx.bot, room)
+    if target and (granted.get(room, {}).get("target", "") or "").lower() != target.lower():
+        ooc = _ooc_channel(ctx.bot)
+        msg = ("OOC: I want to do something lethal to %s this round. Target or an admin: "
+               "!consent-ok or !consent-deny?" % target)
+        if ooc is not None:
+            ctx.bot.actions.say_channel(ooc, msg)
+        if hasattr(ctx.bot, "pending_consent"):
+            ctx.bot.pending_consent[room] = {"target": target}
+        ctx.reply("consent requested for %s; blocking pose until resolved." % target)
         return
     queue = ctx.bot.scene_queues.get(room, [])
     context = list(queue)
@@ -196,6 +294,8 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
     ctx.bot.scene_queues[room] = []
     if hasattr(ctx.bot, "suggestions"):
         ctx.bot.suggestions[room] = []  # nudges consumed by this pose
+    if hasattr(ctx.bot, "consent_granted"):
+        ctx.bot.consent_granted.pop(room, None)  # one-time grant consumed
     ctx.reply("posed in %s (%s)." % (room, action))
 
 
@@ -324,3 +424,9 @@ def register_builtins(registry) -> None:
     )
     registry.register(Command("help", Level.PUBLIC, cmd_help, "list your commands"))
     registry.register(Command("!help", Level.PUBLIC, cmd_help, "list your commands"))
+    # Consent resolution: PUBLIC so the named target (often not an admin) can answer; the
+    # handler restricts to the target or an admin.
+    for nm in ("consent-ok", "!consent-ok"):
+        registry.register(Command(nm, Level.PUBLIC, cmd_consent_ok, "approve a pending mortal action"))
+    for nm in ("consent-deny", "!consent-deny"):
+        registry.register(Command(nm, Level.PUBLIC, cmd_consent_deny, "deny a pending mortal action"))
