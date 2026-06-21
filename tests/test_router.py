@@ -96,6 +96,21 @@ class _RespondingPersona:
         return Response(text="BLEEP. Another meatbag connects. Wonderful.", action="say")
 
 
+def test_block_grouping_merges_consecutive_same_poser():
+    s = make_services()
+    s.rp_enabled["Room1"] = True
+    router = Router(s)
+    run(router, RoomMessage(Actor("Crestian", "#7"), SpeechKind.POSE, "draws his blade."))
+    run(router, RoomMessage(Actor("Crestian", "#7"), SpeechKind.EMIT, "The steel gleams."))
+    run(router, RoomMessage(Actor("Johanna", "#4"), SpeechKind.POSE, "laughs at him."))
+    run(router, RoomMessage(Actor("Crestian", "#7"), SpeechKind.POSE, "lunges."))
+    q = s.scene_queues["Room1"]
+    assert len(q) == 3  # the two consecutive Crestian lines merged into one block
+    assert q[0].speaker == "Crestian" and "blade" in q[0].text and "gleams" in q[0].text
+    assert q[1].speaker == "Johanna"
+    assert q[2].text == "lunges."  # a later same-poser block after an interruption is separate
+
+
 def test_harass_on_connect_pages_newcomer():
     from cricket.mush.events import ConnectNotice
     s = make_services()
@@ -281,8 +296,9 @@ def test_scene_queue_capped_drops_oldest():
     s.rp_enabled = {"Room1": True}
     router = Router(s)
     total = SCENE_QUEUE_CAP + 25
+    # Distinct poser per line so block-grouping does not merge them.
     for i in range(total):
-        run(router, RoomMessage(Actor("Bob", "#9"), SpeechKind.SAY, "line %d" % i))
+        run(router, RoomMessage(Actor("P%d" % i, "#%d" % (100 + i)), SpeechKind.SAY, "line %d" % i))
     q = s.scene_queues["Room1"]
     assert len(q) == SCENE_QUEUE_CAP  # bounded
     # oldest dropped, newest kept, order preserved
@@ -295,7 +311,7 @@ def test_scene_queue_under_cap_unchanged():
     s.rp_enabled = {"Room1": True}
     router = Router(s)
     for i in range(5):
-        run(router, RoomMessage(Actor("Bob", "#9"), SpeechKind.SAY, "line %d" % i))
+        run(router, RoomMessage(Actor("P%d" % i, "#%d" % (100 + i)), SpeechKind.SAY, "line %d" % i))
     q = s.scene_queues["Room1"]
     assert len(q) == 5
     assert q[0].text == "line 0"
