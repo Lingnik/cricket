@@ -141,11 +141,19 @@ DEFAULT_REPORT_LOGS = [
 ]
 
 
-def _build_persona(lore):
+def _build_persona(lore, deterministic=True):
+    """Build the live persona for replay. deterministic=True forces greedy decoding (temperature
+    0 + fixed seed) so report runs are REPRODUCIBLE and tuning deltas are measurable -- the live
+    bot samples at temp 0.85, where run-to-run judge variance (+/-0.5 at n=12) swamps any signal.
+    Deterministic scores are a regression PROXY, not the live distribution."""
+    import copy
     from cricket.persona.inference import OllamaInferenceClient
     from cricket.persona.llm import LlmPersona
     active = ConfigStore(os.path.join(_ROOT, "data", "cricket-config.sqlite3")).active()
-    doc = active[1]
+    doc = copy.deepcopy(active[1])
+    if deterministic:
+        inf = doc.setdefault("inference", {})
+        inf["temperature"], inf["top_p"], inf["seed"] = 0, 1, 0
     return LlmPersona(OllamaInferenceClient(model=doc["inference"]["model"]), lambda: doc,
                       lore=lore, wiki=WikiIndex(os.path.join(_ROOT, "knowledge", "runtime", "wiki")),
                       vector=VectorIndex(os.path.join(_ROOT, "knowledge", "runtime", "wiki")))
