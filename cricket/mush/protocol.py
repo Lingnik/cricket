@@ -53,6 +53,46 @@ DEFAULT_PATTERNS = {
 }
 
 
+def map_oob_event(obj: dict, patterns: Union[dict, None] = None) -> Union[MushEvent, None]:
+    """Map an `oob()` JSON envelope to a MushEvent, the WebSocket inbound path.
+
+    The envelope is `{from, dbref, msg, ...}` where `from`/`dbref` come from the engine's
+    enactor register `%#` -- the TRUSTED speaker. The actor is taken from those fields and
+    NEVER from `msg`: any forged attribution text a player injected (e.g. a fake
+    `[Wizard(#1)]` on a `%r`-injected line) rides harmlessly inside `msg`. Only the message
+    KIND (say/pose/emit) and CHANNEL are inferred from `msg` -- structure, never identity.
+    Because one oob() fires per heard message, a multi-paragraph pose is ONE event with one
+    trusted dbref (the `%r` newline-injection that defeated the regex parser is moot here)."""
+    p = patterns or DEFAULT_PATTERNS
+    name = (obj.get("from") or "").strip()
+    dbref = ((obj.get("dbref") or "").strip() or None)
+    msg = obj.get("msg") or ""
+    actor = Actor(name, dbref)
+
+    def _pose_body(rest: str) -> str:
+        if name and rest.startswith(name + " "):
+            return rest[len(name) + 1:]
+        _, _, body = rest.partition(" ")  # drop a leading token (comtitle/name) we can't match
+        return body or rest
+
+    m = p["channel"].match(msg)
+    if m:
+        chan, rest = m.group("chan"), m.group("rest")
+        sm = p["say"].match(rest)
+        if sm:
+            return ChannelMessage(chan, actor, SpeechKind.SAY, sm.group("text"))
+        return ChannelMessage(chan, actor, SpeechKind.POSE, _pose_body(rest))
+    m = p["connect"].match(msg)
+    if m:
+        return ConnectNotice(actor, m.group("verb") == "connected")
+    sm = p["say"].match(msg)
+    if sm:
+        return RoomMessage(actor, SpeechKind.SAY, sm.group("text"))
+    if name and msg.startswith(name + " "):
+        return RoomMessage(actor, SpeechKind.POSE, msg[len(name) + 1:])
+    return RoomMessage(actor, SpeechKind.EMIT, msg)
+
+
 class Parser:
     """Turns raw lines into MushEvents. One instance per connection (it holds the
     command-echo framing state)."""

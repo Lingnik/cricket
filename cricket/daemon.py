@@ -28,7 +28,7 @@ from .memory.store import MemoryHandle, MemoryStore
 from .mush.actions import Actions
 from .mush.connection import Connection
 from .mush.events import CommandEcho
-from .mush.protocol import Parser
+from .mush.protocol import Parser, map_oob_event
 from .persona.base import BotIdentity
 from .persona.stub import StubPersona
 from .profiles import DEFAULT_PROFILE, ConfigStore, derive_runtime
@@ -186,6 +186,13 @@ class Bot:
         # Fire-and-forget so a slow persona never blocks the read loop.
         asyncio.ensure_future(self.router.handle(event))
 
+    def _on_event(self, obj: dict) -> None:
+        """j-channel inbound (WebSocket): an oob() JSON envelope carrying a TRUSTED speaker
+        dbref (%#). Mapped to a MushEvent without parsing attribution out of spoofable text."""
+        event = map_oob_event(obj)
+        if event is not None:
+            asyncio.ensure_future(self.router.handle(event))
+
     def _handle_command_echo(self, text: str) -> None:
         # The room-probe from _setup_commands reports the bot's current location so the
         # RP scene queue and !pose have a room to key on.
@@ -223,19 +230,43 @@ class Bot:
         cmds.append("think CRICKET_ROOMDESC=[mid(edit(describe(loc(me)),%r,%b),0,400)]")
         for dbref in sorted(admins):
             cmds.append("think CRICKET_RESOLVE=%s=[name(%s)]" % (dbref, dbref))
+        # WebSocket transport: install the receiver-side relay so every heard message is mirrored
+        # to the j channel as an oob() JSON object carrying the trusted enactor (%#). %-subs are
+        # stored literally by &-set and evaluated when AHEAR fires (see docs/websockets.md).
+        if self.config.mush.transport == "ws":
+            cmds.append("@listen me=*")
+            cmds.append(
+                "&AHEAR me=@assert oob(name(me),Room.Emit,json(object,"
+                "from,json(string,name(%#)),dbref,json(string,%#),"
+                "loc,json(string,loc(%#)),ts,json(number,secs()),msg,json(string,%0)))"
+            )
         return cmds
 
     async def run(self) -> None:
         loop = asyncio.get_running_loop()
-        self.connection = Connection(
-            host=self.config.mush.host,
-            port=self.config.mush.port,
-            name=self.config.mush.name,
-            password=self.config.mush.password,
-            on_line=self._on_line,
-            use_tls=self.config.mush.use_tls,
-            setup_commands=self._setup_commands(),
-        )
+        if self.config.mush.transport == "ws":
+            from .mush.ws_connection import WsConnection
+            self.connection = WsConnection(
+                host=self.config.mush.host,
+                port=self.config.mush.port,
+                name=self.config.mush.name,
+                password=self.config.mush.password,
+                on_line=self._on_line,
+                on_event=self._on_event,
+                use_tls=self.config.mush.use_tls,
+                setup_commands=self._setup_commands(),
+                ws_path=self.config.mush.ws_path,
+            )
+        else:
+            self.connection = Connection(
+                host=self.config.mush.host,
+                port=self.config.mush.port,
+                name=self.config.mush.name,
+                password=self.config.mush.password,
+                on_line=self._on_line,
+                use_tls=self.config.mush.use_tls,
+                setup_commands=self._setup_commands(),
+            )
         await self.control.start()
         self.http = HttpConfigServer(
             self, self.config.http.host, self.config.http.port, loop

@@ -34,6 +34,10 @@ class MushConfig:
     use_tls: bool
     name: str
     password: str
+    # Inbound transport: "ws" (WebSocket + oob JSON, trusted attribution -- the default) or
+    # "telnet" (the legacy regex-parsed line transport, kept as a fallback).
+    transport: str = "ws"
+    ws_path: str = "/wsclient"
 
 
 @dataclass
@@ -121,6 +125,8 @@ def load_config(toml_path: Union[str, Path], env: Union[dict, None] = None) -> C
         use_tls=_truthy(env.get("CRICKET_MUSH_USE_TLS", "false")),
         name=env.get("CRICKET_MUSH_NAME", ""),
         password=env.get("CRICKET_MUSH_PASSWORD", ""),
+        transport=env.get("CRICKET_MUSH_TRANSPORT", "ws").strip().lower(),
+        ws_path=env.get("CRICKET_MUSH_WS_PATH", "/wsclient"),
     )
 
     control_default = int(data.get("control", {}).get("port", 4250))
