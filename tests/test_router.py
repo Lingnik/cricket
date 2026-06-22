@@ -116,6 +116,22 @@ def test_block_grouping_merges_consecutive_same_poser():
     assert q[2].text == "lunges."  # a later same-poser block after an interruption is separate
 
 
+def test_room_self_narration_filtered_from_scene_queue():
+    # An actor standing in the room (loc == the room) is queued; the room narrating itself -- a
+    # look/contents/desc emitted BY the room, loc #-1 -- is dropped from the queue (still logged).
+    s = make_services()
+    s.rp_enabled["Room1"] = True
+    router = Router(s)
+    run(router, RoomMessage(Actor("Johanna", "#4"), SpeechKind.POSE, "laughs.", loc="Room1"))
+    run(router, RoomMessage(Actor("Room1", "Room1"), SpeechKind.EMIT, "Contents:", loc="#-1"))
+    run(router, RoomMessage(Actor("Room1", "Room1"), SpeechKind.EMIT, "Johanna", loc="#-1"))
+    q = s.scene_queues["Room1"]
+    assert len(q) == 1 and q[0].speaker == "Johanna"
+    # loc absent (telnet fallback) is not filtered -- backward compatible
+    run(router, RoomMessage(Actor("Bazil", "#9"), SpeechKind.POSE, "nods."))
+    assert len(s.scene_queues["Room1"]) == 2
+
+
 def test_ooc_suggestion_captured_for_current_room():
     s = make_services()
     s.locations["OOC"].feeds_suggestions = True

@@ -23,6 +23,16 @@ def test_oob_room_pose_and_emit():
     assert em.kind == SpeechKind.EMIT and em.text == "A cold wind blows through the bay."
 
 
+def test_oob_room_message_carries_enactor_loc():
+    # a co-present poser is located IN the room; the room narrating itself is enacted by the room,
+    # whose own loc is #-1 -- the signal the co-presence filter keys on.
+    e = map_oob_event({"from": "Jessalyn", "dbref": "#7", "loc": "#0",
+                       "msg": "Jessalyn taps the dome."})
+    assert isinstance(e, RoomMessage) and e.loc == "#0"
+    j = map_oob_event({"from": "Dark Room", "dbref": "#0", "loc": "#-1", "msg": "Contents:"})
+    assert isinstance(j, RoomMessage) and j.loc == "#-1"
+
+
 def test_oob_channel_message():
     e = map_oob_event(_obj("Bob", "#5", '<Public> Bob says, "on channel"'))
     assert isinstance(e, ChannelMessage) and e.channel == "Public" and e.kind == SpeechKind.SAY

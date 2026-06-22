@@ -79,7 +79,8 @@ class Router:
         if isinstance(event, ChannelMessage):
             await self._handle_channel(event)
         elif isinstance(event, RoomMessage):
-            self._handle_room(event.speaker.name, event.speaker.dbref, event.kind.value, event.text)
+            self._handle_room(event.speaker.name, event.speaker.dbref, event.kind.value,
+                              event.text, getattr(event, "loc", None))
         elif isinstance(event, Unknown):
             # Unprefixed poses/emits land here; still feed the scene queue.
             self._handle_room("", None, "emit", event.raw)
@@ -311,7 +312,7 @@ class Router:
         )
 
     # -- rooms -----------------------------------------------------------------
-    def _handle_room(self, speaker: str, dbref, kind: str, text: str) -> None:
+    def _handle_room(self, speaker: str, dbref, kind: str, text: str, loc=None) -> None:
         s = self.s
         # Record name<->dbref from PARANOID room output so control channels (name-only)
         # can later be authorized by name.
@@ -324,6 +325,12 @@ class Router:
         if room is None:
             return
         self._log(room, dbref, kind, text)
+        # Co-presence filter: only an actor STANDING in this room makes a pose Cricket should react
+        # to. The room narrating itself (look/contents/desc) is enacted by the room, whose own loc
+        # is #-1 (!= this room). Such emits are logged + streamed for troubleshooting but kept out
+        # of the scene queue so they can never become a "beat" the model reacts to.
+        if loc is not None and loc != room:
+            return
         if not getattr(s, "rp_enabled", {}).get(room):
             return
         queue = s.scene_queues.setdefault(room, [])

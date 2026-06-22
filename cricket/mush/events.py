@@ -47,11 +47,14 @@ class Page:
 
 @dataclass(frozen=True)
 class RoomMessage:
-    """A say/pose/emit in the room the bot occupies."""
+    """A say/pose/emit in the room the bot occupies. `loc` is the engine-derived location of the
+    enactor (from the oob relay's loc(%#)); a co-present poser has loc == the bot's room, while the
+    room narrating itself (look/contents/desc) is enacted by the room, whose own loc is #-1."""
 
     speaker: Actor
     kind: SpeechKind
     text: str
+    loc: Union[str, None] = None
 
 
 @dataclass(frozen=True)

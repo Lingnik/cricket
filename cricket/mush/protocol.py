@@ -67,6 +67,7 @@ def map_oob_event(obj: dict, patterns: Union[dict, None] = None) -> Union[MushEv
     name = (obj.get("from") or "").strip()
     dbref = ((obj.get("dbref") or "").strip() or None)
     msg = obj.get("msg") or ""
+    loc = ((obj.get("loc") or "").strip() or None)  # engine-derived location of the enactor
     actor = Actor(name, dbref)
 
     def _pose_body(rest: str) -> str:
@@ -87,10 +88,10 @@ def map_oob_event(obj: dict, patterns: Union[dict, None] = None) -> Union[MushEv
         return ConnectNotice(actor, m.group("verb") == "connected")
     sm = p["say"].match(msg)
     if sm:
-        return RoomMessage(actor, SpeechKind.SAY, sm.group("text"))
+        return RoomMessage(actor, SpeechKind.SAY, sm.group("text"), loc=loc)
     if name and msg.startswith(name + " "):
-        return RoomMessage(actor, SpeechKind.POSE, msg[len(name) + 1:])
-    return RoomMessage(actor, SpeechKind.EMIT, msg)
+        return RoomMessage(actor, SpeechKind.POSE, msg[len(name) + 1:], loc=loc)
+    return RoomMessage(actor, SpeechKind.EMIT, msg, loc=loc)
 
 
 class Parser:
