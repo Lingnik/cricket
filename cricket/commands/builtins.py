@@ -432,13 +432,18 @@ async def cmd_bang_clearqueue(ctx: CommandContext, args: list) -> None:
 async def cmd_help(ctx: CommandContext, args: list) -> None:
     # Role-specific: only commands the invoker's level can actually use.
     available = [c for c in ctx.bot.registry.commands() if ctx.level >= c.level]
-    items = [("%s -- %s" % (c.name, c.help)) if c.help else c.name for c in available]
-    text = "Cricket commands (%s): %s" % (ctx.level.name, "; ".join(items))
-    # In-MUSH: @page the list to the user. Console: reply inline.
     if ctx.source == "mush" and ctx.invoker_name:
-        ctx.bot.actions.page(ctx.invoker_name, text)
+        # In-MUSH: @page is one line over the wire (the connection collapses newlines), so use a
+        # visible inline delimiter rather than newlines that would just become spaces.
+        items = [("%s -- %s" % (c.name, c.help)) if c.help else c.name for c in available]
+        ctx.bot.actions.page(
+            ctx.invoker_name, "Cricket commands (%s): %s" % (ctx.level.name, "; ".join(items)))
     else:
-        ctx.reply(text)
+        # Console: one command per line, name-aligned, like a --help listing.
+        width = max((len(c.name) for c in available), default=0)
+        lines = ["  %s%s" % (c.name.ljust(width), ("  " + c.help) if c.help else "")
+                 for c in available]
+        ctx.reply("Cricket commands (%s):\n%s" % (ctx.level.name, "\n".join(lines)))
 
 
 def _directives_for(bot, location):

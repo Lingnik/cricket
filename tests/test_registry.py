@@ -84,3 +84,22 @@ def test_handler_exception_is_reported_not_raised():
     assert not result.ok
     assert "kaboom" in result.error
     assert out == ["Error: kaboom"]
+
+
+def test_help_console_is_newline_delimited_one_per_line():
+    from types import SimpleNamespace
+
+    from cricket.commands import builtins
+
+    reg = Registry()
+    builtins.register_builtins(reg)
+    out = []
+    ctx = CommandContext(source="console", level=Level.OPERATOR, reply=out.append,
+                         bot=SimpleNamespace(registry=reg))
+    asyncio.run(builtins.cmd_help(ctx, []))
+    text = out[0]
+    assert text.startswith("Cricket commands") and "\n" in text  # not "; "-joined
+    body = [ln for ln in text.split("\n")[1:] if ln.strip()]
+    visible = [c for c in reg.commands() if Level.OPERATOR >= c.level]
+    assert len(body) == len(visible)            # exactly one command per line
+    assert any("status" in ln for ln in body)
