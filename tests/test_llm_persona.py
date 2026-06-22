@@ -231,6 +231,11 @@ def test_clean_output_format_hygiene():
     # not a lowercase fragment with no punctuation
     assert _clean_output('"Still burning?" *the pincer twitches* "I am watching."', "rp") \
         == '"Still burning?" The pincer twitches. "I am watching."'
+    # leaked raw @emit command verb (some RP tunes echo it) is stripped
+    assert _clean_output("@emit\nThe dome swivels.", "rp") == "The dome swivels."
+    # truncated-at-token-cap pose trims back to the last complete sentence
+    assert _clean_output('He zots once. "Fine," he grumbles. Then he wheels off toward the', "rp") \
+        == 'He zots once. "Fine," he grumbles.'
 
 
 def test_to_mush_markup_restores_rt():

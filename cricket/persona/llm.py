@@ -82,6 +82,8 @@ def _clean_output(text: str, mode: str) -> str:
     stage-directions (it's @emit prose / channel speech, never a script direction), and for
     channel chat strip surrounding quotes so the 'X says, "..."' wrapper does not nest quotes."""
     t = (text or "").strip()
+    # A leaked raw command verb (some RP tunes echo "@emit" / "@pose" before the prose).
+    t = re.sub(r"^@(?:emit|pose|say|ooc)\b\s*", "", t, flags=re.I).strip()
     t = _NAME_PREFIX_RE.sub("", t).strip()
     # Asterisk action-beats (*the dome swivels*) are markdown the model should not emit. Strip the
     # markers, but where a beat stands at a sentence/quote boundary (the common case) promote it to
@@ -105,6 +107,13 @@ def _clean_output(text: str, mode: str) -> str:
         t = t.replace("*", "")  # any stray unmatched asterisk
         t = re.sub(r"\s{2,}", " ", t).strip()
         t = re.sub(r"\s+([.!?,;:])", r"\1", t)  # no space before punctuation
+    # Truncation guard: RP-tune poses run long and get clipped at the token cap mid-sentence. If
+    # the text does not already end cleanly AND quotes are balanced (an odd count means we were cut
+    # mid-dialogue -- the quote-balancer below closes that instead), trim to the last full sentence.
+    if t and t[-1] not in '.!?"' and t.count('"') % 2 == 0:
+        ends = list(re.finditer(r'[.!?]"?(?=\s|$)', t))
+        if ends:
+            t = t[:ends[-1].end()].rstrip()
     # Channel speech renders as `Cricket says, "..."`; a wrapping quote pair would nest.
     if mode != "rp" and len(t) >= 2 and t[0] == '"' and t[-1] == '"':
         t = t[1:-1].strip()
