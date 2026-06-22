@@ -19,7 +19,16 @@ from .base import Persona, Response, Turn
 from .inference import InferenceClient
 
 # Ollama option keys passed straight through from the profile's inference block.
-_PASSTHROUGH = ("num_ctx", "num_predict", "temperature", "top_p", "stop", "seed")
+# Inference keys forwarded verbatim to Ollama options. Includes the small-model-RP sampling
+# toolkit (min_p, repeat_penalty/repeat_last_n, top_k, ...) -- without these in the whitelist the
+# backend never sees them even if the profile sets them. (DRY is omitted: Ollama 0.30.x ignores
+# dry_* options, verified by an extreme-value honor probe.)
+_PASSTHROUGH = (
+    "num_ctx", "num_predict", "temperature", "top_p", "stop", "seed",
+    "top_k", "min_p", "typical_p", "repeat_penalty", "repeat_last_n",
+    "presence_penalty", "frequency_penalty", "tfs_z",
+    "mirostat", "mirostat_tau", "mirostat_eta",
+)
 
 # Standing guard against the 8B model's confabulation: it engages well but invents canon
 # (fake events/names/roles). Better to deflect than fabricate. Applied to every system prompt.
@@ -74,10 +83,28 @@ def _clean_output(text: str, mode: str) -> str:
     channel chat strip surrounding quotes so the 'X says, "..."' wrapper does not nest quotes."""
     t = (text or "").strip()
     t = _NAME_PREFIX_RE.sub("", t).strip()
-    # Asterisks are never wanted in his output; drop them and tidy the spacing they leave.
+    # Asterisk action-beats (*the dome swivels*) are markdown the model should not emit. Strip the
+    # markers, but where a beat stands at a sentence/quote boundary (the common case) promote it to
+    # its own sentence -- capitalize + end-punctuate -- so removing the asterisks does not leave a
+    # lowercase fragment wedged between two quotes (the cleanup bug).
     if "*" in t:
-        t = t.replace("*", "")
-        t = re.sub(r"[ \t]{2,}", " ", t).strip()
+        src = t
+
+        def _beat(m):
+            inner = m.group(1).strip()
+            if not inner:
+                return " "
+            pre = src[:m.start()].rstrip()
+            if not pre or pre[-1] in '.!?"':
+                inner = inner[0].upper() + inner[1:]
+                if inner[-1] not in ".!?":
+                    inner += "."
+            return " " + inner + " "
+
+        t = re.sub(r"\*+([^*]+?)\*+", _beat, src)
+        t = t.replace("*", "")  # any stray unmatched asterisk
+        t = re.sub(r"\s{2,}", " ", t).strip()
+        t = re.sub(r"\s+([.!?,;:])", r"\1", t)  # no space before punctuation
     # Channel speech renders as `Cricket says, "..."`; a wrapping quote pair would nest.
     if mode != "rp" and len(t) >= 2 and t[0] == '"' and t[-1] == '"':
         t = t[1:-1].strip()

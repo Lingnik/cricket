@@ -227,6 +227,10 @@ def test_clean_output_format_hygiene():
     # valid third-person @emit openings are PRESERVED (not mistaken for a name prefix)
     assert _clean_output("Cricket's dome swivels in disdain.", "rp") == "Cricket's dome swivels in disdain."
     assert _clean_output("Cricket whirs angrily at the meatbag.", "rp") == "Cricket whirs angrily at the meatbag."
+    # the cleanup bug: an asterisk beat wedged between two quotes must become its own sentence,
+    # not a lowercase fragment with no punctuation
+    assert _clean_output('"Still burning?" *the pincer twitches* "I am watching."', "rp") \
+        == '"Still burning?" The pincer twitches. "I am watching."'
 
 
 def test_to_mush_markup_restores_rt():
@@ -245,7 +249,8 @@ def test_respond_applies_cleanup():
             return 'Cricket says, "*beeps* You absolute fool"'
 
     resp = _run(LlmPersona(DirtyClient(), lambda: {"prompts": {"system": "s"}}), _turn())
-    assert resp.text == "beeps You absolute fool"  # prefix + asterisks + nesting quotes gone
+    # prefix + nesting quotes gone; the *beeps* action beat is promoted to a clean sentence
+    assert resp.text == "Beeps. You absolute fool"
 
 
 class _Block:
