@@ -132,6 +132,18 @@ def test_room_self_narration_filtered_from_scene_queue():
     assert len(s.scene_queues["Room1"]) == 2
 
 
+def test_builder_warning_filtered_from_scene_queue():
+    # PennMUSH @warnings output relayed into the room is system chatter, not RP.
+    s = make_services()
+    s.rp_enabled["Room1"] = True
+    router = Router(s)
+    run(router, RoomMessage(Actor("Bob", "#5"), SpeechKind.EMIT, "Warning 'my-desc' for Cricket(#3): "))
+    run(router, RoomMessage(Actor("Bob", "#5"), SpeechKind.EMIT, "player is missing description"))
+    run(router, RoomMessage(Actor("Bob", "#5"), SpeechKind.POSE, "grins."))
+    q = s.scene_queues["Room1"]
+    assert len(q) == 1 and q[0].text == "grins."
+
+
 def test_ooc_suggestion_captured_for_current_room():
     s = make_services()
     s.locations["OOC"].feeds_suggestions = True

@@ -41,6 +41,13 @@ _CHANNEL_NOTICE = re.compile(
     re.IGNORECASE,
 )
 
+# PennMUSH builder/system output that can get relayed into a room (e.g. @warnings: "Warning
+# 'my-desc' for X(#n): player is missing description"). It is engine chatter, never RP -- keep it
+# out of the scene queue so Cricket can't fixate on it.
+_ROOM_SYSTEM = re.compile(
+    r"^(Warning '[^']+' for |player is missing |.* is missing description\b)", re.IGNORECASE,
+)
+
 
 def _same_poser(line, speaker, dbref) -> bool:
     """True if a new room line continues the previous poser's block: same dbref when both
@@ -331,6 +338,8 @@ class Router:
         # of the scene queue so they can never become a "beat" the model reacts to.
         if loc is not None and loc != room:
             return
+        if _ROOM_SYSTEM.match((text or "").strip()):
+            return  # builder/system warning relayed into the room -- logged, not queued
         if not getattr(s, "rp_enabled", {}).get(room):
             return
         queue = s.scene_queues.setdefault(room, [])
