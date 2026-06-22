@@ -66,30 +66,64 @@ def _tail(ctx_lines):
     return list(reversed(kept))
 
 
+def _example(persona, prompts, self_hist, charter, ctx_lines, target, tag):
+    ctx = _tail([cl for cl in ctx_lines if cl.text])
+    if not ctx:
+        return None
+    turn = Turn(speaker=ctx[-1].speaker, speaker_dbref=None, text=ctx[-1].text, mode="rp",
+                location=ROOM, location_kind=ROOM_KIND, directives="", context=ctx)
+    memories = persona._retrieve_memories(turn)
+    msgs = persona._build_messages(turn, prompts, memories, plan="", thinking=False,
+                                   self_history=self_hist, rp_charter=charter)
+    msgs.append({"role": "assistant", "content": target})
+    return {"log": tag, "messages": msgs}
+
+
+def _ctx_before(rows, seq):
+    """ContextLines for scene/pose rows strictly before `seq` in a source log."""
+    out = []
+    for r in sorted(rows, key=lambda r: r.get("seq", 0)):
+        if r.get("seq", 0) >= seq or r.get("type") not in ("scene", "pose"):
+            continue
+        t = _norm(r.get("text"))
+        if t:
+            out.append(ContextLine(speaker=(r.get("actor") or "scene"), dbref=None,
+                                   kind=("pose" if r.get("type") == "pose" else "emit"), text=t))
+    return out
+
+
 def main():
     persona, doc = _persona()
     prompts = doc.get("prompts", {})
     self_hist = persona._lore.self_history() if persona._lore else ""
     charter = persona._lore.rp_charter() if persona._lore else ""
     examples = []
+    # (a) standalone Cricket pose rows across the per-log corpus
+    log_cache = {}
     for f in sorted(glob.glob(os.path.join(_ROOT, "data", "dataset", "RPlog_*.jsonl"))):
         rows = [json.loads(l) for l in open(f, encoding="utf-8") if l.strip()]
+        log_cache[os.path.splitext(os.path.basename(f))[0]] = rows
         turns = _turns(rows)
         for i, (spk, kind, text, is_cric) in enumerate(turns):
-            if not (is_cric and text):
+            if not (is_cric and text) or i == 0:
                 continue
-            prior = turns[:i]
-            if not prior:
-                continue
-            ctx = _tail([ContextLine(speaker=s, dbref=None, kind=k, text=t) for s, k, t, _ in prior if t])
-            last = ctx[-1]
-            turn = Turn(speaker=last.speaker, speaker_dbref=None, text=last.text, mode="rp",
-                        location=ROOM, location_kind=ROOM_KIND, directives="", context=ctx)
-            memories = persona._retrieve_memories(turn)
-            msgs = persona._build_messages(turn, prompts, memories, plan="", thinking=False,
-                                           self_history=self_hist, rp_charter=charter)
-            msgs.append({"role": "assistant", "content": text})
-            examples.append({"log": os.path.basename(f), "messages": msgs})
+            ctx = [ContextLine(speaker=s, dbref=None, kind=k, text=t) for s, k, t, _ in turns[:i]]
+            ex = _example(persona, prompts, self_hist, charter, ctx, text, os.path.basename(f))
+            if ex:
+                examples.append(ex)
+    # (b) Cricket poses embedded inside other players' poses -- context rebuilt from the source log
+    emb = os.path.join(_ROOT, "data", "dataset", "cricket_embedded.jsonl")
+    for r in (json.loads(l) for l in open(emb, encoding="utf-8") if l.strip()) if os.path.exists(emb) else []:
+        if str(r.get("actor", "")).lower() != "cricket":
+            continue
+        target = _norm(r.get("text"))
+        src = log_cache.get(r.get("source_log"))
+        if not (target and src):
+            continue
+        ex = _example(persona, prompts, self_hist, charter,
+                      _ctx_before(src, r.get("source_seq", 0)), target, "embedded")
+        if ex:
+            examples.append(ex)
     out = os.path.join(_ROOT, "data", "finetune", "train.jsonl")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     with open(out, "w", encoding="utf-8") as fh:
