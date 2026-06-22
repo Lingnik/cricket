@@ -169,8 +169,8 @@ class LlmPersona(Persona):
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
         text = _clean_output(raw, turn.mode)
-        trace["raw_output"] = (raw or "")[:600]
-        trace["clean_output"] = text[:600]
+        trace["raw_output"] = raw or ""
+        trace["clean_output"] = text
         trace["empty"] = not text
         self._tracer.emit(trace)
         if not text:
@@ -199,7 +199,7 @@ class LlmPersona(Persona):
             "speaker": turn.speaker, "prompt": msgs,
             "prompt_chars": sum(len(m["content"]) for m in msgs),
             "message_count": len(msgs),
-            "raw_output": (out or "")[:600], "clean_output": plan[:600],
+            "raw_output": out or "", "clean_output": plan,
         })
         return plan
 

@@ -510,6 +510,14 @@ async def cmd_prompt(ctx: CommandContext, args: list) -> None:
             parts.append("[%s]\n%s" % (m.get("role"), m.get("content")))
     elif not legacy_plan:
         parts.append("(no prompt captured -- this generation pre-dates the feature)")
+    # The model's response for this step (the plan, or the pose/line), as both the raw model
+    # output and the cleaned form actually used.
+    raw = rec.get("raw_output")
+    clean = rec.get("clean_output")
+    parts.append("\n----- OUTPUT (raw from model) -----\n%s"
+                 % (raw if raw not in (None, "") else "(empty)"))
+    if clean is not None and clean != raw:
+        parts.append("\n----- OUTPUT (cleaned, as used) -----\n%s" % clean)
     ctx.reply("\n".join(parts))
 
 
