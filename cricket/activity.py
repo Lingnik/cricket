@@ -49,9 +49,9 @@ def format_event(evt: dict) -> str:
     if k == "mush.in":
         body = "[in ] %s(%s) %s: %s" % (
             evt.get("speaker") or "?", evt.get("dbref") or "?",
-            evt.get("speech") or "", (evt.get("text") or "")[:160])
+            evt.get("speech") or "", evt.get("text") or "")
     elif k == "mush.out":
-        body = "[out] %s" % (evt.get("line") or "")[:200]
+        body = "[out] %s" % (evt.get("line") or "")
     elif k == "generate":
         ret = []
         if evt.get("dossiers_injected"):
@@ -64,9 +64,9 @@ def format_event(evt: dict) -> str:
             ret.append("reasoned")
         body = "[gen] %s %s %s -> %r" % (
             evt.get("mode") or "?", evt.get("room") or "?",
-            " ".join(ret), (evt.get("clean_output") or "")[:120])
+            " ".join(ret), evt.get("clean_output") or "")
     elif k == "distill":
-        body = "[dst] +%r actors=%s" % ((evt.get("ledger_entry") or "")[:90], evt.get("actors"))
+        body = "[dst] +%r actors=%s" % (evt.get("ledger_entry") or "", evt.get("actors"))
     elif k == "cmd":
         body = "[cmd] %s %s" % (evt.get("name"), " ".join(evt.get("args") or []))
     else:
