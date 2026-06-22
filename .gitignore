@@ -13,4 +13,7 @@ config.toml
 /data/cricket-memory.sqlite3
 /data/cricket-memory.sqlite3-wal
 /data/cricket-memory.sqlite3-shm
+# Turn-trace debug logs are per-run analysis artifacts, not code -- keep them local.
+/data/traces/
+/data/traces-*/
 /evals/reports/*.json
