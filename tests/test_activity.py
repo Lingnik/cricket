@@ -51,6 +51,16 @@ def test_format_event_prefixes_epoch_timestamp():
     assert format_event(got[0]).split()[0].replace(".", "").isdigit()
 
 
+def test_colorize_json_passthrough_when_not_tty():
+    # under pytest stdout is not a TTY, so output stays plain (no ANSI) -- keeps piped logs clean
+    from cricket.activity import colorize_json
+    s = '{"kind": "mush.in", "text": "hi"}'
+    assert colorize_json(s) == s
+    # force colorizes (pygments present): wraps in ANSI escapes, still single-line
+    out = colorize_json(s, force=True)
+    assert "\x1b[" in out and "\n" not in out
+
+
 def test_tracer_on_emit_hook_fires(tmp_path):
     from cricket.trace import TurnTracer
     got = []

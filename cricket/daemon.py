@@ -303,11 +303,14 @@ class Bot:
             )
         self._restart_event = asyncio.Event()
         # --verbose: print every activity event to stdout (your supervisor console) as RAW JSON,
-        # one event per line -- the full event incl. the oob envelope, no formatting, no caps.
+        # one event per line -- the full event incl. the oob envelope, no formatting, no caps,
+        # ANSI-colorized for readability (plain when piped).
         if self.verbose:
             import json as _json
+            from .activity import colorize_json
             self.bus.subscribe(
-                lambda evt: print(_json.dumps(evt, ensure_ascii=False, default=str), flush=True))
+                lambda evt: print(colorize_json(_json.dumps(evt, ensure_ascii=False, default=str)),
+                                  flush=True))
         # Push-only activity stream socket (the ctl tail subscribes here).
         from .stream_server import StreamServer
         _stream_port = int(os.environ.get("CRICKET_STREAM_PORT", "4252"))

@@ -14,7 +14,7 @@ import socket
 import threading
 import time
 
-from .activity import format_event
+from .activity import colorize_json, format_event
 
 
 def _send_command(host: str, port: int, name: str, args: list) -> dict:
@@ -123,7 +123,10 @@ def repl(host: str = "127.0.0.1", port: int = 4250, stream_port: int = 4252,
     raw_mode = [bool(raw)]  # raw on -> print the full event JSON (incl. the oob envelope)
 
     def render(evt):
-        print(json.dumps(evt, default=str) if raw_mode[0] else format_event(evt), flush=True)
+        if raw_mode[0]:
+            print(colorize_json(json.dumps(evt, ensure_ascii=False, default=str), force=True), flush=True)
+        else:
+            print(format_event(evt), flush=True)
 
     tailer = _Tail(host, stream_port, enabled, render)
     tailer.start()

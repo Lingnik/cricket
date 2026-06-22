@@ -88,6 +88,15 @@ def _clean_output(text: str, mode: str) -> str:
     return t
 
 
+def _to_mush_markup(text: str) -> str:
+    """Render the literal newlines/tabs PennMUSH delivered (it evaluated the players' %r/%t
+    server-side) back into MUSH markup before showing a pose to the model -- so he sees scenes in
+    the same notation he must emit, and is primed to write multi-paragraph %r%t poses himself."""
+    if not text:
+        return text
+    return text.replace("\r\n", "\n").replace("\n", "%r").replace("\t", "%t")
+
+
 class LlmPersona(Persona):
     def __init__(
         self,
@@ -382,7 +391,7 @@ class LlmPersona(Persona):
             parts.append("%s\n%s" % (header, memories.strip()))
         # History now includes the bot's own past replies (router feeds them back), so the
         # model sees the real back-and-forth and stops re-treading topics it already hit.
-        history = ["%s: %s" % (line.speaker, line.text) for line in turn.context]
+        history = ["%s: %s" % (line.speaker, _to_mush_markup(line.text)) for line in turn.context]
         if history:
             parts.append("Recent conversation (oldest first):\n" + "\n".join(history))
         # Chat: call out the latest line so the model engages IT, not the whole transcript.
@@ -391,7 +400,8 @@ class LlmPersona(Persona):
         # RP: call out the most recent beat so he reacts to THIS moment, not a generic rant
         # (the eval's top failure mode was reacting to the wrong beat).
         if turn.mode == "rp" and turn.context and turn.context[-1].text.strip():
-            parts.append('The most recent beat to react to:\n"%s"' % turn.context[-1].text.strip()[:300])
+            parts.append('The most recent beat to react to:\n"%s"'
+                         % _to_mush_markup(turn.context[-1].text.strip()[:300]))
         # RP register/length matching: he defaults to a terse one-line quip regardless of the
         # scene's tone. Measure the OTHERS' recent poses and tell him concretely to match their
         # scale -- expand into prose for a slow descriptive scene, stay snappy for quick banter --
@@ -435,7 +445,9 @@ class LlmPersona(Persona):
                     "and specific -- never a silent action-only pose. Crass and profane beats "
                     "polished and literary every time. "
                     "Write ONE coherent pose; close every quotation mark you open; it is prose, "
-                    "so use NO *asterisks* or stage-directions." % name
+                    "so use NO *asterisks* or stage-directions. For a multi-paragraph pose, "
+                    "separate paragraphs with %%r%%r%%t (MUSH newline+indent), exactly as the "
+                    "scene above is written." % name
                 )
             else:
                 parts.append(

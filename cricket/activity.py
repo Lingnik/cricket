@@ -7,8 +7,25 @@ caller, so a slow or broken viewer can never disrupt the bot.
 
 from __future__ import annotations
 
+import sys
 import threading
 import time
+
+
+def colorize_json(s: str, force: bool = False) -> str:
+    """ANSI-colorize a single-line JSON string for terminal readability (pygments, no reflow).
+    Returns the input unchanged when stdout is not a TTY or pygments is unavailable, so piped or
+    redirected output stays clean. `force` colorizes regardless of TTY (for viewers that manage
+    their own terminal, e.g. the ctl tail under prompt_toolkit)."""
+    if not force and not sys.stdout.isatty():
+        return s
+    try:
+        from pygments import highlight
+        from pygments.formatters import TerminalFormatter
+        from pygments.lexers import JsonLexer
+    except ImportError:
+        return s
+    return highlight(s, JsonLexer(), TerminalFormatter()).rstrip("\n")
 
 
 class ActivityBus:

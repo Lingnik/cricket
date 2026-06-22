@@ -229,6 +229,16 @@ def test_clean_output_format_hygiene():
     assert _clean_output("Cricket whirs angrily at the meatbag.", "rp") == "Cricket whirs angrily at the meatbag."
 
 
+def test_to_mush_markup_restores_rt():
+    from cricket.persona.llm import _to_mush_markup
+    # PennMUSH delivered the players' %r/%t as literal newlines/tabs; we render them back so the
+    # model sees -- and learns to emit -- MUSH markup.
+    assert _to_mush_markup("a.\n\n\tb") == "a.%r%r%tb"
+    assert _to_mush_markup("x\r\ny") == "x%ry"
+    assert _to_mush_markup("no breaks") == "no breaks"
+    assert _to_mush_markup("") == ""
+
+
 def test_respond_applies_cleanup():
     class DirtyClient(InferenceClient):
         async def complete(self, messages, **params):

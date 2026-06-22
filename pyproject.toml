@@ -6,7 +6,7 @@ requires-python = ">=3.11"
 # websockets: the inbound transport (WS + oob JSON, unforgeable speaker attribution). The bot's
 # lifeline connection -- a maintained lib handles framing/ping-pong/close far more safely than
 # hand-rolled RFC 6455. The legacy telnet transport stays available (CRICKET_MUSH_TRANSPORT=telnet).
-dependencies = ["websockets>=12", "prompt_toolkit>=3"]
+dependencies = ["websockets>=12", "prompt_toolkit>=3", "pygments>=2"]
 
 [project.optional-dependencies]
 dev = ["pytest"]
