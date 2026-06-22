@@ -79,8 +79,8 @@ def format_event(evt: dict) -> str:
             ret.append("vector=%s" % evt["vector_hit"])
         if evt.get("thinking_enabled"):
             ret.append("reasoned")
-        body = "[gen] %s %s %s -> %r" % (
-            evt.get("mode") or "?", evt.get("room") or "?",
+        body = "[gen:%s] %s %s %s -> %r" % (
+            evt.get("pass") or "compose", evt.get("mode") or "?", evt.get("room") or "?",
             " ".join(ret), evt.get("clean_output") or "")
     elif k == "distill":
         body = "[dst] +%r actors=%s" % (evt.get("ledger_entry") or "", evt.get("actors"))

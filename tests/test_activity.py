@@ -36,7 +36,9 @@ def test_format_event_renders_each_kind():
     g = format_event({"kind": "generate", "mode": "rp", "room": "#0",
                       "dossiers_injected": ["Johanna"], "vector_hit": "Jasmine",
                       "thinking_enabled": True, "clean_output": "Cricket poses."})
-    assert g.startswith("[gen]") and "dossiers" in g and "vector" in g and "reasoned" in g
+    assert g.startswith("[gen:compose]") and "dossiers" in g and "vector" in g and "reasoned" in g
+    assert format_event({"kind": "generate", "pass": "plan", "mode": "rp",
+                         "clean_output": "plan"}).startswith("[gen:plan]")
     assert format_event({"kind": "distill", "ledger_entry": "a note", "actors": ["Bob"]}).startswith("[dst]")
 
 

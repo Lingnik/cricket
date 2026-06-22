@@ -149,14 +149,17 @@ class LlmPersona(Persona):
         # is discarded (never posted). Measured via corpus-replay evals (thinking off vs on).
         plan = ""
         if inference.get("thinking"):
+            # The planning pass is its own LLM call; it emits its own `generate` trace record
+            # (pass="plan") so it is a first-class, listable/streamable step.
             plan = await self._think(turn, prompts, memories, options, inference,
-                                     self_history, rp_charter, trace=trace)
+                                     self_history, rp_charter)
         trace["thinking_enabled"] = bool(inference.get("thinking"))
         trace["plan"] = plan or None
         messages = self._build_messages(
             turn, prompts, memories, plan=plan, self_history=self_history,
             rp_charter=rp_charter,
         )
+        trace["pass"] = "compose"
         trace["prompt_chars"] = sum(len(m["content"]) for m in messages)
         trace["message_count"] = len(messages)
         # Full prompt for after-the-fact inspection (the `prompt` ctl command). Kept in the JSONL
@@ -176,13 +179,12 @@ class LlmPersona(Persona):
         return Response(text=text, action=action)
 
     async def _think(self, turn: Turn, prompts: dict, memories: str, options: dict,
-                     inference: dict, self_history: str = "", rp_charter: str = "",
-                     trace=None) -> str:
-        """One short, hidden planning pass. Returns terse private notes (or '' on failure)."""
+                     inference: dict, self_history: str = "", rp_charter: str = "") -> str:
+        """One short, hidden planning pass. Returns terse private notes (or '' on failure). Emits
+        its own `generate` trace record (pass="plan") so the planning call is a first-class step
+        in the trace / `prompt` viewer / activity stream, separate from the compose call."""
         msgs = self._build_messages(turn, prompts, memories, thinking=True,
                                     self_history=self_history, rp_charter=rp_charter)
-        if trace is not None:
-            trace["plan_prompt"] = msgs  # captured for the `prompt` ctl command (JSONL only)
         topts = dict(options)
         topts["num_predict"] = int(inference.get("think_tokens", 160))
         try:
@@ -191,7 +193,15 @@ class LlmPersona(Persona):
             )
         except Exception:
             return ""
-        return (out or "").strip()
+        plan = (out or "").strip()
+        self._tracer.emit({
+            "kind": "generate", "pass": "plan", "room": turn.location, "mode": turn.mode,
+            "speaker": turn.speaker, "prompt": msgs,
+            "prompt_chars": sum(len(m["content"]) for m in msgs),
+            "message_count": len(msgs),
+            "raw_output": (out or "")[:600], "clean_output": plan[:600],
+        })
+        return plan
 
     def _retrieve_memories(self, turn: Turn, trace=None) -> str:
         """Dossiers for the characters present in this scene (name-based; channel and

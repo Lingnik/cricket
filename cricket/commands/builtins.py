@@ -477,12 +477,13 @@ async def cmd_prompt(ctx: CommandContext, args: list) -> None:
         return
     if args and args[0] == "list":
         total = len(gens)
-        out = ["recent generations (use 'prompt <n>' where n counts back from newest):"]
-        for i in range(max(0, total - 15), total):
+        out = ["recent generations (use 'prompt <n>' where n counts back from newest; "
+               "each thinking turn = a 'plan' step then a 'compose' step):"]
+        for i in range(max(0, total - 18), total):
             r = gens[i]
-            out.append("  -%-3d ts=%s %-4s %s -> %r"
-                       % (total - i, r.get("ts"), r.get("mode"), r.get("room"),
-                          (r.get("clean_output") or "")[:55]))
+            out.append("  -%-3d %-7s ts=%s %-4s %s -> %r"
+                       % (total - i, r.get("pass") or "compose", r.get("ts"), r.get("mode"),
+                          r.get("room"), (r.get("clean_output") or "")[:50]))
         ctx.reply("\n".join(out))
         return
     try:
@@ -494,19 +495,20 @@ async def cmd_prompt(ctx: CommandContext, args: list) -> None:
                   % (len(gens), len(gens)))
         return
     rec = gens[-n]
-    parts = ["=== prompt for generation -%d (ts=%s mode=%s room=%s, %s chars) ==="
-             % (n, rec.get("ts"), rec.get("mode"), rec.get("room"), rec.get("prompt_chars"))]
-    plan = rec.get("plan_prompt")
-    if plan:
-        parts.append("\n----- PLANNING PASS (%d msgs) -----" % len(plan))
-        for m in plan:
+    parts = ["=== prompt for generation -%d (pass=%s ts=%s mode=%s room=%s, %s chars) ==="
+             % (n, rec.get("pass") or "compose", rec.get("ts"), rec.get("mode"),
+                rec.get("room"), rec.get("prompt_chars"))]
+    legacy_plan = rec.get("plan_prompt")  # records pre-dating the plan/compose split bundled both
+    if legacy_plan:
+        parts.append("\n----- PLANNING PASS (%d msgs) -----" % len(legacy_plan))
+        for m in legacy_plan:
             parts.append("[%s]\n%s" % (m.get("role"), m.get("content")))
+        parts.append("\n----- COMPOSE PASS (%d msgs) -----" % len(rec.get("prompt") or []))
     compose = rec.get("prompt")
     if compose:
-        parts.append("\n----- COMPOSE PASS (%d msgs) -----" % len(compose))
         for m in compose:
             parts.append("[%s]\n%s" % (m.get("role"), m.get("content")))
-    elif not plan:
+    elif not legacy_plan:
         parts.append("(no prompt captured -- this generation pre-dates the feature)")
     ctx.reply("\n".join(parts))
 
