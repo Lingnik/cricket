@@ -1,0 +1,11 @@
+FROM hf.co/mradermacher/Rocinante-12B-v1.1-GGUF:Q6_K
+TEMPLATE """{{- range $index, $_ := .Messages }}
+{{- if eq .Role "user" }}[INST] {{ if and $.System (eq (len (slice $.Messages $index)) 1) }}{{ $.System }}
+
+{{ end }}{{ .Content }}[/INST]
+{{- else if eq .Role "assistant" }} {{ .Content }}{{ if not (eq (len (slice $.Messages $index)) 1) }}</s>{{ end }}
+{{- end }}
+{{- end }}
+"""
+PARAMETER stop "[INST]"
+PARAMETER stop "</s>"
