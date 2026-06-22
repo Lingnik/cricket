@@ -109,6 +109,26 @@ def _route_api(method, api, query, body, bot, loop):
             n = bot.store.delete_memory(data["scope"], data["scope_key"], data.get("key"))
             return _json(200, {"deleted_rows": n})
         return _json(400, {"error": "provide {room} or {scope, scope_key}"})
+    # /api/memory/mask -- soft-redact a scene summary from the context window (keeps it in the DB)
+    if api == ["memory", "mask"] and method == "POST":
+        data = _body_json(body)
+        if not data.get("scope") or not data.get("scope_key"):
+            return _json(400, {"error": "provide {scope, scope_key, [key], masked}"})
+        n = bot.store.mask_memory(data["scope"], data["scope_key"], data.get("key"),
+                                  bool(data.get("masked", True)))
+        return _json(200, {"masked_rows": n})
+
+    # /api/events -- the audit trail of received messages/commands (browse + soft-redact).
+    if api == ["events"] and method == "GET":
+        q = query or {}
+        loc = (q.get("location") or [None])[0]
+        limit = int((q.get("limit") or ["200"])[0])
+        inc = (q.get("include_masked") or ["1"])[0] not in ("0", "false", "")
+        return _json(200, {"events": bot.store.list_events(loc, limit, inc)})
+    if len(api) == 3 and api[0] == "events" and api[2] == "mask" and method == "POST":
+        data = _body_json(body)
+        n = bot.store.mask_event(int(api[1]), bool(data.get("masked", True)))
+        return _json(200, {"masked_rows": n})
 
     # /api/profiles
     if api == ["profiles"] and method == "GET":

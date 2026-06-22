@@ -392,6 +392,25 @@ class LlmPersona(Persona):
         # (the eval's top failure mode was reacting to the wrong beat).
         if turn.mode == "rp" and turn.context and turn.context[-1].text.strip():
             parts.append('The most recent beat to react to:\n"%s"' % turn.context[-1].text.strip()[:300])
+        # RP register/length matching: he defaults to a terse one-line quip regardless of the
+        # scene's tone. Measure the OTHERS' recent poses and tell him concretely to match their
+        # scale -- expand into prose for a slow descriptive scene, stay snappy for quick banter --
+        # while staying unmistakably crass, scheming Cricket.
+        if turn.mode == "rp":
+            bn = (name or "").strip().lower()
+            others = [(l.text or "") for l in turn.context
+                      if (l.text or "").strip() and (l.speaker or "").strip().lower() not in (bn, "", "memory")]
+            avg = (sum(len(t) for t in others[-4:]) // min(len(others), 4)) if others else 0
+            if avg >= 350:
+                reg = ("The others are writing LONG, multi-paragraph, descriptive poses. MATCH "
+                       "them: 2-3 paragraphs of atmospheric self-describing prose, weighted toward "
+                       "action and mood over dialogue -- but unmistakably crass, scheming Cricket.")
+            elif avg >= 150:
+                reg = ("Match the scene's register: a full paragraph with prose around the line, "
+                       "not just a one-line quip.")
+            else:
+                reg = "The scene is trading quick lines -- stay snappy."
+            parts.append("Match the scene's length and register. " + reg)
 
         if thinking:
             # Hidden planning pass: produce private notes, NOT the reply.

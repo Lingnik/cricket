@@ -267,6 +267,7 @@
       <div class="ctrl-link" id="navEditor" onclick="showView('editor')">Editor</div>
       <div class="ctrl-link" id="navControl" onclick="showView('control')">Control</div>
       <div class="ctrl-link" id="navMemory" onclick="showView('memory')">Memory</div>
+      <div class="ctrl-link" id="navAudit" onclick="showView('audit')">Audit</div>
     </div>
   </aside>
 
@@ -445,8 +446,21 @@
           <div class="stat-rows" id="memStats"><div class="muted-line">loading...</div></div>
         </div>
         <div class="section-card">
-          <h3><span class="ico">#</span> Scene memories <small>(per room; "Purge" excises the summary AND that room's logged events)</small></h3>
+          <h3><span class="ico">#</span> Scene memories <small>(per room; "Mask" redacts the summary from the context window but keeps it; "Purge" hard-deletes the summary AND that room's events)</small></h3>
           <div id="memScenes"><div class="empty">loading...</div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Audit: the full paper trail of received messages/commands; mask = redact from context -->
+    <div id="view-audit" style="display:none; flex-direction:column; height:100%; min-height:0;">
+      <div class="view-head"><div class="title">audit trail</div>
+        <label class="check" style="margin-left:12px;"><input type="checkbox" id="auditShowMasked" checked onchange="refreshAudit()"><span class="box"></span> show masked</label>
+        <button onclick="refreshAudit()">refresh</button></div>
+      <div class="view-body" style="overflow:auto;">
+        <div class="section-card">
+          <h3><span class="ico">&gt;</span> Received messages &amp; commands <small>(newest first; "mask" redacts a line from anything Cricket sees, keeping it here as a record)</small></h3>
+          <div id="auditRows"><div class="empty">loading...</div></div>
         </div>
       </div>
     </div>
@@ -548,11 +562,14 @@ function showView(name) {
   el('view-editor').style.display = name === 'editor' ? 'flex' : 'none';
   el('view-control').style.display = name === 'control' ? 'flex' : 'none';
   el('view-memory').style.display = name === 'memory' ? 'flex' : 'none';
+  el('view-audit').style.display = name === 'audit' ? 'flex' : 'none';
   el('navEditor').classList.toggle('active', name === 'editor');
   el('navControl').classList.toggle('active', name === 'control');
   el('navMemory').classList.toggle('active', name === 'memory');
+  el('navAudit').classList.toggle('active', name === 'audit');
   if (name === 'control') { refreshStatus(); refreshRp(); refreshLog(); }
   if (name === 'memory') { refreshMemory(); }
+  if (name === 'audit') { refreshAudit(); }
 }
 function showTab(name) {
   state.tab = name;
@@ -1060,7 +1077,7 @@ function refreshMemory() {
     if (!res.ok) { el('memStats').innerHTML = '<div class="muted-line">error</div>'; return; }
     var d = res.data;
     el('memStats').innerHTML =
-      '<div class="stat-row"><span>logged events</span><b>' + d.events + '</b></div>' +
+      '<div class="stat-row"><span>logged events</span><b>' + d.events + (d.events_masked ? ' (' + d.events_masked + ' masked)' : '') + '</b></div>' +
       '<div class="stat-row"><span>memory rows</span><b>' + d.memory_rows + '</b></div>' +
       '<div class="stat-row"><span>scene memories</span><b>' + d.scenes.length + '</b></div>';
     var host = el('memScenes');
@@ -1069,13 +1086,25 @@ function refreshMemory() {
     d.scenes.forEach(function(s) {
       var div = document.createElement('div'); div.className = 'rp-room';
       div.style.alignItems = 'flex-start';
+      if (s.masked) div.style.opacity = '0.5';
       div.innerHTML = '<div style="flex:1;min-width:0;"><b>' + esc(s.room) + '</b>' +
+        (s.masked ? ' <span class="muted-line">[masked, not in context]</span>' : '') +
         '<div class="muted-line" style="white-space:normal;">' + esc((s.summary || '').slice(0, 240)) + '</div></div>';
+      var maskBtn = document.createElement('button');
+      maskBtn.textContent = s.masked ? 'Unmask' : 'Mask';
+      maskBtn.addEventListener('click', function(){ maskScene(s.room, !s.masked); });
       var btn = document.createElement('button');
       btn.textContent = 'Purge'; btn.style.color = 'var(--bad, #e66)';
       btn.addEventListener('click', function(){ purgeScene(s.room); });
-      div.appendChild(btn); host.appendChild(div);
+      div.appendChild(maskBtn); div.appendChild(btn); host.appendChild(div);
     });
+  });
+}
+
+function maskScene(room, masked) {
+  api('POST', '/api/memory/mask', { scope: 'scene', scope_key: room, masked: masked }).then(function(res) {
+    if (res.ok) { toast((masked ? 'masked ' : 'unmasked ') + room + ' (' + res.data.masked_rows + ' rows)', 'ok'); refreshMemory(); }
+    else { toast(res.data.error || 'mask failed', 'err'); }
   });
 }
 
@@ -1084,6 +1113,36 @@ function purgeScene(room) {
   api('DELETE', '/api/memory', { room: room }).then(function(res) {
     if (res.ok) { toast('excised ' + room + ': ' + res.data.memory_rows_removed + ' rows, ' + res.data.events_removed + ' events', 'ok'); refreshMemory(); }
     else { toast(res.data.error || 'purge failed', 'err'); }
+  });
+}
+
+function refreshAudit() {
+  var inc = el('auditShowMasked').checked ? '1' : '0';
+  api('GET', '/api/events?limit=200&include_masked=' + inc).then(function(res) {
+    var host = el('auditRows');
+    if (!res.ok) { host.innerHTML = '<div class="muted-line">error</div>'; return; }
+    var evs = res.data.events || [];
+    if (!evs.length) { host.innerHTML = '<div class="empty">no events.</div>'; return; }
+    host.innerHTML = '';
+    evs.forEach(function(e) {
+      var div = document.createElement('div'); div.className = 'rp-room';
+      div.style.alignItems = 'flex-start';
+      if (e.masked) div.style.opacity = '0.45';
+      var who = (e.actor_dbref || '?') + ' @' + (e.location || '?') + ' [' + (e.kind || '') + ']';
+      div.innerHTML = '<div style="flex:1;min-width:0;"><span class="muted-line">' + esc(who) + (e.masked ? '  [MASKED]' : '') + '</span>' +
+        '<div style="white-space:normal;font-family:var(--mono);font-size:12px;">' + esc((e.text || '').slice(0, 300)) + '</div></div>';
+      var btn = document.createElement('button');
+      btn.textContent = e.masked ? 'unmask' : 'mask';
+      btn.addEventListener('click', function(){ maskEvent(e.id, !e.masked); });
+      div.appendChild(btn); host.appendChild(div);
+    });
+  });
+}
+
+function maskEvent(id, masked) {
+  api('POST', '/api/events/' + id + '/mask', { masked: masked }).then(function(res) {
+    if (res.ok) { toast((masked ? 'masked' : 'unmasked') + ' message #' + id, 'ok'); refreshAudit(); }
+    else { toast(res.data.error || 'mask failed', 'err'); }
   });
 }
 

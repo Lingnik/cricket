@@ -177,6 +177,27 @@ def test_memory_digest_and_purge(tmp_path, loop):
     assert dig2["events"] == 0 and dig2["scenes"] == []
 
 
+def test_audit_log_and_masking(tmp_path, loop):
+    bot = FakeBot(tmp_path)
+    e1 = bot.store.log_event("#0", "#8", "pose", "Johanna draws her sidearm.")
+    bot.store.log_event("#0", "#9", "say", "Zeak grins.")
+    # audit trail shows both received messages, each with a masked flag
+    ev = body(route("GET", "/api/events", None, bot, loop))["events"]
+    assert len(ev) == 2 and all("masked" in e for e in ev)
+    # mask e1 -> excluded from context reads, but kept in the full audit trail
+    body(route("POST", "/api/events/%d/mask" % e1, json.dumps({"masked": True}).encode(), bot, loop))
+    assert all(r["text"] != "Johanna draws her sidearm." for r in bot.store.recent_events("#0"))
+    full = body(route("GET", "/api/events?include_masked=1", None, bot, loop))["events"]
+    active = body(route("GET", "/api/events?include_masked=0", None, bot, loop))["events"]
+    assert len(full) == 2 and len(active) == 1  # redacted from active, preserved in the trail
+    # masking a scene summary redacts it from the context window (recall returns nothing)
+    bot.store.save_scene_summary("#0", ["Johanna"], "Johanna threatened Cricket.")
+    assert bot.store.recall_scene_summary("#0") == "Johanna threatened Cricket."
+    body(route("POST", "/api/memory/mask",
+               json.dumps({"scope": "scene", "scope_key": "#0", "masked": True}).encode(), bot, loop))
+    assert bot.store.recall_scene_summary("#0") is None
+
+
 def test_harass_toggle(tmp_path, loop):
     bot = FakeBot(tmp_path)
     result = route("POST", "/api/harass", json.dumps({"harass": True}).encode(), bot, loop)
