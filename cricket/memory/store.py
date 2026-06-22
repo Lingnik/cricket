@@ -55,7 +55,8 @@ CREATE TABLE IF NOT EXISTS events (
     actor_dbref  TEXT,
     kind         TEXT,
     text         TEXT,
-    ts           REAL
+    ts           REAL,
+    masked       INTEGER NOT NULL DEFAULT 0
 );
 CREATE INDEX IF NOT EXISTS events_location_idx ON events(location, id);
 CREATE TABLE IF NOT EXISTS memory (
@@ -64,6 +65,7 @@ CREATE TABLE IF NOT EXISTS memory (
     key        TEXT,
     value      TEXT,
     updated_ts REAL,
+    masked     INTEGER NOT NULL DEFAULT 0,
     PRIMARY KEY (scope, scope_key, key)
 );
 """
@@ -77,7 +79,17 @@ class MemoryStore:
         self._conn = sqlite3.connect(self.path, check_same_thread=False)
         self._conn.row_factory = sqlite3.Row
         self._conn.executescript(_SCHEMA)
+        self._migrate()
         self._conn.commit()
+
+    def _migrate(self) -> None:
+        """Add the `masked` soft-redact column to pre-existing tables (we no longer swap DBs, so
+        the one live DB is migrated in place)."""
+        for table in ("events", "memory"):
+            cols = {r["name"] for r in self._conn.execute("PRAGMA table_info(%s)" % table)}
+            if "masked" not in cols:
+                self._conn.execute(
+                    "ALTER TABLE %s ADD COLUMN masked INTEGER NOT NULL DEFAULT 0" % table)
 
     def close(self) -> None:
         self._conn.close()
@@ -123,8 +135,10 @@ class MemoryStore:
         return int(cur.lastrowid)
 
     def recent_events(self, location: str, n: int = 20) -> list:
+        # Context/active read: masked (redacted) events are excluded -- they stay in the audit
+        # trail but never re-enter anything Cricket sees.
         cur = self._conn.execute(
-            "SELECT * FROM events WHERE location = ? ORDER BY id DESC LIMIT ?",
+            "SELECT * FROM events WHERE location = ? AND masked = 0 ORDER BY id DESC LIMIT ?",
             (location, n),
         )
         rows = [dict(r) for r in cur.fetchall()]
@@ -143,8 +157,9 @@ class MemoryStore:
         self._conn.commit()
 
     def recall(self, scope: str, scope_key: str, key: str) -> Union[str, None]:
+        # Masked memory is redacted from the context window -- recall skips it.
         cur = self._conn.execute(
-            "SELECT value FROM memory WHERE scope = ? AND scope_key = ? AND key = ?",
+            "SELECT value FROM memory WHERE scope = ? AND scope_key = ? AND key = ? AND masked = 0",
             (scope, scope_key, key),
         )
         row = cur.fetchone()
@@ -163,17 +178,59 @@ class MemoryStore:
 
     # -- inspection + surgery (excising induced or test memories) ---------------
     def memory_digest(self) -> dict:
-        """Compact overview for the control API / web panel: counts + the scene summaries."""
+        """Compact overview for the control API / web panel: counts + the scene summaries
+        (each flagged with its masked state)."""
         ev = self._conn.execute("SELECT count(*) AS n FROM events").fetchone()["n"]
+        masked_ev = self._conn.execute("SELECT count(*) AS n FROM events WHERE masked = 1").fetchone()["n"]
         mem = self._conn.execute("SELECT count(*) AS n FROM memory").fetchone()["n"]
         scenes = [
-            {"room": r["scope_key"], "summary": r["value"], "updated_ts": r["updated_ts"]}
+            {"room": r["scope_key"], "summary": r["value"], "updated_ts": r["updated_ts"],
+             "masked": bool(r["masked"])}
             for r in self._conn.execute(
-                "SELECT scope_key, value, updated_ts FROM memory "
+                "SELECT scope_key, value, updated_ts, masked FROM memory "
                 "WHERE scope = 'scene' AND key = 'summary' ORDER BY updated_ts DESC"
             ).fetchall()
         ]
-        return {"events": ev, "memory_rows": mem, "scenes": scenes}
+        return {"events": ev, "events_masked": masked_ev, "memory_rows": mem, "scenes": scenes}
+
+    # -- audit trail + masking (soft-redact from context; keep the paper trail) --
+    def list_events(self, location=None, limit: int = 200, include_masked: bool = True) -> list:
+        """The audit trail: received messages/commands, newest first. include_masked=False hides
+        already-redacted rows. Each row carries its `masked` flag for the audit view."""
+        where, params = [], []
+        if location:
+            where.append("location = ?")
+            params.append(location)
+        if not include_masked:
+            where.append("masked = 0")
+        sql = "SELECT id, location, actor_dbref, kind, text, ts, masked FROM events"
+        if where:
+            sql += " WHERE " + " AND ".join(where)
+        sql += " ORDER BY id DESC LIMIT ?"
+        params.append(int(limit))
+        return [dict(r) for r in self._conn.execute(sql, params).fetchall()]
+
+    def mask_event(self, event_id: int, masked: bool = True) -> int:
+        """Soft-redact (or restore) a single received message: it stays in the audit trail but is
+        excluded from anything Cricket sees. Returns rows affected."""
+        cur = self._conn.execute(
+            "UPDATE events SET masked = ? WHERE id = ?", (1 if masked else 0, int(event_id)))
+        self._conn.commit()
+        return cur.rowcount
+
+    def mask_memory(self, scope: str, scope_key: str, key=None, masked: bool = True) -> int:
+        """Soft-redact (or restore) memory rows (e.g. a scene summary): masked memory is skipped by
+        recall, so it never re-enters the context window. Returns rows affected."""
+        m = 1 if masked else 0
+        if key is None:
+            cur = self._conn.execute(
+                "UPDATE memory SET masked = ? WHERE scope = ? AND scope_key = ?", (m, scope, scope_key))
+        else:
+            cur = self._conn.execute(
+                "UPDATE memory SET masked = ? WHERE scope = ? AND scope_key = ? AND key = ?",
+                (m, scope, scope_key, key))
+        self._conn.commit()
+        return cur.rowcount
 
     def list_memory(self) -> list:
         """All key/value memory rows (scene summaries etc.), newest first -- for inspection."""

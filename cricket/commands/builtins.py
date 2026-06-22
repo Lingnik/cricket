@@ -187,8 +187,39 @@ async def cmd_mem(ctx: CommandContext, args: list) -> None:
         r = store.purge_scene(args[1])
         ctx.reply("purged %s: %d memory rows, %d events removed"
                   % (r["room"], r["memory_rows_removed"], r["events_removed"]))
+    elif sub in ("mask", "unmask") and len(args) >= 2:
+        n = store.mask_memory("scene", args[1], masked=(sub == "mask"))
+        ctx.reply("%sed scene %s (%d rows) -- %s context"
+                  % (sub, args[1], n, "redacted from" if sub == "mask" else "restored to"))
     else:
-        ctx.reply("usage: mem [list] | mem show <room> | mem purge <room>")
+        ctx.reply("usage: mem [list] | mem show <room> | mem purge <room> | mem mask|unmask <room>")
+
+
+async def cmd_audit(ctx: CommandContext, args: list) -> None:
+    """Browse / redact the audit trail of received messages:
+    `audit [n]` -> recent received messages with ids; `audit mask|unmask <id>` -> soft-redact one."""
+    store = getattr(ctx.bot, "store", None)
+    if store is None:
+        ctx.reply("no memory store.")
+        return
+    if args and args[0].lower() in ("mask", "unmask") and len(args) >= 2:
+        try:
+            n = store.mask_event(int(args[1]), masked=(args[0].lower() == "mask"))
+        except ValueError:
+            ctx.reply("usage: audit mask|unmask <event-id>")
+            return
+        ctx.reply("%sed message #%s (%d rows)" % (args[0].lower(), args[1], n))
+        return
+    try:
+        limit = int(args[0]) if args else 20
+    except ValueError:
+        limit = 20
+    rows = store.list_events(limit=limit)
+    out = ["audit trail (newest first):"]
+    for e in rows:
+        out.append("  #%d @%s [%s] %s%s" % (e["id"], e.get("location"), e.get("kind"),
+                                            (e.get("text") or "")[:70], "  [MASKED]" if e.get("masked") else ""))
+    ctx.reply("\n".join(out) if rows else "(no events)")
 
 
 async def cmd_consent_ok(ctx: CommandContext, args: list) -> None:
@@ -445,7 +476,11 @@ def register_builtins(registry) -> None:
         Command("!clearqueue", Level.ADMIN, cmd_bang_clearqueue, "clear the scene queue")
     )
     registry.register(
-        Command("mem", Level.ADMIN, cmd_mem, "mem [list] | mem show <room> | mem purge <room>")
+        Command("mem", Level.ADMIN, cmd_mem,
+                "mem [list] | show <room> | purge <room> | mask|unmask <room>")
+    )
+    registry.register(
+        Command("audit", Level.ADMIN, cmd_audit, "audit [n] | audit mask|unmask <event-id>")
     )
     registry.register(Command("help", Level.PUBLIC, cmd_help, "list your commands"))
     registry.register(Command("!help", Level.PUBLIC, cmd_help, "list your commands"))
