@@ -22,7 +22,19 @@ _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _bp = os.path.join(_ROOT, "data", "finetune", "base_path.txt")
 BASE = open(_bp).read().strip() if os.path.exists(_bp) else "Sao10K/L3-8B-Lunaris-v1"
 OUT = os.path.join(_ROOT, "data", "finetune", "lunaris-cricket-lora")
-MAXLEN = 8192
+# bitsandbytes 4-bit has no fast Blackwell kernels (no triton) -> ~1.75h/step. Use bf16 LoRA
+# (fast cuBLAS) and a shorter seq so the 16 GB bf16 weights + activations fit the 24 GB card.
+MAXLEN = 2560
+
+
+def _ids(tok, msgs, add_gen):
+    """Token-id list for a single conversation (transformers 5.x returns a BatchEncoding)."""
+    r = tok.apply_chat_template(msgs, tokenize=True, add_generation_prompt=add_gen)
+    if hasattr(r, "input_ids"):
+        r = r["input_ids"]
+    if r and isinstance(r[0], (list, tuple)):
+        r = r[0]
+    return list(r)
 
 
 def build_dataset(tok):
@@ -30,13 +42,13 @@ def build_dataset(tok):
     data = []
     for r in rows:
         msgs = r["messages"]
-        full = tok.apply_chat_template(msgs, tokenize=True, add_generation_prompt=False)
-        prompt = tok.apply_chat_template(msgs[:-1], tokenize=True, add_generation_prompt=True)
-        if len(full) > MAXLEN:                       # left-truncate the prompt, keep the completion
+        full = _ids(tok, msgs, False)
+        prompt_len = len(_ids(tok, msgs[:-1], True))
+        if len(full) > MAXLEN:                       # left-truncate, preserving the completion
             cut = len(full) - MAXLEN
-            full, prompt = full[cut:], prompt[max(0, len(prompt) - (MAXLEN - (len(full) - len(prompt)))):]
-        labels = [-100] * len(prompt) + full[len(prompt):]  # mask the prompt; train on the pose
-        labels = labels[:len(full)]
+            full = full[cut:]
+            prompt_len = max(0, prompt_len - cut)
+        labels = [-100] * prompt_len + full[prompt_len:]   # mask the prompt; train on the pose
         data.append({"input_ids": full, "labels": labels})
     return data
 
@@ -60,12 +72,10 @@ def main():
     print("examples=%d  token lengths: median=%d max=%d"
           % (len(data), sorted(len(d["input_ids"]) for d in data)[len(data) // 2],
              max(len(d["input_ids"]) for d in data)))
-    bnb = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4",
-                             bnb_4bit_compute_dtype=torch.bfloat16, bnb_4bit_use_double_quant=True)
-    model = AutoModelForCausalLM.from_pretrained(BASE, quantization_config=bnb,
-                                                 torch_dtype=torch.bfloat16, device_map="auto")
+    model = AutoModelForCausalLM.from_pretrained(BASE, torch_dtype=torch.bfloat16,
+                                                 device_map="cuda", attn_implementation="sdpa")
     model.config.use_cache = False
-    model = prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
+    model.enable_input_require_grads()  # required for gradient checkpointing + LoRA
     lora = LoraConfig(r=16, lora_alpha=32, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM",
                       target_modules=["q_proj", "k_proj", "v_proj", "o_proj",
                                       "gate_proj", "up_proj", "down_proj"])
@@ -76,7 +86,7 @@ def main():
         gradient_accumulation_steps=8, learning_rate=2e-4, lr_scheduler_type="cosine",
         warmup_ratio=0.05, bf16=True, gradient_checkpointing=True,
         gradient_checkpointing_kwargs={"use_reentrant": False},
-        logging_steps=1, save_strategy="epoch", report_to=[], optim="paged_adamw_8bit")
+        logging_steps=1, save_strategy="epoch", report_to=[], optim="adamw_torch")
     Trainer(model=model, args=args, train_dataset=data,
             data_collator=lambda b: collate(b, tok.pad_token_id)).train()
     model.save_pretrained(OUT)
