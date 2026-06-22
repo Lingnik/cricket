@@ -282,6 +282,7 @@ class Bot:
             self, self.config.http.host, self.config.http.port, loop
         )
         self.http.start()
+        import contextlib
         main = asyncio.gather(self.connection.run(), self.control.serve_forever())
         stop = asyncio.ensure_future(self._restart_event.wait())
         try:
@@ -290,6 +291,10 @@ class Bot:
         finally:
             main.cancel()
             stop.cancel()
+            # Await the cancelled futures so their CancelledError is retrieved (no stray warning).
+            for fut in (main, stop):
+                with contextlib.suppress(asyncio.CancelledError, Exception):
+                    await fut
             self.shutdown()
         return self._exit_code
 
