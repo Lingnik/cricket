@@ -4,16 +4,32 @@ How to run, restart, test, and inspect Cricket. Companion to `DESIGN.md` (archit
 `CONFIG.md` (config tiers), `STATUS.md` (plain-language summary), `TODO.md` (open work).
 
 ## Pieces and ports
-- **Bot daemon** (Windows): `python -m cricket run --persona {stub|llm}`. `llm` = local
-  Ollama; `stub` = no model. Connects to the MUSH, and hosts:
+- **Bot daemon** (Windows): `python -m cricket run --persona {stub|llm} [--verbose]`. `llm` =
+  local Ollama; `stub` = no model. **Inbound transport is WebSocket + oob JSON by default**
+  (`CRICKET_MUSH_TRANSPORT=ws`, see `docs/websockets.md`) -- world traffic arrives as structured
+  JSON on the WS `j` channel with an unforgeable speaker dbref; `telnet` is the fallback. The
+  daemon hosts:
   - **Control socket** `127.0.0.1:4250` -- newline-delimited JSON; `python -m cricket ctl`
-    attaches a REPL. OPERATOR level. Same command registry as in-MUSH admins.
-  - **Web control panel** `http://127.0.0.1:4280/` -- single-page UI: a Profiles editor
-    (identity/locations/directives/prompts/few-shot/inference) and a live control panel
-    (status, mute, RP toggles, scene queue, recent log). JSON API under `/api/*`.
-- **Ollama** (Windows): `http://127.0.0.1:11434`. Model **`cricket-abliterated:latest`**
-  (see "Model" below).
-- **Test MUSH** (Raspberry Pi): PennMUSH 1.8.7p0 at **`100.88.188.43:4201`** over Tailscale.
+    attaches a REPL. OPERATOR level. Same command registry as in-MUSH admins, plus operator-only
+    `reload` (re-read profile) and `restart` (clean exit-42 -> supervisor respawns).
+  - **Activity stream** `127.0.0.1:4252` -- push-only; every event (messages in/out, LLM
+    generations + retrieval, distillations) as a JSON line. The ctl tail subscribes here.
+  - **Web control panel** `http://127.0.0.1:4280/` -- Profiles editor + live Control panel +
+    **Memory** (mask/purge scene summaries) + **Audit** (browse/mask received messages). `/api/*`.
+- **Supervisor** (the interactive foreground): `python -m cricket supervise --persona llm
+  [--verbose]` -- runs `cricket run` as a restartable child (stdio inherited) and owns an **OOB
+  restart socket `127.0.0.1:4251`** (`{cmd: restart|stop|status}`). Restart the worker to pick up
+  new code WITHOUT touching the foreground process; self-exec is avoided (breaks the Windows TTY).
+- **ctl REPL**: `python -m cricket ctl [--tail] [--raw]` -- split view (prompt_toolkit): a pinned
+  input line with the activity tail scrolling above. `tail on|off`, `raw on|off` (raw = full event
+  JSON incl. the oob `{from,dbref,loc,ts,msg,gmcp}` envelope). Each line is epoch-timestamped.
+- **Session harness** (test puppets): `python -m cricket... ` no -- it is `tools/mush_session_server.py`
+  on `127.0.0.1:4300` (see "Scene harness").
+- **Ollama** (Windows): `http://127.0.0.1:11434`. Model **`cricket-abliterated:latest`**.
+- **Test MUSH** (Raspberry Pi): PennMUSH 1.8.7p0 at **`100.88.188.43:4201`** over Tailscale; WS at
+  `ws://100.88.188.43:4201/wsclient` (`use_ws=Yes`, `ssl_port=0` so plaintext).
+- **Dependencies** (no longer zero-dep): `websockets>=12` (the WS lifeline) and `prompt_toolkit>=3`
+  (the ctl tail). `pyproject.toml` / `uv.lock`.
 
 ## Environment (.env, gitignored)
 The daemon's `cli run` loads `.env`:
@@ -34,19 +50,35 @@ CRICKET_MUSH_HOST=100.88.188.43 CRICKET_TEST_GOD_PW=godpass \
   python tools/mush_admin.py login One godpass "@channel/who Public"
 ```
 
-## Running / restarting the daemon -- READ THIS
-- **Single-instance guard:** a second `run` refuses to start if the control port (4250)
-  is bound. Stop the old one first.
-- **GOTCHA that bit us repeatedly:** do NOT launch the daemon nested inside another
-  backgrounded shell command (`... & python -m cricket run & ...`). It spawns a DUPLICATE
-  that also connects as Cricket and double-responds. Always start the daemon as its own
-  single background process.
-- **Clean restart procedure:**
-  1. Kill the running daemon (its python process / the background task).
-  2. On the MUSH, clear the stale connection: `python tools/mush_admin.py login One <pw> "@boot Cricket"`.
-  3. Start exactly one new daemon: `python -m cricket run --persona llm` (backgrounded, not nested).
-- Daemon stdout is buffered; verify state from the MUSH (`@channel/who Public`) or the
-  control socket / `/api/status`, not the log file.
+## Running / restarting -- READ THIS
+**The normal model is the supervisor in your shell:** `python -m cricket supervise --persona llm
+--verbose`. It stays foreground (output streams to the console) and respawns the worker on demand.
+**To pick up new code, restart the WORKER, not the supervisor:**
+- `echo '{"cmd":"restart"}'` to the **supervisor socket `4251`** (force-terminate + respawn; works
+  even if the worker hangs), or
+- the daemon `restart` control command on `4250` (clean exit-42 -> supervisor respawns).
+The supervisor waits for the old child to exit (ports `4250/4280/4252` released, MUSH dropped)
+before respawning, so the single-instance guard never trips. Only restart the *supervisor* itself
+to change a launch flag (e.g. add `--verbose`), which is forwarded to the worker.
+
+GOTCHAS:
+- **Single-instance guard:** a second `run` refuses to start if `4250` is bound. Stop the old one.
+- **Do NOT launch a bare `run` nested in a backgrounded compound shell command** (`... & python -m
+  cricket run & ...`) -- it spawns a duplicate that double-responds. The supervisor is the right way
+  to background it; a manual `run` must be its own single process.
+- **WS keepalive:** `ws_connection.py` sets `ping_interval=None` -- PennMUSH does not answer RFC6455
+  PINGs, so the library default would drop the connection every ~20s (flapping). Keepalive is the
+  application-level `IDLE` command. If Cricket starts flapping, check `conn(Cricket)` isn't resetting.
+- Worker stdout is buffered; verify state from the MUSH, `/api/status`, or the ctl tail.
+
+## Memory hygiene -- we work in the ONE real DB (no swapping)
+Scenes/tests run against `data/cricket-memory.sqlite3`; clean up via MASKING (soft, reversible,
+redacts from the context window but keeps the audit trail) or PURGE (hard delete):
+- Web: **Memory** tab (Mask/Purge a scene summary) + **Audit** tab (mask individual messages).
+- Console: `mem mask|unmask <room>`, `mem purge <room>`, `audit [n]`, `audit mask|unmask <id>`.
+- API: `POST /api/memory/mask`, `DELETE /api/memory {room}`, `POST /api/events/<id>/mask`.
+Only `memory` scene summaries re-enter context (on `!rp on`); the `events` table is audit-only.
+**Mask your own test probes as you go.** Turn-trace debug logs live under `data/traces*/` (gitignored).
 
 ## Model (the chat-template fix)
 The upstream abliterated GGUF (`hf.co/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF`)

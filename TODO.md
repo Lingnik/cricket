@@ -4,14 +4,27 @@ Status: **NEXT** (in progress) / **SOON** / **LATER** / **DEFERRED** / **DONE**.
 `STATUS.md` for the plain-language summary and `docs/OPERATIONS.md` for the runbook.
 The 2026-06-21 overnight "knowledge upgrade" run is logged in `docs/overnight-run.md`.
 
-## Resume context
-Everything is on `origin/main` (verified secrets-clean). The bot works end-to-end and
-in-character on the Pi test MUSH (`100.88.188.43:4201`) using the fixed `cricket-abliterated`
-model; a single live daemon is running. The wiki goldmine (PR #2) is merged and now FULLY
-WIRED INTO THE PERSONA: 35 two-facet IC/OOC dossiers, deterministic mentioned-entity retrieval,
-a stdlib wiki search engine, and Cricket's own logged self-history. An Opus judge (deterministic
-temp-0, with-vs-without retrieval) confirmed the upgrade: engagement 2.6->4.3, grounding
-2.3->4.1, voice 3.9->4.5, 7-1-0 head to head. 157 tests+evals green.
+## Resume context (2026-06-21, post-infrastructure session)
+Everything on `origin/main` (secrets-clean). The bot runs end-to-end on the Pi test MUSH over
+**WebSocket + oob JSON** (trusted attribution; telnet is the fallback), under a **supervisor**
+(`cricket supervise --persona llm --verbose`) the user runs interactively. Restart the worker to
+load new code via the OOB socket `4251` `{"cmd":"restart"}` or the `restart` control command on
+`4250`. Live **activity stream** on `4252`; `cricket ctl --tail --raw` is the split REPL.
+**One memory DB, no swapping** -- clean test data via mask/purge (Memory + Audit web tabs, console
+`mem`/`audit`, `/api/memory|events`). RP quality: voice/format/grounding fixes done, reasoning ON,
+distillation fixed. Eval: `evals/scene_replay.py` (deterministic temp-0 for format/fit/puppet;
+`--samples N` temp-0.85 for voice) + `evals/goals.py`. See OPERATIONS.md for the full runbook and
+the project memory for the architecture summary. Deps now: `websockets`, `prompt_toolkit`.
+
+## Remaining -- next up (post-infrastructure)
+- **LEFT INTENTIONALLY (per user, for troubleshooting):** the greedy `@listen me=*` relays
+  connect/disconnect notices over oob -> they're filtered for behavior but still logged to the
+  audit trail + streamed (clutter, not harmful). Verbose logging kept available on purpose. If it
+  becomes noise: scope the listener / filter `_CHANNEL_NOTICE` kinds out of the audit log + stream.
+- **NEXT (RP quality):** with the grounding fix in (present cast dossiers now inject), re-measure
+  fit/voice in a fresh traced scene; the remaining lever is voice consistency at temp-0.85 (bimodal
+  -- best-of-3 hits 4/5). Eval-fidelity: exact-cast attribution from each log's `{{Rplog|chars}}`.
+- **LATER:** production go-live (real `<Cricket>`/`<OOC>` channels + real creds); hands-on CRUD tuning.
 
 ## Done (recent -- overnight knowledge upgrade, 2026-06-21)
 - **DONE** -- 35 two-facet IC/OOC dossiers distilled from `players/` (31 via workflow + 3
