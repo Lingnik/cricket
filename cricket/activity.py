@@ -43,15 +43,16 @@ class ActivityBus:
 
 
 def format_event(evt: dict) -> str:
-    """Render one activity event as a single human-readable line (verbose stdout + ctl tail)."""
+    """Render one activity event as a single human-readable line (verbose stdout + ctl tail),
+    prefixed with its epoch timestamp."""
     k = evt.get("kind", "?")
     if k == "mush.in":
-        return "[in ] %s(%s) %s: %s" % (
+        body = "[in ] %s(%s) %s: %s" % (
             evt.get("speaker") or "?", evt.get("dbref") or "?",
             evt.get("speech") or "", (evt.get("text") or "")[:160])
-    if k == "mush.out":
-        return "[out] %s" % (evt.get("line") or "")[:200]
-    if k == "generate":
+    elif k == "mush.out":
+        body = "[out] %s" % (evt.get("line") or "")[:200]
+    elif k == "generate":
         ret = []
         if evt.get("dossiers_injected"):
             ret.append("dossiers=%s" % evt["dossiers_injected"])
@@ -61,12 +62,15 @@ def format_event(evt: dict) -> str:
             ret.append("vector=%s" % evt["vector_hit"])
         if evt.get("thinking_enabled"):
             ret.append("reasoned")
-        return "[gen] %s %s %s -> %r" % (
+        body = "[gen] %s %s %s -> %r" % (
             evt.get("mode") or "?", evt.get("room") or "?",
             " ".join(ret), (evt.get("clean_output") or "")[:120])
-    if k == "distill":
-        return "[dst] +%r actors=%s" % ((evt.get("ledger_entry") or "")[:90], evt.get("actors"))
-    if k == "cmd":
-        return "[cmd] %s %s" % (evt.get("name"), " ".join(evt.get("args") or []))
-    extra = {key: v for key, v in evt.items() if key not in ("kind", "ts")}
-    return "[%s] %s" % (k, extra)
+    elif k == "distill":
+        body = "[dst] +%r actors=%s" % ((evt.get("ledger_entry") or "")[:90], evt.get("actors"))
+    elif k == "cmd":
+        body = "[cmd] %s %s" % (evt.get("name"), " ".join(evt.get("args") or []))
+    else:
+        extra = {key: v for key, v in evt.items() if key not in ("kind", "ts")}
+        body = "[%s] %s" % (k, extra)
+    ts = evt.get("ts")
+    return ("%.3f %s" % (ts, body)) if ts is not None else body

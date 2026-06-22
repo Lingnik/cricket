@@ -40,6 +40,17 @@ def test_format_event_renders_each_kind():
     assert format_event({"kind": "distill", "ledger_entry": "a note", "actors": ["Bob"]}).startswith("[dst]")
 
 
+def test_format_event_prefixes_epoch_timestamp():
+    line = format_event({"kind": "mush.out", "line": "x", "ts": 1718999999.5})
+    assert line.startswith("1718999999.500 [out]")
+    # bus-published events always carry ts, so the tail/verbose lines are timestamped
+    bus = ActivityBus()
+    got = []
+    bus.subscribe(got.append)
+    bus.publish("mush.out", line="hi")
+    assert format_event(got[0]).split()[0].replace(".", "").isdigit()
+
+
 def test_tracer_on_emit_hook_fires(tmp_path):
     from cricket.trace import TurnTracer
     got = []
