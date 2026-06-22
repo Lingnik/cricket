@@ -183,6 +183,11 @@ class Bot:
             # Output framed by OUTPUTPREFIX/SUFFIX = response to a command we issued.
             self._handle_command_echo(event.text)
             return
+        # On the WS transport, heard world traffic ALSO echoes on the t channel in-band -- but the
+        # trusted j channel (on_event) is authoritative. Ignore non-CommandEcho t-channel lines so
+        # we don't double-handle (and don't fall back to the spoofable regex attribution).
+        if self.config.mush.transport == "ws":
+            return
         # Fire-and-forget so a slow persona never blocks the read loop.
         asyncio.ensure_future(self.router.handle(event))
 
