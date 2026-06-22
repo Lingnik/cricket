@@ -143,7 +143,12 @@ class WsConnection:
         backoff = 1.0
         while not self._closing:
             try:
-                self._ws = await connect(self.url, max_size=None, open_timeout=15)
+                # ping_interval=None: PennMUSH's WS server does not answer RFC6455 control-frame
+                # PINGs, so the library's default keepalive ping would time out and drop the
+                # connection every ~20s (flapping). We keep the connection alive at the application
+                # level instead (the periodic "IDLE" command in _keepalive).
+                self._ws = await connect(self.url, max_size=None, open_timeout=15,
+                                         ping_interval=None)
                 self._outq = asyncio.Queue()
                 self._writer_task = asyncio.ensure_future(self._write_loop())
                 self._textbuf = ""

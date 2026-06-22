@@ -188,8 +188,9 @@ class Bot:
             self.bus.publish("mush.out", line=line)
             self.connection.send(line)
 
-    def _publish_in(self, event) -> None:
-        """Publish a heard MushEvent to the activity bus (live viewers)."""
+    def _publish_in(self, event, raw=None) -> None:
+        """Publish a heard MushEvent to the activity bus (live viewers). `raw` is the original oob
+        JSON envelope on the WS transport, carried so a raw view can show the unmapped frame."""
         sp = getattr(event, "speaker", None) or getattr(event, "actor", None)
         self.bus.publish(
             "mush.in",
@@ -198,6 +199,7 @@ class Bot:
             speech=getattr(getattr(event, "kind", None), "value", None),
             channel=getattr(event, "channel", None),
             text=getattr(event, "text", None),
+            raw=raw,
         )
 
     def _on_line(self, line: str) -> None:
@@ -222,7 +224,7 @@ class Bot:
         dbref (%#). Mapped to a MushEvent without parsing attribution out of spoofable text."""
         event = map_oob_event(obj)
         if event is not None:
-            self._publish_in(event)
+            self._publish_in(event, raw=obj)
             asyncio.ensure_future(self.router.handle(event))
 
     def _handle_command_echo(self, text: str) -> None:

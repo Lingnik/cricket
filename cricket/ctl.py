@@ -76,7 +76,7 @@ class _Tail:
                         if not line.strip() or not self.enabled[0]:
                             continue
                         try:
-                            self.printer(format_event(json.loads(line.decode("utf-8"))))
+                            self.printer(json.loads(line.decode("utf-8")))
                         except ValueError:
                             pass
             finally:
@@ -112,7 +112,7 @@ def _basic_repl(host: str, port: int) -> int:
 
 
 def repl(host: str = "127.0.0.1", port: int = 4250, stream_port: int = 4252,
-         tail: bool = False) -> int:
+         tail: bool = False, raw: bool = False) -> int:
     try:
         from prompt_toolkit import PromptSession
         from prompt_toolkit.patch_stdout import patch_stdout
@@ -120,11 +120,16 @@ def repl(host: str = "127.0.0.1", port: int = 4250, stream_port: int = 4252,
         return _basic_repl(host, port)
 
     enabled = [bool(tail)]
-    tailer = _Tail(host, stream_port, enabled, lambda text: print(text, flush=True))
+    raw_mode = [bool(raw)]  # raw on -> print the full event JSON (incl. the oob envelope)
+
+    def render(evt):
+        print(json.dumps(evt, default=str) if raw_mode[0] else format_event(evt), flush=True)
+
+    tailer = _Tail(host, stream_port, enabled, render)
     tailer.start()
     session = PromptSession()
-    print("cricket-ctl -> %s:%d  (tail %s | 'tail on|off' | 'quit')"
-          % (host, port, "ON" if enabled[0] else "off"))
+    print("cricket-ctl -> %s:%d  (tail %s, raw %s | 'tail on|off' | 'raw on|off' | 'quit')"
+          % (host, port, "ON" if enabled[0] else "off", "ON" if raw_mode[0] else "off"))
     try:
         with patch_stdout():
             while True:
@@ -139,6 +144,10 @@ def repl(host: str = "127.0.0.1", port: int = 4250, stream_port: int = 4252,
                 if line in ("tail on", "tail off"):
                     enabled[0] = (line == "tail on")
                     print("(tail %s)" % ("on" if enabled[0] else "off"))
+                    continue
+                if line in ("raw on", "raw off"):
+                    raw_mode[0] = (line == "raw on")
+                    print("(raw %s)" % ("on" if raw_mode[0] else "off"))
                     continue
                 parts = line.split()
                 try:

@@ -65,6 +65,8 @@ def main(argv=None) -> int:
     ctl_p.add_argument("--port", type=int, default=4250)
     ctl_p.add_argument("--stream-port", type=int, default=4252)
     ctl_p.add_argument("--tail", action="store_true", help="start with the activity tail on")
+    ctl_p.add_argument("--raw", action="store_true",
+                       help="tail shows the full event JSON (incl. the raw oob envelope)")
 
     # `supervise` runs the daemon as a restartable child in the foreground (your shell) and
     # exposes an OOB localhost socket to induce a code-reloading restart of the worker.
@@ -106,7 +108,7 @@ def main(argv=None) -> int:
         return code or 0
 
     if args.command == "ctl":
-        return ctl.repl(args.host, args.port, args.stream_port, args.tail)
+        return ctl.repl(args.host, args.port, args.stream_port, args.tail, args.raw)
 
     if args.command == "supervise":
         from .supervisor import supervise
@@ -122,8 +124,9 @@ def ctl_main(argv=None) -> int:
     parser.add_argument("--port", type=int, default=4250)
     parser.add_argument("--stream-port", type=int, default=4252)
     parser.add_argument("--tail", action="store_true", help="start with the activity tail on")
+    parser.add_argument("--raw", action="store_true", help="tail shows full event JSON")
     args = parser.parse_args(argv)
-    return ctl.repl(args.host, args.port, args.stream_port, args.tail)
+    return ctl.repl(args.host, args.port, args.stream_port, args.tail, args.raw)
 
 
 if __name__ == "__main__":
