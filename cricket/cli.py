@@ -61,6 +61,16 @@ def main(argv=None) -> int:
     ctl_p.add_argument("--host", default="127.0.0.1")
     ctl_p.add_argument("--port", type=int, default=4250)
 
+    # `supervise` runs the daemon as a restartable child in the foreground (your shell) and
+    # exposes an OOB localhost socket to induce a code-reloading restart of the worker.
+    sup_p = sub.add_parser(
+        "supervise", help="run the daemon as a restartable child + an OOB restart socket")
+    sup_p.add_argument("--config", default=DEFAULT_CONFIG)
+    sup_p.add_argument("--env", default=DEFAULT_ENV)
+    sup_p.add_argument("--persona", choices=["stub", "llm"], default="stub")
+    sup_p.add_argument("--port", type=int, default=4251,
+                       help="OOB supervisor socket port (loopback)")
+
     args = parser.parse_args(argv)
 
     if args.command == "run":
@@ -79,14 +89,21 @@ def main(argv=None) -> int:
             % (config.http.host, config.http.port)
         )
         print("cricket: persona=%s" % args.persona)
+        code = 0
         try:
-            asyncio.run(run_async(config, persona=args.persona))
+            code = asyncio.run(run_async(config, persona=args.persona))
         except KeyboardInterrupt:
             pass
-        return 0
+        # 42 = restart requested (the `restart` control command). A supervising `cricket
+        # supervise` respawns on this code; run standalone, it just exits with it.
+        return code or 0
 
     if args.command == "ctl":
         return ctl.repl(args.host, args.port)
+
+    if args.command == "supervise":
+        from .supervisor import supervise
+        return supervise(args)
 
     parser.print_help()
     return 1

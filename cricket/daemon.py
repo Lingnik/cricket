@@ -91,6 +91,10 @@ class Bot:
         self.connection = None
         self.control = ControlServer(self, port=config.control.port)
         self.http = None
+        # Restart plumbing: request_restart() sets exit code 42 and trips this event; run()
+        # returns the code so the CLI/supervisor can respawn the worker with fresh code.
+        self._exit_code = 0
+        self._restart_event = None
 
     # -- profile application ---------------------------------------------------
     def _build_allowlist(self, location_admins: dict) -> Allowlist:
@@ -272,18 +276,29 @@ class Bot:
                 use_tls=self.config.mush.use_tls,
                 setup_commands=self._setup_commands(),
             )
+        self._restart_event = asyncio.Event()
         await self.control.start()
         self.http = HttpConfigServer(
             self, self.config.http.host, self.config.http.port, loop
         )
         self.http.start()
+        main = asyncio.gather(self.connection.run(), self.control.serve_forever())
+        stop = asyncio.ensure_future(self._restart_event.wait())
         try:
-            await asyncio.gather(
-                self.connection.run(),
-                self.control.serve_forever(),
-            )
+            # Run until the connection/control tasks end OR a restart is requested.
+            await asyncio.wait({main, stop}, return_when=asyncio.FIRST_COMPLETED)
         finally:
+            main.cancel()
+            stop.cancel()
             self.shutdown()
+        return self._exit_code
+
+    def request_restart(self) -> None:
+        """Ask the daemon to shut down cleanly and exit with the restart code (42). A supervising
+        `cricket supervise` process respawns it with fresh code. No-op if not running."""
+        self._exit_code = 42
+        if getattr(self, "_restart_event", None) is not None:
+            self._restart_event.set()
 
     def shutdown(self) -> None:
         if self.connection is not None:
@@ -323,5 +338,6 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
     return bot
 
 
-async def run_async(config: Config, persona: str = "stub") -> None:
-    await build_bot(config, persona).run()
+async def run_async(config: Config, persona: str = "stub") -> int:
+    """Run the daemon; returns its exit code (42 = restart requested, see request_restart)."""
+    return await build_bot(config, persona).run() or 0

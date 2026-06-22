@@ -8,6 +8,7 @@ through ctx.bot (the daemon).
 
 from __future__ import annotations
 
+import asyncio
 import re
 
 from ..auth import Level
@@ -258,6 +259,19 @@ async def cmd_reload(ctx: CommandContext, args: list) -> None:
     ctx.reply("reloaded active profile: %s" % getattr(ctx.bot, "active_profile", None))
 
 
+async def cmd_restart(ctx: CommandContext, args: list) -> None:
+    """Shut the daemon down cleanly and exit with the restart code (42) so a supervising
+    `cricket supervise` respawns it with fresh CODE (reload only re-reads the profile; restart
+    re-imports everything). OPERATOR-only (the console/supervisor), never in-MUSH admins."""
+    bot = ctx.bot
+    if not hasattr(bot, "request_restart"):
+        ctx.reply("restart not supported (no supervisor / not running).")
+        return
+    ctx.reply("restarting: clean shutdown + exit 42; the supervisor will respawn with fresh code.")
+    # Schedule AFTER this reply is flushed back over the control socket.
+    asyncio.get_running_loop().call_later(0.3, bot.request_restart)
+
+
 async def cmd_say(ctx: CommandContext, args: list) -> None:
     if len(args) < 2:
         ctx.reply("usage: say <location> <text>")
@@ -451,6 +465,7 @@ def register_builtins(registry) -> None:
         Command("harass", Level.ADMIN, cmd_harass, "harass on|off -- insult newcomers on connect")
     )
     registry.register(Command("reload", Level.OPERATOR, cmd_reload, "reload config"))
+    registry.register(Command("restart", Level.OPERATOR, cmd_restart, "restart the worker (exit 42; supervisor respawns with fresh code)"))
     registry.register(Command("say", Level.ADMIN, cmd_say, "say <location> <text>"))
     registry.register(Command("rp", Level.ADMIN, cmd_rp, "rp on|off [room]"))
     registry.register(
