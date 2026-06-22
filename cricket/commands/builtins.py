@@ -446,6 +446,71 @@ async def cmd_help(ctx: CommandContext, args: list) -> None:
         ctx.reply("Cricket commands (%s):\n%s" % (ctx.level.name, "\n".join(lines)))
 
 
+def _load_generations(bot):
+    """Read the generate records (newest last) from the daemon's JSONL trace, including the full
+    captured prompt(s). Returns [] if there is no trace yet."""
+    import json
+    import os
+    path = getattr(getattr(bot, "tracer", None), "path", None)
+    if not path or not os.path.exists(path):
+        return []
+    gens = []
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            if '"generate"' not in line:
+                continue
+            try:
+                rec = json.loads(line)
+            except ValueError:
+                continue
+            if rec.get("kind") == "generate":
+                gens.append(rec)
+    return gens
+
+
+async def cmd_prompt(ctx: CommandContext, args: list) -> None:
+    """View the raw LLM prompt for a recent generation. `prompt` = most recent; `prompt N` = the
+    Nth generation back; `prompt list` = an index of recent generations to choose from."""
+    gens = _load_generations(ctx.bot)
+    if not gens:
+        ctx.reply("no generations traced yet.")
+        return
+    if args and args[0] == "list":
+        total = len(gens)
+        out = ["recent generations (use 'prompt <n>' where n counts back from newest):"]
+        for i in range(max(0, total - 15), total):
+            r = gens[i]
+            out.append("  -%-3d ts=%s %-4s %s -> %r"
+                       % (total - i, r.get("ts"), r.get("mode"), r.get("room"),
+                          (r.get("clean_output") or "")[:55]))
+        ctx.reply("\n".join(out))
+        return
+    try:
+        n = int(args[0]) if args else 1
+    except ValueError:
+        n = 1
+    if n < 1 or n > len(gens):
+        ctx.reply("only %d generations traced; pick 1..%d (or 'prompt list')."
+                  % (len(gens), len(gens)))
+        return
+    rec = gens[-n]
+    parts = ["=== prompt for generation -%d (ts=%s mode=%s room=%s, %s chars) ==="
+             % (n, rec.get("ts"), rec.get("mode"), rec.get("room"), rec.get("prompt_chars"))]
+    plan = rec.get("plan_prompt")
+    if plan:
+        parts.append("\n----- PLANNING PASS (%d msgs) -----" % len(plan))
+        for m in plan:
+            parts.append("[%s]\n%s" % (m.get("role"), m.get("content")))
+    compose = rec.get("prompt")
+    if compose:
+        parts.append("\n----- COMPOSE PASS (%d msgs) -----" % len(compose))
+        for m in compose:
+            parts.append("[%s]\n%s" % (m.get("role"), m.get("content")))
+    elif not plan:
+        parts.append("(no prompt captured -- this generation pre-dates the feature)")
+    ctx.reply("\n".join(parts))
+
+
 def _directives_for(bot, location):
     cfg = getattr(bot, "locations", {}).get(location)
     return cfg.directives if cfg is not None else ""
@@ -470,6 +535,8 @@ def register_builtins(registry) -> None:
         Command("harass", Level.ADMIN, cmd_harass, "harass on|off -- insult newcomers on connect")
     )
     registry.register(Command("reload", Level.OPERATOR, cmd_reload, "reload config"))
+    registry.register(Command("prompt", Level.OPERATOR, cmd_prompt,
+                              "prompt [n|list] -- view the raw LLM prompt for a recent generation"))
     registry.register(Command("restart", Level.OPERATOR, cmd_restart, "restart the worker (exit 42; supervisor respawns with fresh code)"))
     registry.register(Command("say", Level.ADMIN, cmd_say, "say <location> <text>"))
     registry.register(Command("rp", Level.ADMIN, cmd_rp, "rp on|off [room]"))

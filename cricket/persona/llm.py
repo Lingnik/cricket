@@ -150,7 +150,7 @@ class LlmPersona(Persona):
         plan = ""
         if inference.get("thinking"):
             plan = await self._think(turn, prompts, memories, options, inference,
-                                     self_history, rp_charter)
+                                     self_history, rp_charter, trace=trace)
         trace["thinking_enabled"] = bool(inference.get("thinking"))
         trace["plan"] = plan or None
         messages = self._build_messages(
@@ -158,7 +158,10 @@ class LlmPersona(Persona):
             rp_charter=rp_charter,
         )
         trace["prompt_chars"] = sum(len(m["content"]) for m in messages)
-        trace["messages"] = len(messages)
+        trace["message_count"] = len(messages)
+        # Full prompt for after-the-fact inspection (the `prompt` ctl command). Kept in the JSONL
+        # trace only -- TurnTracer strips it from the live bus event so the tail stays lean.
+        trace["prompt"] = messages
         raw = await self._client.complete(
             messages, options=options, keep_alive=inference.get("keep_alive")
         )
@@ -173,10 +176,13 @@ class LlmPersona(Persona):
         return Response(text=text, action=action)
 
     async def _think(self, turn: Turn, prompts: dict, memories: str, options: dict,
-                     inference: dict, self_history: str = "", rp_charter: str = "") -> str:
+                     inference: dict, self_history: str = "", rp_charter: str = "",
+                     trace=None) -> str:
         """One short, hidden planning pass. Returns terse private notes (or '' on failure)."""
         msgs = self._build_messages(turn, prompts, memories, thinking=True,
                                     self_history=self_history, rp_charter=rp_charter)
+        if trace is not None:
+            trace["plan_prompt"] = msgs  # captured for the `prompt` ctl command (JSONL only)
         topts = dict(options)
         topts["num_predict"] = int(inference.get("think_tokens", 160))
         try:

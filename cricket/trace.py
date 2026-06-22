@@ -43,7 +43,10 @@ class TurnTracer:
                 f.write(line + "\n")
         if self.on_emit is not None:
             try:
-                self.on_emit(rec)
+                # Keep the live bus event (verbose stdout + ctl tail) lean: the full prompt(s) are
+                # large and live in the JSONL for the `prompt` command to fetch on demand.
+                slim = {k: v for k, v in rec.items() if k not in ("prompt", "plan_prompt")}
+                self.on_emit(slim)
             except Exception:
                 pass
 
