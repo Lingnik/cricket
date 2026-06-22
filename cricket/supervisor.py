@@ -152,6 +152,8 @@ class Supervisor:
 def supervise(args) -> int:
     child_argv = [sys.executable, "-m", "cricket", "run",
                   "--persona", args.persona, "--config", args.config, "--env", args.env]
+    if getattr(args, "verbose", False):
+        child_argv.append("--verbose")
     sup = Supervisor(child_argv, sock_port=args.port)
     try:
         return sup.run()

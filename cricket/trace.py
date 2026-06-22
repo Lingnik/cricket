@@ -24,8 +24,11 @@ class TurnTracer:
     """Append-only JSONL sink. Thread-safe (the HTTP thread, the loop, and command handlers may
     all emit). One line per record; `kind` distinguishes 'generate' from 'distill'."""
 
-    def __init__(self, path: str) -> None:
+    def __init__(self, path: str, on_emit=None) -> None:
         self.path = path
+        # Optional second sink (e.g. the activity bus) called with each record, so live viewers
+        # see generations/distillations as they happen -- in addition to the durable JSONL.
+        self.on_emit = on_emit
         d = os.path.dirname(path)
         if d:
             os.makedirs(d, exist_ok=True)
@@ -38,6 +41,11 @@ class TurnTracer:
         with self._lock:
             with open(self.path, "a", encoding="utf-8") as f:
                 f.write(line + "\n")
+        if self.on_emit is not None:
+            try:
+                self.on_emit(rec)
+            except Exception:
+                pass
 
 
 class NullTracer:

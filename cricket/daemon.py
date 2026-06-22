@@ -36,8 +36,14 @@ from .router import Router
 
 
 class Bot:
-    def __init__(self, config: Config, persona=None) -> None:
+    def __init__(self, config: Config, persona=None, verbose: bool = False) -> None:
         self.config = config
+        self.verbose = verbose
+
+        # Activity bus: one publish point for messages in/out, generations, distillations -- fed
+        # to live sinks (the --verbose stdout printer + the ctl tail stream).
+        from .activity import ActivityBus
+        self.bus = ActivityBus()
 
         # Persistent stores: config DB (committed) and memory DB (gitignored).
         self.config_store = ConfigStore(config.paths.config_db)
@@ -51,7 +57,9 @@ class Bot:
         from .trace import TurnTracer
         _trace_dir = os.environ.get("CRICKET_TRACE_DIR", "data/traces")
         _day = __import__("datetime").datetime.now().strftime("%Y%m%d")
-        self.tracer = TurnTracer(os.path.join(_trace_dir, "turns-%s.jsonl" % _day))
+        # Generations + distillations also fan out to the activity bus (live viewers).
+        self.tracer = TurnTracer(os.path.join(_trace_dir, "turns-%s.jsonl" % _day),
+                                 on_emit=self.bus.publish_event)
 
         # Mutable runtime state shared by router + commands + HTTP panel.
         self.muted = False
@@ -177,7 +185,20 @@ class Bot:
     # -- io --------------------------------------------------------------------
     def _send_raw(self, line: str) -> None:
         if self.connection is not None:
+            self.bus.publish("mush.out", line=line)
             self.connection.send(line)
+
+    def _publish_in(self, event) -> None:
+        """Publish a heard MushEvent to the activity bus (live viewers)."""
+        sp = getattr(event, "speaker", None) or getattr(event, "actor", None)
+        self.bus.publish(
+            "mush.in",
+            speaker=getattr(sp, "name", None),
+            dbref=getattr(sp, "dbref", None),
+            speech=getattr(getattr(event, "kind", None), "value", None),
+            channel=getattr(event, "channel", None),
+            text=getattr(event, "text", None),
+        )
 
     def _on_line(self, line: str) -> None:
         event = self.parser.parse(line)
@@ -192,6 +213,7 @@ class Bot:
         # we don't double-handle (and don't fall back to the spoofable regex attribution).
         if self.config.mush.transport == "ws":
             return
+        self._publish_in(event)
         # Fire-and-forget so a slow persona never blocks the read loop.
         asyncio.ensure_future(self.router.handle(event))
 
@@ -200,6 +222,7 @@ class Bot:
         dbref (%#). Mapped to a MushEvent without parsing attribution out of spoofable text."""
         event = map_oob_event(obj)
         if event is not None:
+            self._publish_in(event)
             asyncio.ensure_future(self.router.handle(event))
 
     def _handle_command_echo(self, text: str) -> None:
@@ -277,6 +300,15 @@ class Bot:
                 setup_commands=self._setup_commands(),
             )
         self._restart_event = asyncio.Event()
+        # --verbose: print every activity event to stdout (your supervisor console).
+        if self.verbose:
+            from .activity import format_event
+            self.bus.subscribe(lambda evt: print(format_event(evt), flush=True))
+        # Push-only activity stream socket (the ctl tail subscribes here).
+        from .stream_server import StreamServer
+        _stream_port = int(os.environ.get("CRICKET_STREAM_PORT", "4252"))
+        self.stream = StreamServer(self.bus, port=_stream_port)
+        await self.stream.start()
         await self.control.start()
         self.http = HttpConfigServer(
             self, self.config.http.host, self.config.http.port, loop
@@ -308,6 +340,8 @@ class Bot:
     def shutdown(self) -> None:
         if self.connection is not None:
             self.connection.close()
+        if getattr(self, "stream", None) is not None:
+            self.stream.close()
         self.control.close()
         if self.http is not None:
             self.http.stop()
@@ -315,11 +349,11 @@ class Bot:
         self.config_store.close()
 
 
-def build_bot(config: Config, persona: str = "stub") -> Bot:
+def build_bot(config: Config, persona: str = "stub", verbose: bool = False) -> Bot:
     """Construct a Bot with the chosen persona. `llm` wires LlmPersona to a local Ollama
     client, reading the active profile's prompts/inference live; `stub` is the no-model
     default used by tests and offline runs."""
-    bot = Bot(config)
+    bot = Bot(config, verbose=verbose)
     if persona == "llm":
         from .lore.loader import LoreStore
         from .lore.vector import VectorIndex
@@ -343,6 +377,6 @@ def build_bot(config: Config, persona: str = "stub") -> Bot:
     return bot
 
 
-async def run_async(config: Config, persona: str = "stub") -> int:
+async def run_async(config: Config, persona: str = "stub", verbose: bool = False) -> int:
     """Run the daemon; returns its exit code (42 = restart requested, see request_restart)."""
-    return await build_bot(config, persona).run() or 0
+    return await build_bot(config, persona, verbose=verbose).run() or 0

@@ -56,10 +56,15 @@ def main(argv=None) -> int:
         default="stub",
         help="stub = no model (default); llm = local Ollama backend",
     )
+    run_p.add_argument("--verbose", "-v", action="store_true",
+                       help="stream every activity event (messages in/out, generations, "
+                            "distillations) to stdout")
 
-    ctl_p = sub.add_parser("ctl", help="attach the control REPL")
+    ctl_p = sub.add_parser("ctl", help="attach the control REPL (with optional live activity tail)")
     ctl_p.add_argument("--host", default="127.0.0.1")
     ctl_p.add_argument("--port", type=int, default=4250)
+    ctl_p.add_argument("--stream-port", type=int, default=4252)
+    ctl_p.add_argument("--tail", action="store_true", help="start with the activity tail on")
 
     # `supervise` runs the daemon as a restartable child in the foreground (your shell) and
     # exposes an OOB localhost socket to induce a code-reloading restart of the worker.
@@ -68,6 +73,8 @@ def main(argv=None) -> int:
     sup_p.add_argument("--config", default=DEFAULT_CONFIG)
     sup_p.add_argument("--env", default=DEFAULT_ENV)
     sup_p.add_argument("--persona", choices=["stub", "llm"], default="stub")
+    sup_p.add_argument("--verbose", "-v", action="store_true",
+                       help="pass --verbose to the worker (stream activity to this console)")
     sup_p.add_argument("--port", type=int, default=4251,
                        help="OOB supervisor socket port (loopback)")
 
@@ -91,7 +98,7 @@ def main(argv=None) -> int:
         print("cricket: persona=%s" % args.persona)
         code = 0
         try:
-            code = asyncio.run(run_async(config, persona=args.persona))
+            code = asyncio.run(run_async(config, persona=args.persona, verbose=args.verbose))
         except KeyboardInterrupt:
             pass
         # 42 = restart requested (the `restart` control command). A supervising `cricket
@@ -99,7 +106,7 @@ def main(argv=None) -> int:
         return code or 0
 
     if args.command == "ctl":
-        return ctl.repl(args.host, args.port)
+        return ctl.repl(args.host, args.port, args.stream_port, args.tail)
 
     if args.command == "supervise":
         from .supervisor import supervise
@@ -113,8 +120,10 @@ def ctl_main(argv=None) -> int:
     parser = argparse.ArgumentParser(prog="cricket-ctl")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=4250)
+    parser.add_argument("--stream-port", type=int, default=4252)
+    parser.add_argument("--tail", action="store_true", help="start with the activity tail on")
     args = parser.parse_args(argv)
-    return ctl.repl(args.host, args.port)
+    return ctl.repl(args.host, args.port, args.stream_port, args.tail)
 
 
 if __name__ == "__main__":

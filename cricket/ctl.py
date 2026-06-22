@@ -1,30 +1,93 @@
-"""cricket-ctl: a thin REPL over the daemon's control socket.
+"""cricket-ctl: a REPL over the daemon's control socket, with an optional live activity tail.
 
-Each input line is sent as one command; the daemon's reply is printed. Type `quit` or
-`exit` (or send EOF) to leave.
+Commands are sent to the control socket (request/response). When the tail is on, a background
+thread streams activity events (messages in/out, LLM generations + retrieval, distillations)
+from the daemon's stream socket and prints them ABOVE a persistent input line -- like tinyfugue
+or a streaming chat REPL. Toggle with `tail on` / `tail off` (default off; `--tail` defaults on).
+Type `quit`/`exit` (or EOF) to leave. Falls back to a plain line REPL if prompt_toolkit is absent.
 """
 
 from __future__ import annotations
 
-import asyncio
 import json
+import socket
+import threading
+import time
+
+from .activity import format_event
 
 
-async def _send_one(host: str, port: int, name: str, args: list) -> dict:
-    reader, writer = await asyncio.open_connection(host, port)
+def _send_command(host: str, port: int, name: str, args: list) -> dict:
+    s = socket.create_connection((host, port), timeout=10)
     try:
-        writer.write((json.dumps({"cmd": name, "args": args}) + "\n").encode("utf-8"))
-        await writer.drain()
-        line = await reader.readline()
-        if not line:
-            return {"ok": False, "text": "no response"}
-        return json.loads(line.decode("utf-8"))
+        s.sendall((json.dumps({"cmd": name, "args": args}) + "\n").encode("utf-8"))
+        s.settimeout(30)
+        buf = b""
+        while not buf.endswith(b"\n"):
+            chunk = s.recv(4096)
+            if not chunk:
+                break
+            buf += chunk
+        return json.loads(buf.decode("utf-8")) if buf else {"ok": False, "text": "no response"}
     finally:
-        writer.close()
+        s.close()
 
 
-def repl(host: str = "127.0.0.1", port: int = 4250) -> int:
-    print("cricket-ctl -> %s:%d  (quit to exit)" % (host, port))
+class _Tail:
+    """Background thread: stream activity events from the daemon's stream socket and print them
+    (when enabled) via the supplied printer. Reconnects if the daemon restarts."""
+
+    def __init__(self, host: str, port: int, enabled: list, printer) -> None:
+        self.host = host
+        self.port = port
+        self.enabled = enabled  # 1-element mutable [bool], shared with the REPL
+        self.printer = printer
+        self._stop = False
+        self._thread = threading.Thread(target=self._run, daemon=True)
+
+    def start(self) -> None:
+        self._thread.start()
+
+    def stop(self) -> None:
+        self._stop = True
+
+    def _run(self) -> None:
+        while not self._stop:
+            try:
+                s = socket.create_connection((self.host, self.port), timeout=5)
+            except OSError:
+                time.sleep(2)
+                continue
+            s.settimeout(1.0)
+            buf = b""
+            try:
+                while not self._stop:
+                    try:
+                        chunk = s.recv(4096)
+                    except socket.timeout:
+                        continue
+                    except OSError:
+                        break
+                    if not chunk:
+                        break
+                    buf += chunk
+                    while b"\n" in buf:
+                        line, buf = buf.split(b"\n", 1)
+                        if not line.strip() or not self.enabled[0]:
+                            continue
+                        try:
+                            self.printer(format_event(json.loads(line.decode("utf-8"))))
+                        except ValueError:
+                            pass
+            finally:
+                s.close()
+            if not self._stop:
+                time.sleep(2)  # the daemon may be restarting -- reconnect
+
+
+def _basic_repl(host: str, port: int) -> int:
+    """Fallback REPL (no tail) when prompt_toolkit is unavailable."""
+    print("cricket-ctl -> %s:%d  (no tail; install prompt_toolkit for the live view)" % (host, port))
     while True:
         try:
             line = input("cricket> ").strip()
@@ -36,9 +99,8 @@ def repl(host: str = "127.0.0.1", port: int = 4250) -> int:
         if line in ("quit", "exit"):
             break
         parts = line.split()
-        name, args = parts[0], parts[1:]
         try:
-            resp = asyncio.run(_send_one(host, port, name, args))
+            resp = _send_command(host, port, parts[0], parts[1:])
         except OSError as exc:
             print("connection error: %s" % exc)
             continue
@@ -46,4 +108,48 @@ def repl(host: str = "127.0.0.1", port: int = 4250) -> int:
             print(resp["text"])
         if not resp.get("ok"):
             print("(command reported failure)")
+    return 0
+
+
+def repl(host: str = "127.0.0.1", port: int = 4250, stream_port: int = 4252,
+         tail: bool = False) -> int:
+    try:
+        from prompt_toolkit import PromptSession
+        from prompt_toolkit.patch_stdout import patch_stdout
+    except ImportError:
+        return _basic_repl(host, port)
+
+    enabled = [bool(tail)]
+    tailer = _Tail(host, stream_port, enabled, lambda text: print(text, flush=True))
+    tailer.start()
+    session = PromptSession()
+    print("cricket-ctl -> %s:%d  (tail %s | 'tail on|off' | 'quit')"
+          % (host, port, "ON" if enabled[0] else "off"))
+    try:
+        with patch_stdout():
+            while True:
+                try:
+                    line = session.prompt("cricket> ").strip()
+                except (EOFError, KeyboardInterrupt):
+                    break
+                if not line:
+                    continue
+                if line in ("quit", "exit"):
+                    break
+                if line in ("tail on", "tail off"):
+                    enabled[0] = (line == "tail on")
+                    print("(tail %s)" % ("on" if enabled[0] else "off"))
+                    continue
+                parts = line.split()
+                try:
+                    resp = _send_command(host, port, parts[0], parts[1:])
+                except OSError as exc:
+                    print("connection error: %s" % exc)
+                    continue
+                if resp.get("text"):
+                    print(resp["text"])
+                if not resp.get("ok"):
+                    print("(command reported failure)")
+    finally:
+        tailer.stop()
     return 0
