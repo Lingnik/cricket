@@ -241,6 +241,39 @@ class LlmPersona(Persona):
         })
         return plan
 
+    async def distill_feedback(self, feedback) -> str:
+        """Reason about OOC director feedback and return a DRY, rule-oriented standing directive
+        (meta writing guidance, never Cricket's in-character voice or opinion), or '' if the
+        feedback is only a momentary in-scene nudge. Cricket may argue the note in-fiction; the
+        directive records the writing decision regardless."""
+        lines = "\n".join("- %s: %s" % (f.get("from", "director"), f.get("text", ""))
+                          for f in (feedback or []))
+        if not lines.strip():
+            return ""
+        msgs = [
+            {"role": "system", "content":
+             "You convert out-of-character (OOC) director feedback about a roleplay character into "
+             "STANDING WRITING RULES. Output is dry, imperative meta-guidance for how the character "
+             "is written -- never in the character's voice, never the character's opinion. The "
+             "character may argue with the note in-fiction; that is irrelevant, you record the "
+             "writing decision the director made."},
+            {"role": "user", "content":
+             "During a scene, the director gave this OOC feedback about Cricket:\n%s\n\nIf it is a "
+             "standing rule worth keeping for ALL future scenes, output ONE dry imperative rule line "
+             "(e.g. \"Do not write other characters' actions or dialogue.\"). If it is only a "
+             "momentary in-scene nudge, output exactly: NONE\nOutput ONLY the rule line, or NONE."
+             % lines},
+        ]
+        try:
+            out = await self._client.complete(msgs, options={"temperature": 0.2, "num_predict": 80})
+        except Exception:
+            return ""
+        rule = (out or "").strip().strip('"').strip()
+        if not rule or rule.upper().startswith("NONE"):
+            return ""
+        self._tracer.emit({"kind": "distill", "pass": "feedback", "ledger_entry": rule, "actors": []})
+        return rule
+
     def _retrieve_memories(self, turn: Turn, trace=None) -> str:
         """Dossiers for the characters present in this scene (name-based; channel and
         room speakers are matched against known lore characters). Empty if no LoreStore.

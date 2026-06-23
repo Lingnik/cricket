@@ -11,6 +11,7 @@ remember/recall map onto the "kv" scope of the memory table.
 
 from __future__ import annotations
 
+import json
 import sqlite3
 import time
 from pathlib import Path
@@ -164,6 +165,36 @@ class MemoryStore:
         )
         row = cur.fetchone()
         return row["value"] if row is not None else None
+
+    # -- standing directives ---------------------------------------------------
+    # Dry, rule-oriented writing rules distilled from OOC feedback. Persistent (survive scenes and
+    # restarts), sourced, injected into every future pose. Masking removes one; clear masks all.
+    def save_directive(self, rule: str, source: str) -> None:
+        import hashlib
+        rule = (rule or "").strip()
+        if not rule:
+            return
+        key = hashlib.sha1(rule.lower().encode("utf-8")).hexdigest()[:16]
+        self.remember("directive", "global", key,
+                      json.dumps({"rule": rule, "source": source or "?", "ts": round(time.time(), 3)}))
+
+    def list_directives(self) -> list:
+        rows = self._conn.execute(
+            "SELECT value FROM memory WHERE scope='directive' AND masked=0 ORDER BY updated_ts"
+        ).fetchall()
+        out = []
+        for r in rows:
+            try:
+                out.append(json.loads(r["value"]))
+            except (ValueError, TypeError):
+                pass
+        return out
+
+    def clear_directives(self) -> int:
+        cur = self._conn.execute(
+            "UPDATE memory SET masked=1 WHERE scope='directive' AND masked=0")
+        self._conn.commit()
+        return cur.rowcount
 
     # -- scene memory ----------------------------------------------------------
     # A finished RP scene is summarized (by the persona) and persisted per room so the

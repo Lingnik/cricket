@@ -338,6 +338,15 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
             tag = " [favorite]" if sug.get("favored") else ""
             sline.append("- %s%s: %s" % (sug.get("from", ""), tag, sug.get("text", "")))
         mem_lines.append("\n".join(sline))
+    # Standing directives (distilled from past OOC feedback) ride at the TOP, as obey-rules.
+    store = getattr(ctx.bot, "store", None)
+    directives = (store.list_directives()
+                  if store is not None and hasattr(store, "list_directives") else [])
+    if directives:
+        dl = ["Standing director's rules (OBEY -- these govern how you are WRITTEN; they are not "
+              "in-character suggestions you may resist):"]
+        dl += ["- %s (per %s)" % (d.get("rule", ""), d.get("source", "?")) for d in directives]
+        mem_lines.insert(0, "\n".join(dl))
     for m in reversed(mem_lines):
         context.insert(0, ContextLine(speaker="memory", dbref=None, kind="emit", text=m))
     turn = Turn(
@@ -366,6 +375,18 @@ async def _trigger_rp(ctx: CommandContext, room, force_action, seed_text="") -> 
         router = getattr(ctx.bot, "router", None)
         if router is not None and hasattr(router, "_ledger_block"):
             router._ledger_block(room, queue[-1])
+    # Reason about any OOC feedback from this turn into a DRY, persistent, sourced standing rule
+    # (fire-and-forget so the pose stays responsive). Outlives the scene, unlike the one-shot nudge.
+    if suggestions and store is not None and hasattr(ctx.bot.persona, "distill_feedback"):
+        src = ", ".join(sorted({(s.get("from") or "?") for s in suggestions}))
+        fb = list(suggestions)
+
+        async def _distill_fb():
+            rule = await ctx.bot.persona.distill_feedback(fb)
+            if rule:
+                store.save_directive(rule, src)
+
+        asyncio.ensure_future(_distill_fb())
     ctx.bot.scene_queues[room] = []
     if hasattr(ctx.bot, "suggestions"):
         ctx.bot.suggestions[room] = []  # nudges consumed by this pose
@@ -521,6 +542,23 @@ async def cmd_prompt(ctx: CommandContext, args: list) -> None:
     ctx.reply("\n".join(parts))
 
 
+async def cmd_rules(ctx: CommandContext, args: list) -> None:
+    """View or clear the standing director rules distilled from OOC feedback."""
+    store = getattr(ctx.bot, "store", None)
+    if store is None or not hasattr(store, "list_directives"):
+        ctx.reply("no directive store.")
+        return
+    if args and args[0] == "clear":
+        ctx.reply("cleared %d standing directive(s)." % store.clear_directives())
+        return
+    ds = store.list_directives()
+    if not ds:
+        ctx.reply("no standing directives.")
+        return
+    ctx.reply("Standing directives (from OOC feedback):\n"
+              + "\n".join("  - %s  (per %s)" % (d.get("rule", ""), d.get("source", "?")) for d in ds))
+
+
 def _directives_for(bot, location):
     cfg = getattr(bot, "locations", {}).get(location)
     return cfg.directives if cfg is not None else ""
@@ -547,6 +585,8 @@ def register_builtins(registry) -> None:
     registry.register(Command("reload", Level.OPERATOR, cmd_reload, "reload config"))
     registry.register(Command("prompt", Level.OPERATOR, cmd_prompt,
                               "prompt [n|list] -- view the raw LLM prompt for a recent generation"))
+    registry.register(Command("rules", Level.OPERATOR, cmd_rules,
+                              "rules [clear] -- standing director rules distilled from OOC feedback"))
     registry.register(Command("restart", Level.OPERATOR, cmd_restart, "restart the worker (exit 42; supervisor respawns with fresh code)"))
     registry.register(Command("say", Level.ADMIN, cmd_say, "say <location> <text>"))
     registry.register(Command("rp", Level.ADMIN, cmd_rp, "rp on|off [room]"))
