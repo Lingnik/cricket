@@ -107,13 +107,15 @@ def _clean_output(text: str, mode: str) -> str:
         t = t.replace("*", "")  # any stray unmatched asterisk
         t = re.sub(r"\s{2,}", " ", t).strip()
         t = re.sub(r"\s+([.!?,;:])", r"\1", t)  # no space before punctuation
-    # Truncation guard: RP-tune poses run long and get clipped at the token cap mid-sentence. If
-    # the text does not already end cleanly AND quotes are balanced (an odd count means we were cut
-    # mid-dialogue -- the quote-balancer below closes that instead), trim to the last full sentence.
-    if t and t[-1] not in '.!?"' and t.count('"') % 2 == 0:
-        ends = list(re.finditer(r'[.!?]"?(?=\s|$)', t))
+    # Truncation guard: poses clipped at the token cap end mid-sentence. Trim back to the last
+    # complete sentence -- UNLESS that would strip away the pose's only spoken line (a required
+    # element), in which case keep the dialogue and let the quote-balancer below close it.
+    if t and t[-1] not in '.!?"':
+        ends = list(re.finditer(r'[.!?]+"?(?=\s|$)', t))
         if ends:
-            t = t[:ends[-1].end()].rstrip()
+            trimmed = t[:ends[-1].end()].rstrip()
+            if '"' in trimmed or '"' not in t:
+                t = trimmed
     # Channel speech renders as `Cricket says, "..."`; a wrapping quote pair would nest.
     if mode != "rp" and len(t) >= 2 and t[0] == '"' and t[-1] == '"':
         t = t[1:-1].strip()
