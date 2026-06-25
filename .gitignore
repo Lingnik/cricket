@@ -30,3 +30,9 @@ config.toml
 /data/finetune/train_full.jsonl
 # Scratch registry from the live-scene driver.
 /data/_scene_reg.json
+
+# Cloud runner: instance state, private key, and local archives -- never commit.
+/cloud/.state.json
+/cloud/*.pem
+/cloud/_artifacts/
+/cloud/_payload/
