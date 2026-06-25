@@ -161,9 +161,15 @@ assembler). 70,586 attributed poses.
    and frees the GPU (eval during training OOMs at 24 GB): base vs tuned on a
    held-out scene, check `<pose char>` contract + impersonation vs the smoke.
    `checkpoint-198` = epoch 1, preserved for an epoch-1-vs-epoch-2 compare.
-3. Build the FULL-corpus training set: point `build_finetune.py` at
-   `data/dataset_full/_assembled` (1,220 logs, 70k poses) instead of `data/dataset2`,
-   derive `present` cast from pose actors (assembled meta lacks a `characters` key),
-   use the `_labeled` title. Then the full training run.
+3. DONE/RUNNING: full-corpus training. `tools/build_finetune_full.py` walks all
+   1,220 `_assembled` logs (74,259 poses / 1,573 actors), synthesizes meta (title from
+   `_labeled`, `present` cast from pose actors), and applies a BALANCING CURRICULUM --
+   raw 74k is ~100h/epoch AND imbalanced (Jessalyn 4,315 ... Cricket only 52). Caps:
+   profiled actors 120 each, tail 10 each, Cricket upweighted to the profiled cap.
+   At 120/10 = 18,271 samples (8,019 profiled). Trainer is now env-configurable:
+   `TRAIN_FILE` / `OUT_DIR` / `EPOCHS` / `SAVE_STRATEGY` / `SAVE_STEPS`. Launched as
+   `TRAIN_FILE=train_full.jsonl OUT_DIR=...lunaris-rp-full-lora EPOCHS=1
+   SAVE_STRATEGY=steps SAVE_STEPS=400` (~2,283 steps, ~27h, checkpoints every 400).
+   Eval the result the same way as the 12x (set `ADAPTER=...lunaris-rp-full-lora`).
 4. Open: Blackwell/4-bit research (a prompt was drafted for deep research) to
    enable a 12B Rocinante/Nemo (128k) base — bf16 12B won't fit 24 GB training.

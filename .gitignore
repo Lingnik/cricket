@@ -26,5 +26,7 @@ config.toml
 /data/dataset_full/_render/
 # Assembled turn-level JSONL is regenerable from _labeled maps + pages via rplog_assemble.
 /data/dataset_full/_assembled/
+# Full-corpus training set (~149 MB) is regenerable via build_finetune_full.py.
+/data/finetune/train_full.jsonl
 # Scratch registry from the live-scene driver.
 /data/_scene_reg.json
