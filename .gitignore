@@ -20,8 +20,8 @@ config.toml
 
 # Fine-tune LoRA adapters + checkpoints are multi-GB binaries -- keep local, not in git.
 /data/finetune/*-lora/
-# MUSH DB dumps contain player PII (emails in finger.*) and are re-fetchable over SSH.
-/knowledge/sources/mush-dump/
+# MUSH DB dumps: finger.* had player contact PII (email/im/url) -- now redacted to
+# [redacted] placeholders, so the dumps are committed. Re-fetchable over SSH if needed.
 # Line-numbered render inputs are regenerable via `rplog_to_jsonl.py --render`.
 /data/dataset_full/_render/
 # Assembled turn-level JSONL is regenerable from _labeled maps + pages via rplog_assemble.
