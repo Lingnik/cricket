@@ -28,9 +28,9 @@ def _load(name, path):
 
 bf = _load("bf", "build_finetune.py")
 px = _load("px", "pose_xml.py")
-bf.INPUT_BUDGET = 3300                                  # match the training window
+bf.INPUT_BUDGET = 2100                                  # match the 12x training window
 BASE = open(os.path.join(_ROOT, "data", "finetune", "base_path.txt")).read().strip()
-ADAPTER = os.path.join(_ROOT, "data", "finetune", "lunaris-cricket-xml-lora")
+ADAPTER = os.environ.get("ADAPTER") or os.path.join(_ROOT, "data", "finetune", "lunaris-rp-12x-lora")
 
 
 def make_prompt(log, idx):
@@ -51,7 +51,8 @@ def main():
     tok.pad_token = tok.pad_token or tok.eos_token
     model = AutoModelForCausalLM.from_pretrained(BASE, torch_dtype=torch.bfloat16, device_map="cuda")
     model.eval()
-    ids = tok.apply_chat_template(msgs, add_generation_prompt=True, return_tensors="pt").to("cuda")
+    enc = tok.apply_chat_template(msgs, add_generation_prompt=True, return_tensors="pt")
+    ids = (enc["input_ids"] if hasattr(enc, "keys") else enc).to("cuda")
 
     def gen():
         with torch.no_grad():
