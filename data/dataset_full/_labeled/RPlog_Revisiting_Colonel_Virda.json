@@ -1,0 +1,391 @@
+{
+ "name": "RPlog_Revisiting_Colonel_Virda",
+ "title": "Revisiting Colonel Virda",
+ "summary": "In the Colonel's office at CorSec Station 17 in Coronet City during the Imperial occupation of Corellia, the on-edge Twila chafes under the COMPNOR and ISB officials breathing down her neck since the lockdown began. The station, nominally CorSec but in truth run by ISB and CompForce muscle, becomes the stage for a tense encounter as the Sith Lord Malign, going by Tyler, arrives with the officer Korynn and Pen. The cold machinery of Imperial control looms over the proceedings as the players navigate the occupied station's dangerous politics.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Pen",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Pen",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Twila",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Twila",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Twila",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  }
+ ]
+}

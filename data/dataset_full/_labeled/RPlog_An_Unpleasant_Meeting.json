@@ -1,0 +1,133 @@
+{
+  "name": "RPlog_An_Unpleasant_Meeting",
+  "title": "An Unpleasant Meeting",
+  "summary": "After days of silence, the grieving Twi'lek Twila summons the most senior members of the corporation aboard the Diligence, where the gruff medic Xar'on and the impassive Tak Dagon arrive to learn what has happened. Looking haggard, Twila plays a holorecording showing the lone, forlorn figure of Gren Delede standing on the empty bridge of the Eternal Vigilance -- a revelation that sends Xar'on into a furious outburst. As the men absorb the loss, Twila pleads with Dagon not to leave and collapses into Xar'on's arms. The three resolve to press forward together, agreeing to approach the New Republic as a united front and to oversee the rebuilding of their organization, including securing a new flagship. Twila, who has lost not just a boss but a husband, draws her two comrades close, and the difficult meeting ends with grudging solidarity and a lingering, grateful embrace.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Dagon",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Twila",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Dagon",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Twila",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Dagon",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Twila",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Dagon",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Twila",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Dagon",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Twila",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Dagon",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Twila",
+      "b": false
+    }
+  ]
+}

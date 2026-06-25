@@ -1,0 +1,115 @@
+{
+  "name": "RPlog_An_Interview_with_a_Spy",
+  "title": "An Interview with a Spy",
+  "summary": "At the vast Kreldin Estate on martial-law Corellia, the Chiss intelligence operative Cetolum arrives under the pretext of a routine welfare check on Imperial Sovereign Protector Danik Kreldin, while Tesera Kreldin slumbers away in stasis elsewhere on the grounds. Cetolum is secretly investigating a suspected plot to overthrow the Imperial government and begins piecing together that Danik may be operating under the dead-man alias \"Alois.\" Over brandy in Danik's study, the two fence verbally: Cetolum probes about security needs and rumored conspiracies while Danik, fully aware of what the spy is fishing for, plays clueless and insists everything is satisfactory. Danik recognizes Cetolum as a former undercover intelligence agent, adding a layer of mutual wariness to their polite exchange. The interview ends inconclusively, with Cetolum agreeing all is well and departing no closer to open confrontation but with his suspicions confirmed.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Cetolum",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

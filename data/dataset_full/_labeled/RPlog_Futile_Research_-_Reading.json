@@ -1,0 +1,499 @@
+{
+ "name": "RPlog_Futile_Research_-_Reading",
+ "title": "Futile Research: A Stranger on the Bench",
+ "summary": "Sitting outside in the Parliamentary District reading her datapad, the refugee girl Arise is approached by Valkyr, a winged, sword-bearing woman from the Rim world of Azuria, who strikes up a friendly conversation about open air, schooling, and self-reliance. Valkyr offers to teach Arise hand-to-hand self-defense, as her people do at the start of apprenticeships, though Arise -- a ward of the Republic bound by the rules of Social Services -- frets that it may not be allowed. The mysterious nobleman Malif briefly interrupts to admire Valkyr's wings and inquire after her species before departing. Valkyr encourages Arise to view her studies and even mock-governance as practice for one day affecting real change, citing Master Luke as a leader who teaches by example. Arise warily warms to the woman, takes down her full name, Valkyr Tenebre, and promises to seek permission for lessons, ending the talk hopeful that something better may be coming.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "desc",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "desc",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  }
+ ]
+}

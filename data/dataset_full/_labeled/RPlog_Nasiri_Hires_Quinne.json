@@ -1,0 +1,121 @@
+{
+ "name": "RPlog_Nasiri_Hires_Quinne",
+ "title": "Nasiri Hires Quinne",
+ "summary": "In the lively Black Nebula pub aboard the Nyriaan Spiral, the Falleen crime lord Nasiri seeks out the Zeltron entertainer Quinne, the beating heart of the dance floor, and draws her to a private table. Over drinks beneath a mirrored surveillance dome, Nasiri offers her a glamorous job singing and throwing parties aboard his ship, with a private luxury suite and access to his own quarters, while frankly warning her that he moves in illicit circles. Delighted at the prospect of trading dive bars for the life of a pampered 'palace princess,' Quinne accepts, choosing a garden-view suite and eagerly asking when she can begin. Nasiri welcomes her aboard, inviting her to audition the resident talent for her band.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Quinne",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "name": "RPlog_New_Blood_in_the_Ministry",
+ "title": "New Blood in the Ministry",
+ "summary": "A rare full session of the Defence Council convenes amid dark times, where the newly seated Twi'lek Senator Alistair Al'Dira is welcomed and invited to speak. Demanding answers and accountability for the Republic's recent failures and retreats, Al'Dira spars with the Bothan former Chief of State Peshk Vry'lya, who argues that the military's troubles stem not from the Republic itself but from politicians and officers grown bloated with greed. The Chairman keeps order as the two trade pointed political views, the young senator establishing himself as a forceful new voice in the ministry.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Peshk",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Peshk",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Peshk",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Peshk",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Peshk",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Peshk",
+   "b": false
+  }
+ ]
+}

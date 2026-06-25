@@ -1,0 +1,103 @@
+{
+ "name": "RPlog_Random_Act_of_Unprovoked_Kindness",
+ "title": "A Random Act of Unprovoked Kindness",
+ "summary": "In the brig aboard the Star Destroyer Reprisal, the blinded Jedi Brandis Finian is escorted in to confront his Imperial captor, the doctor and Captain Lynae Cassius. Grim and barely controlling his temper, Brandis identifies Lynae by senses alone and abruptly slaps her hard across the face -- only to then have the marine guard secure her so he can use the Force to heal the very injury he caused, along with old wounds. Lynae endures the uncomfortable mending of bone with cold, impassive composure, trading wry barbs with the Jedi who expected more gratitude. The strange, prickly encounter blends violence and an unbidden act of healing between enemies.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  }
+ ]
+}

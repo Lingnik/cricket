@@ -1,0 +1,409 @@
+{
+  "name": "RPlog_A_Friendly_Drink",
+  "title": "A Friendly Drink",
+  "summary": "In the fog-wrapped Cat's Claw Cantina on Ord Mantell, a casual round of drinks brings together a shifting cast of New Republic personnel and travelers. Inanna, the Bith doctor Kesander, and the armored Sarray trade news about Nar Shaddaa and the death of the Hutt Grubba, while the aloof, guarded dark-haired woman Lynae draws wary attention as she enters. The newbie pilot Drake and the comic-relief Ohao drift through the room as the Chyleni Major and doctor Kyrin Sh'vani arrives to gather her junior pilots. Once the others disperse, Lynae and Kyrin settle into a frank, deepening conversation about exile, life debts, and the new Emperor's troubling leanings -- a discussion that edges into talk of treason and the impossibility of a peace either side will accept. The two women, both unable to go home, find a guarded kinship as they reflect on the pieces of themselves lost to an endless war.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Drake",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Drake",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Drake",
+      "b": true
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Drake",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Drake",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Drake",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": true
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": true
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    }
+  ]
+}

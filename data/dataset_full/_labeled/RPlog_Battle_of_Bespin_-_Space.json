@@ -1,0 +1,151 @@
+{
+  "name": "RPlog_Battle_of_Bespin_-_Space",
+  "title": "Battle of Bespin -- Space",
+  "summary": "Shortly after the attack on Varonat, the New Republic's main force jumps into the Bespin system and broadcasts an ultimatum demanding the long-entrenched Imperial occupiers surrender. The Republic commander Rasi frowns at sensor readings showing the Imperials outnumbering his force roughly three to one, led by a seasoned veteran. Rogue Squadron, with the newly promoted Captain Lance \"Wildman\" Corbet, the cocky Crash \"Speed\" Thomas, and the pilot Dante (Chance) among them, forms up and makes its attack run into the swarm of TIEs. The dogfight erupts in a flurry of missiles, premature detonations, and shield-rattling laser exchanges, with the Imperial ace Leo angling to cross paths with the Rogue Leader and Dante recognizing Lance's flying style mid-battle. Despite the Imperial numbers, the Republic's sudden, swift strike achieves its true objective -- seizing the tibanna gas they came for -- and the raid succeeds.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Lance",
+      "b": true
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Crash",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Crash",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Leo",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Lance",
+      "b": true
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Crash",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Leo",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

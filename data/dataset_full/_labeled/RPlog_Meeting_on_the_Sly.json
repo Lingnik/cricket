@@ -1,0 +1,1087 @@
+{
+ "name": "RPlog_Meeting_on_the_Sly",
+ "title": "A Meeting on the Sly",
+ "summary": "At the New Republic Embassy on Caspar, Ambassador Ambrosia Delgard quietly receives the cloaked vice-president of the Caspian Union, Cordelia, for an off-the-books meeting. As Delgard leads her guest through the embassy's grand halls to a secure room, the two diplomats spar with veiled courtesy over the relief supplies the Republic has promised but not delivered, and over the Imperial blockade that has waylaid Caspian-funded freighters. Cordelia, weary and frustrated, lets her diplomatic mask slip and snaps at the ambassador before apologizing, while Delgard explains the Republic's quiet strategy of using independent pilots to slip aid past the Empire. The clandestine conversation lays bare the precarious squeeze the Caspians face between the two great powers.",
+ "rows": [
+  {
+   "line": 11,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Cordelia",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Delgard",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

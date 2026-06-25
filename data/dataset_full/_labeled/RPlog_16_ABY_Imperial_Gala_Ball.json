@@ -1,0 +1,625 @@
+{
+  "name": "RPlog_16_ABY_Imperial_Gala_Ball",
+  "title": "16 ABY: Imperial Gala Ball",
+  "summary": "The Imperial Gala moves into the grand ballroom of the Coruscant museum, where officers and dignitaries pair off for dancing and conversation beneath the chandeliers. Flight Officer Liza Molokai trades dry banter with the perpetually uncomfortable ISB Agent Dreven, while the squadronmate Odion and the late-arriving Solon Halwinder drift along the margins. Marshal Krieg coaxes the reluctant Jeni -- under her Shael persona -- onto the floor, and the courtly Xy'lear strikes up a charming rapport with the Corporate Sector visitor Inaya near the buffet. Meanwhile the Sith Warlord Davyd arrives on the arm of the former Admiral Petra, Squadron Leader Dante mingles with the urbane Malif, and Warlord Korolov takes his seat at the head table as red-armored Royal Guardsmen file in. The evening unfolds as a tapestry of dances, polite deflections, veiled flirtations, and gracious farewells as the guests gradually pair away across the vast ballroom.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Solon",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": true
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Solon",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": true
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": true
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Liza",
+      "b": true
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Petra",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": true
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Liza",
+      "b": true
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Petra",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Malif",
+      "b": true
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Petra",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Petra",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Petra",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": true
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": true
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Inaya",
+      "b": false
+    }
+  ]
+}

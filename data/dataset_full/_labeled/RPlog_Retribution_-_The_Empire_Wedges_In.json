@@ -1,0 +1,805 @@
+{
+ "name": "RPlog_Retribution_-_The_Empire_Wedges_In",
+ "title": "Retribution: The Empire Wedges In",
+ "summary": "Aboard the Imperial Star Destroyer Broadsword, Captain Caiton and Lt. Nelhrn review the battle plan for the fight over Coruscant, with Caiton highlighting the New Republic flagship Reprisal as the main target. Her officer Keline studies the screen and pledges to carry out her orders. As the Empire presses its advantage and wedges deeper into the Republic's defensive lines, the log captures the cold, methodical Imperial command coordinating the next phase of the battle of retribution.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "name": "RPlog_Palace_Business_part_2",
+ "title": "Palace Business (Part 2)",
+ "summary": "Continuing the Hutt Palace gathering on Nar Shaddaa, the majordomo Ewan Dain concludes his costly delivery deal with the wry Quarren Krel while the Twi'lek bookkeeper Ayaka, the smuggler captain Del, and the redheaded Kaitlin debate Ayaka's future. Del bluntly warns Ayaka away from the seedy Hutt's-palace world and Nar Shaddaa in general, urging her to take a legitimate job if it comes, while a loyal Ayaka insists on saying 'we,' valuing Del's past kindness. Dain belatedly introduces the wealthy Krel to the women just as Del prepares to leave, the scene weaving deal-making, friendship, and the push-and-pull over honest work amid the palace's shady bustle.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Dain",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Dain",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Krel",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

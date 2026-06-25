@@ -1,0 +1,859 @@
+{
+  "name": "RPlog_16_ABY_Imperial_Gala_Awards",
+  "title": "16 ABY: Imperial Gala Awards Ceremony",
+  "summary": "In the grand ballroom of the Imperial Museum on Coruscant, Marshal Krieg Inrokana hosts the awards ceremony for Task Force Inquisitor, introducing the visiting Admiral Rall before presenting decorations to assembled officers. One by one Krieg calls up recipients -- Flight Officer Liza Molokai, Squadron Leader Alex Dante, ISB Sergeant Dreven Mecurio, and the stormtrooper TK-4455 -- pinning medals as guests including Jeni, Lokus Arbin, Shael, and the late-arriving Odion applaud from their tables. The commanding Admiral Jal'Dana then takes the stage to deliver a pointed speech on Imperial strength, deception, and ideals, drawing a standing ovation while the Grand Vizier Korolov and the Sith Warlord Davyd move quietly through the crowd. As the formalities wind down, the gathering dissolves into mingling and verbal sparring: Dante and Odion trade philosophy about ambition and flying, Lokus probes Jal'Dana and Davyd with flattery that earns sharp rebukes, and Dreven broods over his unwanted decorations. The evening closes on a web of veiled threats and courtly intrigue, capped by Jal'Dana's parting aphorism that a man is never more truthful than when he admits he is a liar.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Stormtrooper",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Stormtrooper",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Rall",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": true
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Stormtrooper",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": true
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": true
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Odion",
+      "b": true
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 319,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Dante",
+      "b": true
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Odion",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 370,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "pose",
+      "actor": "Dante",
+      "b": true
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 376,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 379,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 382,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 390,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 396,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": true
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Lokus",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": true
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    }
+  ]
+}

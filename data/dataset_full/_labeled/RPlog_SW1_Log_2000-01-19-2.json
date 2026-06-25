@@ -1,0 +1,235 @@
+{
+ "name": "RPlog_SW1_Log_2000-01-19-2",
+ "title": "A Name Overheard on the Spaceport",
+ "summary": "On a Coruscant spaceport pad, the bounty hunter Devon Striker and his associate Moira wait with mounting frustration beside their ship Relentless, having received a cold reception from the New Republic while seeking an audience with Luke Skywalker. Nearby, the diplomatic pilot Bazil McKenzie argues over his comlink, loudly demanding that someone fetch Skywalker on behalf of Representative Dawntreader. Devon overhears the famous name and, prompted by Moira's uncanny intuition, locks onto Bazil as the source. As Bazil mutters and wrangles with his unhelpful contacts, Moira confirms the connection, leaving Devon astonished at how she sensed it from the air, and the pair watch the pilot intently.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Moira",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Moira",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Moira",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Moira",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Moira",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Devon Striker",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

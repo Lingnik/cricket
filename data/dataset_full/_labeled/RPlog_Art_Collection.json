@@ -1,0 +1,187 @@
+{
+  "name": "RPlog_Art_Collection",
+  "title": "Art Collection",
+  "summary": "In the Admiral's cargo hold aboard the Interdictor cruiser Leviathan -- repurposed as a gallery for the Presav Crestian's art collection -- Crestian convenes with the Councillor Zubindi and the model-turned-intelligence-asset Nara for a second opinion on which pieces to loan to the new cadracak museum opening. The three banter warmly as Crestian explains the Xi Charrian view of their war-machines as glimpses of perfection and weighs lending the Mandalorian paintings and Wookiee totems against something tranquil and peaceful. Nara teases Crestian about claiming a Wookiee affinity just to avoid shaving, while Zubindi notes the gifts to keep in mind for her. They discuss the merits of anonymous donation, the diplomatic value of a ruler sharing a large art collection, and Nara's own modest finances. The relaxed, affectionate exchange ends with Crestian gratified that so many have come to see the splendor of Charros and Xi Charrian society through his loaned art.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Nara",
+      "b": true
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Zubindi",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Zubindi",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Zubindi",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Nara",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+ "name": "RPlog_Promotion_to_Wing_Commander",
+ "title": "Promotion to Wing Commander",
+ "summary": "In his office aboard the Star Destroyer Inquisitor, Marshal Krieg Inrokana summons his squadron leader Alex Dante to discuss the damage done to her fighter and, to her surprise, promotes her to Wing Commander. Citing security, the devious-smiling Krieg declines to reveal the operation ahead, swearing her to discretion. The composed, normally even-tempered Dante accepts the promotion with solemn professionalism, shaking her commander's hand before being dispatched to coordinate with Commander Mandor and see to her new duties. The brief, formal scene marks Dante's elevation within Task Force Inquisition.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  }
+ ]
+}

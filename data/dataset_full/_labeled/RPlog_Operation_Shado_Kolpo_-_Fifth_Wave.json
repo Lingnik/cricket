@@ -1,0 +1,739 @@
+{
+ "name": "RPlog_Operation_Shado_Kolpo_-_Fifth_Wave",
+ "title": "Operation Shado Kolpo: Fifth Wave",
+ "summary": "Aboard the Imperial Star Destroyer Broadsword, Captain Caiton and Count Diaglo grimly vow to reclaim and cleanse Caiton's family homeworld as the ISB-informed Imperial fleet sets its blockade to crush the New Republic's attempt to run freighters into besieged Coruscant. The Republic escort force, with Lt. Krieg Inrokana's War Shrikes and pilots like Aramis, Alex, Keline, and Allerdyce, drives toward the gap, but the trap closes around them. In the ensuing carnage the leading carrack Admiral Rishar is crippled and its commander sounds a doomed retreat, the freighters mangled and destroyed. With the operation broken, the agent Jal'Dana reports the Republic's failure to her Lord, and the Imperial battle group tightens its noose around Coruscant.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Allerdyce",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Allerdyce",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Allerdyce",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

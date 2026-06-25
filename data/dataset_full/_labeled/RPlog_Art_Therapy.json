@@ -1,0 +1,169 @@
+{
+  "name": "RPlog_Art_Therapy",
+  "title": "Art Therapy",
+  "summary": "In the nearly empty Xi Charrian art gallery on Charros IV, closed under the pretext of maintenance, the Presav Crestian and the politician Johanna meet privately amid the off-world art. Crestian muses that in another life he might have been happy without politics, while the blunt, self-deprecating Johanna admits she understands none of the art and could be told any nonsense about it. Their banter gives way to weighty matters of state: the threat posed by Skawn's madness, the suspicion that hostile forces engineered a recent escape -- the persistent gap in their intelligence -- and the destructive aims of enemies who care nothing for the Imperium or power, only smashing what others have built. Crestian speaks with quiet purpose about protecting the children, Sonja, Kipran and the rest, and what he and Johanna have truly built together. Johanna, haunted by thoughts of Lynae and Malus, concedes she does not want war despite her title but agrees they must be ready, as Crestian grimly acknowledges his own holdings may be the next targets on the map.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "name": "RPlog_16_ABY_Imperial_Gala_Celebration",
+  "title": "16 ABY: Imperial Gala Celebration",
+  "summary": "The Imperial Museum on Coruscant reopens with a lavish gala celebration, its halls dominated by displays of captured TIE fighters and exhibits recounting recent battles. Imperial guests arrive and mingle: the feared Sith Warlord Davyd, the pilots Dante and Liza Molokai, ISB Agent Dorian Navtilos, the showy Sharidan with her hoverdrones, the watchful Sullustan Jedi Enb'Zik working undercover, the freighter captain Via, and the reluctant Jeni -- who attends under her alias Shael. Marshal Krieg and an INN reporter circulate among the crowd while Dorian strikes up a flirtatious rapport with the woman Dariza, and Dante fields questions about her squadron. Beneath the glittering surface, security runs tight and intelligence threads simmer, including the conspicuous absence of Korynn Fleming from Task Force Inquisitor. As staffers announce the move into the ballroom, the celebration sets the stage for the festivities to continue.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": true
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": true
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

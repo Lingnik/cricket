@@ -1,0 +1,109 @@
+{
+  "name": "RPlog_An_Unscrupulous_Undertaking_Recruiting",
+  "title": "An Unscrupulous Undertaking: Recruiting",
+  "summary": "In a crowded Nar Shaddaa thoroughfare, the agent Elias deliberately picks a fight with a hulking Gran enforcer named Sorba's thug, drawing a crowd and the attention of the mercenary Nastaran Zohreh lurking in the shadows. Reading the staged brawl as an open contract, Nastaran announces she accepts a 200-credit offer and joins the fray, only to have her wrist wrenched and her vibroblade torn away by the Gran. Forced to escalate, she sets her blaster to stun and fires -- but the shot inexplicably blows a smoldering hole clean through the enforcer's chest, killing him, as Elias quietly holsters his own weapon, revealing he made the real kill. Nastaran curses the messy outcome, takes her money, and grudgingly gives her name. Elias introduces himself, praises her fire, and recruits her despite her irritation that he could have simply hired her without the elaborate test, and she stalks off.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Elias",
+      "b": true
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Elias",
+      "b": true
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Nastaran",
+      "b": false
+    }
+  ]
+}

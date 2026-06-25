@@ -1,0 +1,169 @@
+{
+ "name": "RPlog_Much_Too_Frightened_to_Tease_a_Padawan",
+ "title": "Much Too Frightened to Tease a Padawan",
+ "summary": "Seeking respite from the Basilica and the news of battle, the Jedi Ai'kani Za'netra wanders into the lightless depths of Coruscant's Abyssal Ruins, drawn by a message delivered through a hobbling old woman. There the unbalanced Twi'lek Tyy'sun, hidden in the dark, taunts her with mocking proclamations and stages a confrontation, sending youths to rob her of her credits and robes at blasterpoint. Ai'kani calmly turns aside their fumbling attack, controlling one boy's arm rather than harming him and absorbing a blow rather than injure the young. Tyy'sun reveals himself to gloat over her, and Ai'kani, pained but unbroken, makes her way back out of the ruins toward the light above.",
+ "rows": [
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  }
+ ]
+}

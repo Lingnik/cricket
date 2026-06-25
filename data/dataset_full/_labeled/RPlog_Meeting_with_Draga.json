@@ -1,0 +1,157 @@
+{
+ "name": "RPlog_Meeting_with_Draga",
+ "title": "A Meeting with Draga the Hutt",
+ "summary": "In the sweltering audience chamber of Draga the Hutt's palace, the smooth-talking Baron Smitherbodkins arrives with his valet J'Eeves to pay his respects and curry favor. Lavishing flattery on the Hutt, Smitherbodkins presents a gift of a crystal snacquarium stocked with living delicacies, which delights Draga immensely. The Baron uses the goodwill to extend an invitation for Draga to be the guest of honor at a grand party he is planning, and J'Eeves discreetly delivers the formal invitation to the Hutt's majordomo. Pleased with his successful overture, Smitherbodkins takes his leave to see to the elaborate preparations.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Draga",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Draga",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Draga",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

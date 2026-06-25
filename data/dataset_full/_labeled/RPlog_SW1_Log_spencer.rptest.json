@@ -1,0 +1,13 @@
+{
+ "name": "RPlog_SW1_Log_spencer.rptest",
+ "title": "Redirect Page",
+ "summary": "A wiki redirect placeholder pointing to the Spencer RP Test log.",
+ "rows": [
+  {
+   "line": 8,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

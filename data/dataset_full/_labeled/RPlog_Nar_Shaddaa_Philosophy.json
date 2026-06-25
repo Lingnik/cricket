@@ -1,0 +1,259 @@
+{
+ "name": "RPlog_Nar_Shaddaa_Philosophy",
+ "title": "Nar Shaddaa Philosophy",
+ "summary": "At the Side Deck, one of the few Nar Shaddaa establishments untouched by the moon's conflict, the towering Vaathkree bartender Seyyid serves the gruff, low-profile insurgent Tritus a bottle of cheap Corellian whisky. Watching a race on the screen, the two fall into a wry, escalating philosophical debate about war, population control, and whether conflict is meaningfully distinct from a planned killing. Seyyid, with reverent talk of the natural order and the rule of the strong, spars verbally with the blunt, fatalistic Tritus over reason, consequence, and emotional meaning. The barbed exchange ends as a draw, each suspecting the other of doing the very thing he accuses, as Tritus drains his bottle.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Seyyid",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  }
+ ]
+}

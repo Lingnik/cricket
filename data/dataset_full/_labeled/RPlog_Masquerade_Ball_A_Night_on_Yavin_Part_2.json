@@ -1,0 +1,475 @@
+{
+ "name": "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_2",
+ "title": "Masquerade Ball: A Night on Yavin (Part 2)",
+ "summary": "The tropical masquerade aboard the Angry Rancor continues in full swing as Inanna dances with the totem-headed Ramyxth and her sister Sel returns to the stage with island songs. Ka'una conspires with the costumed pirate Juran, who has arrived in a ridiculous Piranha-Beetle helmet, to nudge attention toward the dancing pair. New guests slip in, including the quiet, orange-clad Lepidoptera, the blue-winged Kyrin Sh'vani, Shael in a borrowed blue dress, and a soft-spoken Rebel pilot whose voice eerily resembles Luke Skywalker. The mingling, drinking, and good-natured ribbing build the festive atmosphere as more masked identities begin to be guessed at.",
+ "rows": [
+  {
+   "line": 8,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Plays",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Plays",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Sel",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

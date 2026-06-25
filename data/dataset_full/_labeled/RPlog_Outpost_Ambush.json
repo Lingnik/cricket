@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Outpost_Ambush",
+ "title": "Outpost Ambush",
+ "summary": "On a quiet patrol, the Imperial TIE pilots Fortune and Jonas are ambushed by a New Republic Ghost Squadron flight escorting a B-wing on a mission to destroy an Imperial sensor drone. Jonas, grinning, locks into a grueling dogfight with a familiar foe, the Zabrak flying Ghost 8, the two evenly matched pilots trading fire, rolls, and missiles across the void. While the duel rages, the Republic's strategy succeeds: the B-wing Dagger 3 slips through to pound the sensor drone until it erupts in flame and breaks apart. With the mission accomplished and the rebel flight ordered to withdraw, a frustrated Jonas gives chase too hastily, failing to notice the danger as the engagement winds down.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Fortune",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Ghost",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Ghost",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ghost",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jonas",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

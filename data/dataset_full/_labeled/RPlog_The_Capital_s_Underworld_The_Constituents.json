@@ -1,0 +1,535 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_The_Constituents",
+  "title": "The Constituents",
+  "summary": "Senator Tokoga slips away to Organa Park for a quiet meeting with Ord Mantell's Senator Ivanil Sandomere, who fears the pair were set up amid the corruption scandal engulfing their offices. The medic Myiari and the news-obsessed Johanna join them before Sandomere departs, but the conversation is interrupted when two cloaked, armored Quarren emerge from the woods and trap Tokoga and Myiari, accusing the senator of betraying his people by embezzling funds into a secret account in his cousin's name. Tokoga insists the funds were a charitable trust for victims of the Civil War and that he is being framed by Nass, while Myiari nearly draws her blaster in his defense. A lost Sluissi pilot, Shane, stumbles into the standoff and tries to defuse it, claiming Republic authority and suggesting the hot-headed Quarren may himself be Nass's plant. In the end the Quarren leader gives Tokoga one week to prove his innocence before they vanish back into the woods, leaving the threat of death hanging over him.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Quarren",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

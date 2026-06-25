@@ -1,0 +1,151 @@
+{
+  "name": "RPlog_A_Vision_of_Hope",
+  "title": "A Vision of Hope",
+  "summary": "Summoned to a quiet military hangar at Starport 115 on Coruscant, the Jedi Master Luke Skywalker meets the technician Mitali, who has something to show him aboard the mangled cockpit of a downed fighter, Ghost 4. Mitali leads Luke up a ladder to the wreckage, and Luke, intrigued, reaches out through the Force to read what happened to the missing pilot. Resting his hands on the scorched fuselage, Luke senses that she ejected before the crash, but as he probes further he is met with frustration and an exclamation of dismay -- the trail goes cold. Mitali suggests finding the pilot's droid, but Luke explains the droid stayed with the ship rather than ejecting with her, so it would reveal nothing new. Luke reassures the earnest technician with a hand on his shoulder and a promise, and Mitali, heartened, hurries off to share the news, addressing the Jedi gratefully as Master Skywalker.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Mitali",
+      "b": false
+    }
+  ]
+}

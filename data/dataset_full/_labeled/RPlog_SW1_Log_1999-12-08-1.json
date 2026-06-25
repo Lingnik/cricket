@@ -1,0 +1,139 @@
+{
+ "name": "RPlog_SW1_Log_1999-12-08-1",
+ "title": "SW1 Log: A Ride to Coruscant",
+ "summary": "On the landing field of Sluis Van, the pilot Bazil McKenzie, prepping his shuttle Intrepid for a cargo run to Coruscant, crosses paths with the arrogant newcomer Irascius Quirn and the distracted Ambry, who literally walks into Quirn. As introductions are made, Bazil offers Ambry a ride to Coruscant, which she gladly accepts, while Quirn -- interested in joining StarOps -- declines the lift and asks how to get started, Bazil suggesting he find another pilot at the local bar. The casual encounter ends with friendly farewells as Bazil boards his shuttle to depart.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Ambry",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Ambry",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Ambry",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

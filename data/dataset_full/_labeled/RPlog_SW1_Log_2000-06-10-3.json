@@ -1,0 +1,1783 @@
+{
+ "name": "RPlog_SW1_Log_2000-06-10-3",
+ "title": "A Close Finish at the Arena",
+ "summary": "In the stands of the Reckless Abandon Swoop Arena, the disguised agent Bazil McKenzie (as Mege Vauki) watches another grueling race alongside the diplomat Eva Sargent, the old soldier Halloway, and the injured Colonel Altair Quila. While the announcer calls a tight contest dominated by Simone in the Terminal Velocity and the absent McTavish, Halloway and Quila fall into shop talk about military life and her swift rise to colonel after the post-Endor disbandments. Sargent listens quietly, keeping an eye on Captain Howie Darklighter's run aboard the Firedancer, while Bazil drifts to a screen to watch the carnage as a Wampa savages the racer Tarrin. The race ends in a near photo finish, with Howie clawing up to a proud second place and the various pilots limping or being carried across the line.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Eva Sargent",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Halloway",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Kestryan du Bracc",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Kestryan du Bracc",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Kestryan du Bracc",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 345,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

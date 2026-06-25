@@ -1,0 +1,265 @@
+{
+  "name": "RPlog_A_Prex_is_Chosen",
+  "title": "A Prex is Chosen",
+  "summary": "The biggest Direx meeting of the year convenes to select the new Prex by random drawing, drawing the Corporate Sector's power players and an Imperial contingent into one chamber. The ever-early Miranda Jabs stakes out a corner while the mysterious Toydarian CEO G.S. Qwynt VIII -- borne about by his glamorous Twi'lek attendant Justice -- attends his first Direx meeting alongside the dapper Smitherbodkins, the cigarra-smoking Rainer, the Imperial Warlord Darth Venger, and the poised starfighter pilot Dante. As guests work the lavish spread and trade veiled words, Jabs breaks off to court the Imperials around Korolov while Venger assures all that everything will go to plan. When the wasted-looking ExO conducts the drawing, Qwynt -- caught mid-nose-pick -- realizes his own name has been called and is named Prex amid pyrotechnics. Former Prex Pumberdum hands him the golden gavel and instructs him in running the meetings, and after Qwynt calls a recess, Darth Venger and his retinue, with Dante last to withdraw, prepare to depart the chamber.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Jabs",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Jabs",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Jabs",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jabs",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Jabs",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Jabs",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Pumberdum",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Venger",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    }
+  ]
+}

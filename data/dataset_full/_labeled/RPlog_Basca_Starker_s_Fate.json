@@ -1,0 +1,133 @@
+{
+  "name": "RPlog_Basca_Starker_s_Fate",
+  "title": "Basca Starker's Fate",
+  "summary": "On a refurbished boulevard in Plaxton on Caspar, the Sarian Presavadent Crestian oversees the handover of the carbonite-frozen criminal Basca Starker, delivered on a stasis sled by a bounty hunter, before an assembly of Union Councillors. To Crestian's surprise, the cowled figure who steps forward to claim him is Marius, Basca's own brother, whose face mirrors Basca's with subtle differences. Marius, acid-tongued about his troublemaking sibling, presses to learn who Basca wronged during his recent schemes on Caspar, and Crestian -- balancing decorum with candor -- eventually names a woman Basca deceived under a false identity. The name visibly enrages Marius, who recalls an old betrayal on the world Isada years before. Crestian offers Marius the chance to vent on his frozen brother before he goes fully into carbonite, and Marius, composing himself, gives Crestian leave to do as he wishes with Basca, the Presav sharing a quiet glance with a Zeltron Councillor as the matter is settled.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Marius",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Marius",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Marius",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Marius",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Marius",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Marius",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

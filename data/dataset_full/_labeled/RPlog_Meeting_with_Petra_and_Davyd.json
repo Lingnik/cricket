@@ -1,0 +1,535 @@
+{
+ "name": "RPlog_Meeting_with_Petra_and_Davyd",
+ "title": "A Meeting with Petra and Davyd",
+ "summary": "On a moonlit, deserted beach in Coronet City under an Imperial lockdown, the smuggler Axel meets the cold, statuesque Petra and her watchful bodyguard Davyd to negotiate a contract. Over old flirtation and grim business, Petra makes clear she wants certain Imperial traitors -- chief among them her former ambassador Dareus -- dead, and is willing to name any price. Axel, apathetic and mercenary, agrees to see what he can do, though he warns that he owes a favor to one of the targets, Kiare Quinn. As a token of the deal, Petra has Davyd hand over a valuable ST-III blaster rifle, and the parties seal their dark arrangement.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "desc",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "desc",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "desc",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "desc",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "desc",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "desc",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "desc",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "desc",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": true
+  }
+ ]
+}

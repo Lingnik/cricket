@@ -1,0 +1,25 @@
+{
+ "name": "RPlog_SW1_Log_1999-11-02",
+ "title": "SW1 Log: Nothing Scheduled",
+ "summary": "Captain Altair climbs out of her X-Wing on the flight deck of the New Republic vessel, pulling off her helmet, and queries the deck officer about her schedule. The deck officer checks his roster and confirms, with a shake of his head, that nothing is scheduled for her. The brief vignette captures a quiet, routine moment of a returning pilot's downtime aboard the ship.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

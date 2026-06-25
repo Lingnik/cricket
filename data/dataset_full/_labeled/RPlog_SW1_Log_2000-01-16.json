@@ -1,0 +1,145 @@
+{
+ "name": "RPlog_SW1_Log_2000-01-16",
+ "title": "Questions About the Jedi and the Sith",
+ "summary": "Returning to the parked shuttle, the pilot Bazil McKenzie wakes the dozing diplomat Poguala to report that he has tried to contact Lieutenant Altair Quila but received no answer yet. Their talk turns to Bazil's recent self-study of the Jedi and Sith, and he presses Poguala with questions about the Force's origins, whether Force-sensitivity is hereditary, and how secretive the orders truly are. Poguala answers patiently while gently deflecting his curiosity about the extent of her own involvement, admitting only a minimal personal role. The conversation closes on a practical matter: Bazil declares himself ready to sit the qualifying exams Poguala has been urging on him, and she agrees to administer a test on the spot.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

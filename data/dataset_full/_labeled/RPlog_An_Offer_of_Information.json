@@ -1,0 +1,199 @@
+{
+  "name": "RPlog_An_Offer_of_Information",
+  "title": "An Offer of Information",
+  "summary": "On a pleasant afternoon in a New Alderaan park, a chance gathering forms when the distracted medic Myiari, nose buried in a holobook, collides with a bench where the Mon Calamari Senator Tokoga is relaxing and the operative Rainier sits nearby. The pilot Shane, just back from a training sortie, and the wary mercenary Brek on shore leave round out the group, and the strangers fall into easy conversation about home, freighters, desert worlds, and the life of mercenaries and bounty hunters. Rainier hints that he has come into a piece of interesting information, drawing Tokoga's keen attention, and explains that he gathers such things simply by going to the right places and asking the right people. The talk weaves through Myiari's soft defense of mercenaries, Brek's rueful sense of his own mortality, and Shane's military curiosity about Rainier's source. The gathering breaks up amiably, Brek slipping away with a parting remark that leaves Myiari blushing as she waves him off.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Brek",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Brek",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Brek",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Brek",
+      "b": true
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Brek",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Brek",
+      "b": true
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Brek",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Shane",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Brek",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    }
+  ]
+}

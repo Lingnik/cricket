@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Revenge",
+ "title": "Revenge",
+ "summary": "On a forest moon, the black-clad raider crew of the Eternal Vigilance hurries to transfer seized Imperial cargo into the hold while their fighters, including Gren in his Hornet, scramble to meet an Imperial response. A squadron of Interceptors launched from an orbiting Corvette and led by the Sarian pilot Liza Molokai sweeps in, but Gren's pilots pick off the Imperials one by one. Gren taunts Liza darkly over the comm as her shields fail and her wingmen tighten around her like a shield, the dogfight turning into a bitter act of revenge above the jungle canopy.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Gren",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Liza",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Liza",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

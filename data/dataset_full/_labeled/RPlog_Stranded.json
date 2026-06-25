@@ -1,0 +1,242 @@
+{
+ "name": "RPlog_Stranded",
+ "title": "Stranded",
+ "summary": "Shot down during a fleet engagement, the pilot Raxis -- callsign Spider -- parachutes into the dark, fog-shrouded night side of Dathomir and finds himself tangled in the forest canopy. After climbing down, he is stalked and attacked by a pack of red-eyed, fanged simian predators, fending them off with his Bryar pistol and a flare before escaping across a river. Tracking a distant fire, he discovers another crash site and frees a trapped X-wing pilot, Hotwire of the 234th, from his burning cockpit, dressing the man's wounded leg. The two stranded airmen pool their meager supplies, build a lean-to shelter from the wreckage near some boulders, and debate their best chance of rescue. Confident that ground forces and a recovery team will eventually find them, Raxis takes first watch as they settle in for a long night.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Raxis"
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Hotwire"
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Raxis"
+  }
+ ]
+}

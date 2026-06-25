@@ -1,0 +1,295 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_The_Second_Message",
+  "title": "The Second Message",
+  "summary": "Senators Ivanil Sandomere and Tokoga share a smoke beneath a tree in the Chianar plaza, where they are joined by the medic Myiari and the agent Kalna and strike a quiet bargain: Sandomere will back Tokoga's anti-crime act in exchange for basing more of the fleet near Ord Mantell. As Sandomere departs, a parked courier bike rigged to explode detonates, prompting Tokoga to throw Myiari clear while Kalna shields the senator and draws her blaster. With no second attack forthcoming, a small hovering droid then arrives repeating the warning 'There will not be a third time,' which Kalna stuns into pieces at the senator's request. The crime lord Nass is plainly behind the intimidation, but Tokoga emerges unshaken, returning to his offices under police escort. The encounter underscores just how close the violence has crept to the Republic's seat of government.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Sandomere",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Courier",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    }
+  ]
+}

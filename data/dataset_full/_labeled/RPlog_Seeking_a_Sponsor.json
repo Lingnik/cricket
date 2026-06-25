@@ -1,0 +1,295 @@
+{
+ "name": "RPlog_Seeking_a_Sponsor",
+ "title": "Seeking a Sponsor",
+ "summary": "At the Xi Cantina during a trade summit on the Xi Charrian factory world, the Caspian leader Presav Crestian nurses a drink when the charismatic Zeltron swoop champion Exos Elan strikes up a conversation, angling for sponsorship. They are joined by the young Caspian fighter pilot Longinus Van Sen, who knows Crestian as a family friend and brashly geeks out over swoop racing and the tracks his mother designed. Crestian shrewdly deduces Exos's profession, and the three trade banter about racing, the Mutanda Grand Prix, and the value of the sport for promoting charity. After Lon departs for a mysterious appointment, Exos pitches his cause -- vocational outreach giving people, and droids, the freedom to pursue what suits them -- hoping to win the Presav's backing for the right sponsoring company.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Exos Elan",
+   "b": false
+  }
+ ]
+}

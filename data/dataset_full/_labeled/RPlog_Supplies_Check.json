@@ -1,0 +1,222 @@
+{
+ "name": "RPlog_Supplies_Check",
+ "title": "Supplies Check",
+ "summary": "In an industrial warehouse district of Coronet City on Corellia, the rebel-aligned former CorSec officer Alder oversees a cache of supplies while hosting New Republic Ambassador Ambrosia Delgard. As they tour the warehouse, the two discuss the prospects for liberating Corellia from Imperial control, the limits of diplomacy, and whether a freed Corellia might join the Republic. Their conversation is shattered when the building's entrance is blown open and Imperial stormtroopers storm in; Alder uses a hovercraft to barricade the breach as the pair flee. Drawing her palm blaster, Ambrosia follows Alder down into the sewers via an escape route he had prepared, and together they ambush and stun a pursuing stormtrooper, dropping the white-armored figure into the water before continuing their escape.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Alder",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Alder",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Alder"
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Ambrosia"
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

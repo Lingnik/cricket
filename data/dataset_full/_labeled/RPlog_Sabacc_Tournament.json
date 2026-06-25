@@ -1,0 +1,499 @@
+{
+ "name": "RPlog_Sabacc_Tournament",
+ "title": "The First Weekly Sabacc Tournament",
+ "summary": "At Ewan Dain's glittering House of Sabacc on Nar Shaddaa, an eclectic crowd gathers for the casino's first weekly tournament. The Twi'lek gambler Tal'sin, the disguised force-user Dina McMasterson seeking her date Dain, the drinking Imperial Antoine Dareus traveling incognito, and the gluttonous Ortolan musician Frederiko all converge amid free drinks and a catfight that Dina wins by hauling Dain's other guest over the table and slapping her senseless. Once the cards begin, the tournament narrows to a tense duel between Tal'sin and Dareus, neither fully recognizing that Dareus once shot the oblivious Twi'lek while he was unconscious. As Dain MCs and flirts with Dina from the sidelines, the two finalists trade hands and escalating bets through ten rounds, with Tal'sin ultimately claiming victory and Dareus conceding with a grudging handshake.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Frederiko",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Dina McMasterson",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Ewan Dain",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Antoine Dareus",
+   "b": false
+  }
+ ]
+}

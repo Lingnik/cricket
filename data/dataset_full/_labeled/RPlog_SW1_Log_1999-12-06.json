@@ -1,0 +1,187 @@
+{
+ "name": "RPlog_SW1_Log_1999-12-06",
+ "title": "SW1 Log: Frustrations in the Bay",
+ "summary": "In a busy hangar bay, the towering Griffon Alliance officer Jonathan Steiner, trailed by fussing aides, and the stately Alderaanian diplomat Poguala Dawntreader contend with a day ruled by technical SNAFUs and balky ships. The bored pilot Bazil, fighting his own equipment troubles, wanders over to commiserate with Poguala, and the two share a quiet, sympathetic exchange about the strain everyone has been under since a recent attack and the weight of so many deaths. Meanwhile the officer Montgomery moves to cut off the brusque Steiner -- the Armiger -- for a private word. The scene blends shipboard frustration with moments of genuine human connection and grief.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Montgomery",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Montgomery",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

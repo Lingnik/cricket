@@ -1,0 +1,559 @@
+{
+ "name": "RPlog_Mission_to_Ord_Mantell",
+ "title": "Mission to Ord Mantell",
+ "summary": "Dispatched aboard the Tortuga to reunite a family, the Horansi agent Kasha and her companion Tiali track down Casul Nettic on Ord Mantell, the father of two younglings recovered safely to Caspar. Wary after being repeatedly swindled by a sham detective tied to the Nova Syndicate, the impoverished Casul slowly comes to believe the charitable offer and points the agents toward his estranged wife Sasha, a waitress at the Cat's Claw Cantina. After coaxing the bickering couple to reconcile and accept passage off-world, the agents shepherd them toward the docking bay, only for the Nova debt-collector Coxswain and his armed goons to ambush them. A brawl and firefight erupt as Kasha's own father, coerced into working for Nova, unexpectedly appears, and the agents fight to bundle the family safely aboard the ship.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 11,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Tia",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Tia",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Casul",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Tia",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Casul",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Tia",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": true
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Casul",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Casul",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Sasha",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": true
+  }
+ ]
+}

@@ -1,0 +1,1111 @@
+{
+  "name": "RPlog_The_Corellian_Harvest_Festival",
+  "title": "The Corellian Harvest Festival",
+  "summary": "Lord Smitherbodkins opens his Galactic Swoop League parade and Corellian Harvest Festival in Imperial-held Coronet City, drawing a sprawling crowd that includes disguised New Republic operatives, Imperial officers, and assorted onlookers. When a censored New Republic float rolls past, alien activists storm it shouting 'Free Corellia!' and shower the crowd with anti-Imperial propaganda, triggering brawls, Imperial crackdowns, and chaos that overruns the event. Admiral Danik Kreldin confronts Smitherbodkins over the rebel float while the smuggler Lando Calrissian, spotted in the throng, slips his Imperial captors and escapes with Ambassador Ambrosia Delgard and her escort, aided by sleight of hand and the cover of the panicking crowd. The Espo Mirhoz is stunned trying to take Lando into custody, the Sullustan agent Enb'Zik and his colleague Paris nearly blow their covers, and General Morrison Van Sen locks down the city's spaceport to prevent Lando's flight. As the final harvest float limps past and the crowd disperses under threat of gas, Danik orders a planet-wide manhunt and bounty on Calrissian, who quietly diverts to a safehouse rather than risk the watched starport.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Kintor",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Lianja",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Kintor",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Frederiko",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Zero",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Lianja",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Lianja",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Frederiko",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Kintor",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Lianja",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 319,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Frederiko",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 351,
+      "type": "pose",
+      "actor": "Paris",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 366,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 378,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 390,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Mirhoz",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 428,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 444,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 452,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 459,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 466,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 467,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 468,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 477,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 492,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 497,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "pose",
+      "actor": "Sima",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Sima",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 525,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 529,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 534,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 539,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 544,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 549,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 552,
+      "type": "pose",
+      "actor": "Sima",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "pose",
+      "actor": "Morrison",
+      "b": false
+    },
+    {
+      "line": 566,
+      "type": "pose",
+      "actor": "Janos",
+      "b": false
+    },
+    {
+      "line": 572,
+      "type": "pose",
+      "actor": "Lyra",
+      "b": false
+    },
+    {
+      "line": 573,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 578,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 581,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 585,
+      "type": "pose",
+      "actor": "Maris",
+      "b": false
+    },
+    {
+      "line": 587,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

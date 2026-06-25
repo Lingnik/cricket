@@ -1,0 +1,145 @@
+{
+ "name": "RPlog_Meeting_Between_the_Headlines",
+ "title": "Between the Headlines",
+ "summary": "In Crestian's nightclub Club Utinni! in Mos Eisley, the Sith Presav Crestian meets the Falleen club owner and operator Nasiri over glasses of water and Ithorian brandy. The two discuss the shifting political tides among the Imperium, the Union, and a collapsing Republic, trading wry observations about extrajudicial killings, public statements, and Grand Admiral Vichten's evolving role. Nasiri offers a quiet word of warning out of past favors, hinting at his own position and concerns. Crestian takes the counsel gracefully, and the conversation turns to where real political support might be found.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  }
+ ]
+}

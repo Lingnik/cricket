@@ -1,0 +1,571 @@
+{
+ "name": "RPlog_Casino_Royale",
+ "title": "Casino Royale",
+ "summary": "On a winning streak at a Corellian casino, the recently resigned Imperial ace Antoine Dareus holds court at the high-roller table, drawing a steady stream of drinks and an audience. Commander Seifer Wolf slips in under a stolen cloak to surprise him, and CorSec Colonel Twila Virda joins the table, striking up a warm rapport with Dareus over cards, drinks, and his uncertain future after fifteen years in the Navy. As the night unfolds the group grows to include Wolf's pilot Ensign Alex Dante and a mute, vocaliser-using musician named Salann Grayhe, and the conversation drifts through Imperial gossip, Twila's reluctance to discuss the fate of an ensign she struck, and an easygoing debate about the thrill of swoop racing. Beneath the banter Dareus quietly nurses his real purpose, and as the others trade jokes about bad poetry and piloting, he finally rises to leave, revealing to a baffled Alex the truth behind his resignation: his father has disappeared, and Dareus has come home to find out who took him.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Salann",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Alex",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  }
+ ]
+}

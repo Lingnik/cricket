@@ -1,0 +1,205 @@
+{
+ "name": "RPlog_SW1_Log_1999-12-09",
+ "title": "SW1 Log: An Evening at the Bar",
+ "summary": "At a spacious tavern coming to life with New Republic military personnel, the Ghost Squadron pilot Bazil McKenzie, the Archer pilot Commander Josh Arands, the would-be recruit Irascius Quirn, and the out-of-place Nurse Gwen converge at the bar. Over drinks, Quirn -- a civilian pilot with years of flight time, mostly in old Toscan fighters on his uncle's starbase -- presses Arands about getting into the service, while Bazil proudly touts Ghost as the only good squadron, drawing playful pushback. Arands, sizing up the newcomer, offers Quirn a ride up to Home One to handle the enlistment paperwork. The convivial scene captures the camaraderie and shop-talk of pilots off duty.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Quirn",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Arands",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Arands",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

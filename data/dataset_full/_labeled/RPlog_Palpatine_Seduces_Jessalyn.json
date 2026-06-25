@@ -1,0 +1,133 @@
+{
+ "name": "RPlog_Palpatine_Seduces_Jessalyn",
+ "title": "Palpatine Seduces Jessalyn",
+ "summary": "On a moonlit Chandrila meadow, the Jedi Jessalyn Valios sits alone, worn to the edge of despair, when the resurrected Emperor Palpatine emerges from the shadows, his rasping voice heavy with built-up evil. Too weak to resist and half-longing for the oblivion of death, Jessalyn is overpowered as Palpatine lays his cold hands on her face and invades her mind, wresting away control of her very will. Her scream is cut short as she becomes his new slave, her actions no longer her own. The Emperor wraps an arm around his captive and slips away through the woods toward his waiting shuttle, intending to take her back to his new home on Mon Calamari.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Palpatine",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Palpatine",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Palpatine",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Palpatine",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Palpatine",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Palpatine",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,577 @@
+{
+ "name": "RPlog_Depot_Lost",
+ "title": "Depot Lost: The Raid on Talasea Station",
+ "summary": "A New Republic strike force raids a lightly defended Imperial civilian supply depot near Talasea, where Marshal Krieg is overseeing the relocation of critical munitions. Disguised aboard an Imperial-marked freighter, a Republic boarding party led by Gren Delede and his Twi'lek wife Twila storms the station's cargo bays, trading vicious blaster and grenade fire with the stormtrooper squads of Sergeant Alpha while haulers spirit away tibanna gas and reactor fuel. In space, Captain Keline directs the Victory-class Star Destroyer's defense against the Nebulon-B frigate Trident, its A-wing scout Raxis 'Spider' L'ygr, and the Calamari sensor officer Ohao, who coordinates the cargo extraction. The Republic seizes most of the targeted containers and jumps clear, though Keline's ion fire disables one fleeing freighter and cripples the Trident's engines. The operation ends as a costly Republic victory, soured only by the freighter and crew left behind.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Keeros",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Keeros",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Keeros",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Keeros",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Keeros",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Alpha",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Alpha",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Alpha",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Alpha",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Alpha",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Twila",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Trident Captain",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  }
+ ]
+}

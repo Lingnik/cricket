@@ -1,0 +1,97 @@
+{
+ "name": "RPlog_Oversight",
+ "title": "Oversight",
+ "summary": "On the meticulously prepared hangar deck of the Imperial Star Destroyer Inquisitor, Executive Officer Commander Auxin Valerius greets the arriving Jarek Syris, a reformed deserter now serving as an Advisor, who has flown in uncomfortably clad in trooper armor. After exchanging formal courtesies amid the rows of assembled stormtroopers, the two ride the lift to attend to business. Valerius briefs Syris on recent matters, including a pirate broadcast that hijacked a limmie game transmission, and Syris requests reports from the communications officers on their findings. The scene establishes the cool, bureaucratic rhythms of command aboard the Inquisitor.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Valerius",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Valerius",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Valerius",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

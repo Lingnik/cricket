@@ -1,0 +1,115 @@
+{
+ "name": "RPlog_Cantina_Chatter",
+ "title": "Cantina Chatter",
+ "summary": "In a smoky Nar Shaddaa cantina, the security operative Violet, going by Ms. Allure, slips into a booth only to find it already claimed by an old acquaintance, the doctor Chase. The two settle in over a bottle of iced Corellian brandy and fall into easy conversation, catching up on how the world has changed hands again and how busy each has been. Violet reveals she has drifted into semi-retirement and is mulling opening a small weaponry shop specializing in melee arms, while Chase shares his lifelong love of martial arts and the staff, draping his jacket over her shoulders when she shivers. Their talk turns wistful and introspective as the brandy flows, Chase asking whether life turned out as she once imagined and quietly grieving a woman named Miranda. Violet, increasingly guarded, finishes her drink, returns his jacket, and excuses herself back to her ship, leaving Chase to drain one last glass alone in a melancholy toast before gathering his things to leave.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Violet",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Chase",
+   "b": false
+  }
+ ]
+}

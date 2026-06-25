@@ -1,0 +1,79 @@
+{
+ "name": "RPlog_Semantics",
+ "title": "Semantics",
+ "summary": "Imprisoned in a makeshift Imperial cell, the New Republic medic Myiari Oerstead tends the burned leg of an unconscious Mon Calamari senator when the stormtrooper Brek enters, ordering the monitors shut off and sliding her a first-aid kit. Suspicious but grateful, Myiari treats the wound while the two slide into a tense, philosophical argument about the war. Brek demands to know how many stormtroopers she killed and condemns the Republic for hiding its own civilian casualties behind a heroic image, while Myiari counters with the Empire's genocides, secret police, and the climate of fear she grew up under. Neither yields, and Brek finally dons his helmet, wishes her senator a recovery, and leaves, the heavy cell door slamming shut behind him.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Myiari Oerstead",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Myiari Oerstead",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Myiari Oerstead",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Myiari Oerstead",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Myiari Oerstead",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

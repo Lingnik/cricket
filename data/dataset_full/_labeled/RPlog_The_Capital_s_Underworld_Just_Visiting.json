@@ -1,0 +1,265 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_Just_Visiting",
+  "title": "Just Visiting",
+  "summary": "Hidden away in a remote corner of the Jedi Temple after faking his own assassination, Senator Tokoga receives his first visitors under military escort: the medic Myiari, Commander Rasi, and the Wookiee cadet Hauwka with his malfunctioning translator droid. Myiari reports on the chaotic public reaction to his supposed death while the group catches up on the state of Dac's worsening political factionalism. Hauwka, skeptical of the Jedi and the cloak-and-dagger plot, presses Rasi on why they don't simply kill the crime lord Nass outright, prompting Rasi to explain the legal trap they have laid to lure Nass into incriminating himself. Tokoga remains determined to see the plan through and witness Nass's downfall in person, even as Myiari worries about how the public will react to his return. The visit ends with farewells as Myiari leaves for her hospital shift and the senator settles back into his lonely concealment.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    }
+  ]
+}

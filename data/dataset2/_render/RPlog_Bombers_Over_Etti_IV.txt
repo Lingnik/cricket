@@ -1,0 +1,304 @@
+16| <etti_space> -=Cerebus 2=- Flight Lt. TP_5TSC2 says, "IC> Several Scimitar Assault Bombers from the ISD Vanguard launch and form up slowly."
+17| 
+18| [CCOM-A1] Hailing you to monitor 13
+19| 
+20| [CCOM] Switching monitoring to channel 13.
+21| 
+22| [CCOM 13] A2: VicePrex Drake here..
+23| 
+24| [CCOM 13] A1: VicePrex? Mr. Roark here, in the Port Security office. There's some excitement here...I'm not sure what it is.
+25| 
+26| [CCOM 13] A2: I'll be right there.
+27| 
+28| You open your front door and leave your house, closing the door behind you and exiting onto the street.
+29| 
+30| Residential Avenue - Capital City <ETTI IV>
+31| The avenue is long and wide, meandering a bit under the red sky between houses and odd spiky trees. The ground is paved with a light fused stone, bland compared to the wide variety of housing on either side. Houses of low build peep from between the harsh trees, most residences with a few small home office businesses here and there. Though it seems at first glance to be difficult to find just the residence you are looking for, there seems to be some order to the chaotic arrangements.
+32| As quiet as this area seems, there are always people wandering the streets, day or night. Amongst the thin crowd are several Espo guards, standing at the ready to protect the consumers and their residences from crime.
+33| Contents:
+34| Lamppost
+35| Obvious exits:
+36| E leads to Memorial Park - Capital City <ETTI IV>.
+37| W leads to Port District - Capital City <ETTI IV>.
+38| 
+39| <etti_space> -=Cerebus 2=- Flight Lt. TP_5TSC2 says, "IC> The Scimitars form up into a triangular formation and angle their way towards Etti IV."
+40| 
+41| [CCOM 13] A1: Yes, ma'am.
+42| 
+43| You move along the avenue toward the busy Port to the west.
+44| 
+45| Port District - Capital City <ETTI IV>
+46| Though the buildings in this sprawling area of the city are low permacite structures, the general feeling of the Port District is one of foreboding menace not clearly defined. Despite this, many visitors of many races mingle here, taking in the plethora of shops, bars and nooks dotted densely throughout this place. Nothing seems to be spared style, expense, or gross display of wealth here as the scions of the business world (or criminal world) flaunt the products of their various efforts.
+47| Several Espo troopers stand out like statues among the sea of people passing through. They watch everything that goes on around them with a tight grip on their blasters, ready for anything.
+48| Obvious exits:
+49| E leads to Residential Avenue - Capital City <ETTI IV>.
+50| NE leads to Business District - Capital City <ETTI IV>.
+51| SE leads to Government District - Capital City <ETTI IV>.
+52| FFDD leads to Free-Flight Dance Dome - Capital City <ETTI IV>.
+53| ACE leads to Authority Currency Exchange - Capital City <ETTI IV>.
+54| W leads to Spaceport Center - Capital City <ETTI IV>.
+55| 
+56| You move west through the District, into the Spaceport Center.
+57| 
+58| Spaceport Center - Capital City <ETTI IV>
+59| If there were a hub of spaceport activity in the galaxy, Capital City's Spaceport on Etti IV certainly gives the impression of being just that. The flow of traffic, human, mechanical, and otherwise through this area is impressively busy. The building is luxurious in the manner of the rest of the city, walls of permacite reaching up to a strong arching ceiling spotted with clear, thick glass showing a vermilion sky. Ships of all types land constantly under the ever watchful eye of Authority Security as visitors and businessbeings rush through this gateway to Corporate Sector Authority.
+60| Contents:
+61| SHUTTLECRAFT: CSA Planetary Shuttle
+62| STARFIGHTER: CECO YT-1300 -- Firestorm
+63| STARFIGHTER: CECO YT-1300 -- Night Shadow
+64| STARFIGHTER: Lambda Class Shuttle -- Eclipse
+65| Security Computer
+66| MailBox
+67| Obvious exits:
+68| E leads to Port District - Capital City <ETTI IV>.
+69| S leads to Port Security Office - Spaceport <ETTI IV>.
+70| N leads to Docking Bay 36 - Spaceport - Capital City <ETTI IV>.
+71| SHuttle leads to Landing Bay - VSD Phoenix.
+72| 
+73| <etti_space> Chewbacca says, "The Falcon is on the other side of the planet and doesn't see this. (ISD's on south side, I'm on north).."
+74| 
+75| <etti_space> >> Etti IV Port Security Station << Roark says, "We're scanning down here and notifying Picket fleet in the area to stand by, but do not engage."
+76| 
+77| You move, willingly or no, past several Espos and enter the Port Security Office.
+78| 
+79| Port Security Office - Spaceport <ETTI IV>
+80| The Port Security Office is brisk and formal, Authority Security officers moving around within the station, checking in and out and making various reports. A steel desk separates visitors from the security officers to the rear, and you are carefully watched by several armed Espos. On the far end of the room, the steel walls of the detention cell are inset glumly into the white walls. WARNING, IF YOU ENTER THE CELL YOU CAN NOT GET OUT.
+81| Contents:
+82| Roark
+83| Etti IV: Subspace Console
+84| ESPO Major Starks
+85| Obvious exits:
+86| <OUT> leads to Spaceport Center - Capital City <ETTI IV>.
+87| <CELL> leads to Detention Cell - Security Station -- Capital City <Etti IV>.
+88| 
+89| Roark is leaning over a command post, over the shoulder of one of the operators, frowning at a readout.
+90| 
+91| Simone_Drake steps into the area and glances around, "So what exactly do we have here?"
+92| 
+93| Roark glances up quickly, saying, "Miss Drake, we have a possible squadron of Imperial Scimitars forming up and heading this way. Are they aggressive?"
+94| 
+95| Simone_Drake lets her brow wrinkle at the news, "They shouldn't be. . but I wasn't informed of their coming. Have they made any attempts to contact the planet and divulge their intentions?"
+96| 
+97| The office is bustling as operators monitor, and others issue calming orders to their security personnel, appraising them of the situation.
+98| 
+99| Roark shakes his head. "No, Miss Drake. Should we hail them?"
+100| 
+101| Simone_Drake nods.
+102| 
+103| Roark nods and turns sharply, leaning again and gaining a frequency.
+104| 
+105| <etti_space> >> Etti IV Port Security Station << Roark says, "Etti IV Port Security hailing Imperial ships. You are military craft. Do you request landing? Over."
+106| 
+107| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, "Negative, Etti IV. We're just patrolling."
+108| 
+109| Roark pauses, glancing over his shoulder at you questioningly.
+110| 
+111| Roark says, "They know we have our own patrols, yes?"
+112| 
+113| Simone_Drake lets her slight frown deepen, "Yes, they do."
+114| 
+115| Roark nods and turns back to speak again.
+116| 
+117| <etti_space> >> Etti IV Port Security Station << Roark says, "Imperial ships. Perhaps there is a misunderstanding...we have patrol craft in the area. Is there a situation?"
+118| 
+119| <etti_space> TP_6CSC1 says, "Negative"
+120| 
+121| Roark lets out a breath that disturbs his bangs and straightens, looking at you again.
+122| 
+123| Simone_Drake sets her jaw slightly, not appearing happy. "I don't like this."
+124| 
+125| Roark nods, then hits the transmitter switch again.
+126| 
+127| <etti_space> >> Etti IV Port Security Station << Roark says, "Imperial ships. Please maintain your usual patrol while we recalculate our own ships' paths."
+128| 
+129| Roark shrugs slightly, offering a lopsided grin as he waits for the response.
+130| 
+131| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, "The four Imperial Scimitars slowly continue on their route for Etti IV, the first two having reached the area and orbiting."
+132| 
+133| An officer near Roark murmurs, "They're not deviating course."
+134| 
+135| Simone_Drake folds her arms slightly, her jaw is set. She states, "What is their purpose for this unannounced patrol?"
+136| 
+137| Roark shakes his head slightly, saying, "I don't know. I'll ask if I don't get a response..."
+138| 
+139| Roark bites his lip and speaks into the transmitter again.
+140| 
+141| Simone_Drake nods slightly, pausing a moment before asking, "How many of our ships are on patrol at this time?"
+142| 
+143| <etti_space> >> Etti IV Port Security Station << Roark's voice sounds patient. "Imperial ships. You currently present a danger to the normal operating practice of the Authority's fleet. May we ask your concern in change of plans, so we may aid?
+144| 
+145| Roark sighs and straightens. "I don't know. We're not too thick with the fleet, though I believe with the recent situation, some squads have been recalled."
+146| 
+147| Simone_Drake lets out a breath and remains silent a moment before speaking again, "Perhaps we should alert the Phoenix to keep an eye on them from their vantage point."
+148| 
+149| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">>The four TIE flight separates into two two-ship elements.<<"
+150| 
+151| Another officer picks up the order with a nod and relays a message to the Phoenix. Roark glances to the screen again, frowning.
+152| 
+153| <etti_space> >> Etti IV Port Security Station << Roark's voice doesn't sound so patient now. "Imperial ships, acknowledge."
+154| 
+155| <etti_space> TP_6CSC1 says, "We will continue our course Etti Station Security"
+156| 
+157| Roark leans, keeping himself from snapping words at the transmitter.
+158| 
+159| Roark looks back to you, finger resting lightly on the transmitter button.
+160| 
+161| Simone_Drake looks quite irritated now, a scowl forming on her face. "This is not acceptable. Inform them they are to return to their ISD until we can clear up this matter with their superiors."
+162| 
+163| Roark looks patient and turns back to the transmitter with a mutter.
+164| 
+165| <etti_space> >> Etti IV Port Security Station << Roark says, "Imperial ships. You are requested to return to dock until this misunderstanding can be cleared up. By whose orders do you act, so that we may contact them for discussion?"
+166| 
+167| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> Two Scimitars break off and angle towards the Phoenix. <<"
+168| 
+169| An officer says evenly, "Two advancing on the Phoenix."
+170| 
+171| <etti_space> TP_6CSC1 says, "This is TP_6CSC1"
+172| 
+173| <etti_space> >> Etti IV Port Security Station << Roark says, "Quite. Who is your commanding officer?"
+174| 
+175| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> The two other ships turn around and begin making a wide arc around the ISD Vanguard. <<"
+176| 
+177| <etti_space> >> Millennium Falcon << Chewbacca powers down all instruments and catches a brief word here and there, amid the magnetic storms that so eloquently shield his ship from detection.
+178| 
+179| Roark murmurs, "Miss Drake, was there no agreement on military engagement made when they came here?"
+180| 
+181| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> The two Scimitars slowly approach the Phoenix, reaching maximum scanning distance, and break off and follow the first two Scimitars. <<"
+182| 
+183| Roark lets out a breath as he watches the scanner display.
+184| 
+185| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, "We are acting under standard orders to patrol. I am the ships Wing Commander, my superior is the Captain."
+186| 
+187| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, "We are authorized to patrol around our ship, we apologize if we are breaking into your patrol routes, Etti IV."
+188| 
+189| <etti_space> >> Etti IV Port Security Station << Roark says, "Very well. I am certain the misunderstanding will be cleared up and not repeated. Etti Control out."
+190| 
+191| Roark straightens with a sigh.
+192| 
+193| Simone_Drake shakes her head slightly, then listens to the transmissions. "They're patrolling rather far out from their ship. Not what I would consider 'around' it. I need to get this cleared up so it does not happen again."
+194| 
+195| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, "Roger that, Cerebus Squadron out."
+196| 
+197| Roark says, "Good idea, Miss Drake. The fleet's a bit jumpy right now."
+198| 
+199| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> The Scimitars patrol slowly around the Star Destroyer Vanguard, altering the patrol route around planet Etti IV, as to make the route look like a squashed egg. <<"
+200| 
+201| Simone_Drake lets out another breath slowly and nods, "All this activity isn't normal. Tell the fleet to keep an eye on that ISD and those starfighters. And get the security teams on a heightened alert. "
+202| 
+203| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> The four Scimitars guard against encroachment by unauthorized ships, stopping several small freighters and/or shuttles. <<"
+204| 
+205| Roark nods briskly. "Yes, ma'am. May I make the suggestion of coming to an agreement on patrols with the Empire before other misunderstandings occur?"
+206| 
+207| Simone_Drake nods.
+208| 
+209| Roark smiles and tugs at his sleeves. "Not a very stable situation, Miss Drake."
+210| 
+211| Simone_Drake nods again, arms still folded across her chest, "Nothing about this situation has been entirely stable."
+212| 
+213| Roark quirks a non-smile and nods.
+214| 
+215| Simone_Drake frowns as she ponders, "Where exactly did those starfighters go before withdrawing to the ISD?"
+216| 
+217| Roark murmurs in response, "I'm not quite sure. We could run a report on their flightpaths."
+218| 
+219| Simone_Drake nods, "Do that. I want to know what they were looking for. I don't buy that this was just an ordinary patrol."
+220| 
+221| Roark nods. "Yes, Miss Drake." He turns to the officer over whose shoulder he leaned and issues a few quiet requests. The man nods and begins punching up records.
+222| 
+223| <etti_space> Imperial Cerebus 1 TP_6CSC1 says, "One of the 4 Bombers returns back to the ISD Vanguard"
+224| 
+225| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> The remaining three Scimitars patrol around slowly. <<"
+226| 
+227| <etti_space> >> Etti IV Port Security Station << Roark says, "Etti Control just scans and sends out encrypted transmissions like a batch of disturbed hightech bees."
+228| 
+229| Roark sinks into a newly vacant chair and runs a hand through his hair, frowning.
+230| 
+231| Roark says, "I had a talk with a defense attorney today."
+232| 
+233| Simone_Drake raises an eyebrow ever so slightly.
+234| 
+235| Roark glances around at the others in the room and stands. He moves closer, saying low, "Yes, the defending attorney for the General."
+236| 
+237| Simone_Drake speaks quietly, asking with an inquisitive tone, "And what did he have to say?"
+238| 
+239| Roark smiles slightly. "He's a friend of the General's wife."
+240| 
+241| <etti_space> Imperial Cerebus Squadron TP_5TSC2 says, ">> The Scimitars return to base, as another four TIEs replace them on patrol, this time patrolling much closer to the Vanguard. <<"
+242| 
+243| Simone_Drake smirks slightly, her voice continuing to hold it's quiet tones, "Little good it will do General Solo. I don't think there's an attorney in the galaxy that could get the General out of the mess he's gotten himself into."
+244| 
+245| Roark nods, saying, "This fellow Pike seems quite sure. He wants to talk to the General, which is within his rights as the accused representation."
+246| 
+247| Simone_Drake nods slowly, "As is his right. However, under the present security situation.. that might not be the easiest thing to arrange. I'm sure, after the proper precautions are taken, Mr. Dillon will see to honoring this visit to the General from.. Pike.. as Mr. Dillon is interested in seeing that justice is fully served."
+248| 
+249| Roark says, "I told him as much, but he was most indignant. As the trial is soon, he's very eager to see the General."
+250| 
+251| Simone_Drake nods slightly, "But even he can see that these measures are being taken for the General's benefit and well being."
+252| 
+253| Roark nods slowly. "As I mentioned. But I did promise to request that his wish be granted."
+254| 
+255| You say, "I'm sure as soon as Mr. Dillon has some spare time, and all the proper security measures have been taken, he will see to it."
+256| 
+257| Roark smiles and nods. "I will, in the meantime, show Mr. Pike about the city."
+258| 
+259| Simone_Drake nods, "Make sure he's well protected, we can't have anything happening to the General's defense attorney this close to the trial."
+260| 
+261| Roark says, "Of course. Now if you will excuse me, there are a few thing I need to attend to before this trial."
+262| 
+263| The officer turns in his seat and says, "I have the info on the TIEs, Miss Drake. They ran in a wide loop, after we gave them warning, and ran parallel to our own paths, staying out of our way."
+264| 
+265| Simone_Drake nods slowly. "How close did they get to our patrol ships and the Phoenix?"
+266| 
+267| The man answers, "Too close, Miss Drake. We can't tell if it was intentional or not..." He shrugs.
+268| 
+269| Roark mms.
+270| 
+271| Simone_Drake frowns slightly.
+272| 
+273| Simone_Drake asks, "Did they get within scanning range of our fleet?"
+274| 
+275| The man turns a moment, then looks back, nodding. "Yes, but not for long."
+276| 
+277| Simone_Drake mutters a Churban curse under her breath. "How long is not long? Long enough?"
+278| 
+279| Roark listens intently.
+280| 
+281| The man frowns. "What did you want to scan them for, Miss Drake?"
+282| 
+283| Simone_Drake shakes her head, "It's not us scanning them I'm worried about."
+284| 
+285| Roark's frown deepens. So does the officer's; "I see, Miss Drake."
+286| 
+287| You say, "Is it entirely possible their course was plotted to scan our fleet and assess its capabilities? And if so, is it possible they could have gained any important information?"
+288| 
+289| Roark says, "Type of ships, concentration, weapons systems. Even the age of them."
+290| 
+291| Simone_Drake lets her frown deepen into a scowl, folding her arms back across her chest. She shakes her head back and forth slightly, "I don't like this at all."
+292| 
+293| Roark nods agreement. The officer sits, waiting.
+294| 
+295| Simone_Drake turns to the officer and asks, "Did we get any information off of their ships, anything at all we can use?"
+296| 
+297| The officer replies, "Well equipped, Miss Drake, with the usual complement of weapons."
+298| 
+299| Simone_Drake just shakes her head again, "Four of those bombers, each with a full compliment of missiles, could easily have taken out the Phoenix. We're talking about 64 concussion missiles in all... " She lets her voice fade out ever so slightly before bringing it back up, "I want the patrols doubled. I want to know if anything even /thinks/ about moving out there, understood?"
+300| 
+301| The officer says quickly, "Yes, Miss Drake," and turns, beginning to pass word.
+302| 
+303| Roark glances to you, raising an eyebrow. "You think they really would try something?"
+304| 
+305| Simone_Drake hesitates a moment, drawing in a breath and letting it out slowly before offering a reply. "I'm not entirely sure, and therein lies the problem. They arrived here with their own agenda, one which they are fairly intent on seeing through. I'm not willing to trust them."
+306| 
+307| Roark nods slowly. "I don't know if we really can stop their agenda if we found it disagreed with us."
+308| 
+309| Simone_Drake nods.. "We might not be able to stop it, but we could put one hell of a dent in it in trying to."
+310| 
+311| Roark says wryly, "I'm not fond of putting dents into fighters with my forehead, Miss Drake, but we'll do what we can."
+312| 
+313| Simone_Drake nods, "I'm going to go speak to Mr. Dillon about this matter immediately, perhaps he can get this cleared up."
+314| 
+315| Roark says, "Of course. I'll be reachable by comlink."
+316| 
+317| Simone_Drake nods, then turns and strides out of the office.
+318| 
+319| [[Category:Logs]]

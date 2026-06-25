@@ -1,0 +1,121 @@
+{
+ "name": "RPlog_Question_Answered",
+ "title": "Question Answered",
+ "summary": "In the towering Library of the Republic on Ord Mantell, the Chyleni officer Kyrin Sh'vani receives unsolicited intelligence from the doctor Lynae Cassius, who passes along sensor data and a flat, final piece of news: Grand Admiral Danik Kreldin is dead, on the word of Darth Malign himself. Lynae makes clear this is not a negotiation and that she wants nothing in return, professing indifference to how history will judge her. Kyrin, masking her surprise, promises to carry the information -- third-hand and of dubious reliability though it is -- to those who can properly assess it and act on it. The brief exchange quietly resolves a lingering question about Kreldin's fate.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  }
+ ]
+}

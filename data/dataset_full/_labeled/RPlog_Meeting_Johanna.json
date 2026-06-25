@@ -1,0 +1,217 @@
+{
+ "name": "RPlog_Meeting_Johanna",
+ "title": "Meeting Johanna",
+ "summary": "In the cramped cargo bay of a ship hauling a captured Jedi for the Grand Admiral, the medic-officer Dareus distributes medpacks and painkillers to the men of the operation while the wounded Master Sergeant Cantrell nurses a serious wound and a cigarette. Their prisoner, the sharp-tongued pilot Johanna, is jammed against the cargo and trades barbed words with her captors when Cantrell asks for her story. Over passed-around whiskey, Dareus speaks bitterly of his ten years on Kessel, and the three spar about the New Republic, madness, and why the powerful Danik takes such interest in Johanna. The uneasy exchange leaves the men puzzling over their valuable, dangerous cargo.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  }
+ ]
+}

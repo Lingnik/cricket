@@ -1,0 +1,139 @@
+{
+  "name": "RPlog_Alois_vs_Maethor",
+  "title": "Alois vs. Maethor",
+  "summary": "Perched on crates beside his Lambda shuttle the Corellian Hope, the aging operative Alois shadows the retired Imperial Stormtrooper Maethor as he steps off a planetary shuttle into a Corellian spaceport. With no real plan, Alois ambushes him, and despite his age proves quick -- but Maethor, a former Royal Guardsman, draws his heavy blaster and the scuffle erupts into a running fight of fists, daggers, blaster bolts, and stun grenades. Alois slashes a nasty gash into Maethor's leg, yet the soldier's resistance training shrugs off the flashbangs as CorSec officers and sirens converge on the much-attacked spaceport. Wounded but relentless, Maethor pursues the fleeing Alois through gas clouds and into the streets, scoring a hit on Alois's blast-vested arm while four CorSec agents close in behind. The brawl ends with both men battered and the law bearing down, Maethor rolling clear of one last lobbed device.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Alois",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Maethor",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

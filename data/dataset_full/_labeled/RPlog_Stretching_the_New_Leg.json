@@ -1,0 +1,121 @@
+{
+ "name": "RPlog_Stretching_the_New_Leg",
+ "title": "Stretching the New Leg",
+ "summary": "Recovering from injuries sustained in an attack on Bespin, the newly healed Grand Moff Johanna Damion is taken by Presav Crestian Tracer to a Biscuit Baron fast-food restaurant on Selene for a casual outing. Over breakfast biscuits and Ardees, the two Imperium leaders discuss the awkwardness of moving through a public space under heavy security, Johanna's lost memories of the explosion, and the troublesome Hutt-space ruler Lorda Nasiri Gejalli and his lightsaber-wielding companion. Their conversation ranges across the politics of slavery abolition, Johanna's personal history on Tatooine, and the diplomatic friction between her domain and her brother Malign's Sith Circle. Crestian closes by formally reporting the measures he took in her absence -- installing an acting Baroness-Administrator, securing the system with fleet assets, and advancing an intelligence investigation that has produced a promising lead tracing casino chips back to establishments near his own space.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Johanna"
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Crestian"
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  }
+ ]
+}

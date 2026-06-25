@@ -1,0 +1,1315 @@
+{
+ "name": "RPlog_SW1_Log_2000-05-21-1",
+ "title": "Planning the Death Star Hunt",
+ "summary": "Aboard the freighter Triton, drifting in the debris field where the planet Gastus was annihilated, the disguised operatives Bazil McKenzie (as Mege Vauki), the NRI agent Kathryn (as Mersche), and the Twi'lek Xanatos take stock of their mission to track down the new Death Star. Bazil recounts witnessing the station obliterate Gastus from the cruise ship Angry Rancor, and admits that the New Republic's own intelligence failed to detect the weapon and that most of their undercover contacts have vanished. The three debate how to proceed, settling on researching prior Death Stars, probing Imperial-friendly systems, and courting other intelligence agencies such as the CSA for cooperation. They divide the labor, with Xanatos volunteering to work diplomatic angles and reach out to the junior representative Eva Sargent, before Bazil jumps the ship to Caspar to begin digging.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Kathryn",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Xanatos",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "name": "RPlog_Serenella_and_Shael-The_Verdict",
+ "title": "Serenella and Shael: The Verdict",
+ "summary": "The New Alderaan courtroom reconvenes before Judge Appel for the verdict in the assault trial of the entertainer Serenella Jordain, with her sister Inanna watching from the back and the juror Raxis L'ygr seated in formal wear, nursing fresh bacta patches. Serenella's perpetually late Toydarian lawyer Tryno flaps in just in time as the jury foreman reads the verdict: guilty. Serenella weakly protests her innocence and is hushed by Tryno and the judge, but Appel spares her jail and fines, sentencing her instead to a year's probation and counseling and rehabilitation at Remembrance Hospital. Relieved there is no prison or fine, Serenella is gathered up by bailiffs to await transport while Inanna promises to bring her things and Tryno departs for his next case, leaving open the option of a costly appeal.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Judge Appel",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Tryno",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Tryno",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Judge Appel",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tryno",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Judge Appel",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Tryno",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Judge Appel",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Tryno",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Judge Appel",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Judge Appel",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Tryno",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "RPlog_An_Unscrupulous_Undertaking_Repercussions",
+  "title": "An Unscrupulous Undertaking: Repercussions",
+  "summary": "Over a degraded holo-transmission, the agent Elias Corentin reports a serious setback to his superior, Duke Aldus Thel, after part of their covert operation proves unreliable. Elias dreads the conversation, knowing the problem was avoidable, and Thel's flickering image radiates cold fury as he demands to know how much the Falleen crime lord has learned. Relieved, Elias confirms the Falleen remains entirely unaware of any Imperial involvement, which mollifies Thel enough to issue new orders: relocate the exchange to Sleheyron, a Hutt slave-trade stronghold, and leave the cover \"Admiral\" to be informed separately. Thel looms forward with a final warning not to fail him a second time, and Elias vows determinedly that he will not before the transmission cuts out. Alone and seething, Elias vents his frustration by smashing his foot through the holo-projector's lens, the glass cutting into him.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+ "name": "RPlog_Raxis_Gets_Pinned",
+ "title": "Raxis Gets Pinned",
+ "summary": "On the day of the Winter Fete, the eager young Second Flight Officer Raxis L'ygr is dressed down in the fighter bay by the gruff First Lieutenant Kesander Beysarus for being 'out of uniform' -- a pretext for a brutal squadron rite of passage. The veteran Sarian pilot Spots steps forward and, with a malicious grin, pins Raxis's earned wings directly through the flesh of his torso, an old-timer's hazing tradition. Refusing to howl, Raxis endures the agony with gritted teeth, earning genuine respect and a crisp salute from both veterans. Welcomed into the squadron as a worthy new addition, the newly-minted pilot is congratulated and invited to join them in the lounge.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Spots",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Spots",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Spots",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Spots",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Spots",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  }
+ ]
+}

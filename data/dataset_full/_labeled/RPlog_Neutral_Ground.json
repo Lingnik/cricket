@@ -1,0 +1,571 @@
+{
+ "name": "RPlog_Neutral_Ground",
+ "title": "Neutral Ground",
+ "summary": "In Lynae Cassius's small cabin on Caspar, the doctor convenes a fraught tea-table summit she has been holding piecemeal: the Jedi ambassador Enb'Zik on one side, and the Sith Lord Malign, going by Tyler, with his evasive maroon-cloaked agent Malif, captain of the Maven, on the other. Over endless cups of tea and clouds of cigarette smoke, the group circles the fate of Dac and its shipyards, the failures of both the Republic and the Empire, and the shadowy outside influence that may be steering the galaxy toward ruin. Enb'Zik refuses to trust the Sith even as he concedes the logic of cooperating, the interim Presav Mahon looking on. The debate spirals without resolution until Enb'Zik agrees to travel with them to Aquarius, tabling the deeper disagreements for the urgent crisis at hand.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  }
+ ]
+}

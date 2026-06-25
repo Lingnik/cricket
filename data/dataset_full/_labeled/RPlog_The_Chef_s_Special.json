@@ -1,0 +1,745 @@
+{
+  "name": "RPlog_The_Chef_s_Special",
+  "title": "The Chef's Special",
+  "summary": "At Axel Vichten's standing table in the Captain's Table restaurant on Caspar, Axel and Doctor Lynae Cassius dine with the newly thawed Sith Malus, formerly Director, Moff, and Emperor Lorn Rhys, who reveals himself across courses of cold soup and blackened fish. Over whiskey the three spar about the stagnant galaxy, the merits of starting a war, and Malus's stated goal of revenge after twenty years in carbonite stasis, with Lynae probing his true wants and resources while Axel demands to know what is in any arrangement for them. Malus repeatedly elevates Lynae's potential while dismissing Axel as a credit-rich boor, escalating the insults until Axel signals his armed staff and patrons to surround the Sith and reveals he knows exactly who Rhys is. Refusing to be a pawn, Axel stands the room down, leaves the pair to finish their meal, and departs to weigh Malus's fate as Grand Inquisitor of the Imperium. Left alone, Lynae tells Malus to prove his capabilities before she will commit, and he sets a rendezvous seven days hence before masking up and departing.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    }
+  ]
+}

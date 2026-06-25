@@ -1,0 +1,1051 @@
+{
+ "name": "RPlog_Blizzard_Baby",
+ "title": "Blizzard Baby",
+ "summary": "In the NR Embassy housing wing in Plaxton City, the heavily pregnant ambassador Ambrosia waits miserably in her quarters amid swirling political rumors as her labor begins. Her husband Tivadar returns from an errand to find her in the early throes, and despite her stubborn insistence that she has no time to give birth, he gently coaxes her toward the hospital, their protocol droid C4 dragging an overpacked bag behind them. They brave the cold, blustery drive to Dr. Tarquin Memorial Hospital, where, many hours later in the maternity ward, Ambrosia rages against the cold and the pain while Tivadar endures her crushing grip and offers what soothing words he can. After a long, exhausting labor, the scene closes as a shrill newborn's cry finally pierces the air.",
+ "rows": [
+  {
+   "line": 8,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 9,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 11,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "C4",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "C4",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "C4",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "C4",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "C4",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Tivadar",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

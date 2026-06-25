@@ -1,0 +1,91 @@
+{
+ "name": "RPlog_Gackt_and_Kreldin",
+ "title": "Gackt and Kreldin",
+ "summary": "In the aftermath of the Corona House shuttle explosion on Imperial-occupied Corellia, the veteran Imperial advisor Danik Kreldin -- tasked with hunting the wounded Jedi Aurejin and luring Mira -- spots the bounty hunter Kyokusha Gackt at the cordoned ruins. Recognizing her from a past encounter on Tatooine, Danik confronts her over a datapad she once stole from him on Selene, demanding an apology and a promise to stay out of trouble. Kyo apologizes but reminds him she once aided him as well, and reveals she has come to Corellia on instinct, hoping to speak with Casus (Jacob) before his coronation despite Warlord Malign's growing influence over him. Danik, now an advisor to Malign and aware of the bounty Malign has placed on Kyo and the Aegis, warns her to be careful but declines to involve himself, then departs to resume his Jedi hunt. Kyo watches him go, reflecting on the shared danger of their respective bounties.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

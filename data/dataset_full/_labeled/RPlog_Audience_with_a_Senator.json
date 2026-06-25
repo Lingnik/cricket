@@ -1,0 +1,139 @@
+{
+  "name": "RPlog_Audience_with_a_Senator",
+  "title": "Audience with a Senator",
+  "summary": "At the bustling government center of New Alderaan, the mercenary Kalna and her strategist companion Gustaf keep their second appointment with Senator Al'Dira to seek Republic support for an uprising on Vandelhelm against the Empire. Kalna lounges casually while Gustaf lays out the hard truth: even if they drive the Empire off, they cannot realistically hold Vandelhelm given its formidable but limited natural defenses. Al'Dira, sympathetic to worlds throwing off Imperial weight, pledges that the Republic never turns away those in need despite its own stretched and choked resources. The three negotiate logistics -- Kalna offers a vessel that can carry fifty units, and Gustaf notes funds from the Vandelhelm Cooperation -- while the Senator promises to consult his military and return within a set timeframe. The audience ends with arrangements for secure, private contact through Gustaf, and Kalna good-naturedly bristling at being called \"Miss\" one too many times.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": true
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Gustaf",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Gustaf",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Gustaf",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Gustaf",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Kalna",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Gustaf",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Al'Dira",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Gustaf",
+      "b": false
+    }
+  ]
+}

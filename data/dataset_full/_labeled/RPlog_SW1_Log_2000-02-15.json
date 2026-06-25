@@ -1,0 +1,349 @@
+{
+ "name": "RPlog_SW1_Log_2000-02-15",
+ "title": "The Doctor With Purple Eyes",
+ "summary": "On the Ship Services deck of the NRSC Deliverance, Commodore Dauthus and Sergeant Kelvis escort the ship's doctor, Lieutenant Jasmine, who has been found sleepwalking again in her nightgown with an unnatural fever and eerie purple-tinged eyes. Jasmine, embarrassed and confused, downplays the episode as mere stress and resists a medical examination, insisting she can dose herself with sleep inducers. Dauthus presses the matter firmly, ultimately relenting to let her return to her quarters but warning that security has orders to drag her to the MedBay if another incident occurs. Kelvis walks her back, noting aloud how her eyes shift between purple and green, and offers to run discreet tests himself, while Jasmine cheerfully dismisses the strange symptom. The pilot Bazil McKenzie passes through, bemused by the odd sight.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Dauthus",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Dauthus",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Dauthus",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Dauthus",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Dauthus",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

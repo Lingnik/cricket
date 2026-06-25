@@ -1,0 +1,685 @@
+{
+ "name": "RPlog_Garat_and_Stalh",
+ "title": "Garat and Stalh",
+ "summary": "In a seedy, smoke-filled cantina, New Republic Navy Lieutenant Garat -- a FleetOps officer nursing a pathological hatred of the Empire -- recognizes the crimson-suited Stalh from anti-Imperial rallies and joins him at the bar. Stalh, a coldly menacing diplomat, steers their drinks-and-dancers small talk toward darker matters, musing about who 'has to die.' He reveals he knows Garat wants a certain one-eyed Imperial woman dead and proposes they act on it together, either bringing her to her knees or ending her once and for all. Unsettled but consumed by his own thirst for revenge, Garat sets aside the New Republic's ideals against cold-blooded murder and, his judgment blurred by anger, repeats Stalh's words back to him in agreement. The scene seals a sinister pact between the two against the Imperial ambassador.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "desc",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "desc",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "desc",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "desc",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "desc",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Stalh",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Garat",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

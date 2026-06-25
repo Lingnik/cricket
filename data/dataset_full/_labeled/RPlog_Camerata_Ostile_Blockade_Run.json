@@ -1,0 +1,265 @@
+{
+ "name": "RPlog_Camerata_Ostile_Blockade_Run",
+ "title": "Camerata Ostile Blockade Run",
+ "summary": "A New Republic freighter, the Camerata Ostile piloted by the smuggler Shael, attempts to run the Imperial blockade of Coruscant with an escort of four Ghost Squadron X-Wings led by Lieutenant Kyrin Sh'vani. The Imperial response is overwhelming: Krieg's Darksword bombers and Loki's TIE flight, backed by Raven's MKII interceptors and the Star Destroyer Broadsword under Captain Lynae Caiton, converge to disable the freighter. As a chaotic dogfight unfolds and a CSA-affiliated light cruiser piloted by Wibble bluffs and then bolts through the blockade to safety, the X-Wing escort is gradually annihilated, with Raven kamikaze-ramming Zulu 5 and the Broadsword's turbolasers picking off the others. Kyrin alone manages to microjump away at the last instant rather than let the Imperials take her crippled ship. Shael's engines are blown out and her freighter is boarded, stripped, and seized; she surrenders and is taken prisoner, while Caiton coldly hurls the gutted hulk on a collision course toward Coruscant as a parting message. The Imperial squadrons form up in victory and return to the Broadsword with their captive.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Loki",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Loki",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Wibble",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Raven",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Wibble",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Raven",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Wibble",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Raven",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Wibble",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Wibble",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  }
+ ]
+}

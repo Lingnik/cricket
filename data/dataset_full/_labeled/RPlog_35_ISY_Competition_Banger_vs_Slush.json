@@ -1,0 +1,691 @@
+{
+  "name": "RPlog_35_ISY_Competition_Banger_vs_Slush",
+  "title": "Banger vs. Slush",
+  "summary": "In the 35 ISY fighter-simulator championship, Flight Officer Liza Molokai, call sign Slush, faces Marshal Krieg Inrokana (Banger), with the stormtrooper Lazrus among the spectators cheering the underdog. Molokai surprises the Marshal early, getting the drop on him and even scoring a hit that delights Lazrus' table, but Krieg quickly recovers and turns the tables with veteran flying. Slush refuses to lay down, pressing reckless, unpredictable attacks that keep the duel dangerous despite her depleting shields. Krieg, wary of her teeth much as he was with Vapor, works methodically to break her down. In the end the Marshal's skill prevails, though Slush earns respect for landing blows on him.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Lazrus",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,1867 @@
+{
+ "name": "RPlog_Revolutions_End",
+ "title": "Revolution's End",
+ "summary": "A massive battle erupts over Nar Shaddaa and Nal Hutta as the Imperial flagship Predator, anchoring a fleet above the Smuggler's Moon, launches dozens of troop ships and fighters down into the atmosphere. The Sith Lord Darth Malign joins the assault personally, leading a black-painted squadron of TIE Interceptors in his X-wing, while New Republic and allied forces -- Luke Skywalker, the smuggler-admiral Axel, Keline, Odion, and Xar'on among them -- rally to oppose the invasion. The swirling space and ground engagement brings a revolution to its bloody close, the Empire and Sith pressing their crushing assault on the Hutt world.",
+ "rows": [
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Odion",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Odion",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": true
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 369,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 393,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 400,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 431,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Odion",
+   "b": true
+  },
+  {
+   "line": 446,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 479,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 502,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 509,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 516,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Xar'on",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 526,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 553,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 565,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 578,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 581,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 597,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 603,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

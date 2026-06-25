@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Ghastly_Gala_Episode_2",
+ "title": "Ghastly Gala: Episode 2",
+ "summary": "Later in Zubindi Hakoon's grotesque gala at Castle Tsabak, the tipsy Tray Garos returns with wine only to nearly collide with the aloof Falleen Ssanyu, then reunites with the holojournalist Nara Rhen. Ssanyu, blunt and emotionless, agrees to a drink on the condition that Tray secure Nara a story worth writing, and openly analyzes Tray's clumsy attempts at seduction in terms of cross-species reproduction, much to Nara's blushing embarrassment. Meanwhile Zubindi works the room offering insect delicacies from the black platters, defending the relativity of taste and beauty as the theme of the party, while his foster daughter Atsvara and the droid V1C3 decline. Tray gamely tries a droch and instantly regrets it, slowly realizing Nara is politely rebuffing his advances. Veruca rejoins the group with wry banter about Caspian cuisine and Zubindi's culinary namesake, rounding out a comic interlude of mismatched flirtation and gourmet grotesquerie.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Tray",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Tray",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Tray",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Tray",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tray",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Tray",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+  "name": "RPlog_An_Unscrupulous_Undertaking_Reporting_In",
+  "title": "An Unscrupulous Undertaking: Reporting In",
+  "summary": "In a command center ringed by humming computer banks, Duke Aldus Thel receives a report from his disciplined intelligence agent Elias Corentin regarding a covert operation run under the cover identity of \"Admiral Operand.\" Aldus notes with satisfaction that the captured crew cost less per head than expected and congratulates the agent, then instructs him to let the Hutts provide the transport vessel since they are already being paid for their services, handing over a code cylinder. Elias outlines a scheme to deceive a particular crewwoman into unknowingly transporting illicit cargo, intending to use the deception as leverage; Aldus cautions that the leverage collapses if she comes clean about being duped, and warns him not to over-complicate the plan. Drawing on their shared expertise as professional saboteurs -- more moving parts mean more chances for failure -- the Duke trims the scheme to its essentials. Elias accepts the guidance, salutes, and departs to set the exchange in motion.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Aldus",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Elias",
+      "b": false
+    }
+  ]
+}

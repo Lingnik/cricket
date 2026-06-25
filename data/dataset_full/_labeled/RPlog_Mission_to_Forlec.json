@@ -1,0 +1,1051 @@
+{
+ "name": "RPlog_Mission_to_Forlec",
+ "title": "Mission to Forlec",
+ "summary": "On the canyon world of Forlec, Admiral Danik Kreldin commands a small temporary Imperial outpost gathering intelligence for a planned invasion of Caspar, defended by two platoons of stormtroopers and assault bombers. When sensors flag an incoming New Republic vessel, Kreldin scrambles his fighters and rouses his troops. Aboard the inbound transport, Colonel Sabrina Rheatis leads a hand-picked SpecOps team of marines, including the veteran Sergeant Stoneface, preparing for a combat drop onto the contested outpost. The log sets the stage for the clash between Kreldin's Imperials and Rheatis's New Republic strike force over the recon base.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "NPC_Lauranne",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Roderick",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jayden",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jayden",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Roderick",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Jayden",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Jayden",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Jayden",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Jayden",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Uriel",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Larin",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Darenak",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

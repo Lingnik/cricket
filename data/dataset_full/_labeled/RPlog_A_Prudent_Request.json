@@ -1,0 +1,163 @@
+{
+  "name": "RPlog_A_Prudent_Request",
+  "title": "A Prudent Request",
+  "summary": "After a violent encounter that left him shot in the shoulder and bloodied, the Presav Crestian arranges over comlink to meet the battered Moff Elana Tracer at the Ride Like the Wind garage on Caspar's Marin Mountain. Finding Tracer seated amid repulsor engine parts with a bacta patch of her own, the two reconnect over their shared love of swoops while easing into political business. They discuss the slow-moving Oppenheimer, the odd Prex, the multicultural needs of Caspar, and the difficult figure of Tyler Damion, with Crestian probing about Tracer's university-age son Ashton and the academic subjects that might make him a natural fit for government. Tracer, working at a green Skyreaver as they talk, gradually realizes Crestian is feeling out her son as a potential asset. The conversation -- equal parts personal warmth and shrewd maneuvering -- ends with Tracer bluntly recognizing the prudent request beneath Crestian's words: that her son is valued.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    }
+  ]
+}

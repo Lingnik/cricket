@@ -1,0 +1,924 @@
+entity,logs_listed,string_matches,logs_w_author,top_author,top_author_share,n_distinct_authors,proposed_player_dbref,confidence,relationship
+Orson Tighe,59,40,59,Jessalyn Valios,1.0,1,3146,high,ext_uploader:Jessalyn Valios
+Paul Nighman,57,83,57,Paul Nighman,0.88,4,,high,self(player)
+Antoine Dareus,55,27,55,Antoine Dareus,0.45,8,,low,self(player)
+Darth Malign,52,151,51,Danik Kreldin,0.22,14,8061,low,ambiguous(co-played)
+Raxis L'ygr,49,20,48,Raxis L'ygr,0.48,13,,low,self(player)
+Ikihsa Enb'Zik,42,67,42,Rasi Praddhan Cen,0.14,19,1050,low,ambiguous(co-played)
+Morganna Tazecks,36,11,36,Morganna Tazecks,0.69,5,,high,self(player)
+Alex Dante,35,5,35,Krieg Inrokana,0.29,15,3692,low,ambiguous(co-played)
+Simone Drake,31,8,31,Simone Drake,0.97,2,,high,self(player)
+Shenneret Veery,31,6,31,Paul Nighman,0.55,6,,med,ext_uploader:Paul Nighman
+Vassily Korolov,30,27,29,Danik Kreldin,0.14,16,8061,low,ambiguous(co-played)
+Gren Delede,28,41,28,Gren Delede,0.43,8,,low,self(player)
+Seifer Wolf,28,12,28,Seifer Wolf,0.14,14,,low,self(player)
+Kesander Beysarus,27,36,26,Raxis L'ygr,0.23,12,,low,ambiguous(co-played)
+Tsaran Joir,26,5,26,Tsaran Joir,1.0,1,,high,self(player)
+Elana Tracer,25,48,25,Crestian Tarasar,0.4,6,5921,low,ambiguous(co-played)
+Atsvara Tarasar,25,9,25,Crestian Tarasar,0.68,4,5921,high,puppet_of:Crestian Tarasar
+Sandor Woden,22,25,22,Danik Kreldin,0.59,10,8061,med,ext_uploader:Danik Kreldin
+Lance Corbet,22,18,22,Krieg Inrokana,0.27,11,3692,low,ambiguous(co-played)
+Vengan Draelis,22,11,22,Vengan Draelis,0.09,17,,low,self(player)
+Geophreigh Smitherbodkins IV,22,6,22,Geophreigh Smitherbodkins IV,0.86,3,,high,self(player)
+Wescal Cantrell,21,3,21,Danik Kreldin,0.38,11,8061,low,ambiguous(co-played)
+Blulurbgloblurb Druze,18,0,18,Crestian Tarasar,0.39,6,5921,low,ambiguous(co-played)
+Shael Edur,17,0,17,Shael Edur,0.35,8,,low,self(player)
+Kuxli,15,493,15,Simone Drake,0.73,3,,high,ext_uploader:Simone Drake
+Veruca Violet,15,48,15,Zubindi Hakoon,0.73,3,4715,high,puppet_of:Zubindi Hakoon
+Aldus Thel,14,29,14,Aldus Thel,0.43,5,,low,self(player)
+Snal'Fashtalli Teague-Ikihsa,14,5,14,Luke Skywalker,0.21,9,2043,low,ambiguous(co-played)
+Xar'on Tanner,14,5,14,Antoine Dareus,0.21,7,,low,ambiguous(co-played)
+Talon Karrde,13,42,13,Jessalyn Valios,0.38,7,3146,low,ambiguous(co-played)
+Shiari Vane,13,11,13,Jaspar Andromidas,0.46,3,4049,low,ambiguous(co-played)
+Inanna Jordain,13,4,8,Krieg Inrokana,0.25,7,3692,low,ambiguous(co-played)
+R2-D2,12,97,12,Luke Skywalker,0.42,5,2043,low,ambiguous(co-played)
+Drayson Honos,12,23,12,Elana Tracer,0.33,5,,low,ambiguous(co-played)
+Gene Malantean,12,2,12,Danik Kreldin,0.42,6,8061,low,ambiguous(co-played)
+ak,11,149,11,Crestian Tarasar,1.0,1,5921,high,ext_uploader:Crestian Tarasar
+Eva Sargent,11,30,11,Bazil McKenzie,0.64,4,9199,high,ext_uploader:Bazil McKenzie
+Mege Vauki,11,28,11,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Aramis Tyrese,11,7,11,Lynae Cassius-Caiton,0.18,9,9311,low,ambiguous(co-played)
+Alistair Al'Dira,11,2,11,Alistair Al'Dira,0.36,5,,low,self(player)
+C-3PO,11,1,11,Simone Drake,0.45,5,,low,ambiguous(co-played)
+Calyx Drogyn,10,14,10,Krieg Inrokana,0.2,9,3692,low,ambiguous(co-played)
+Shenner Veery,10,1,10,Paul Nighman,0.8,2,,high,ext_uploader:Paul Nighman
+Ewan Dain,9,38,9,Ambrosia Delgard,0.44,4,4866,low,ambiguous(co-played)
+Lorn Rhys,9,34,9,Malus,0.56,4,10062,med,ext_uploader:Malus
+Basca Starker,9,11,8,Jessalyn Valios,0.88,2,3146,high,ext_uploader:Jessalyn Valios
+Liora Kovani,9,4,8,Ambrosia Delgard,1.0,1,4866,high,ext_uploader:Ambrosia Delgard
+Ylsa Estrallas,9,2,9,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Ariana Millikin,9,2,9,Paul Nighman,0.56,5,,med,ext_uploader:Paul Nighman
+Alora Antieres,9,1,9,Simone Drake,0.44,4,,low,ambiguous(co-played)
+Sean Dillon,9,1,9,Simone Drake,0.89,2,,high,ext_uploader:Simone Drake
+Ohaotrantak Ostivort,9,1,9,Raxis L'ygr,0.22,8,,low,ambiguous(co-played)
+Tacra,8,261,8,Paul Nighman,0.75,2,,high,ext_uploader:Paul Nighman
+Tand,8,217,8,Paul Nighman,0.75,2,,high,ext_uploader:Paul Nighman
+Dane Noth,8,14,8,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Darth Malus,8,11,8,Malus,1.0,1,10062,high,ext_uploader:Malus
+Tanis Cadell,8,9,8,Tyy'sun Eson,0.38,4,3655,low,ambiguous(co-played)
+Camrath Kizuka,8,6,8,Simon Sezirok,0.38,5,7077,low,ambiguous(co-played)
+Barrien Thrask,8,5,7,Barrien Thrask,0.43,4,,low,self(player)
+Grathix Stur'ttrakath,8,2,8,Paul Nighman,0.62,4,,high,ext_uploader:Paul Nighman
+Sabbathius Osbourne,8,2,8,Simone Drake,0.62,4,,high,ext_uploader:Simone Drake
+David Stone,8,1,8,Lynae Cassius-Caiton,0.38,5,9311,low,ambiguous(co-played)
+Odion Cobb,8,1,8,Krieg Inrokana,0.38,5,3692,low,ambiguous(co-played)
+Xegid Roark,8,1,8,Simone Drake,0.5,2,,med,ext_uploader:Simone Drake
+Chanera Ruai Thorn,8,0,8,Chanera Ruai Thorn,0.88,2,,high,self(player)
+Morlok Adlerson,8,0,8,Morganna Tazecks,0.75,2,,high,ext_uploader:Morganna Tazecks
+Shenner,7,3305,7,Jessalyn Valios,0.43,3,3146,low,ambiguous(co-played)
+Aurejin,7,426,7,Jessalyn Valios,0.71,3,3146,high,ext_uploader:Jessalyn Valios
+Miranda Jabs,7,29,7,Geophreigh Smitherbodkins IV,1.0,1,,high,ext_uploader:Geophreigh Smitherbodkins IV
+Kracen Ecks,7,10,7,Kracen Ecks,0.71,2,,high,self(player)
+Thomas Mahon,7,10,7,Axel Vichten,0.14,7,9768,low,ambiguous(co-played)
+Vextin Mandor,7,8,7,Krieg Inrokana,0.43,5,3692,low,ambiguous(co-played)
+Shael Winters,7,4,7,Kyrin Sh'vani,0.14,7,9395,low,ambiguous(co-played)
+Javin Mitali,7,3,7,Kyrin Sh'vani,0.43,4,9395,low,ambiguous(co-played)
+Brin Harper,7,3,7,Rasi Praddhan Cen,0.57,3,1050,med,ext_uploader:Rasi Praddhan Cen
+Auxin Valerius,7,2,7,Auxin Valerius,0.57,3,,med,self(player)
+Moralis Rodriga,7,2,7,Danik Kreldin,0.57,3,8061,med,ext_uploader:Danik Kreldin
+Salty Jack (Jaqen H'gar),7,0,7,Billious Qarrack,1.0,1,,high,ext_uploader:Billious Qarrack
+Violet Allure,7,0,7,Violet Allure,0.71,3,,high,self(player)
+Urio'kosh,6,251,6,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Kacela,6,193,6,Simon Sezirok,0.83,2,7077,high,ext_uploader:Simon Sezirok
+Kelvis,6,106,6,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Drorq,6,52,6,Crestian Tarasar,0.67,3,5921,high,ext_uploader:Crestian Tarasar
+V1C3,6,35,6,Crestian Tarasar,0.67,2,5921,high,puppet_of:Crestian Tarasar
+Darenak Alesis,6,5,6,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Jonau Diggs,6,5,6,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Chantinelle Thistleborn,6,3,6,Tsaran Joir,0.33,5,,low,ambiguous(co-played)
+Jeralic Mandragon,6,1,6,Paul Nighman,0.5,2,,med,ext_uploader:Paul Nighman
+Taggor Bren,6,1,6,Tsaran Joir,0.5,4,,med,ext_uploader:Tsaran Joir
+Galatea Demor,6,0,6,Rasi Praddhan Cen,0.5,4,1050,med,ext_uploader:Rasi Praddhan Cen
+Barnacle Bill (Billious Qarrack),6,0,6,Billious Qarrack,1.0,1,,high,ext_uploader:Billious Qarrack
+Gial Ackbar,6,0,6,Rasi Praddhan Cen,0.33,5,1050,low,ambiguous(co-played)
+Winter Retrac,6,0,6,Leia Organa Solo,0.83,2,3147,high,ext_uploader:Leia Organa Solo
+Vauki,5,196,5,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Vek,5,117,5,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Lelila,5,74,5,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Sentinel,5,62,5,Elana Tracer,0.6,3,,high,ext_uploader:Elana Tracer
+Xanatos,5,48,5,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Joshua Arands,5,11,5,Bazil McKenzie,0.6,3,9199,high,ext_uploader:Bazil McKenzie
+Dorian Navtilos,5,6,4,Krieg Inrokana,0.75,2,3692,high,ext_uploader:Krieg Inrokana
+Seth Skyler,5,6,5,Lynae Cassius-Caiton,0.4,4,9311,low,ambiguous(co-played)
+Ernest Pallando,5,5,5,Jessalyn Valios,0.6,3,3146,high,ext_uploader:Jessalyn Valios
+Longinus Van Sen,5,5,5,Crestian Tarasar,0.8,2,5921,high,ext_uploader:Crestian Tarasar
+Etiel te Danaan,5,4,5,Crestian Tarasar,0.6,2,5921,high,ext_uploader:Crestian Tarasar
+Giles Vermillion,5,2,5,Simone Drake,0.6,3,,high,ext_uploader:Simone Drake
+Evir Yissik,5,2,5,Danik Kreldin,0.8,2,8061,high,ext_uploader:Danik Kreldin
+Han'bel Eckhart,5,1,5,Siarra Krell,0.6,3,6898,high,ext_uploader:Siarra Krell
+Kaitlin Mainwaring,5,1,5,Antoine Dareus,0.6,3,,high,ext_uploader:Antoine Dareus
+Damien Loki Katon,5,1,5,Kyrin Sh'vani,0.2,5,9395,low,ambiguous(co-played)
+Maethor Savage,5,0,5,Danik Kreldin,0.8,2,8061,high,ext_uploader:Danik Kreldin
+Sarai Litve,5,0,5,Krieg Inrokana,0.4,4,3692,low,ambiguous(co-played)
+Heinrich Stalh,5,0,5,Tsaran Joir,0.4,3,,low,ambiguous(co-played)
+Leyanne Zion,5,0,5,Jared Starwind,0.6,3,9707,high,ext_uploader:Jared Starwind
+Kairne Saa'thul,5,0,5,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Hate Sarray,5,0,5,Antoine Dareus,0.6,2,,high,ext_uploader:Antoine Dareus
+Shael,4,507,0,,0,0,,none,no_author_signal
+Tarlin,4,87,4,Tsaran Joir,0.75,2,,high,ext_uploader:Tsaran Joir
+Tarrin,4,76,4,Jessalyn Valios,0.75,2,3146,high,ext_uploader:Jessalyn Valios
+Kathryn,4,74,4,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Lepidoptera,4,41,0,,0,0,,none,no_author_signal
+Zaalbacca,4,32,4,Crestian Tarasar,0.5,3,5921,med,ext_uploader:Crestian Tarasar
+Ramyxth,4,31,0,,0,0,,none,no_author_signal
+Grizz,4,18,4,Billious Qarrack,1.0,1,,high,ext_uploader:Billious Qarrack
+Bavon Nass,4,17,4,Tokoga,1.0,1,8189,high,ext_uploader:Tokoga
+Sha Dark,4,8,4,Crestian Tarasar,0.5,3,5921,med,ext_uploader:Crestian Tarasar
+Bacharan Valak,4,7,4,Jessalyn Valios,0.75,2,3146,high,ext_uploader:Jessalyn Valios
+Salin Fawzy,4,6,4,Crestian Tarasar,0.75,2,5921,high,ext_uploader:Crestian Tarasar
+Tak Dagon,4,5,4,Twila Virda,0.25,4,9990,low,ambiguous(co-played)
+Amaya Halos,4,4,4,Ambrosia Delgard,1.0,1,4866,high,ext_uploader:Ambrosia Delgard
+Gustaf Heram,4,3,4,Rasi Praddhan Cen,1.0,1,1050,high,ext_uploader:Rasi Praddhan Cen
+Antal Brencis,4,2,4,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Asli Nayana,4,2,4,Gimel Daleth,0.5,3,,med,ext_uploader:Gimel Daleth
+Lon Cotar,4,1,4,Antoine Dareus,0.75,2,,high,ext_uploader:Antoine Dareus
+Avalyshaar Dusten,4,1,4,Jessalyn Valios,0.75,2,3146,high,ext_uploader:Jessalyn Valios
+Tarkis Kayl'bre,4,1,4,Rasi Praddhan Cen,0.5,3,1050,med,ext_uploader:Rasi Praddhan Cen
+Kadgie Rodo,4,1,4,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Silvin Katrar,4,1,4,Tyy'sun Eson,0.75,2,3655,high,ext_uploader:Tyy'sun Eson
+Lemos Ackinbrac,4,1,4,Lemos Ackinbrac,0.5,3,,med,self(player)
+Siva Chantillis,4,1,4,Tyy'sun Eson,0.75,2,3655,high,ext_uploader:Tyy'sun Eson
+Celo'gnaritas'Subnoto,4,0,4,Danik Kreldin,0.5,3,8061,med,ext_uploader:Danik Kreldin
+Turk Avid,4,0,4,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+"Beaubos ""Skeezix"" Calhoun",4,0,4,Jessalyn Valios,0.75,2,3146,high,ext_uploader:Jessalyn Valios
+Labatiel Atrox,4,0,4,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Sidina Renard,4,0,4,Tyy'sun Eson,0.75,2,3655,high,ext_uploader:Tyy'sun Eson
+Ona Rei Delamont,4,0,4,Antoine Dareus,0.75,2,,high,ext_uploader:Antoine Dareus
+Ranma Hoshiakarui,4,0,4,Rasi Praddhan Cen,0.5,3,1050,med,ext_uploader:Rasi Praddhan Cen
+Via Tyche,4,0,4,Antoine Dareus,0.75,2,,high,ext_uploader:Antoine Dareus
+Beaubos Calhoun,4,0,4,Paul Nighman,0.5,3,,med,ext_uploader:Paul Nighman
+Cubitt Tethes,4,0,4,Gren Delede,0.5,2,,med,ext_uploader:Gren Delede
+Dareus,3,1832,2,Lynae Cassius,0.5,2,9311,med,ext_uploader:Lynae Cassius
+Skeezix,3,247,3,Bazil McKenzie,0.67,2,9199,high,ext_uploader:Bazil McKenzie
+Kintor,3,141,3,Danik Kreldin,0.67,2,8061,high,ext_uploader:Danik Kreldin
+Jusre,3,120,3,Simone Drake,1.0,1,,high,ext_uploader:Simone Drake
+Poguala,3,107,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Wes,3,96,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Ilyana,3,89,3,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Kian,3,84,3,Paul Nighman,0.67,2,,high,ext_uploader:Paul Nighman
+Jairen,3,80,3,Tsaran Joir,0.33,3,,low,ambiguous(co-played)
+Jasmine,3,74,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Dylan,3,66,3,Tyy'sun Eson,0.67,2,3655,high,ext_uploader:Tyy'sun Eson
+Selektah,3,66,3,Tsaran Joir,0.33,3,,low,ambiguous(co-played)
+Khirsah,3,53,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Lehec,3,51,3,Jessalyn Valios,1.0,1,3146,high,ext_uploader:Jessalyn Valios
+Zalla,3,50,3,Siarra Krell,1.0,1,6898,high,ext_uploader:Siarra Krell
+Kaein,3,47,3,Tsaran Joir,0.67,2,,high,ext_uploader:Tsaran Joir
+Mersche,3,46,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Auo,3,39,3,Twila Virda,1.0,1,9990,high,ext_uploader:Twila Virda
+Whitney,3,36,3,Shenneret Veery,1.0,1,,high,ext_uploader:Shenneret Veery
+Aerilaya,3,34,3,Tsaran Joir,0.33,3,,low,ambiguous(co-played)
+Avitar,3,31,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Euphoria,3,29,3,Crestian Tarasar,0.67,2,5921,high,puppet_of:Crestian Tarasar
+Kierv,3,22,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Raj,3,20,3,Shenneret Veery,0.67,2,,high,ext_uploader:Shenneret Veery
+Ash Seneal,3,19,3,Jessalyn Valios,1.0,1,3146,high,ext_uploader:Jessalyn Valios
+2SK-MI,3,13,3,Jessalyn Valios,1.0,1,3146,high,ext_uploader:Jessalyn Valios
+Drocal Arconen,3,11,3,Tsaran Joir,0.33,3,,low,ambiguous(co-played)
+Kegren'Te,3,9,3,Kegren'Te,0.33,3,,low,self(player)
+Liuz Bogumil,3,7,3,Jal'Dana Rall,0.33,3,8802,low,ambiguous(co-played)
+Sonja Damion,3,7,3,Crestian Tarasar,0.67,2,5921,high,ext_uploader:Crestian Tarasar
+Naten Bonrue,3,6,3,Axel Vichten,0.67,2,9768,high,ext_uploader:Axel Vichten
+Molari Canto,3,6,3,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Jamon Grendine,3,5,3,Lynae Cassius,0.33,3,9311,low,ambiguous(co-played)
+Janos Audron,3,4,3,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Phair Kreiss,3,4,3,Jal'Dana Rall,0.67,2,8802,high,ext_uploader:Jal'Dana Rall
+Hase Stargazer,3,3,3,Kyrin Sh'vani,0.67,2,9395,high,ext_uploader:Kyrin Sh'vani
+Venus Darkstar,3,2,3,Tsaran Joir,1.0,1,,high,ext_uploader:Tsaran Joir
+Aubrey Saralyn,3,2,3,Cort Stasus,0.67,2,11999,high,ext_uploader:Cort Stasus
+Paris Sieara,3,2,3,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Greiko Lornan,3,2,3,Danik Kreldin,0.33,3,8061,low,ambiguous(co-played)
+Kensle Gradvitz,3,2,3,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Howie Darklighter,3,1,3,Bazil McKenzie,0.67,2,9199,high,ext_uploader:Bazil McKenzie
+Cordelia Nivhya,3,1,3,Ambrosia,0.67,2,4866,high,ext_uploader:Ambrosia
+Crystal Keldahoff,3,1,3,Danik Kreldin,0.67,2,8061,high,ext_uploader:Danik Kreldin
+Marl Jace,3,1,2,Rasi Praddhan Cen,0.5,2,1050,med,ext_uploader:Rasi Praddhan Cen
+Runther DeMagna,3,1,3,Simone Drake,1.0,1,,high,ext_uploader:Simone Drake
+Poguala Waaris-Dawntreader,3,1,3,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Jaqen H'gar,3,1,3,Billious Qarrack,1.0,1,,high,ext_uploader:Billious Qarrack
+Octavian Dibar,3,0,3,Danik Kreldin,0.33,3,8061,low,ambiguous(co-played)
+Tellain Rockflyer,3,0,3,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Sally Carol,3,0,3,Billious Qarrack,1.0,1,,high,ext_uploader:Billious Qarrack
+Matthew Fox,3,0,3,Tsaran Joir,0.33,3,,low,ambiguous(co-played)
+Ara te Danaan,3,0,3,Ambrosia Delgard,0.33,3,4866,low,ambiguous(co-played)
+Nubudo Bakrak,3,0,3,Lynae,0.67,2,9311,high,ext_uploader:Lynae
+Oren Balak,3,0,3,Twila Virda,1.0,1,9990,high,ext_uploader:Twila Virda
+Tarin Pellegar,3,0,3,Rasi Praddhan Cen,0.67,2,1050,high,ext_uploader:Rasi Praddhan Cen
+Ezkhil i'Falzin,3,0,3,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Morganna,2,1595,2,Jessalyn Valios,0.5,2,3146,med,ext_uploader:Jessalyn Valios
+Leamer,2,167,2,Jessalyn Valios,0.5,2,3146,med,ext_uploader:Jessalyn Valios
+Ackbar,2,147,2,Kyrin Sh'vani,0.5,2,9395,med,ext_uploader:Kyrin Sh'vani
+Howie,2,134,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Coreshan,2,114,2,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Sethas,2,102,2,Danik Kreldin,0.5,2,8061,med,ext_uploader:Danik Kreldin
+Thanos,2,100,2,Antoine Dareus,1.0,1,,high,ext_uploader:Antoine Dareus
+Lucky,2,99,2,Simon Sezirok,1.0,1,7077,high,ext_uploader:Simon Sezirok
+Clarise,2,93,2,Tsaran Joir,0.5,2,,med,ext_uploader:Tsaran Joir
+Krinko,2,92,2,Jessalyn Valios,0.5,2,3146,med,ext_uploader:Jessalyn Valios
+Ara,2,79,2,Chanera Ruai Thorn,0.5,2,,med,ext_uploader:Chanera Ruai Thorn
+Ariani,2,67,2,Tsaran Joir,0.5,2,,med,ext_uploader:Tsaran Joir
+Swanstee,2,66,2,Paul Nighman,0.5,2,,med,ext_uploader:Paul Nighman
+Vanilla,2,64,2,Zubindi Hakoon,1.0,1,4715,high,puppet_of:Zubindi Hakoon
+Ayaka,2,62,2,Ewan Dain,1.0,1,,high,ext_uploader:Ewan Dain
+Crimthan,2,57,2,Jessalyn Valios,0.5,2,3146,med,ext_uploader:Jessalyn Valios
+Tryno,2,54,2,Lolkje,1.0,1,,high,ext_uploader:Lolkje
+Imriel,2,53,2,Krieg Inrokana,1.0,1,3692,high,ext_uploader:Krieg Inrokana
+Kithan,2,51,2,Tokoga,1.0,1,8189,high,ext_uploader:Tokoga
+Inoga,2,49,2,Simone Drake,1.0,1,,high,ext_uploader:Simone Drake
+Fay,2,48,2,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Defcon,2,47,2,Tsaran Joir,0.5,2,,med,ext_uploader:Tsaran Joir
+Naldo,2,44,2,Tsaran Joir,0.5,2,,med,ext_uploader:Tsaran Joir
+Mitra,2,44,2,Malus,1.0,1,10062,high,ext_uploader:Malus
+Scrat,2,40,2,Gren Delede,0.5,2,,med,ext_uploader:Gren Delede
+Bourne,2,40,2,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Feylin,2,40,2,Bazil McKenzie,0.5,2,9199,med,ext_uploader:Bazil McKenzie
+Russel,2,39,2,Simone Drake,0.5,2,,med,ext_uploader:Simone Drake
+Sinter,2,37,2,Gimel Daleth,1.0,1,,high,ext_uploader:Gimel Daleth
+Whorus,2,37,2,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Darth Venger,2,36,2,Geophreigh Smitherbodkins IV,0.5,2,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Shovadu,2,35,2,Raxis L'ygr,0.5,2,,med,ext_uploader:Raxis L'ygr
+Ryder,2,35,2,Seifer Wolf,0.5,2,,med,ext_uploader:Seifer Wolf
+Bruno,2,34,2,Inanna Jordain,0.5,2,,med,ext_uploader:Inanna Jordain
+Coreen,2,32,2,Jessalyn Valios,1.0,1,3146,high,ext_uploader:Jessalyn Valios
+Meissa,2,31,2,Geophreigh Smitherbodkins IV,1.0,1,,high,ext_uploader:Geophreigh Smitherbodkins IV
+Shoburhynn,2,29,2,Tyy'sun Eson,0.5,2,3655,med,ext_uploader:Tyy'sun Eson
+Merk,2,29,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Loraiil,2,29,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Munch,2,28,2,Billious Qarrack,0.5,2,,med,ext_uploader:Billious Qarrack
+Toryn,2,27,2,Jessalyn Valios,1.0,1,3146,high,ext_uploader:Jessalyn Valios
+Alder,2,27,2,Leia Organa Solo,0.5,2,3147,med,ext_uploader:Leia Organa Solo
+Kyyiriiwur,2,23,2,Tyy'sun Eson,0.5,2,3655,med,ext_uploader:Tyy'sun Eson
+Colin,2,23,2,Simon Sezirok,1.0,1,7077,high,ext_uploader:Simon Sezirok
+Mitler,2,22,1,Raxis L'ygr,1.0,1,,med,ext_uploader:Raxis L'ygr
+Lavender,2,21,2,Luke Skywalker,0.5,2,2043,med,ext_uploader:Luke Skywalker
+Methos,2,21,2,Simone Drake,0.5,2,,med,ext_uploader:Simone Drake
+Ressec,2,21,2,Tsaran Joir,1.0,1,,high,ext_uploader:Tsaran Joir
+Toby,2,20,2,Bazil McKenzie,0.5,2,9199,med,ext_uploader:Bazil McKenzie
+Reveal,2,20,2,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Shintu,2,18,2,Gimel Daleth,1.0,1,,high,ext_uploader:Gimel Daleth
+Ephant Mon,2,17,2,Ephant Mon,1.0,1,,high,self(player)
+Fortune,2,16,2,Jonas,1.0,1,11782,high,ext_uploader:Jonas
+Andra,2,15,2,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Geroam,2,14,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Rassa,2,12,2,Simone Drake,1.0,1,,high,ext_uploader:Simone Drake
+Joworral,2,12,2,Antoine Dareus,1.0,1,,high,ext_uploader:Antoine Dareus
+Imral,2,12,2,Zrak'Hroun,1.0,1,,high,ext_uploader:Zrak'Hroun
+Crix Madine,2,11,2,Kyrin Sh'vani,0.5,2,9395,med,ext_uploader:Kyrin Sh'vani
+Admiral Harkenson,2,11,2,Vextin Mandor,1.0,1,,high,ext_uploader:Vextin Mandor
+Dracolysk,2,11,2,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Sirlahn Inglet,2,8,2,Johanna Siri te Danaan,0.5,2,9407,med,ext_uploader:Johanna Siri te Danaan
+Sidra,2,8,2,Simon Sezirok,1.0,1,7077,high,ext_uploader:Simon Sezirok
+Kestryan du Bracc,2,7,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Mara Shinomiya,2,6,2,Geophreigh Smitherbodkins IV,0.5,2,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Kitterick Brandis Finian,2,6,2,Danik Kreldin,0.5,2,8061,med,ext_uploader:Danik Kreldin
+Aleister Vadim,2,6,2,Luke Skywalker,1.0,1,2043,high,ext_uploader:Luke Skywalker
+Seth Senesca,2,6,2,Luke Skywalker,0.5,2,2043,med,ext_uploader:Luke Skywalker
+Cernious Vry'lya,2,6,2,Athena,0.5,2,7787,med,ext_uploader:Athena
+Simetha,2,6,2,Danik Kreldin,0.5,2,8061,med,ext_uploader:Danik Kreldin
+Devyn,2,5,2,Shenneret Veery,1.0,1,,high,ext_uploader:Shenneret Veery
+Nelle,2,5,2,Crestian Tarasar,1.0,1,5921,high,ext_uploader:Crestian Tarasar
+Anatoli Black,2,5,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+TC-81,2,5,2,Ambrosia Delgard,1.0,1,4866,high,ext_uploader:Ambrosia Delgard
+Ven Secura,2,5,2,Lynae Cassius,0.5,2,9311,med,ext_uploader:Lynae Cassius
+Agent McKenna,2,4,2,Korynn Fleming,1.0,1,11044,high,ext_uploader:Korynn Fleming
+Jalek Helion,2,4,2,Twila Virda,0.5,2,9990,med,ext_uploader:Twila Virda
+Doril Farnsworth,2,4,2,Valerius,0.5,2,418,med,ext_uploader:Valerius
+Jalek Wessiri,2,4,2,Axel Vichten,0.5,2,9768,med,ext_uploader:Axel Vichten
+Dises Diaglo,2,4,2,Lynae Cassius-Caiton,0.5,2,9311,med,ext_uploader:Lynae Cassius-Caiton
+Jordaan Mag,2,4,2,Johanna Siri te Danaan,0.5,2,9407,med,ext_uploader:Johanna Siri te Danaan
+Lara Grayson,2,3,2,Jessalyn Valios,0.5,2,3146,med,ext_uploader:Jessalyn Valios
+Jakys Vry'lya,2,3,2,Ewan Dain,1.0,1,,high,ext_uploader:Ewan Dain
+Aned Kirkland,2,3,2,Lynae,0.5,2,9311,med,ext_uploader:Lynae
+Latar Zaff,2,3,2,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Luther Syss,2,3,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Brackett Benduday,2,3,2,Crestian Tarasar,1.0,1,5921,high,ext_uploader:Crestian Tarasar
+Nachkt'lyysk,2,3,2,Ambrosia Delgard,1.0,1,4866,high,ext_uploader:Ambrosia Delgard
+Wilhelm Krieger,2,3,2,Danik Kreldin,0.5,2,8061,med,ext_uploader:Danik Kreldin
+Vorn Paro,2,2,2,Simon Sezirok,0.5,2,7077,med,ext_uploader:Simon Sezirok
+Sharidan Hrackniss,2,2,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Ullo the Hutt,2,2,2,Paul Nighman,1.0,1,,high,ext_uploader:Paul Nighman
+Kelvis Aquatica,2,2,2,Bazil McKenzie,0.5,2,9199,med,ext_uploader:Bazil McKenzie
+Blake Hishinko,2,2,2,Kyrin Sh'vani,0.5,2,9395,med,ext_uploader:Kyrin Sh'vani
+Varin Rall,2,2,2,Rasi Praddhan Cen,1.0,1,1050,high,ext_uploader:Rasi Praddhan Cen
+Lahn,2,2,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+Quaye Oswent,2,2,2,Zubindi Hakoon,0.5,2,4715,med,ext_uploader:Zubindi Hakoon
+Billious Qarrack,2,2,2,Billious Qarrack,1.0,1,,high,self(player)
+Irascius Quirn,2,2,2,Bazil McKenzie,1.0,1,9199,high,ext_uploader:Bazil McKenzie
+A. Peltoo Appel,2,2,2,Lolkje,1.0,1,,high,ext_uploader:Lolkje
+Benjamin Jawatha,2,2,2,Tsaran Joir,0.5,2,,med,ext_uploader:Tsaran Joir
+Valkyr Tenebre,2,2,2,Arise Omondra,1.0,1,7341,high,ext_uploader:Arise Omondra
+Holden Deckherd,2,2,2,Billious Qarrack,0.5,2,,med,ext_uploader:Billious Qarrack
+Askra Sho'bre,2,1,2,Raxis L'ygr,1.0,1,,high,ext_uploader:Raxis L'ygr
+Solomon Fields,2,1,2,Aldus Thel,1.0,1,,high,ext_uploader:Aldus Thel
+Ivanil Sandomere,2,1,2,Tokoga,1.0,1,8189,high,ext_uploader:Tokoga
+Laivin Quix,2,1,2,Ambrosia Delgard,0.5,2,4866,med,ext_uploader:Ambrosia Delgard
+Raika Navar,2,1,2,Zrak'Hroun,1.0,1,,high,ext_uploader:Zrak'Hroun
+Eryk Zephron,2,1,2,Morganna Tazecks,0.5,2,,med,ext_uploader:Morganna Tazecks
+Airion Cimber,2,1,2,Doron Rtufo,0.5,2,,med,ext_uploader:Doron Rtufo
+Grymm Selcan,2,1,2,Danik Kreldin,0.5,2,8061,med,ext_uploader:Danik Kreldin
+Ashby Williams,2,1,2,Sabrina Rheatis,0.5,2,8223,med,ext_uploader:Sabrina Rheatis
+Baedan Mirhoz,2,1,2,Danik Kreldin,1.0,1,8061,high,ext_uploader:Danik Kreldin
+Lyrik Welkar,2,1,2,Raxis L'ygr,1.0,1,,high,ext_uploader:Raxis L'ygr
+Jorj Brinaj,2,1,2,Antoine Dareus,1.0,1,,high,ext_uploader:Antoine Dareus
+Dalek Rolynd,2,1,2,Leia Organa Solo,0.5,2,3147,med,ext_uploader:Leia Organa Solo
+Seamus Doherty,2,1,2,Luke Skywalker,1.0,1,2043,high,ext_uploader:Luke Skywalker
+Sonny Wuv Traa,2,0,2,Gren Delede,1.0,1,,high,ext_uploader:Gren Delede
+Graden Transal,2,0,2,Gren Delede,1.0,1,,high,ext_uploader:Gren Delede
+Eithne Damia Tamesis,2,0,2,Antoine Dareus,1.0,1,,high,ext_uploader:Antoine Dareus
+Kitty (Kit),2,0,2,Billious Qarrack,1.0,1,,high,ext_uploader:Billious Qarrack
+Hawke Taren,2,0,2,Morganna Tazecks,0.5,2,,med,ext_uploader:Morganna Tazecks
+Rei'yak Caridla,2,0,2,Krieg Inrokana,1.0,1,3692,high,ext_uploader:Krieg Inrokana
+Aaden'maal Baeyal,2,0,2,Ambrosia Delgard,0.5,2,4866,med,ext_uploader:Ambrosia Delgard
+Leebo Krupt,2,0,2,Paul Nighman,0.5,2,,med,ext_uploader:Paul Nighman
+Caliph Ashirael Rhannak,2,0,2,Ambrosia Delgard,1.0,1,4866,high,ext_uploader:Ambrosia Delgard
+Vyal Ruathen,2,0,2,Geophreigh Smitherbodkins IV,1.0,1,,high,ext_uploader:Geophreigh Smitherbodkins IV
+Jindra Langri,2,0,2,Morganna Tazecks,1.0,1,,high,ext_uploader:Morganna Tazecks
+Khanar Stryker,2,0,2,Axel Vichten,1.0,1,9768,high,ext_uploader:Axel Vichten
+Gillian Lasel,2,0,2,Antoine Dareus,0.5,2,,med,ext_uploader:Antoine Dareus
+Cortheon Jarrett,2,0,2,Siarra Krell,1.0,1,6898,high,ext_uploader:Siarra Krell
+Rainier Aiden Maximilian,2,0,2,Tokoga,0.5,2,8189,med,ext_uploader:Tokoga
+Alina te Danaan,2,0,2,Crestian Tarasar,0.5,2,5921,med,ext_uploader:Crestian Tarasar
+Jek Mirden,2,0,2,Vextin Mandor,0.5,2,,med,ext_uploader:Vextin Mandor
+Cassie Monoseer,2,0,2,Danik Kreldin,0.5,2,8061,med,ext_uploader:Danik Kreldin
+Racra Krullrusc,2,0,2,Tyy'sun Eson,1.0,1,3655,high,ext_uploader:Tyy'sun Eson
+Vito Zarl,2,0,2,Morganna Tazecks,0.5,2,,med,ext_uploader:Morganna Tazecks
+Paulus Lazrus,2,0,2,Krieg Inrokana,1.0,1,3692,high,ext_uploader:Krieg Inrokana
+Jarl Rellik,2,0,2,Jessalyn Valios,0.5,2,3146,med,ext_uploader:Jessalyn Valios
+Lotus Blackpool,2,0,2,Simone Drake,1.0,1,,high,ext_uploader:Simone Drake
+Aranzael Moyat,2,0,2,Rasi Praddhan Cen,0.5,2,1050,med,ext_uploader:Rasi Praddhan Cen
+Ashden Keldrona,2,0,2,Krieg Inrokana,0.5,2,3692,med,ext_uploader:Krieg Inrokana
+Doron Rtufo,2,0,2,Simone Drake,1.0,1,,high,ext_uploader:Simone Drake
+Decrevi Cristescu,2,0,2,Ja'casha,0.5,2,,med,ext_uploader:Ja'casha
+Zrak'Hroun,2,0,2,Zrak'Hroun,1.0,1,,high,self(player)
+Piper,1,746,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Dante,1,615,0,,0,0,,none,no_author_signal
+Vengan,1,545,0,,0,0,,none,no_author_signal
+Caiton,1,378,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Alistair,1,245,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Kyo,1,216,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Vermillion,1,193,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Di'anCecht,1,170,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Kaitlin,1,141,1,Ewan Dain,1.0,1,,med,ext_uploader:Ewan Dain
+Priti,1,124,1,Cort Stasus,1.0,1,11999,med,ext_uploader:Cort Stasus
+Dionysis,1,105,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Burrachacca,1,105,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Racra,1,89,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Breecia,1,87,1,Jamon Grendine,1.0,1,,med,ext_uploader:Jamon Grendine
+Shikh,1,86,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Keifan,1,81,0,,0,0,,none,no_author_signal
+Siva,1,74,1,Violet Allure,1.0,1,,med,ext_uploader:Violet Allure
+N'Saldon,1,71,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Kendell,1,64,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Prashk,1,63,1,Athena,1.0,1,7787,med,ext_uploader:Athena
+Harlock,1,61,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Maethor,1,59,0,,0,0,,none,no_author_signal
+Steyl,1,59,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Soren,1,56,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Loki,1,56,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Mojo,1,56,1,Athena,1.0,1,7787,med,ext_uploader:Athena
+Raven,1,54,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Halo,1,53,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Crystal,1,50,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Jarin,1,50,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Scar,1,45,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Terrin,1,43,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Paladin,1,40,1,Tyler Damion,1.0,1,3751,med,ext_uploader:Tyler Damion
+Halos,1,40,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Lila,1,39,1,Inanna Jordain,1.0,1,,med,ext_uploader:Inanna Jordain
+Aren,1,38,1,Sabrina Rheatis,1.0,1,8223,med,ext_uploader:Sabrina Rheatis
+Satine,1,36,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Singe,1,36,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Raver,1,35,1,Axel Vichten,1.0,1,9768,med,ext_uploader:Axel Vichten
+Durjan,1,35,1,Auxin Valerius,1.0,1,,med,ext_uploader:Auxin Valerius
+Stail,1,35,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Quick,1,34,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Maelle,1,33,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Ahkaurakh,1,32,1,Luke Skywalker,1.0,1,2043,med,ext_uploader:Luke Skywalker
+Yadumu,1,31,1,K'tyyri Tarashabi,1.0,1,3768,med,ext_uploader:K'tyyri Tarashabi
+Lokus,1,31,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Machkeu,1,31,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Sid,1,31,1,Adam Shadow,1.0,1,11813,med,ext_uploader:Adam Shadow
+Ayra,1,30,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Dagon,1,30,1,67.184.5.213,1.0,1,,med,ext_uploader:67.184.5.213
+Xanthe,1,29,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Maxxen,1,29,1,Inanna Jordain,1.0,1,,med,ext_uploader:Inanna Jordain
+Kora,1,29,1,Adam Shadow,1.0,1,11813,med,ext_uploader:Adam Shadow
+Lanthazar,1,29,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Ghost 8,1,29,1,Jonas,1.0,1,11782,med,ext_uploader:Jonas
+Sneer,1,29,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Vix,1,28,1,Malus,1.0,1,10062,med,ext_uploader:Malus
+Armstrong,1,28,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Rodo,1,26,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Quila,1,26,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Cole,1,26,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Tantrix,1,25,1,Drax Rendolen,1.0,1,4373,med,ext_uploader:Drax Rendolen
+Cheko,1,25,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Ricoar,1,25,1,Gren Delede,1.0,1,,med,ext_uploader:Gren Delede
+Zarcane,1,25,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Uriel,1,24,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Kain,1,24,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Winthrop,1,24,1,Billious Qarrack,1.0,1,,med,ext_uploader:Billious Qarrack
+Dawn,1,24,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Captain Diggs,1,24,1,Han,1.0,1,1491,med,ext_uploader:Han
+Verin,1,24,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Stoneface,1,23,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Eddie,1,23,1,Luke Skywalker,1.0,1,2043,med,ext_uploader:Luke Skywalker
+Emma,1,23,1,Gimel Daleth,1.0,1,,med,puppet_of:Gimel Daleth
+Fulk,1,23,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Grei,1,22,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+TK-2501,1,22,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Gillian,1,22,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Legato,1,22,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Hanna,1,22,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Snal'Fashtalli,1,22,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Seyyid,1,21,1,Seyyid,1.0,1,,med,self(player)
+Aidon,1,21,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Yashar,1,21,1,Athena,1.0,1,7787,med,ext_uploader:Athena
+Vzzee,1,21,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Gorgan,1,21,1,Lynae,1.0,1,9311,med,ext_uploader:Lynae
+Alan,1,21,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Dak,1,20,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Zhamari,1,20,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Ross,1,20,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Jingle,1,20,1,Axel Vichten,1.0,1,9768,med,ext_uploader:Axel Vichten
+Rislyn,1,20,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Nate,1,20,1,Tyler Damion,1.0,1,3751,med,ext_uploader:Tyler Damion
+Ivar,1,19,1,Drax Rendolen,1.0,1,4373,med,ext_uploader:Drax Rendolen
+Hotwire,1,19,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Wilks,1,19,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Naota,1,18,0,,0,0,,none,no_author_signal
+ST-1337,1,18,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Biff,1,18,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Roberto,1,18,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Estos,1,18,1,Twila Virda,1.0,1,9990,med,ext_uploader:Twila Virda
+Salty Jack,1,18,1,Billious Qarrack,1.0,1,,med,ext_uploader:Billious Qarrack
+Auntie Maya,1,18,1,Lorn Rhys,1.0,1,,med,ext_uploader:Lorn Rhys
+Moore,1,17,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Tiny,1,17,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Kiff,1,17,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Lono,1,17,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Nesin,1,17,1,Barrien Thrask,1.0,1,,med,ext_uploader:Barrien Thrask
+Kretzman,1,17,1,Drax Rendolen,1.0,1,4373,med,ext_uploader:Drax Rendolen
+C4,1,17,0,,0,0,,none,no_author_signal
+Staus,1,17,1,Barrien Thrask,1.0,1,,med,ext_uploader:Barrien Thrask
+Cirah,1,17,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Dyrna,1,17,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Chef,1,16,0,,0,0,,none,no_author_signal
+Tantra,1,16,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Sean,1,16,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Claven,1,16,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Bronwyn,1,16,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Chapman,1,16,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Coleman,1,16,1,Drax Rendolen,1.0,1,4373,med,ext_uploader:Drax Rendolen
+SH0RTY,1,16,1,Gren Delede,1.0,1,,med,ext_uploader:Gren Delede
+Barnacle Bill,1,15,1,Billious Qarrack,1.0,1,,med,ext_uploader:Billious Qarrack
+Jali,1,15,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Hoolihan,1,15,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Siege,1,14,1,Cato,1.0,1,,med,ext_uploader:Cato
+Bochek,1,14,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Coxswain,1,14,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Sulla,1,14,1,Adam Shadow,1.0,1,11813,med,ext_uploader:Adam Shadow
+Ment,1,13,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Landis,1,13,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Comdore,1,13,1,Raxis L'ygr,1.0,1,,med,ext_uploader:Raxis L'ygr
+Haihai,1,13,1,Chanera Ruai Thorn,1.0,1,,med,ext_uploader:Chanera Ruai Thorn
+Balak,1,13,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Leate,1,13,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Collier,1,13,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Naria,1,13,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Rogen,1,13,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Gienah,1,13,1,Alex Dante,1.0,1,,med,ext_uploader:Alex Dante
+Commander Calder,1,13,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Moira,1,12,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Dracon,1,12,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Razi,1,12,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Rahvin,1,12,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Coda,1,12,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Denyse,1,12,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Sayla'kor,1,12,1,Billious Qarrack,1.0,1,,med,ext_uploader:Billious Qarrack
+Yinda,1,12,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Brain,1,12,1,Simon Sezirok,1.0,1,7077,med,puppet_of:Simon Sezirok
+Rake,1,12,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Tegger,1,12,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Kryan,1,12,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Poot,1,12,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Cherish,1,11,1,Zubindi Hakoon,1.0,1,4715,med,puppet_of:Zubindi Hakoon
+Monntok,1,11,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Skrit,1,11,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Spencer,1,11,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Adler,1,11,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Tathleach,1,11,0,,0,0,,none,no_author_signal
+Mari,1,11,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Chongatakiee,1,11,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Ernie Pallando,1,11,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Zergo,1,10,1,Zergo,1.0,1,,med,self(player)
+Aleh,1,10,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Mekeal,1,10,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Handon,1,10,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Zeebok,1,10,1,Jaspar Andromidas,1.0,1,4049,med,ext_uploader:Jaspar Andromidas
+Shem,1,10,1,Zergo,1.0,1,,med,ext_uploader:Zergo
+Tholt,1,10,1,Leia Organa Solo,1.0,1,3147,med,ext_uploader:Leia Organa Solo
+Ambar,1,10,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Halloway,1,10,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Krozit,1,10,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Jocal,1,10,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Lokiru,1,9,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Colonel Desson,1,9,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Dydron,1,9,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Dayna,1,9,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Stelita,1,9,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Perem,1,9,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Kieran,1,9,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Gunter,1,9,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Morganth,1,9,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Trrs'kal,1,9,1,Elias Corentin,1.0,1,1334,med,ext_uploader:Elias Corentin
+Lavrish'lin,1,9,1,67.184.5.213,1.0,1,,med,ext_uploader:67.184.5.213
+Sha-Cha Cha,1,9,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Stanley,1,8,1,Sabrina Rheatis,1.0,1,8223,med,ext_uploader:Sabrina Rheatis
+Jenkins,1,8,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Nurse Gwen,1,8,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Rawkrawr,1,8,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Terral,1,8,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Nol'Fet,1,8,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Darkholme,1,8,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Tycho,1,8,1,Seifer Wolf,1.0,1,,med,ext_uploader:Seifer Wolf
+Unnh,1,8,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Glitter,1,7,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Sia Cia,1,7,1,Malus,1.0,1,10062,med,ext_uploader:Malus
+T3-A7,1,7,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Mysti,1,7,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Mevid,1,7,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Xianna,1,7,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Grunax,1,7,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Sev,1,7,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Giles Pendleton,1,7,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+cadracak-'r'shak,1,7,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Ramsey,1,7,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Gorath,1,7,1,Zrak'Hroun,1.0,1,,med,ext_uploader:Zrak'Hroun
+Thralo,1,7,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Sharid,1,7,1,Lynae Cassius-Caiton,1.0,1,9311,med,ext_uploader:Lynae Cassius-Caiton
+Hinrich,1,6,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Boo-T,1,6,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+L3-ET,1,6,1,Tyler Damion,1.0,1,3751,med,ext_uploader:Tyler Damion
+Keeros,1,6,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Wiyaana,1,6,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Alexin,1,6,0,,0,0,,none,no_author_signal
+Tanith,1,6,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Co'Libri,1,6,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Quarren Ambassador,1,6,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Corliss,1,6,1,Aldus Thel,1.0,1,,med,ext_uploader:Aldus Thel
+ST-2034,1,6,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Slash,1,6,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+TK-2503,1,6,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+TK-4792,1,6,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Cerdle,1,6,0,,0,0,,none,no_author_signal
+Dariza Ipex,1,6,0,,0,0,,none,no_author_signal
+Juan,1,6,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Rhiannon,1,6,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Jager,1,6,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Viszla,1,6,1,Darth Vidious,1.0,1,,med,ext_uploader:Darth Vidious
+Ta-Nui-Bonda,1,6,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Eeth Mentel,1,5,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Yellowtail,1,5,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Attibecca,1,5,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Tibor Stasio,1,5,1,?,1.0,1,,med,ext_uploader:?
+Katala,1,5,0,,0,0,,none,no_author_signal
+Sernz,1,5,1,Wrexan,1.0,1,12032,med,ext_uploader:Wrexan
+Szaric,1,5,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Emmit,1,5,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Tredo,1,5,1,Rixt,1.0,1,286,med,ext_uploader:Rixt
+Loor,1,5,1,Sabrina Rheatis,1.0,1,8223,med,ext_uploader:Sabrina Rheatis
+Nat Pagle,1,5,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Hora,1,5,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Naqua,1,5,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Grubba the Hutt,1,5,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Daxin,1,5,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+ST-9042,1,5,1,Luke Skywalker,1.0,1,2043,med,ext_uploader:Luke Skywalker
+Aido Or,1,5,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Rika,1,5,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Ambry,1,5,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Captain Durjan,1,5,1,Tokoga,1.0,1,8189,med,ext_uploader:Tokoga
+Comwiz,1,4,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Ver-Tak Kai,1,4,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Elly,1,4,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Takajin,1,4,1,Barrien Thrask,1.0,1,,med,ext_uploader:Barrien Thrask
+Valen,1,4,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Madixli,1,4,1,Bailey Sora Laran,1.0,1,2793,med,ext_uploader:Bailey Sora Laran
+Amelia Hawthorne,1,4,1,Amelia Hawthorne,1.0,1,,med,self(player)
+Resniz,1,4,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Alex Raven,1,4,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Casul Nettic,1,4,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Marrell Thelin,1,4,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Tequa,1,4,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Dagger 3,1,4,1,Jonas,1.0,1,11782,med,puppet_of:Jonas
+Jayla Burano,1,4,0,,0,0,,none,no_author_signal
+Bastirio,1,4,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Karn,1,4,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Chaboub,1,4,1,Lemos Ackinbrac,1.0,1,,med,ext_uploader:Lemos Ackinbrac
+Timo Droja,1,4,1,Dreven Mercurio,1.0,1,1145,med,ext_uploader:Dreven Mercurio
+Uliq,1,4,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Zerae,1,4,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Captain Lofte,1,3,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Lon Cotaar,1,3,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Vek Eldar,1,3,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Jak McCulloch,1,3,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Goruk,1,3,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Tarrin Stardiver,1,3,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Bil Faan,1,3,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Kines,1,3,0,,0,0,,none,no_author_signal
+Whitney Pallando,1,3,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Da'Shi,1,3,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Nooto,1,3,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Bias,1,3,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Songir Fentrus,1,3,1,Sorin,1.0,1,11998,med,ext_uploader:Sorin
+Barvareedee,1,3,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Unb'tar,1,3,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Demetria,1,3,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Terin,1,3,1,Seifer Wolf,1.0,1,,med,ext_uploader:Seifer Wolf
+Glory Lockhart,1,3,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Dandoi,1,3,1,Gren Delede,1.0,1,,med,ext_uploader:Gren Delede
+Montgomery,1,3,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Trett Hilo,1,3,1,Johanna Siri te Danaan,1.0,1,9407,med,ext_uploader:Johanna Siri te Danaan
+Motwa Torra,1,3,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Kola,1,3,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Sigil Rexton,1,3,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Lyshi,1,3,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Obi-Wan Kenobi,1,3,1,Bec Ga'lec,1.0,1,5228,med,ext_uploader:Bec Ga'lec
+Bossil Perlee,1,3,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Deyal Huxlo,1,3,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Dyne Haederfeld,1,3,1,Athena,1.0,1,7787,med,ext_uploader:Athena
+Senator Hastell,1,3,0,,0,0,,none,no_author_signal
+Dean ak,1,3,1,Zubindi Hakoon,1.0,1,4715,med,ext_uploader:Zubindi Hakoon
+Kenji,1,3,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Daniels,1,3,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Milo Sienar,1,3,1,Krysten Carlyle,1.0,1,653,med,ext_uploader:Krysten Carlyle
+Semtech Keno,1,2,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+TK-2502,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Felipe del Montefort,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Hsskah Agileclaw,1,2,1,Elana Tracer,1.0,1,,med,ext_uploader:Elana Tracer
+Ebon Zyar,1,2,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Jenya Vala,1,2,1,Collaborative,1.0,1,,med,ext_uploader:Collaborative
+Alstuner,1,2,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Stefan,1,2,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Athahk,1,2,1,Morganna Tazecks,1.0,1,,med,puppet_of:Morganna Tazecks
+Tacuba the Hutt,1,2,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Tyrus Valtoor,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Captain Cunha,1,2,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+G.S. Qwynt VIII,1,2,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Kinsa'una,1,2,1,Axel Vichten,1.0,1,9768,med,ext_uploader:Axel Vichten
+K3P0,1,2,1,Johanna Siri te Danaan,1.0,1,9407,med,ext_uploader:Johanna Siri te Danaan
+Replicant,1,2,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Woren Isaal,1,2,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Merreck Pelx,1,2,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Kath Samba,1,2,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Fianar Reanus,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Senator Ahudeek,1,2,0,,0,0,,none,no_author_signal
+Thabo Mbeki,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Ariana Seri,1,2,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Teag Barrett,1,2,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Edgar Krac'zah,1,2,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Braal Vey'la,1,2,1,Leia Organa Solo,1.0,1,3147,med,ext_uploader:Leia Organa Solo
+Ginger,1,2,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Prudence Barry,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Josh Arands,1,2,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Domicor Honos,1,2,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Sato,1,2,1,Sabrina Rheatis,1.0,1,8223,med,ext_uploader:Sabrina Rheatis
+Aeron Corvus,1,2,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Giran Blaine,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Zig Al Fidel,1,2,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Shandra Fleming,1,2,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Admiral Bejin,1,2,1,Vextin Mandor,1.0,1,,med,ext_uploader:Vextin Mandor
+Shas Krutz,1,2,1,Gren Delede,1.0,1,,med,ext_uploader:Gren Delede
+Ander Dar,1,2,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Lyle Derfill,1,2,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Kyyrruk,1,2,0,,0,0,,none,no_author_signal
+Kiri Valios,1,2,1,Elana Tracer,1.0,1,,med,ext_uploader:Elana Tracer
+Laurence Dante,1,2,1,Sabrina Rheatis,1.0,1,8223,med,ext_uploader:Sabrina Rheatis
+Nicholas Chang,1,2,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Humbert Pumberdum,1,2,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Sisko,1,2,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Tarazed Brum,1,2,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Mersche Lumbroscopic,1,2,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Krechev,1,2,0,,0,0,,none,no_author_signal
+Adaze Zasul,1,2,1,?,1.0,1,,med,ext_uploader:?
+Tray Garos,1,2,1,Zubindi Hakoon,1.0,1,4715,med,ext_uploader:Zubindi Hakoon
+Andra Eleria,1,2,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Inaya Macklebee,1,2,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Kora Liadin,1,2,1,Jamon Grendine,1.0,1,,med,ext_uploader:Jamon Grendine
+Sasha Nettic,1,2,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+B'ric Toppe,1,2,1,Chanera Ruai Thorn,1.0,1,,med,ext_uploader:Chanera Ruai Thorn
+Yarah Ravenlocke,1,2,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Marius Starker,1,2,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Jaina Solo,1,2,1,Elana Tracer,1.0,1,,med,ext_uploader:Elana Tracer
+Sascha Vildosti,1,1,1,Raxis L'ygr,1.0,1,,med,ext_uploader:Raxis L'ygr
+Ysanne Isard,1,1,0,,0,0,,none,no_author_signal
+Aldol-Eo Pold,1,1,1,Cato,1.0,1,,med,ext_uploader:Cato
+Rafel de'Bris,1,1,1,Alistair Al'Dira,1.0,1,,med,ext_uploader:Alistair Al'Dira
+Ben Jawatha,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Huey Longshot,1,1,1,Korynn Fleming,1.0,1,11044,med,puppet_of:Korynn Fleming
+Eoin Dunn,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Ms. Incinta,1,1,0,,0,0,,none,no_author_signal
+Vergen Okkelveyer,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Fael Ramsis,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Vincit Danyeko,1,1,1,Doron Rtufo,1.0,1,,med,ext_uploader:Doron Rtufo
+Hale Bristol,1,1,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Orgrad Soval,1,1,1,Johanna Siri te Danaan,1.0,1,9407,med,ext_uploader:Johanna Siri te Danaan
+Ystile Wye,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Benelek,1,1,1,Lynae Cassius-Caiton,1.0,1,9311,med,ext_uploader:Lynae Cassius-Caiton
+Joran Hess,1,1,1,Tokoga,1.0,1,8189,med,ext_uploader:Tokoga
+Greven Sylar,1,1,1,Barrien Thrask,1.0,1,,med,ext_uploader:Barrien Thrask
+Amerna Slanver,1,1,1,Lynae Cassius-Caiton,1.0,1,9311,med,ext_uploader:Lynae Cassius-Caiton
+Blake Lorrent,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Jace Starr,1,1,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Momma Cleo,1,1,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Larin Ret'riss,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Raina Aderanne,1,1,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Nerik Dreshkar,1,1,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Feylin Calenik,1,1,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Hellion Kracken,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Harval Shaw,1,1,1,Aldus Thel,1.0,1,,med,ext_uploader:Aldus Thel
+J. Hook,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Commodore Snunb,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Lathan Vel,1,1,1,Tokoga,1.0,1,8189,med,ext_uploader:Tokoga
+Wallas Thurl,1,1,0,,0,0,,none,no_author_signal
+Jak M'koy,1,1,1,Lolkje,1.0,1,,med,ext_uploader:Lolkje
+Trent Ceska,1,1,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Carmella Rise,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Salann Grayhe,1,1,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Devon Striker,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Kairo,1,1,1,Jonas,1.0,1,11782,med,ext_uploader:Jonas
+Krall Dar,1,1,1,Tokoga,1.0,1,8189,med,ext_uploader:Tokoga
+Martin Teywer,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Rharkyrtha,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Sesbtain Williams,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Flaron Korr,1,1,0,,0,0,,none,no_author_signal
+Benji,1,1,0,,0,0,,none,no_author_signal
+Amari Cociena,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Nicole Brouillard-Batrad,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Jimmy Pickle,1,1,0,,0,0,,none,no_author_signal
+Tiboor Stasio,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Keely Prior,1,1,1,?,1.0,1,,med,ext_uploader:?
+Erin Abrosen,1,1,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Aideen Shamus,1,1,1,Luke Skywalker,1.0,1,2043,med,ext_uploader:Luke Skywalker
+Rinn Vakil,1,1,1,Krysten Carlyle,1.0,1,653,med,ext_uploader:Krysten Carlyle
+Lola,1,1,1,Violet Allure,1.0,1,,med,ext_uploader:Violet Allure
+Wing Commander Ilan,1,1,1,Jonas,1.0,1,11782,med,ext_uploader:Jonas
+Jason Gorrman,1,1,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Tyr Steiner,1,1,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Tetsen'sugazi,1,1,1,Sinya'kor,1.0,1,,med,ext_uploader:Sinya'kor
+Thayra Delmund,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Irru Gex,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Ba'hob,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Major Peny,1,1,1,Tokoga,1.0,1,8189,med,ext_uploader:Tokoga
+Elya'balin,1,1,1,Geophreigh Smitherbodkins IV,1.0,1,,med,ext_uploader:Geophreigh Smitherbodkins IV
+Mat Cypher,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+William Roice,1,1,1,Aldus Thel,1.0,1,,med,ext_uploader:Aldus Thel
+Emily Dareus,1,1,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Garret Fife,1,1,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Ailah Vieres,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Tahk'pa,1,1,1,Elias Corentin,1.0,1,1334,med,ext_uploader:Elias Corentin
+Mora Rodriguez,1,1,0,,0,0,,none,no_author_signal
+Xanatos Baldur,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Verst Dejorn,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Tricia Calder,1,1,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Reynar Dax,1,1,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Adams Garat,1,1,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Rena Sarrabi,1,1,0,,0,0,,none,no_author_signal
+Pakya Razem,1,1,1,Alex Dante,1.0,1,,med,ext_uploader:Alex Dante
+Kintor Roberts,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Jorgen Essain,1,1,1,Tokoga,1.0,1,8189,med,ext_uploader:Tokoga
+Jet Farx,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Rojones,1,1,0,,0,0,,none,no_author_signal
+Renovo Shadowlin,1,1,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Malouf,1,1,0,,0,0,,none,no_author_signal
+Jada Kadoth,1,1,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Ishtari Tsumeth,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Cas Mos,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Tuvare,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Normack Gastrov,1,1,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Savine Wolfray,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Aldus Syn,1,1,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Tychus Varian,1,1,1,Aldus Thel,1.0,1,,med,ext_uploader:Aldus Thel
+K'alyeh U'shh,1,1,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Kathryn Jrevelian,1,1,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Randal Na'ts,1,1,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Alana Ten'ou,1,1,1,Axel Vichten,1.0,1,9768,med,ext_uploader:Axel Vichten
+Xanatos Xavier,1,1,1,Billious Qarrack,1.0,1,,med,ext_uploader:Billious Qarrack
+Strenge Lehmann,1,1,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Gregory Garrett,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Blake Lorent,1,1,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Doctor Alvarez,1,0,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Cerridan Shaerlati,1,0,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Di'anChecht,1,0,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Demitri Vry'lya,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Jonca Cojac,1,0,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Arenth Dubois,1,0,1,Luke Skywalker,1.0,1,2043,med,ext_uploader:Luke Skywalker
+Fern Powers,1,0,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Preston Mortemilitis,1,0,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Lierra Carlon,1,0,1,Seifer Wolf,1.0,1,,med,ext_uploader:Seifer Wolf
+Angalun Faust,1,0,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Naota Nandaba,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Gym Harp'r,1,0,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Besk Fel'ney,1,0,1,Ash,1.0,1,,med,ext_uploader:Ash
+Akor Odaliik,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Senator Bobbec,1,0,0,,0,0,,none,no_author_signal
+Di'anCecht Dichet A.C. Rial,1,0,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Notlim,1,0,1,Lynae,1.0,1,9311,med,ext_uploader:Lynae
+Vernista Lan'desdin,1,0,1,Gren Delede,1.0,1,,med,ext_uploader:Gren Delede
+Senator Sesqua,1,0,0,,0,0,,none,no_author_signal
+Wes Carter,1,0,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Anzon Gr'vish,1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Illyana Crane,1,0,1,Vextin Mandor,1.0,1,,med,ext_uploader:Vextin Mandor
+Comdore Kay Serinoth,1,0,1,?,1.0,1,,med,ext_uploader:?
+Rafan Janrenk,1,0,1,Johanna Siri te Danaan,1.0,1,9407,med,ext_uploader:Johanna Siri te Danaan
+Delila Dmitri,1,0,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Alina Gens,1,0,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Snal'fashtalli Teague-Ikihsa,1,0,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Mon Calamari Ambassador,1,0,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Amek Drell,1,0,1,Aldus Thel,1.0,1,,med,ext_uploader:Aldus Thel
+Athan Cole,1,0,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Torg'ahail'naerso,1,0,1,Ambrosia Delgard,1.0,1,4866,med,ext_uploader:Ambrosia Delgard
+Mayre O'Hanrahan,1,0,1,Barrien Thrask,1.0,1,,med,ext_uploader:Barrien Thrask
+Officer Izec,1,0,0,,0,0,,none,no_author_signal
+"Matthew ""Rabid"" Fox",1,0,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Wes Masco,1,0,1,Barrien Thrask,1.0,1,,med,ext_uploader:Barrien Thrask
+Nimzar i'Falzin,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Jim T. Case,1,0,1,Gren Delede,1.0,1,,med,ext_uploader:Gren Delede
+Jamta Kisac,1,0,0,,0,0,,none,no_author_signal
+Malik Ferdenko,1,0,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Crimson Lionheart,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Gene Malentean,1,0,1,Raxis L'ygr,1.0,1,,med,ext_uploader:Raxis L'ygr
+Eddie Halwinder,1,0,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Andrev Cassius,1,0,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Wally Vascili,1,0,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Jadon Lenor,1,0,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Shoog-Mox Klagg,1,0,1,Johanna Siri te Danaan,1.0,1,9407,med,ext_uploader:Johanna Siri te Danaan
+Chess Hutz,1,0,1,Paul Nighman,1.0,1,,med,puppet_of:Paul Nighman
+Soliloquy Olexa Sella,1,0,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Sanoire Cror,1,0,1,Alysha Mara,1.0,1,3990,med,ext_uploader:Alysha Mara
+Carlist Rieekan,1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Hauwkawrrka,1,0,1,K'tyyri Tarashabi,1.0,1,3768,med,ext_uploader:K'tyyri Tarashabi
+Demitri Arands,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Bren Senzi,1,0,1,Twila Virda,1.0,1,9990,med,ext_uploader:Twila Virda
+Kor'Goth,1,0,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Lonri'napara,1,0,1,Jaspar Andromidas,1.0,1,4049,med,ext_uploader:Jaspar Andromidas
+Jade Ruen Vigos,1,0,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Jimmy Hoolihan,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Aleira Targadas,1,0,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Ratchet,1,0,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Kimber Pallas,1,0,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Elena Dasun Korminos,1,0,1,Kyrin Sh'vani,1.0,1,9395,med,ext_uploader:Kyrin Sh'vani
+Tabl Moek,1,0,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Chool Ndresi,1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Thraken Quadrix,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Kenneth Roberts,1,0,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+Shael Winter,1,0,1,Raxis L'ygr,1.0,1,,med,ext_uploader:Raxis L'ygr
+Tekahan Maroc,1,0,1,Jal'Dana Rall,1.0,1,8802,med,ext_uploader:Jal'Dana Rall
+Mugenjin Guren-Azayath,1,0,1,Lynae Cassius,1.0,1,9311,med,ext_uploader:Lynae Cassius
+Vaelyn Ir Xieker,1,0,1,Tyy'sun Eson,1.0,1,3655,med,ext_uploader:Tyy'sun Eson
+K. Kintor Roberts,1,0,1,K. Kintor Roberts,1.0,1,,med,self(player)
+Pyat dar Kuat,1,0,1,Twila Virda,1.0,1,9990,med,ext_uploader:Twila Virda
+Eliza i'Falzin,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Lucinda Jordain,1,0,1,Inanna Jordain,1.0,1,,med,ext_uploader:Inanna Jordain
+Daryth,1,0,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Antra Silverthorn,1,0,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Rivo (Snake1),1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Sinya'kor,1,0,1,Sinya'kor,1.0,1,,med,self(player)
+Lila Marcaigh,1,0,1,Axel Vichten,1.0,1,9768,med,ext_uploader:Axel Vichten
+Ban Fleming,1,0,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Seppi Kharan,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Nicamonte Vroon,1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Jolan Kaerf,1,0,1,Tsaran Joir,1.0,1,,med,ext_uploader:Tsaran Joir
+Allerden Vraill,1,0,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar
+Foerga Shameia,1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Sylia Avra,1,0,1,Cato,1.0,1,,med,ext_uploader:Cato
+Miles Daq,1,0,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Acthpa Sanduleak,1,0,1,Korynn Fleming,1.0,1,11044,med,ext_uploader:Korynn Fleming
+Bruno Ringoire,1,0,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Ubi Sunt Enebi,1,0,1,Jessalyn Valios,1.0,1,3146,med,ext_uploader:Jessalyn Valios
+Mick Kuhndog,1,0,1,Morganna Tazecks,1.0,1,,med,ext_uploader:Morganna Tazecks
+Tynan Aileron,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Suhail Kylrath,1,0,1,Lynae Cassius-Caiton,1.0,1,9311,med,ext_uploader:Lynae Cassius-Caiton
+Marz Tank,1,0,1,Vextin Mandor,1.0,1,,med,ext_uploader:Vextin Mandor
+Baral Heram,1,0,1,Rasi Praddhan Cen,1.0,1,1050,med,ext_uploader:Rasi Praddhan Cen
+Leda Same,1,0,1,Elana Tracer,1.0,1,,med,ext_uploader:Elana Tracer
+Ken Wolf,1,0,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Kathryn Montavre-Jrevelian,1,0,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Marie Breya,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Dagny Bryant,1,0,1,Simone Drake,1.0,1,,med,ext_uploader:Simone Drake
+Kaylen Morrell,1,0,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Gordis Jandis,1,0,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Antan Malika,1,0,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Kathryn McGuire,1,0,1,Simon Sezirok,1.0,1,7077,med,ext_uploader:Simon Sezirok
+Voren Nadil,1,0,1,Bazil McKenzie,1.0,1,9199,med,ext_uploader:Bazil McKenzie
+Biff Shelkin,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Askrut Melan'lya,1,0,1,Jared Starwind,1.0,1,9707,med,ext_uploader:Jared Starwind
+Jay Langston,1,0,1,Paul Nighman,1.0,1,,med,ext_uploader:Paul Nighman
+Severin Tanbris,1,0,1,Antoine Dareus,1.0,1,,med,ext_uploader:Antoine Dareus
+Maximilian Veers,1,0,1,Shenneret Veery,1.0,1,,med,ext_uploader:Shenneret Veery
+Mithral Hyperion,1,0,1,Ash,1.0,1,,med,ext_uploader:Ash
+Sharid Hascon,1,0,1,Krieg Inrokana,1.0,1,3692,med,ext_uploader:Krieg Inrokana
+Siren Delamont,1,0,0,,0,0,,none,no_author_signal
+Seneca Eris Foyle,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Syyvos Rintari,1,0,1,Danik Kreldin,1.0,1,8061,med,ext_uploader:Danik Kreldin
+Meridian Tarasar,1,0,1,Crestian Tarasar,1.0,1,5921,med,ext_uploader:Crestian Tarasar

@@ -1,0 +1,565 @@
+{
+ "name": "RPlog_Nar_Shaddaa_Infiltration",
+ "title": "Nar Shaddaa Infiltration",
+ "summary": "As war and an Imperial blockade erupt over the Smuggler's Moon, Luke Skywalker in Jedi One and the Sullustan pilot Enb'Zik flying the modified blastboat Vigilance with his co-pilot Lalo race through the chaos using the 'Jedi Harmony' technique Luke has taught him. Threading between bulk freighters and outrunning a half-dozen Ugly fighters, the two ships dive into the moon's atmosphere and make contact with the smuggler Kaitlin over an encrypted channel arranged by Senator Marx. Kaitlin grants them clearance to the Side Deck's repair pad, where Enb'Zik executes a hair-raising landing and Luke steps out of his X-wing to begin their business on Nar Shaddaa.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Kaitlin",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Zik",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Zik",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

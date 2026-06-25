@@ -1,0 +1,277 @@
+{
+ "name": "RPlog_Scaven_the_Merciless",
+ "title": "Scaven the Merciless",
+ "summary": "In an abandoned Nar Shaddaa warehouse, the corporate executive Paris Sieara hands over the captured i'Falzin siblings, Nimzar and Eliza, along with her Reyon Mining Corporation, to the cold Imperial Moff Scaven in exchange for becoming CEO of KDY-SFS. The deal requires Paris to surrender all knowledge of the secret planet Izin, which the Empire will erase from every record, while the agents Danik Kreldin and Gavin Shai guard the proceedings with growing unease. Once Paris signs and flees, mouthing an apology to the children, Scaven forces Eliza to choose which sibling dies -- and when she offers herself, Nimzar throws himself into the blaster bolt to save her, dying at her feet. The merciless Moff reveals the whole scheme is bait to lure their formidable elder brother, the Jedi Ezkhil, and orders the grieving Gavin to keep the traumatized Eliza on the planet for two days, holding the hidden card of Izin to himself.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Paris Sieara",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Paris Sieara",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Paris Sieara",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Nimzar",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Paris Sieara",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Nimzar",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Paris Sieara",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Nimzar",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Paris Sieara",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Eliza",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Eliza",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Eliza",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Nimzar",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Eliza",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Eliza",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Gavin Shai",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Eliza",
+   "b": false
+  }
+ ]
+}

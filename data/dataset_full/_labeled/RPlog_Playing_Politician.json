@@ -1,0 +1,307 @@
+{
+  "name": "RPlog_Playing_Politician",
+  "title": "Playing Politician",
+  "summary": "In the Chief of State's office on Coruscant, Leia Organa Solo convenes a closed planning meeting on a covert New Republic operation to free the world of Mutanda from Corporate Sector Authority control. Commander Rasi outlines what the Fleet can realistically contribute, while Senator Tokoga presses on the practical problem of inserting a team past CSA sensors and warns of the diplomatic fallout of acting behind an ally's back. The visiting Horansi matriarch K'tyyri, a Gorvan-caste representative of Mutanda's native people, explains her world's castes and the mysterious, Force-like Mashi who will sense the team's arrival, urging the Republic to approach the land itself with peaceful intentions. The meeting is violently interrupted when the young Jedi Myiari Oerstead, possessed by a Sith influence, bursts in to deliver an ultimatum: bring \"the orb\" to Nar Shaddaa or their captured apprentice will die. The dark presence releases Myiari, who collapses and wakes with no memory of the event, leaving Leia to resolve that she will handle the CSA personally once intelligence is gathered.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Intelligence agent",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Intelligence agent",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    }
+  ]
+}

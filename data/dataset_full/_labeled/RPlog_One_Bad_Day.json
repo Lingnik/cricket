@@ -1,0 +1,625 @@
+{
+ "name": "RPlog_One_Bad_Day",
+ "title": "One Bad Day",
+ "summary": "Hunted across Plaxton City, the dark-side adept Simon Sezirok is cornered in Fountain Square by the proud Rodian bounty hunter Detjin, whose modified scout armor and elitist hunter's air mark him as a relentless pursuer. After Simon's separated companion Mira goes missing, the two clash in a brutal alley duel of lightstaff against grappling cable and blaster, Simon binding Detjin with the Force while Detjin tries to reel him in, until Simon carves an escape through the floor as Caspian marines close in. Later, on Hideaway Beach, a battered Simon is found by the Jedi student Ethan Katana and NRI Captain James K'Cusi, who has been shadowing them. Old tension flares between Simon and the Jedi, but the meeting turns to grim news: Markus and Mira have been abducted by a woman calling herself Kacela Ulara, and the search for them is underway.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "desc",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "desc",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Sisko",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Sisko",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Detjin",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 431,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 433,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "desc",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "desc",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "desc",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 591,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

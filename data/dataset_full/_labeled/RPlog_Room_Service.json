@@ -1,0 +1,205 @@
+{
+ "name": "RPlog_Room_Service",
+ "title": "Room Service",
+ "summary": "In the spartan detention block of the Star Destroyer Nemesis, the ambassador Ambrosia Delgard sits imprisoned with two blonde cellmates, her ruined leg now dead weight from the knee down. A scarfaced Imperial lieutenant arrives flanked by stormtroopers, specifically seeking Ambrosia, and the officer Sivytra and the guards process the prisoner with cold formality. Bitter and defiant, the 'newly pardoned citizen' Ambrosia sardonically asks whether the Emperor's benevolence might extend so far as to permit her a bath. The grim scene captures her captivity and unbroken spirit aboard the Nemesis.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Sivytra",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Sivytra",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Sivytra",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Sivytra",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Sivytra",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  }
+ ]
+}

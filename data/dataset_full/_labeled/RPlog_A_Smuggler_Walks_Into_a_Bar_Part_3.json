@@ -1,0 +1,169 @@
+{
+  "name": "RPlog_A_Smuggler_Walks_Into_a_Bar_Part_3",
+  "title": "A Smuggler Walks Into a Bar (Part 3)",
+  "summary": "Pursued by fast Imperial interceptors, the smuggler Jaspar pushes his aging freighter to its limits while the pirate Vane and the Twi'lek mechanic Ka man the guns in a desperate running dogfight. Jaspar barks shield-angling instructions as the trio coordinates fore-and-aft deflectors and turret fire against the swarming TIEs. Ka, despite professing terrible aim without a targeting computer, scores a clean kill on one fighter, and Vane whoops encouragement from the turret even as a TIE bolt blows a console beside Jaspar. With both interceptors finally destroyed and the area scanning clear, the elated crew powers down, Jaspar tossing Vane a fire extinguisher to deal with the smoking damage. Vane keeps a blaster pressed to Jaspar's cheek long enough to steer him to lightspeed before holstering it, and Jaspar pitches the beginning of a mutually beneficial partnership as the pirates disperse toward the cargo hold.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": true
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Ka",
+      "b": true
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Ka",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

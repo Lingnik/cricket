@@ -1,0 +1,193 @@
+{
+ "name": "RPlog_New_Beginnings",
+ "title": "New Beginnings",
+ "summary": "Summoned to the Citadel by the High Priest, the intelligence agent Drax Rendolen is inducted into the innermost sanctum of a cult, required to cast aside his former self -- including his cybernetics -- and bare his past before the council. The benevolent elder Tantrix oversees the removal of Drax's prosthetic arm and a surgery to graft a new one, sacrificing his own life-force to seed the limb with Sith genetic material. Drax awakens to find the Sith Lord Malign present, who reveals that the new arm is rewriting Drax's very DNA, binding them as 'brothers,' and that Tantrix has been killed once his purpose was served. Malign gives Drax an amulet and entrusts him to lead the religion as a hidden weapon serving the NRI while secretly answering to the Sith.",
+ "rows": [
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Drax",
+   "b": true
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Drax",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Drax",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Drax",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Drax",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Drax",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Tantrix",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

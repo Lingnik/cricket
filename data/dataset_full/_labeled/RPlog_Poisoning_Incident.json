@@ -1,0 +1,973 @@
+{
+  "name": "RPlog_Poisoning_Incident",
+  "title": "Poisoning Incident",
+  "summary": "At the Grand Palanhi Hotel, the academy-trained young man Jusre lingers on the balcony beside the laconic, cigarra-smoking Vermillion while Roark slips into a guest room from which strained, desperate voices are briefly heard. After the hotel manager and staff discover a guest dead of apparent poisoning, a shaken Jusre overhears talk of suicide and authorities, and hurries downstairs to warn his companion Alexis. In the lobby, where Dillon presides over a tense gathering that also includes Runther, Piper, Kuxli, Roark and the protocol droid C3PO, news of the death ripples through the group as Jusre, sickened, is repeatedly ill and is comforted by Alexis. Vermillion quietly works the room, eavesdropping on the manager's harried conversation with Dillon, while the manager publicly insists it was only a small mishap being handled by the authorities. Unsettled and increasingly paranoid, the guests trade uneasy speculation before drifting off, Jusre and others resolving to leave the hotel for the night.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": true
+    },
+    {
+      "line": 37,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": true
+    },
+    {
+      "line": 56,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Kuxli",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Piper",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Runther",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Kuxli",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Piper",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Kuxli",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Runther",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "C3PO",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Kuxli",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Runther",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": true
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": true
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Kuxli",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Piper",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Runther",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Runther",
+      "b": true
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Kuxli",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Runther",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Vermillion",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Dillon",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Roark",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Rassa",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Alexis",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Jusre",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

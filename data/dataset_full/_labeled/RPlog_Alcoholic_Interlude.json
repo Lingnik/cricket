@@ -1,0 +1,175 @@
+{
+  "name": "RPlog_Alcoholic_Interlude",
+  "title": "Alcoholic Interlude",
+  "summary": "Drowning his sorrows in the corner of the Meltdown Cafe on Nar Shaddaa, the down-on-his-luck smuggler Jaspar nurses a fresh black eye and slurs his way through Blasters as the bartender gently urges him to ease off. The black-clad man from Tatooine, Tritus, enters and seats himself across from Jaspar without preamble, ordering his finest scotch neat. Jaspar drunkenly rambles about a woman who left with someone else before sobering enough to insist he has kept his mouth shut about whatever business connects them; Tritus coolly tells him that silence was his error. As the booze drifts from his system, Jaspar asks whether anyone can wipe his records and how he might repay the man's help. Tritus lays out simple terms -- Jaspar will work for him for a cut of the profits on his jobs -- and Jaspar acknowledges the arrangement, rising to follow his new employer out as he finishes drowning his demons for now.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "name": "RPlog_An_Offer_They_Couldn_t_Refuse",
+  "title": "An Offer They Couldn't Refuse",
+  "summary": "In the freshly transformed Direx chamber -- its conference table replaced and a window opening onto a dizzying industrial drop -- the newly named Prex G.S. Qwynt VIII summons the executive Miranda Jabs and the urbane Smitherbodkins to make a momentous offer. The Toydarian Qwynt, glowering, presents an opportunity as rare as it is undeserved, while Smitherbodkins becomes entranced by the view from the precipice. As Qwynt moves to shove Smitherbodkins off the edge, Smitherbodkins teeters but cries out \"I accept!\", turning the trap into acceptance of Qwynt's offer. Chaos erupts: Miranda assaults Qwynt, sending his wig flying, and the Prex and Smitherbodkins square off with their rods of office like swords as shouts ring through the no-longer-soundproof doors. The confrontation dissolves when guards arrive and Jabs spins an incredible lie, after which a triumphant Smitherbodkins sweeps a startled Miranda into his arms and kisses her.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Miranda",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Miranda",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Miranda",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Miranda",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Miranda",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Qwynt",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    }
+  ]
+}

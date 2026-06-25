@@ -1,0 +1,445 @@
+{
+  "name": "RPlog_The_Cat_and_the_Mouse",
+  "title": "The Cat and the Mouse",
+  "summary": "In a clean, rain-washed tavern far beyond New Republic space, Imperial Admiral Jal'Dana Rall, call sign Vapor, is recognized by rebel Ghost Squadron pilot Raxis L'ygr, who had once disguised himself as a wine seller at an Imperial gala. Raxis buys her a drink and the two settle into a long, fencing conversation about war, loyalty, and the cycle of rebellion and oppression. Jal'Dana, who fights to keep the Empire's civilians safe and dismisses the Rebellion as terrorism, offers the talented young pilot a place in her starfighter corps; Raxis, haunted by his parents' death and the Empire's atrocities, refuses to turn traitor but admits she has shaken his certainty. Neither converts the other, though Jal'Dana reveals an old sniper scar and a weary acceptance that the war will never let her retire, and she gives her word to protect Raxis on neutral ground should he ever seek terms. She departs into the rain, leaving Raxis alone with his drink and his doubts.",
+  "rows": [
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

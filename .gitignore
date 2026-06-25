@@ -17,3 +17,12 @@ config.toml
 /data/traces/
 /data/traces-*/
 /evals/reports/*.json
+
+# Fine-tune LoRA adapters + checkpoints are multi-GB binaries -- keep local, not in git.
+/data/finetune/*-lora/
+# MUSH DB dumps contain player PII (emails in finger.*) and are re-fetchable over SSH.
+/knowledge/sources/mush-dump/
+# Line-numbered render inputs are regenerable via `rplog_to_jsonl.py --render`.
+/data/dataset_full/_render/
+# Scratch registry from the live-scene driver.
+/data/_scene_reg.json

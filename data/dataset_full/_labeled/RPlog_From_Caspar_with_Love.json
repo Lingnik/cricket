@@ -1,0 +1,247 @@
+{
+ "name": "RPlog_From_Caspar_with_Love",
+ "title": "From Caspar, With Love",
+ "summary": "An Imperial strike team led by First Lieutenant Loreck Hawkins and Agent Kelbris Cooper infiltrates a Caspian warehouse near Union Starport, posing as HVAC repairmen to investigate a suspected weapons cache. The civilian-uniformed guards prove to be far more than ordinary security, and when they demand the disguised stormtroopers open their equipment cases, Hawkins orders his men to open fire. A fierce firefight erupts around the cargo skiff; Cooper is knocked unconscious and Hawkins briefly downed before a stimpack revives him, but the Imperials' cover and discipline win out and the guards are wiped out. Searching the warehouse, the troopers crack open crates labeled as foodstuffs to find proton torpedoes, laser cannons, and turbolaser components, exposing the CDU's treaty violation. Hawkins slices the terminal for the manifest and shipment logs, gathers evidence and bodies, and orders a swift extraction.",
+ "rows": [
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Kelbris",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Loreck",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

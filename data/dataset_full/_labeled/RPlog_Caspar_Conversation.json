@@ -1,0 +1,223 @@
+{
+ "name": "RPlog_Caspar_Conversation",
+ "title": "Caspar Conversation",
+ "summary": "Snowed in at the Marin Mountain Resort on Caspar, the Imperial Commodore Lynae Caiton sits by the fire when her bitter rival, New Republic Admiral Moralis Rodriga, walks in and asks not for revenge but for parlay. Acknowledging that Caiton destroyed his flagship and thousands of his men, Rodriga sets the animosity aside to ask a single question, why their two peoples fight at all, when both believe they are working toward the same good for the galaxy. The swoop racer Shael, present under the cover identity 'Kara Winters' that Rodriga thrusts upon her, is drawn into the philosophical debate over whether people are inherently good, neutral, or in need of dictating. Rodriga grows increasingly anguished, confessing he is sick of writing letters to the families of the dead and that he and Caiton may be the only two with the power to end it, yet both know any peace they signed would change nothing. The three reach a strange accord, agreeing to suspend their vendetta for the length of the conversation, before Rodriga departs for a high-profile meeting, hoping to speak with the Commodore again on more personal terms.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Rodriga",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  }
+ ]
+}

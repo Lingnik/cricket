@@ -1,0 +1,535 @@
+{
+ "name": "RPlog_Neverending_Nightmare",
+ "title": "Neverending Nightmare",
+ "summary": "In his office, the exhausted Twi'lek Senator Alistair Al'Dira confides in his friend Brin about the relentless nightmares, deja vu, and inexplicably vanished planets that have left them both fearing for their sanity and for the Republic's survival against the Sith. Their grim conversation about despair and resolve is brutally interrupted when a hulking mutant Wookiee, the Mandalorian supercommando Cantrell, and the operative Vectus crash through the window on gliders. The intruders kill the Senator's guards and overpower the pair, abducting Al'Dira while Brin defiantly opens fire. Cantrell shoots the weapon and hand of the unbroken Brin, sparing her a warrior's death for now, and the raiders escape with the captured Senator, leaving a vow of future reckoning.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Vectus",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Vectus",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Vectus",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Vectus",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Brin",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Vectus",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

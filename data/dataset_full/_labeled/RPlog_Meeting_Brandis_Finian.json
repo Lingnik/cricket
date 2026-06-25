@@ -1,0 +1,157 @@
+{
+ "name": "RPlog_Meeting_Brandis_Finian",
+ "title": "Meeting Brandis Finian",
+ "summary": "At an artificial seaside park on Coruscant, the playful young Jedi-in-training Brandis Finian is meditating by the waves when a stray shockball from nearby players strikes the Marine colonel Sabrina, knocking her into the sand. Brandis hurries over, checks on her, and dusts off her military-issue boots while flirting and admiring the calm she radiates. He tries, and fails, to lift the runaway ball from the surf using the Force, admitting he is still learning under Master Aurejin. The two fall into easy, teasing conversation about her past and her future, and Brandis charms Sabrina into agreeing to join him for a drink at a quiet nearby cantina.",
+ "rows": [
+  {
+   "line": 8,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": true
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": true
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Sabrina",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

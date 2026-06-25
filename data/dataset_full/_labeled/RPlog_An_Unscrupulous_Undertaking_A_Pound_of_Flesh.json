@@ -1,0 +1,145 @@
+{
+  "name": "RPlog_An_Unscrupulous_Undertaking_A_Pound_of_Flesh",
+  "title": "An Unscrupulous Undertaking: A Pound of Flesh",
+  "summary": "At a lavish feast in the Pleasure Palace on Nar Shaddaa, the saboteur Alastar returns to dine with the Falleen crime lord Nasiri, who confirms he has not changed his mind about their dealings despite a recent botched assassination attempt against him. Alastar presents a gift and trades brazen, jovial banter with the Lorda, the two clearly relishing the dangerous game between them as they sample the banquet's dishes. Nasiri probes whether the crude assassination attempt was Alastar's doing and needles him about his distinctive, easily tagged appearance, which Alastar embraces as a personal brand. When Nasiri asks whether Alastar acts on a master's orders, Alastar flatly denies having one. The meal turns to its grim punchline when Nasiri gestures to displayed heads and reveals that some of the meat Alastar has been eating was made from people -- sending the normally unflappable saboteur, who enjoys violence but not this, spitting out his food and wiping his face in furious, jaw-clenched horror.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": true
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Alastar",
+      "b": false
+    }
+  ]
+}

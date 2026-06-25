@@ -1,0 +1,235 @@
+{
+ "name": "RPlog_Right_of_Return",
+ "title": "Right of Return",
+ "summary": "Aboard the Imperial Star Destroyer Nemesis enforcing a blockade, Lord Aldus Thel and the ship's captain receive the cruiseliner Angry Rancor, whose Ithorian-run, treaty-neutral decks return from a cruise carrying dozens of Caspian passengers seeking to come home. Captain Bruno of the Rancor invokes the ship's neutrality, while the red-headed Lt. Cmdr Amaza relays the captain's hardline demands for a full search and papers inspection. Thel intervenes, declaring that the Empire will provide humanitarian supplies from its own stores given the crisis on blockaded Caspar, turning the tense standoff toward an unexpected gesture. The negotiation tests the right of return for the displaced Caspians against Imperial control.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Bruno",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Bruno",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Aldus",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Bruno",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Aldus",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Bruno",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Bruno",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Aldus",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "name": "RPlog_Nar_Shaddaa_-_Sabrina_s_Rescue_1",
+ "title": "Nar Shaddaa - Sabrina's Rescue (Part 1)",
+ "summary": "Aboard the freighter Voidstalker, the pilot Rook, her astromech Spanner, and Luke Skywalker make the tedious run to Nar Shaddaa on a mission to rescue Sabrina from Galla the Hutt's cargo facility. Luke meditates and resolves that the mission is less about saving a lover than preserving life, while Rook and the droids prepare the ship's disguise as the 'Sideslip' and plan a low-key approach. R2-D2 masks the transponder and scans Galla's facility as they slip past weapon emplacements and talk their way down to a landing pad. With the ship down and dark, Luke takes a comlink and heads aft to join Ai'kani and Snarl, leaving Rook to guard their means of escape.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

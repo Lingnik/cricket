@@ -1,0 +1,367 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_The_Ploy",
+  "title": "The Ploy",
+  "summary": "At a college symposium near New Alderaan, the Horansi ambassador K'tyyri Tarashabi delivers an impassioned speech about her conquered world Mutanda before Senator Tokoga takes the podium, while Commander Rasi and the Wookiee cadet Hauwka watch from the crowd alongside the medic Myiari. A concealed device detonates the podium, hurling Tokoga back in a bloody, seemingly fatal blast as Myiari rushes to stabilize him and Hauwka secures the area. In the ambulance, Rasi reveals the explosion was a staged ruse: the senator is unharmed and will be declared killed during surgery so the bounty on his head can be traced back to the crime lord Nass. The deception outrages and unsettles the unwitting K'tyyri and Myiari, but Rasi defends it as a necessary tactic against an enemy willing to start a civil war. The ambulance reaches the hospital through a secret entrance, and the ploy holds.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "K'tyyri",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Hauwka",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    }
+  ]
+}

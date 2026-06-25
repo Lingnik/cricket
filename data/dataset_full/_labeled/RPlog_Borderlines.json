@@ -1,0 +1,3385 @@
+{
+ "name": "RPlog_Borderlines",
+ "title": "Borderlines",
+ "summary": "In the Sky Bar high above Cloud City, the Corellian xenoarchaeologist Paul Nighman meets the former princess Ylsa Estrallas to finalize a partnership. Over dinner and brandy they fence about trust and motives before Ylsa, seeking to escape the Hutt Ullo's grasp, agrees to lend her expertise to Paul's expedition for the lost treasure of the pre-Clone Wars Corellian pirate Darius Nul, said to lie beneath the ocean on Athaniss. Their alliance sealed, they share a long sequence of dances that strip away Ylsa's icy composure and kindle an obvious mutual attraction, which carries them out of the bar and through Cloud City to her residence. At her door the longing nearly overcomes them, but Paul gently pulls back, telling her they hardly know each other, must keep working together, and that there may be someone else in his life. Ylsa retreats behind cold professionalism, coolly listing the forged documents and intelligence she will need for their cover, and Paul departs with an apology for spoiling the evening, leaving her alone.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 431,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 433,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 476,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 479,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 489,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 490,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 505,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 509,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 518,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 522,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 525,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 526,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 527,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 530,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 541,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 546,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 561,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 567,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 568,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 569,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 576,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 577,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 581,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 597,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 603,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 610,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 611,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 620,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 622,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 627,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 631,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 633,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 637,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 639,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 645,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 648,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 649,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 651,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 653,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 656,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 659,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 661,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 668,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 670,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 672,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 678,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 683,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 686,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

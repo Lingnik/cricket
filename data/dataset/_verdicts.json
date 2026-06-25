@@ -1,0 +1,302 @@
+[
+ {
+  "name": "RPlog_Ballistic_Equipment_Parts",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   10
+  ],
+  "total_rows": 20,
+  "reason": "Cricket is a participating character whose own action and voice lead seq 10 (he bleeps, swivels his dome, wheels over, and shrieks), making it fundamentally his pose."
+ },
+ {
+  "name": "RPlog_Bespin_Blows_Up",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   14,
+   29,
+   36,
+   40
+  ],
+  "total_rows": 47,
+  "reason": "Cricket actively poses his own voice and action throughout (translating Mox, ordering Johanna to work the room, demanding a convention refund, asking for cold fish), making him a full participating character."
+ },
+ {
+  "name": "RPlog_Birthday_Baroness",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   10,
+   14,
+   19
+  ],
+  "total_rows": 24,
+  "reason": "Cricket is a full participating character who delivers his own poses (whistling complaints, the Jawa holo stunt, and the silent-partner banter), so the log qualifies."
+ },
+ {
+  "name": "RPlog_Celestine_Cycle_-_Rising_Tensions",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 31,
+  "reason": "Cricket is absent from this lounge questioning scene; his name only appears in Atsvara's dialogue/backstory (compared to Tyler in seq 19, bailed out of Mos Espa police in seq 23), never as his own pose or in-scene presence."
+ },
+ {
+  "name": "RPlog_Chanti_at_a_swoop_race",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 75,
+  "reason": "Cricket is not in the scene; his name appears only at seq 63 where Johanna wishes he were present to make a snide remark, an absent-droid mention."
+ },
+ {
+  "name": "RPlog_Charity_Ball",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   15,
+   25,
+   33,
+   100,
+   108,
+   112
+  ],
+  "total_rows": 122,
+  "reason": "Cricket attends the ball in costume and delivers his own action and dialogue in multiple blocks (intercepting Veruca, boasting about the wig, needling Crestian and Dash Blazer), making him a participating character."
+ },
+ {
+  "name": "RPlog_Conversations_Act2",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 42,
+  "reason": "Cricket is only mentioned once (seq 40) as Johanna's absent astromech companion; he is not present in the Sandbar scene and never poses."
+ },
+ {
+  "name": "RPlog_Don_t_Want_Visitors",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 37,
+  "reason": "Cricket is only named in Johanna's dialogue (seq 14, 16) as a threat to bring in an absent droid; he never appears or poses in the scene."
+ },
+ {
+  "name": "RPlog_Dressing_Room",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 21,
+  "reason": "Cricket is only mentioned in Veruca and Nara's dialogue as an absent foul-mouthed droid too profane to put on camera; he never appears or acts in the two-person dressing-room scene."
+ },
+ {
+  "name": "RPlog_Droid_Control_-_The_Ladies_Prefer_Electrum",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   12,
+   14,
+   16,
+   18,
+   20,
+   22
+  ],
+  "total_rows": 24,
+  "reason": "Cricket is the central participating character with six of his own poses (action and dialogue) as he seeks a replacement taser aboard the Leviathan."
+ },
+ {
+  "name": "RPlog_Fourth_Battle_of_Corellia",
+  "verdict": "PRESENT_MINOR",
+  "cricket_rows": [],
+  "total_rows": 144,
+  "reason": "Cricket is aboard Johanna's X-Wing and his dialogue is woven through her poses (seqs 28-31), but every such block is authored from Johanna's POV as her turn, so he never gets his own pose."
+ },
+ {
+  "name": "RPlog_Full_Circle",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 38,
+  "reason": "Cricket is only named in reminiscing dialogue (the Mos Espa custody/taser/painting story at seq 24-26); he is absent from this three-character cafeteria scene and never poses."
+ },
+ {
+  "name": "RPlog_Ghastly_Gala",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   14,
+   16,
+   22,
+   26,
+   30,
+   36,
+   40,
+   49,
+   58
+  ],
+  "total_rows": 108,
+  "reason": "Cricket (Cricket McKenzie, the foul-mouthed astromech) is a central participating character who delivers his own poses throughout the gala -- arriving in cup-festooned costume, reacting to the corpse, threatening the Xa Fel waiter with his taser, and sock-checking Malign as LAME."
+ },
+ {
+  "name": "RPlog_He_Was_Doing_You_A_Favour",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   7,
+   11,
+   13
+  ],
+  "total_rows": 17,
+  "reason": "Cricket is a central scene participant who delivers his own action/voice in multiple poses (raging in his cell, recognizing Atsvara, and grudgingly promising not to retaliate)."
+ },
+ {
+  "name": "RPlog_Imperial_Raid_on_Coruscant",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 206,
+  "reason": "Cricket is named only at seq 32, where Johanna wishes her R2 astromech \"were here to keep her company,\" explicitly placing the droid absent from the scene."
+ },
+ {
+  "name": "RPlog_Interrogation_-_Face_Off",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 53,
+  "reason": "Cricket is named only in Johanna's seq 11 pose as her absent R2 unit (\"Cricket's said far worse\"), not present in the brig interrogation scene."
+ },
+ {
+  "name": "RPlog_Jessa_Drops_a_Bomb",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 42,
+  "reason": "Cricket is not in the scene; his name appears only once (seq 21) as Johanna's passing thought about an absent droid she would have to lock away, never acting or speaking in-scene."
+ },
+ {
+  "name": "RPlog_Johanna_is_a_Witch",
+  "verdict": "PRESENT_MINOR",
+  "cricket_rows": [],
+  "total_rows": 85,
+  "reason": "Cricket the R2 astromech is physically present in the Mos Eisley basement (tazering Danik, recording the broadcast, following Johanna out), but every action of his is narrated inside Johanna's or Danik's poses and he never delivers his own standalone pose."
+ },
+ {
+  "name": "RPlog_Life_Begins_Young",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 26,
+  "reason": "Cricket is absent from this cantina scene; he is only mentioned as an arrested droid Atsvara is bailing out (seq 24) and a name Kasha knows by reputation (seq 25)."
+ },
+ {
+  "name": "RPlog_Motherhood",
+  "verdict": "PRESENT_MINOR",
+  "cricket_rows": [],
+  "total_rows": 41,
+  "reason": "Cricket is physically present as Johanna's socketed astromech and even gets voice lines, but only woven inside Johanna's poses (seqs 17, 23, 28); he never has a standalone block that is fundamentally his own pose."
+ },
+ {
+  "name": "RPlog_Renaissance_of_Innovation",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 56,
+  "reason": "Cricket is named only in ak's seq-54 pose as someone he recently saw on Kessel (alongside Johanna and Kipran); the droid is wholly absent from this Caspar council scene."
+ },
+ {
+  "name": "RPlog_Rescue_of_Danik_Kreldin",
+  "verdict": "PRESENT_MINOR",
+  "cricket_rows": [],
+  "total_rows": 119,
+  "reason": "Cricket is physically present as Johanna's astromech in/by her X-Wing at the starport but never gets his own pose; he only appears woven inside Johanna's blocks (seq 27, 40, 59, 65, 85) and a reference in seq 99."
+ },
+ {
+  "name": "RPlog_Return_of_a_Jedi_Part_I",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 138,
+  "reason": "Cricket is named only once (seq 90, inside Bazil's pose: \"watching Cricket kill people\") as an absent droid mentioned in passing; he never appears or acts in this Corellia spaceport/hospital scene."
+ },
+ {
+  "name": "RPlog_Second_Battle_of_Mon_Calamari_First_Assault",
+  "verdict": "PRESENT_MINOR",
+  "cricket_rows": [],
+  "total_rows": 163,
+  "reason": "Cricket is physically present as Johanna's astromech (SF-9348) and speaks throughout, but every appearance is woven inside Johanna Siri te Danaan's poses; he never gets a standalone pose of his own."
+ },
+ {
+  "name": "RPlog_Simon_and_Jessalyn",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 42,
+  "reason": "Two-character love scene between Simon and Jessalyn; the only occurrence of \"crickets\" (seq 13) is the literal chirping insects, not the astromech droid, who is wholly absent."
+ },
+ {
+  "name": "RPlog_Spies_Scalpels_and_Soap_Operas",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 87,
+  "reason": "Cricket is only named as an absent droid in dialogue/narration (mynock cleanup, Jawa banter, Ecks' wince); he never poses or is physically present in the scene."
+ },
+ {
+  "name": "RPlog_The_Corellian_Harvest_Festival",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 142,
+  "reason": "Cricket is named only in seq 96 as an absent \"homicidal astromech\" in Johanna's reminiscence; no astromech is present or poses in this Corellian parade scene."
+ },
+ {
+  "name": "RPlog_The_Second_Battle_of_Chandrila",
+  "verdict": "PRESENT_MINOR",
+  "cricket_rows": [],
+  "total_rows": 75,
+  "reason": "Cricket is present in Johanna's X-Wing and bleeps dialogue in seq 44 and 54, but only woven inside Johanna Siri te Danaan's poses; he never gets a standalone pose of his own."
+ },
+ {
+  "name": "RPlog_Trouble_on_Cloud_City_Part_One",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 32,
+  "reason": "Cricket is named only in dialogue as an absent astromech who raided Johanna's brandy supply; he never poses and is not present in the scene."
+ },
+ {
+  "name": "RPlog_Unexpected_Conversations",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 160,
+  "reason": "Cricket is named only once (seq 90) as Johanna's absent shipboard astromech companion; he is not present in the Sandbar scene and never poses."
+ },
+ {
+  "name": "RPlog_Very_Interesting...",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 116,
+  "reason": "The only \"cricket\" here is a giant dead insect Wibble Sniklit carries and eats (seqs 70,72,78,92), not the astromech droid Cricket/R2-CT, who never appears in the scene."
+ },
+ {
+  "name": "RPlog_Who_s_Sane_Now",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 68,
+  "reason": "Cricket is named only in seq 11 as the astromech left behind (\"stuck with the ship\"), never present or posing in the scene."
+ },
+ {
+  "name": "RPlog_Zik_and_Joh_Talk_p1",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 37,
+  "reason": "Cricket is named only once (seq 11) as a memory of past times in the Crusader hangar; he is not present in this two-character scene between Enb'Zik and Johanna."
+ },
+ {
+  "name": "RPlog_Zik_and_Joh_Talk_p2",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 29,
+  "reason": "Two-character scene (Johanna and Enb'Zik); Cricket is only named in Johanna's dialogue and Enb'Zik's narration as an absent droid, never present or posing."
+ },
+ {
+  "name": "RPlog_Zik_and_Joh_Talk_p3",
+  "verdict": "REFERENCE",
+  "cricket_rows": [],
+  "total_rows": 26,
+  "reason": "Cricket is absent from this two-person scene; Johanna explicitly says she's glad she didn't bring him along, and he is only named in dialogue (seq 7, 9) as an absent droid."
+ },
+ {
+  "name": "RPlog_Hangars_Hazards_Hangovers",
+  "verdict": "QUALIFY",
+  "cricket_rows": [
+   17,
+   30,
+   32,
+   45,
+   46,
+   59,
+   60,
+   61
+  ],
+  "total_rows": 95,
+  "reason": "Cricket delivers multiple blocks that are fundamentally his own voiced action (shrieking, tasering Rourke, eating the mynock, hooting at Ecks)."
+ }
+]

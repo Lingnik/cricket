@@ -1,0 +1,91 @@
+{
+  "name": "RPlog_A_Bombing_How_Quaint",
+  "title": "A Bombing, How Quaint",
+  "summary": "Eighteen hours after a bomb tears through a small campaign office on the Corellian Row, killing five and injuring a dozen, the pilot Johanna gathers the detail-minded Chana and the Corellian Leo to quietly poke at the cordoned-off crime scene without official sanction. Johanna shares a confidential tip that the device resembles bombs used in a recent Chandrila art heist, suggesting the bomber likes to destroy evidence after a theft. Chana works the blast radius with her R2 unit, running bacteriological and object scans, while Leo argues the attack reads more like terrorism meant to draw attention. The three trade competing theories -- inside job, terrorism, or a cover-up of forensic evidence -- and Johanna proposes they may all be true at once: a domestic act of terror financed by earlier thefts and meant to bury something worth killing for. The scene ends with Chana crouching over a small object she nearly stepped on, ordering a scan as the investigation is only just beginning.",
+  "rows": [
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Leo",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Leo",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Leo",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Leo",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

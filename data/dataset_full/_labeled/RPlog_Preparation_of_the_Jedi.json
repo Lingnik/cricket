@@ -1,0 +1,661 @@
+{
+ "name": "RPlog_Preparation_of_the_Jedi",
+ "title": "Preparation of the Jedi",
+ "summary": "On the bridge of the NRCV Audacity, Luke Skywalker confers with the Sullustan Jedi Enb'Zik and the pilot Rook about the gathering crisis over Dac and Caspar. Grimly weighing the possibility that the Sith Tyler now commands a criminal organization -- giving the galaxy's enemies two bases of power -- the three agree the looming confrontation is inevitable. They settle on their goals: break the Imperial blockade, evacuate their people, and extract Tyler from the area. Clearing their minds and steeling themselves, the Jedi and their allies prepare for the difficult work ahead.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  }
+ ]
+}

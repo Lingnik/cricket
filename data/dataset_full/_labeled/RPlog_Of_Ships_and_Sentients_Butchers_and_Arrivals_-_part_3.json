@@ -1,0 +1,73 @@
+{
+ "name": "RPlog_Of_Ships_and_Sentients_Butchers_and_Arrivals_-_part_3",
+ "title": "Of Ships and Sentients, Butchers and Arrivals (Part 3)",
+ "summary": "On the bridge of the Caspian carrier CMS Typhoon during gunnery drills, Lt. Commander Lynae Cassius reports to Admiral Kizuka the presence on planet of the former Grand Moff Scaven Marx. Kizuka, who harbors a bitter personal grudge against Marx -- the man who kidnapped his first wife and drove her to death -- presses Lynae for details on the butcher's movements. Lynae clarifies what little she knows: that Marx may have already left the planet, and that she did not follow him. The brief report sets Kizuka's old hatred simmering as he absorbs news of his enemy's return to Caspian space.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

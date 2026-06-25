@@ -1,0 +1,127 @@
+{
+ "name": "RPlog_Meeting_with_Tyler_on_Etti_IV",
+ "title": "A Meeting with Tyler on Etti IV",
+ "summary": "At the darkened Imperial Embassy on Etti IV, the smuggler-pilot Axel Vichten seeks an audience with the Sith Lord Darth Malign to propose a strike against the rival Maffi organization. Bluffing his way past the guards, Axel lays out a plan for a rapid orbital and ground assault on the Maffi compound near Ord Mantell, drawing on his strengths as a combat pilot. Malign, lurking hooded in the shadows, counsels caution, escape plans, and careful timing, and floats the idea of using his ship the Predator as a diversion. The two scheming men reach a tentative understanding, with Axel departing to gather intelligence and ensure the Maffi suffer at least financial harm.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

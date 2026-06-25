@@ -1,0 +1,511 @@
+{
+ "name": "RPlog_Ground_Battle_on_Cochran",
+ "title": "Ground Battle on Cochran",
+ "summary": "The battle for the Griffon world of Cochran rages at the starport, where the 501st Legion's stormtroopers, dug in behind fortifications, hold against a New Republic counter-attack of Marines, Army troops, and Griffon SATs while Imperial walkers and CompForce strike at the Republic rear. New Republic pilots -- Ghost Squadron's Kensle, Gene, and Crystal, and Captain Johmac 'Hammer' Mabru's newly arrived Y-Wing Daggers -- pound the AT-AT line from the air, tangling with Wolf's War Shrike TIEs, as Imperial Warlord Vassily Korolov ignites his lightsaber and drives his troopers forward. On the ground, Commander Kintor Roberts, his cousin the agent Greiko Lornan, and the slicer Cassie aboard the Candor's Redress scramble to break into Imperial communications and call in air support amid mounting casualties, while the wounded Sandor lies prepped for evacuation. The disillusioned Griffon Armiger Gyzen Bel rallies surviving SATs and rolls torpedo-launchers toward the starport. Then, to the bewilderment of his victorious troops, Grand Admiral Danik Kreldin -- learning there was never a planetary shield generator to seize -- orders a full Imperial withdrawal, and both sides disengage under the shadow of arriving Star Destroyers, leaving Cochran uneasily saved for the moment.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Tanis",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Tiboor",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Tiboor",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Cassie",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Greiko",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Mako",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Mako",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Mako",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Mako",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kensle",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Kensle",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Vassily",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "TK-7530",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Tanis",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Tiboor",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Tiboor",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Mbeki",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Shelkin",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Cassie",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Greiko",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Greiko",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Vassily",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Kensle",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "TK-7530",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Gyzen",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Tanis",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Tiboor",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Cassie",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Greiko",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Greiko",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Crystal",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Tanis",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Tiboor",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Greiko",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Cassie",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Crystal",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Tanis",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

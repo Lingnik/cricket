@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Birthday_Baroness",
+ "title": "The Birthday Baroness",
+ "summary": "At the Silvergrass Arboretum aboard Silver Station, Duke Crestian and his wife Meridian host a tenth birthday party for their daughter Atsvara, drawing a guest list of younglings, droids, and powerful guests from the Caspian Union and beyond. The astromech Cricket immediately stirs chaos with a holographic dancing-Jawa display, drawing rebukes from the Jedi Johanna and Grand Moff Elana Tracer, while well-wishers including Nara present Atsvara with gifts. The festivities climax when Crestian addresses the crowd and formally creates the title of Baroness for Atsvara, naming her heir of House Dragonflower and pinning a flame-lily brooch to her uniform in recognition of her secretive ambitions. The arboretum erupts in applause, and Atsvara, standing on a picnic table, vows to live up to the responsibility and to make House Dragonflower a source of protection for its allies and ruin for its enemies.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Longinus Van Sen",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Meridian",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  }
+ ]
+}

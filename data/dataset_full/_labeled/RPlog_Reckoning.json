@@ -1,0 +1,259 @@
+{
+ "name": "RPlog_Reckoning",
+ "title": "Reckoning",
+ "summary": "In a dark cell, the medic Myiari and the wounded Senator Tokoga, captured together, quietly take stock of their grim situation in the night. Tokoga, treated for his injuries but still in pain, stirs and trades weary, gallows-humor banter with Myiari about how they might escape -- she half-jokingly proposing to flirt with a stormtrooper, disarm him, and bust out guns blazing. Though neither has much confidence, they steel themselves for an eventual break, agreeing that staying put means death. Myiari urges the injured Senator to rest and gather his strength, the two facing their reckoning with grim solidarity.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "name": "RPlog_Rescued_In_Transit",
+ "title": "Rescued in Transit",
+ "summary": "Aboard the Imperial prisoner transport Justice, Captain Ryder and the baton-swinging Sergeant Tycho oversee captives -- among them the stirring Wolf -- hung and electrocuted in the holding compartment. Unbeknownst to the crew, the black-clad Tritus and his band, including a violence-hungry human woman, lie in wait on the barren world of Caluula along the transport's route. As the ship comes into range, Tritus fires a rocket to bring it down, springing a deadly ambush to free the prisoners in transit. The log opens a brutal rescue operation against an Imperial prison ship.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Lierra",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Tritus",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

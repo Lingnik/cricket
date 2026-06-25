@@ -1,0 +1,139 @@
+{
+ "name": "RPlog_Muera_la_revolucion",
+ "title": "Muera la Revolucion",
+ "summary": "In the library of his untouched Corellian estate, Kartathia Manor, Lord Geophreigh Smitherbodkins receives a Zabrak visitor, the laconic pilot-for-hire Meissa, to discuss a delicate job. Over a drink served by his Kubaz butler J'Eeves, Smitherbodkins probes whether the 'pilot' might also serve as a bounty hunter, and Meissa coolly negotiates his price before the target is named: G. S. Qwynt VIII, former Prex of the Direx Board, who has stolen a CSA Star Destroyer and styled himself leader of a rebel movement. Recognizing he could have charged far more for such a fortress of a target, Meissa accepts the contract, sealing the dangerous bargain with a handshake.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Meissa",
+   "b": true
+  }
+ ]
+}

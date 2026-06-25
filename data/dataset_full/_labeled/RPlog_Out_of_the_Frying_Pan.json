@@ -1,0 +1,451 @@
+{
+ "name": "RPlog_Out_of_the_Frying_Pan",
+ "title": "Out of the Frying Pan",
+ "summary": "After a rancor scatters their forest camp at daybreak, a column of New Republic marines under the Twi'lek scout Lieutenant Wrista crosses a grassy plain toward a downed X-Wing and its huddled pilot, Lance 'Wildman.' Wrista hands command of the march to the concussed but capable Leyanne as a test, then ranges off to scout. The marines encounter a herd of towering Malkloc plainstalkers, and Leyanne, keeping the trigger-happy Corporal Kayl'bre and the steady Kaylen in check, correctly reads the giant herbivores as non-threatening, letting the territorial family move off without a fight. Reuniting with the wry Wrista and recovering Lance at the wreck, Leyanne tends the pilot's wounds and earns her commander's praise for cool-headed judgment under pressure.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Lance",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Lance",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Lance",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kaylen",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Lance",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Kaylen",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Kaylen",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Kaylen",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Kaylen",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Kaylen",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": true
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "RPlog_A_New_Team",
+  "title": "A New Team",
+  "summary": "In a quiet briefing room buried deep beneath a besieged Republic base, a hand-picked infiltration team assembles before a Marine Colonel and the Navy Lt-Commander Rasi. The Colonel lays out the mission: slip into the Imperial/QSP-held city of Morjanssik and gather intelligence on enemy numbers, equipment, and readiness, aided by the rare ability to listen in on Imperial and QSP communications. The tense, rigidly disciplined medic Galatea -- a former deserter with old ISB ties -- presses hard for specifics, asking about exit strategies in case of capture, cover stories, signalling, and the disguise loadouts on offer. Rasi and the Colonel walk her through a sewer extraction route and confirm they have genuine Imperial Navy uniforms available. No one backs out, and the briefing closes with the team dismissed and reassigned for the duration of the operation.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Galatea",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    }
+  ]
+}

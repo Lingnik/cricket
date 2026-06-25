@@ -1,0 +1,229 @@
+{
+ "name": "RPlog_Meeting_with_Naten",
+ "title": "A Meeting with Naten",
+ "summary": "At Cason Hawk's Nest, a pilots' bar, the spice-using smuggler Axel sits waiting for a contact when an older Janhovi Sarian seats himself across from him. Wary, with a hand on his pistol, Axel demands the stranger's identity, and the man eventually produces an ident card revealing himself as Rear Admiral Naten Bonrue, Director of NIO, with a bartender quietly covering Axel at gunpoint. The two intelligence players settle into a tense, frank exchange in which Axel reveals that he tipped Darth Malign about Admiral Kreldin's imperial ambitions. Bonrue absorbs the revelations with interest, encouraging Axel, whom he calls Captain Victen, to keep his reports coming.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Scattered",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Naten",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Scattered",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Naten",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Naten",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

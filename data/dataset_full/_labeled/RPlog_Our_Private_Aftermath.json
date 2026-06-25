@@ -1,0 +1,103 @@
+{
+ "name": "RPlog_Our_Private_Aftermath",
+ "title": "Our Private Aftermath",
+ "summary": "Fleeing the total destruction of Cochran's Lingons Starport, where the Empire has unleashed a Base Delta Zero orbital bombardment, the operatives Kintor and Cassie haul the gravely wounded marine Sandor aboard their ship and jump to hyperspace. As Lornan flies and Greiko tends Sandor's concussion, the survivors grapple with the enormity of a world reduced to ash, the planet now ten minutes from losing its atmosphere to volcanic ruin. Dirty, exhausted, and emotionally reeling, the group huddles in the aftermath while a groggy Sandor, despite his wounds, finds clarity enough to vow that they must pay the Empire back for what was done. The scene captures the raw, private grief and grim resolve of those who escaped Cochran's annihilation.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Cassie",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Lornan",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Cassie",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  }
+ ]
+}

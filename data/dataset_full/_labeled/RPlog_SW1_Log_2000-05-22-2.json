@@ -1,0 +1,601 @@
+{
+ "name": "RPlog_SW1_Log_2000-05-22-2",
+ "title": "Diggs Calls on the Embassy",
+ "summary": "Following his teammates down to Caspar, the NRI captain Jonau Diggs makes his way to the New Republic Embassy in search of the junior representative Eva Sargent. In the conference room he encounters Lono, a blue-skinned Mon Calamari who serves as Sargent's aide and grows cautious upon realizing he is dealing with Intelligence. After Diggs presents his NRI credentials and Lono verifies his clearance, Diggs explains only that he must speak with Sargent on a classified matter. Lono agrees to escort him and leads the captain through the embassy's housing wing to knock on Sargent's door, announcing the Intelligence visitor.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Jonau Diggs",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Lono",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

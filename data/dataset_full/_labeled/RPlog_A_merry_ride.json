@@ -1,0 +1,229 @@
+{
+  "name": "RPlog_A_merry_ride",
+  "title": "A Merry Ride",
+  "summary": "From a bench across the storm-battered Qwyntiquities Mega Mall, the hooded slicer Murdock remotely hijacks the luxury speeder of the executive Smitherbodkins using his alpha-build control software, seizing the controls mid-drive and sending the car careening through traffic. Speaking taunts through the vehicle's chauffeur hologram, Murdock turns the businessman into an unwitting passenger, ripping open panels and frying systems while Smitherbodkins frantically claws at the smoking wiring and roars in helpless rage. The Verpine k'Halat, out for a drive in a borrowed speeder, nearly gets run down and pulls alongside, calmly admonishing \"Mister Smitherbottoms\" before urging him to JUMP as the careening car threatens to kill him. With Miranda Jabs strolling obliviously nearby, Murdock decides he's wrung enough out of the chaos, and his parting words push Smitherbodkins to leap; k'Halat hauls him into her speeder just as his own vehicle explodes through the median. Composing himself, Smitherbodkins promptly gets Corporate Sector Security on the line to call in the attack.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": true
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "k'Halat",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "k'Halat",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "k'Halat",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "k'Halat",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Miranda",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "k'Halat",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Murdock",
+      "b": true
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": true
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+ "name": "RPlog_Futile_Research_-_Checking_In",
+ "title": "Futile Research: Checking In",
+ "summary": "Arriving at a bustling Coruscant starport, Luke Skywalker disembarks the Voidstalker amid R2-D2's mischievous antics with the landing struts, bound for the Senate chambers ahead of an upcoming hearing. Among a herd of schoolchildren waiting for a tram is Arise, the refugee girl, who recognizes Luke and screws up her nerve to approach him. As they ride the tram together toward the Parliamentary District, Arise tells him about a woman named Valkyr Tenebre, met in the Parliament district, who offered to teach her self-defense; Luke, faintly troubled and finding the name oddly familiar, promises to look into it. The two share guarded small talk about Arise's studies and her unease over the refugees' uncertain future before parting at the Government Complex, where Valkyr quietly follows Arise into the building. Luke sends Arise back to her class and departs for the Senate, the mystery of Valkyr left hanging.",
+ "rows": [
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "R2-D2",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "R2-D2",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "R2-D2",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Valkyr",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  }
+ ]
+}

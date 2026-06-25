@@ -1,0 +1,703 @@
+{
+ "name": "RPlog_Party_Planning_and_Other_Pursuits",
+ "title": "Party Planning and Other Pursuits",
+ "summary": "At his island keep on Yaeguero Isle off Caspar, the scientist Basca Starker hosts the Jedi Jessalyn Valios and the Kubaz fashion designer Zubindi to plan a formal gala. Over chilled fruit drinks beneath a canopy, Basca -- a veteran of the Sariphage plague whose estate was a gift from a grateful Caspar -- reveals his plans for the celebration while the artist Zubindi muses over designs and Jessalyn, distracted by her own emotional turmoil, looks on. As the day unfolds, the conversation drifts from party logistics to a budding, flirtatious alliance between Basca and Jessalyn, culminating in an intimate understanding between the two.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Zubindi",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Basca",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

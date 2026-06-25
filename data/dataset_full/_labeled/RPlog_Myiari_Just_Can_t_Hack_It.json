@@ -1,0 +1,175 @@
+{
+ "name": "RPlog_Myiari_Just_Can_t_Hack_It",
+ "title": "Myiari Just Can't Hack It",
+ "summary": "Held captive by the Imperials Rainier and Brek, the medic Myiari is coerced into slicing the New Republic defence council's databases using the access codes of the kidnapped Senator Tokoga, who is dragged in beaten and bound as added leverage. Timed and threatened, Myiari grudgingly works the terminal while trading venomous insults with the menacing Brek and a battered but defiant Tokoga goads his captors. When an Imperial slicer brought to monitor her notices Myiari attempting to subvert the operation, Rainier reacts swiftly to shut her down. The tense scene shows Myiari's failed attempt at sabotage under the guns of her captors.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  }
+ ]
+}

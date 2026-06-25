@@ -1,0 +1,181 @@
+{
+ "name": "RPlog_Funeral_for_a_Ghost",
+ "title": "Funeral for a Ghost",
+ "summary": "In a hangar bay aboard the Reprisal, the New Republic gathers to mourn Second Lieutenant Kyrin Sh'vani of Ghost Squadron, whose empty flag-draped casket holds only her flight suit. Major Johmac Mabru presides over the military funeral, struggling through a heartfelt eulogy before inviting others to speak. General Luke Skywalker, standing pointedly at the back in his Jedi attire, eventually steps forward to honor Kyrin and to reveal that she is only presumed killed in action -- urging the assembled Fleet, Marine, and Starfighter Corps personnel to hold onto hope that she may yet return. Lianna, who examined the wreckage and argued the slim chance of survival, and Aramis, unsettled by the empty coffin, watch in tense silence, while the Sarian CDU representative Asli slips in late to pay quiet respects. The ceremony closes with the folding of the Republic flag and a missing-man flyby of four Ghost Squadron X-Wings, the fourth peeling away in symbolic tribute.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Asli",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Asli",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Asli",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  }
+ ]
+}

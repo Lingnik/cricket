@@ -1,0 +1,223 @@
+{
+ "name": "RPlog_Raxis_At_the_Medbay",
+ "title": "Raxis at the Medbay",
+ "summary": "Recovering in the New Republic Military Bay, the bandaged Flight Officer Raxis L'ygr is visited by the Senator Del Marx, curious about the bloody brawl she broke up the day before. Wracked with guilt and dreading his superiors' wrath, Raxis blames his own poor mentoring, and the sympathetic Del gently counsels him about the burdens of leadership. The business-like First Lieutenant Kesander Beysarus arrives to ground Raxis from flying pending a likely court-martial, but softens enough to express relief that the young pilot isn't worse off. Through the wry, supportive conversation, Del reassures Raxis and even offers him work should he wash out, the three sharing rueful humor about the fight and the formidable Twi'lek Marine Wrista who ended it.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

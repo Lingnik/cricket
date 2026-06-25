@@ -1,0 +1,145 @@
+{
+  "name": "RPlog_A_Wolf_s_New_Den",
+  "title": "A Wolf's New Den",
+  "summary": "Deep in the bowels of the warship Audacity, the captured Imperial Commander Seifer Wolf sits behind a ray shield while the New Republic interrogator Raxis attempts to question him, offering a cigarette and pressing him about his situation. Watching tensely from behind the mirrorglass is Flight Officer Lance Corbet -- pilot of Ghost Six and known as Wildman -- who harbors raw hatred for Wolf after a recent battle. Wolf's snide, defiant Imperial attitude needles Lance until the younger man storms into the room, spitting venom and threats. Raxis steps between them, struggling to keep the interrogation from collapsing as Wolf taunts Lance over how quickly his fighter fell in combat, calling him weak and disappointing. Lance lunges, only to be shoved back against the wall by Raxis, and the session disintegrates into a near-brawl that leaves Raxis fighting to salvage any control over the encounter.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Lance",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Lance",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Lance",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Lance",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Lance",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": true
+    }
+  ]
+}

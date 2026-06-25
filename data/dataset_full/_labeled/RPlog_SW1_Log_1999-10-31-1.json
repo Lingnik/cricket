@@ -1,0 +1,145 @@
+{
+ "name": "RPlog_SW1_Log_1999-10-31-1",
+ "title": "SW1 Log: A Pilot and a Tech",
+ "summary": "In the ship services area of the New Republic vessel Deliverance, the grey-skinned technician Kelvis collects his pay and tinkers with a pet project while the bored Ghost Squadron pilot Bazil loiters by the news terminal. The two strike up an easy, idle conversation over caf about the dullness of politics, the news, and the beauty of flying X-Wings, with Bazil proudly declaring Ghost the only good squadron. After a friendly exchange about fighters and squadrons, the weary Kelvis heads off to grab some sleep before his next shift, and Bazil returns to his datapad. The quiet slice-of-life scene captures the ordinary downtime of New Republic crew.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Kelvis",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

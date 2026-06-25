@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Of_Ships_and_Sentients_Butchers_and_Arrivals_-_part_1",
+ "title": "Of Ships and Sentients, Butchers and Arrivals (Part 1)",
+ "summary": "In the engineering compartment of the Caspian warship CMS Audace, the doctor-commander Lynae Cassius confers with the Twi'lek engineer Ven Secura about a power-fluctuation glitch introduced by a recent refit, now repaired. Their technical conversation turns philosophical when Lynae mentions an augmented, sentient industrial droid, touching a raw nerve in Ven, a former slave who reacts viscerally to talk of ownership and slavery. Lynae draws him out on the meaning of home, belonging, and the choices that make a place one's own, and the young engineer finds unexpected resonance in her views before duty calls him away. The exchange establishes Lynae's thoughtful, humanizing leadership style aboard the Audace.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Ven",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -21,7 +21,7 @@ _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Use the resolved local snapshot path (written by the download step) to avoid any HF lookup.
 _bp = os.path.join(_ROOT, "data", "finetune", "base_path.txt")
 BASE = open(_bp).read().strip() if os.path.exists(_bp) else "Sao10K/L3-8B-Lunaris-v1"
-OUT = os.path.join(_ROOT, "data", "finetune", "lunaris-cricket-lora")
+OUT = os.path.join(_ROOT, "data", "finetune", "lunaris-rp-12x-lora")
 # bitsandbytes 4-bit has no fast Blackwell kernels (no triton) -> ~1.75h/step. Use bf16 LoRA
 # (fast cuBLAS) and a shorter seq so the 16 GB bf16 weights + activations fit the 24 GB card.
 MAXLEN = 2560
@@ -82,7 +82,7 @@ def main():
     model = get_peft_model(model, lora)
     model.print_trainable_parameters()
     args = TrainingArguments(
-        output_dir=OUT, num_train_epochs=3, per_device_train_batch_size=1,
+        output_dir=OUT, num_train_epochs=2, per_device_train_batch_size=1,
         gradient_accumulation_steps=8, learning_rate=2e-4, lr_scheduler_type="cosine",
         warmup_ratio=0.05, bf16=True, gradient_checkpointing=True,
         gradient_checkpointing_kwargs={"use_reentrant": False},

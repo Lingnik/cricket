@@ -1,0 +1,589 @@
+{
+ "name": "RPlog_Selene_Day_s_Wookiee_Hunt",
+ "title": "Selene Day's Wookiee Hunt",
+ "summary": "As a centerpiece of the Selene Day festivities, Moff Marx stages a brutal \"Hunt of the Wookiee\" in which Imperial hunters chase a tormented, caged Wookiee released into the planet's radioactive, frozen wastelands. Among the hunters are Admiral Danik Kreldin and his comrades Sandor Woden and Darenak Alesis, the disguised Moff Claven, the kitchen-trained Lauranne Tremichall, and the cavalier executive Xerxes Kherzen with his recording droid. The terrified Wookiee flees through corpse-strewn ruins seeking shelter, but Sandor's sharp eyes spot it and the hunters converge on the residential district. A chaotic firefight erupts when Claven stumbles into the creature's hiding place; sniper fire, stun bolts, and Kreldin's bayonet charge finally cut the Wookiee down, and Sandor delivers the killing shot to claim victory and an invitation to meet Moff Marx.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Darenak Alesis",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Lauranne Tremichall",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Darenak Alesis",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Lauranne Tremichall",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Lauranne Tremichall",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "NPC_Wookiee",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Darenak Alesis",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "NPC_Wookiee",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "NPC_Wookiee",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Darenak Alesis",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "NPC_Wookiee",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "NPC_Wookiee",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Claven",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Darenak Alesis",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Xerxes Kherzen",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "NPC_Wookiee",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Scaven",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

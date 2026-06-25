@@ -1,0 +1,97 @@
+{
+  "name": "RPlog_A_Statement",
+  "title": "A Statement",
+  "summary": "The flamboyant reporter Loy Marin sweeps into the CSA security cells with his camera droids and harried guards, broadcasting live to chase down rumors of physical hostilities at the highest levels of the Corporate Sector Authority. He finds the urbane prisoner Smitherbodkins in a cell beside a snoring Toydarian, but the on-camera interview stalls into a dead end. Frustrated, Loy kills the live feed and clears the area, sensing a deeper story. When Smitherbodkins finally signals he is willing to talk, Loy beams with the scent of money and renewed fame and dismisses his droids to remove any witnesses. Smitherbodkins, gripping the bars and out for blood, declares he may be put entirely on record, ending with a quiet promise that he will indeed give his statement.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Loy",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Loy",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Loy",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Loy",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Loy",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Loy",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Smitherbodkins",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+ "name": "RPlog_Brig_-_Day_One",
+ "title": "Brig: Day One",
+ "summary": "On Caspar at dawn, the former Imperial Commodore Lynae Caiton, the ace-turned-ambassador Antoine Dareus, and Lynae's marine 'sister' Maris Becton say their farewells, with Dareus parting from his beloved Kiare before the three surrender themselves to the Empire to answer charges and avert a wider war. Aboard the shuttle Broadsword 1 they steel themselves for interrogation, and on arrival in the hangar of the I2SD Inquisitor they are formally arrested by the Inquisitor Malign and Grand Inquisitor Korolov, who relish the irony of uncovering a conspiracy within the Inquisition itself; Dareus surrenders a data disk locating the true target, the fugitive Danik Kreldin in his 'Alois' guise. Maris, posing as their loyal captor, secures the duty of escorting them to the brig, where the pair are chained from the ceiling. During a window in which Maris loops the surveillance feeds, she lowers them, smuggles in painkillers, and the three quietly coordinate their stories, vowing not to speculate, lie, or implicate anyone. Left hanging through the night, Lynae and Dareus trade grim, exhausted gallows humor and old war stories as they wait for the interrogation they know is coming.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Kiare",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Kiare",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Kiare",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Maris",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

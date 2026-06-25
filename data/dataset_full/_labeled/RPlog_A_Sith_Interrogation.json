@@ -1,0 +1,121 @@
+{
+  "name": "RPlog_A_Sith_Interrogation",
+  "title": "A Sith Interrogation",
+  "summary": "Held for at least a month in a lightless mining cell, the captured New Republic Marine Sabrina has lost all sense of time when the Sith Warlord Malign arrives with his black-clad guards to break her, the military doctors having judged her ready. Malign settles into a chair with a cigarette as guards lay out archaic instruments of torture, while the dark-side adept Sinestra lingers in the back to observe, drawn by research the Emperor has entrusted to her. Malign opens the session almost casually, recounting how the New Republic has shattered into rebellion and chaos before quietly demanding the prisoner's name. Blinded by the harsh light and barely able to speak, Sabrina rasps out the false name \"Rheatis.\" As the procedure begins in earnest, Sinestra -- irritated by the cigarette smoke and her own simmering anger over Tazecks -- settles back to watch the interrogation unfold.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Sinestra",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": true
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Sinestra",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Sinestra",
+      "b": true
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Sinestra",
+      "b": true
+    }
+  ]
+}

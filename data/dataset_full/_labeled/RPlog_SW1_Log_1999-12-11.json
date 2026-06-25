@@ -1,0 +1,145 @@
+{
+ "name": "RPlog_SW1_Log_1999-12-11",
+ "title": "SW1 Log: To the Races on Corellia",
+ "summary": "In the hangar, the support tech Lianna struggles to understand the Wookiee Geroam, who is trying to tell her that the crew has been granted a short break from repairs to attend the races on Corellia. When Geroam spots the off-duty pilot Bazil waiting by his shuttle Intrepid for his sluggish astromech droid, he waves him over, and Bazil reveals he is indeed bound for Corellia. Happy to oblige, Bazil offers Geroam and Lianna a ride, and the three -- droid in tow -- board the shuttle together for the trip. The cheerful scene captures the easy camaraderie of crew making plans for a rare day off.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Geroam",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Geroam",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Geroam",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Geroam",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Geroam",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

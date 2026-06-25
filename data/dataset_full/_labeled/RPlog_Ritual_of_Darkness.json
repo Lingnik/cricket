@@ -1,0 +1,1741 @@
+{
+ "name": "RPlog_Ritual_of_Darkness",
+ "title": "Ritual of Darkness",
+ "summary": "In the ancient Massassi Temple amid the jungle wilderness of Yavin, a host of Force users gathers as a dark ritual unfolds. The Jedi and adepts Aurejin, Jessalyn Valios, Mailyn Raines, Markus, Mira, and Simon Sezirok converge with others -- the captive Kyokusha, Jarin, and Kyo -- under the looming menace of the Sith Lord Valak. As the diffused orange light filters through the Grand Audience Chamber's slanted skylights, the rite of darkness draws the participants into a perilous confrontation between the light and the dark side. The multi-part scene chronicles the harrowing ritual and the clash of wills it provokes within the Massassi temple.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": true
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 500,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 506,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": true
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 576,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 610,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 622,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Valak",
+   "b": true
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Jarin",
+   "b": false
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 648,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 656,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": true
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": true
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": true
+  },
+  {
+   "line": 668,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 670,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 678,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 688,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 690,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 692,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 694,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": true
+  },
+  {
+   "line": 696,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 698,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 704,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 706,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 710,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 712,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": true
+  },
+  {
+   "line": 714,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 718,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 720,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 724,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 726,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 728,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 730,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 732,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 736,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 740,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 742,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 744,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": true
+  },
+  {
+   "line": 748,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 750,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 754,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 756,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 760,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 762,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 764,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 768,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 772,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 774,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 778,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 780,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 782,
+   "type": "pose",
+   "actor": "Valak",
+   "b": false
+  },
+  {
+   "line": 784,
+   "type": "pose",
+   "actor": "Mailyn",
+   "b": false
+  },
+  {
+   "line": 788,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 790,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 792,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 796,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 798,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": true
+  },
+  {
+   "line": 800,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 804,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 806,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 808,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 812,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 814,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 816,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

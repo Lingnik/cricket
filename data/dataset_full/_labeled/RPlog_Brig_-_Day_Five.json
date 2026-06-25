@@ -1,0 +1,535 @@
+{
+ "name": "RPlog_Brig_-_Day_Five",
+ "title": "Brig: Day Five",
+ "summary": "On the final day, ISB Director Korynn Fleming strings up Lynae Caiton and Antoine Dareus together for a last interrogation, pressing relentlessly for the location of Lynae's hidden ship and torturing Dareus with an electroshock prod when the answers are incomplete. Fleming then reveals that Danik Kreldin has been captured and that the prisoners' intelligence was useless to his own endgame, but announces he will spare their lives, only to sedate Lynae for surgery and methodically break nearly every bone in Dareus's body in an operatic display of vengeance. After an eight-hour operation implants a lethal pulse-monitoring device over Lynae's heart, Fleming brings their aged parents, Lynae's father Ethan Cassius and Dareus's mother Emily, for a wrenching final visit. He then compels both broken prisoners to kneel and swear renewed loyalty to the Emperor before pronouncing their true sentence: discharge from the military, seizure of all assets, and permanent exile from Imperial space under penalty of death. Fleming, betraying a flicker of buried grief, departs, and the two are transported out of Imperial space and set free on Tatooine.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Emily",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Emily",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Emily",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Emily",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+  "name": "RPlog_A_Gift_of_Spice",
+  "title": "A Gift of Spice",
+  "summary": "A rainy day packs the Sandbar cantina, where the old smuggler Axel Vichten -- ringed by a booth full of admiring women -- presides over a glittering spice party, sharing the waterpipes freely. The pirate Jalek, head of the Twi'lek Maffi Crime Syndicate, pushes through the crowd to approach Axel, prompting Axel's deadly bodyguard to drop a hand to her blaster until Axel calmly waves her off. Jalek bluntly introduces himself and his interest, and the two trade a smoky, wary negotiation about a beachside property in New Kala'unn and a job that would take Axel into Corporate space. Axel, a professional pilot unbothered by the smoke he blows in the pirate's face, banters about the rarity of red Twi'leks and Jalek's distinctive look. The meeting wraps cordially, Axel turning to his bodyguard who has quietly recorded the entire conversation on a datacard.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jalek",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+ "name": "RPlog_Blooming_Chaos",
+ "title": "Blooming Chaos",
+ "summary": "In a gaudy Kashyyyk-themed restaurant on The Wheel, the masked, yellow-eyed agent Murrain seeks out the notorious Bespin slaver-raider Captain Skawn Kairn, presenting him with a bottle of potent spirits as an overture. Over absurd banter and cheap red cups, Murrain probes the Twi'lek's motives, trying to learn what he is truly after, while Skawn deflects with morbid jokes and insists he lives only for the moment, chaos, and his own appetites rather than any grand plan. The two find common ground as kindred agents of disorder, Murrain professing his belief that fire and carnage drive sentients to growth. Murrain leaves Skawn a drop-link datachit and offers to collaborate on future mayhem, but also warns him that his Bespin raid has drawn the Imperator's attention, including agents who can read the echoes of past events to track him down. Unbothered, Skawn shrugs off the danger, and Murrain departs amused, leaving the slaver to his random plottings.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Skawn",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Murrain",
+   "b": false
+  }
+ ]
+}

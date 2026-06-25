@@ -1,0 +1,235 @@
+{
+ "name": "RPlog_SW1_Log_1999-10-31-2",
+ "title": "SW1 Log: Maintenance Concerns",
+ "summary": "In the hangar of the New Republic vessel Deliverance, Captain Altair fends off an eager cadet while discussing routine maintenance of the shuttle Tydirium with the diplomat Representative Poguala Dawntreader and the General Skeezix. Skeezix keeps eyeing the Tydirium's hull with the proprietary unease of someone who suspects something is amiss, prompting Altair, the support tech Lianna, and the others to peer at it as well -- though nothing is found. The relaxed exchange of senior officers and crew, capped by Skeezix formally introducing himself to Captain Altair, paints a picture of everyday shipboard life among the New Republic's Star Ops personnel.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Altair",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Lianna",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,3025 @@
+{
+ "name": "RPlog_Opening_Ceremony",
+ "title": "Opening Ceremony",
+ "summary": "In the heavily secured Chianar Plaza of New Alderaan on Ord Mantell, a grand opening ceremony and festival draws dignitaries and the public alike beneath a misty sky. Ambassador Ambrosia Delgard takes the podium to address the gathering, a holoprojector displaying the signing of accords between Presav Elana Tracer of the Caspian Union, the Bothan Chief of State Peshk Vry'lya, and the New Republic ambassador. Among the attendees are the strikingly dressed, Imperial-leaning businesswoman Portia Vykos, the sullen young Gabi watched over by a bodyguard, and the smuggler Jaspar, as speeches, performances, food, and dance fill the festive plaza. The event marks a hopeful moment of diplomacy and celebration for the city.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 452,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 476,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Portia",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 530,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Portia",
+   "b": true
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 538,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 541,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 548,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Aderanne",
+   "b": true
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 561,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": true
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Galin",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 575,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 576,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 578,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 581,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Galin",
+   "b": true
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "name": "RPlog_Bringing_in_Brandis",
+ "title": "Bringing in Brandis",
+ "summary": "Within the dark-stoned focusing chamber aboard Malign's dreadnought, the Sith Lord Malign meditates as Grand Admiral Danik Kreldin arrives bearing two prisoners: the captured Jedi doctor Brandis and Etiel, the son of Johanna and Malign's own nephew. Malign praises his apprentice Kreldin, frees Etiel and sends him to safety, then turns his attention to Brandis, professing a perverse admiration even as he affirms the Jedi is an enemy who cannot be spared. When Kreldin urges they simply execute the troublesome Jedi, Brandis defiantly frees his own binders through the Force and refuses to call Malign by his old name, Tyler. Malign instead grips the Jedi and uses postcognition to read the memories off his clothing, hunting for the location of his daughter and the truth of Brandis's meeting with Vadim. Brandis wrenches free, but Malign chokes him into unconsciousness with the Force, declaring he will keep the Jedi sedated as a living relic to mine for information, and orders Kreldin to summon a doctor with sedatives.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Kreldin",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Kreldin",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Kreldin",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Kreldin",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Kreldin",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Kreldin",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

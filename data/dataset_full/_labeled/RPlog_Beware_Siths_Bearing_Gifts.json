@@ -1,0 +1,241 @@
+{
+  "name": "RPlog_Beware_Siths_Bearing_Gifts",
+  "title": "Beware Siths Bearing Gifts",
+  "summary": "In the brutal, secretive Crime Moon on Nar Shaddaa -- a slaughterhouse with a drink menu -- the cold, controlled Mitra meets for a second time with the Sith Malus, her enigmatic ally Cube whispering urgently at her side. Mitra explains that while Skawn serves a purpose, she needs a being who can think beyond his next indulgence, and Malus agrees with her low assessment of him. The Cube, communicating directly into Malus's mind, factors into a guarded exchange about a long-sought object Mitra has finally located and now offers across the table, conceding it never truly belonged to her. Malus reaches out with the Force to claim the Cube with reverence as the two probe each other's motives: Mitra dismisses the common belief that Malus simply wants to usurp the throne, and he speaks of opportunities, of Chandrila, and of establishing himself since his release. Their wary, deliberate negotiation ends with Mitra promising he will hear from her soon, slipping away as quietly as she arrived.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "desc",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Malus",
+      "b": true
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Mitra",
+      "b": true
+    }
+  ]
+}

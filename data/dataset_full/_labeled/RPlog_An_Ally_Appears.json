@@ -1,0 +1,115 @@
+{
+  "name": "RPlog_An_Ally_Appears",
+  "title": "An Ally Appears",
+  "summary": "In the rowdy Club Utinni on Tatooine, the mercenary Brinaj -- who carries Imperial ties -- meets up with his employer, the Jedi Johanna, and the former Imperial Dareus to plan a strike against a target named Eson on Ord Mantell. Brinaj is irritated after a long wait in the spaceport, and Dareus needles him by openly referencing their arrangement, nearly exposing the 3,000 credits Brinaj paid to keep his background quiet around Johanna. The trio debate how aggressively to move against Eson, whose corrupt CSA connections they deem unimportant; Johanna makes clear the extraction need not be bloodless and that her resources extend well beyond a single X-Wing. Brinaj quietly turns over the discrepancies in Johanna's identity -- her file lists a different name -- while filing the questions away. Dareus, smiling, makes plain that if even Skywalker could not turn him from his path, nothing will, as the three settle into an uneasy alliance.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Brinaj",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    }
+  ]
+}

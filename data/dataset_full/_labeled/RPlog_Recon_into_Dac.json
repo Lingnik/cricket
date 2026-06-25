@@ -1,0 +1,361 @@
+{
+ "name": "RPlog_Recon_into_Dac",
+ "title": "Recon into Dac",
+ "summary": "Aboard the small, fast cruiser Minnow, the Imperial historian-officer Lieutenant Mandor and his Sarian pilot Liza Molokai slip into the heavily guarded Dac system to conduct a passive sensor recon of the New Republic's defenses around Mon Calamari. Their easy, getting-to-know-you banter -- Mandor's rambling fascination with Liza's Corellian-Sarian heritage -- is interrupted when the Republic detects them and Commander Rasi Cen dispatches a Revenant intercept team led by Kesander, with Raxis on his wing. The Republic fighters shepherd and harry the cruiser, ordering surrender while sparing it real harm, and the Imperials' transparent 'innocent freighter' act fails. The Minnow ultimately jumps clear with its scans intact, and Mandor and the brave Liza share a warm, tired conversation afterward about the mission and the future.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Mandor",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

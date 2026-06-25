@@ -1,0 +1,1339 @@
+{
+ "name": "RPlog_SW1_Log_2000-06-10-5",
+ "title": "Hunting for Casey",
+ "summary": "Returning to the Coronet spaceport late at night on his KIF LoanShark swoop, the disguised agent Bazil McKenzie (as Mege Vauki) reunites with his teammate, the slicer Marcus Delvennis, who has been doing idle maintenance on the Triton while waiting for word on the Imperials. Bazil reports placing third in the swoop tournament behind Kartijan Lore, then the two retire to the dangerous Smuggler's Dig cantina for a bottle of Corellian whiskey. There Bazil opens up about Casey, the woman he loved who vanished without a trace a year ago after telling him she planned to join the Republic, despite his hiring a local slicer to find her. Marcus, intrigued, offers to use his far deeper access to dig into Casey's past, and Bazil gratefully accepts before the weary pair head back to the ship to sleep ahead of the final races.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Marcus Delvennis",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

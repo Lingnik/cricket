@@ -1,0 +1,217 @@
+{
+  "name": "RPlog_Ballistic_Equipment_Parts",
+  "title": "Ballistic Equipment Parts",
+  "summary": "Stuck babysitting her mother's cantankerous astromech in a Mos Espa shop, the young Ara tries in vain to stop the droid Cricket from pawing through the merchandise. The fussy Muun proprietor Bil Faan emerges to attend his customers just as the golden-skinned child Atsvara -- a Firrerreo-Sarian of the House Dragonflower branch of the Sith -- arrives, drawn to the city by her affection for the droid and Johanna's family. When Bil catches on that Cricket and Atsvara are interested in ballistic equipment parts, the conversation veers into veiled talk of vigilantism, the Axel affair, and Atsvara's checked past, alarming Ara. The Muun grows skittish and snaps his display case shut, floating the idea of a restraining bolt for the unruly droid -- words that wound the droid-rights-believing Atsvara and send Cricket buzzing with rage. Ara defuses the moment, assuring everyone the bolt won't actually happen and nudging the calming Cricket along as the thwarted shopping trip breaks up.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 11,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "pose",
+      "actor": "Bil",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Bil",
+      "b": true
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Bil",
+      "b": true
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Bil",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "desc",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Bil",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Bil",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Bil",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    }
+  ]
+}

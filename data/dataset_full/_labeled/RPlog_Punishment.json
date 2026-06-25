@@ -1,0 +1,487 @@
+{
+ "name": "RPlog_Punishment",
+ "title": "Punishment",
+ "summary": "Admiral Axel Vichten's gaudy private Skipray Blastboat returns to the hangar, scratched up from a rough jungle trip, carrying the armored Baron Mygedo (Sekes), the Mandalorian Cantrell, and a captured Falleen and the erratic woman Decrevi. A foul-mooded Axel complains about the damage to his 'baby' while Cantrell needles him for turning a military vessel into a party boat. As the group disembarks, Cantrell observes that one of their number is lucky her superior had sense and compassion, but Axel coldly clarifies there was no compassion -- only the pragmatic need for every combatant they can get in the conflict to come. The terse scene shows the hard, transactional calculus of Axel's command.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Decrevi",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Decrevi",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ferrak",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Ferrak",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Ferrak",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Ferrak",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Ferrak",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Decrevi",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Sekes",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  }
+ ]
+}

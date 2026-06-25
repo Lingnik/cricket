@@ -1,0 +1,913 @@
+{
+  "name": "RPlog_Plan_of_Action",
+  "title": "Plan of Action",
+  "summary": "In a war room aboard a New Republic vessel, Admiral Ackbar convenes a council of officers -- including Vice Admiral Quix, the 224th Battalion captains, and Lightbringer commander Argon Brand -- to plan a first strike against the Imperial fleet blockading Bothawui. Ackbar lays out the intelligence on the Imperial cruisers Responder and Remorseless and proposes punching a small, fast first wave through to Drev'starn to reinforce Lieutenant Halo's beleaguered ground team. Argon argues for an aggressive close jump to preserve surprise and sketches options for committing the heavier MC-40s, while the officer Rasi pushes a decoy scheme using disguised fireship transports to draw and destroy Imperial fire. Ackbar weighs the proposals, endorsing a near jump with a single sacrificial decoy transport to relieve pressure on the convoy as it runs for the spaceport. The council adjourns with the plan taking shape, the session marked to be continued.",
+  "rows": [
+    {
+      "line": 9,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 10,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 11,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": true
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 178,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

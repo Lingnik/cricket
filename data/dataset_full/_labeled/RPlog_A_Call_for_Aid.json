@@ -1,0 +1,133 @@
+{
+  "name": "RPlog_A_Call_for_Aid",
+  "title": "A Call for Aid",
+  "summary": "Aboard the warship Audacity over Mon Calamari, the officer Rasi Praddhan Cen formally petitions the Jedi couple Enb'Zik and his wife Lynae for their aid in an impending engagement. Enb'Zik, arriving in armor rather than his usual robes, speaks on behalf of the Jedi Order while Lynae carefully stresses that their position is not merely one of neutrality. Cen shows them a transmission and explains the Republic has been preparing covert aid and possibly an attack, arguing that a probe would too likely be detected and destroyed. The Jedi weigh the heavy request, ultimately committing to a roughly thirty-six-hour window of support, not necessarily concentrated at a single point in the system. Cen presses on the vital importance of their being ready to fire the instant the enemy enters the system, underscoring why the couple's particular training and experience were sought.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    }
+  ]
+}

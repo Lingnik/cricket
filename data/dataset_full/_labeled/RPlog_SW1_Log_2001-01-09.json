@@ -1,0 +1,331 @@
+{
+ "name": "RPlog_SW1_Log_2001-01-09",
+ "title": "A Brother and Sister Reunited",
+ "summary": "In a moonlit Massassi amphitheater, the Intelligence director Bazil McKenzie summons the doctor Jasmine, who arrives hoping for news of her missing love Howie. Instead, Bazil gently leads her through the painful revelation he has uncovered: raised as a slave on a Tatooine mining colony, he recently learned from his dying adoptive mother that his real parents -- and his sister -- were someone else entirely. After his agents traced his bloodline, he reveals the staggering truth that Jasmine is the baby sister he was stolen from twenty-seven years ago, a discovery so important he abandoned even the chance to study the Death Star plans to tell her in person. Overwhelmed, Jasmine breaks down sobbing in his arms before accepting the bond, and the newfound siblings tearfully embrace, promising to relearn each other as Bazil leads her back to his ship to escape the cold.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "desc",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "desc",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "desc",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "desc",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Jasmine",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

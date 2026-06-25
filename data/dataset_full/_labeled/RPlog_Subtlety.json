@@ -1,0 +1,463 @@
+{
+ "name": "RPlog_Subtlety",
+ "title": "Subtlety",
+ "summary": "In the austere corridor of the Imperial Embassy, the bounty-hunter guildmaster Taggor Bren arrives seeking the absent Ambassador to make arrangements for one of his hunters. He is intercepted by the cold, controlled Imperial Count Joir, who tests him with guarded questions before the two recognize one another's roles. Joir explains that the target, Aly, is always shielded by Starshield Marines and asks whether Taggor's hunters can overcome them. Taggor counters that brute force is not always best and -- revealing a past association with the mark -- proposes a quieter approach of getting close enough to stun or drug her. Joir, who has come to value subtlety, is intrigued and invites Taggor to develop the plan.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 44,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 45,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 46,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 47,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 48,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 49,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 50,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 51,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 52,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 53,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 54,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 55,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 56,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 57,
+   "type": "desc",
+   "actor": "Taggor"
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Joir"
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Taggor"
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

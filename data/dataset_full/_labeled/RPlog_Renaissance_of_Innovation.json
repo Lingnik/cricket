@@ -1,0 +1,589 @@
+{
+ "name": "RPlog_Renaissance_of_Innovation",
+ "title": "Renaissance of Innovation",
+ "summary": "In the renovated Council Chambers of Union Hall in Plaxton, the Caspian Union gathers for the launch of the 'Second Renaissance of Innovation,' a grand civic and economic initiative. The Presav Crestian presides over the proceedings, attended by figures including the doctor Lynae Cassius, the Grand Admiral Axel, the Presav Elana Tracer, the eccentric engineer Druze, and the pilot Nara. The event celebrates Caspar's renewed outward-looking ambition and innovation under the new Union, blending political ceremony with the personal currents running among its prominent attendees.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Druze",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Axel",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Nara",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Nara",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  }
+ ]
+}

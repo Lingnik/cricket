@@ -1,0 +1,924 @@
+entity,logs_listed,string_matches,first_token,db_other_match
+Orson Tighe,59,40,orson,none
+Paul Nighman,57,83,paul,none
+Antoine Dareus,55,27,antoine,none
+Darth Malign,52,151,darth,none
+Raxis L'ygr,49,20,raxis,none
+Ikihsa Enb'Zik,42,67,ikihsa,none
+Morganna Tazecks,36,11,morganna,none
+Alex Dante,35,5,alex,none
+Simone Drake,31,8,simone,none
+Shenneret Veery,31,6,shenneret,none
+Vassily Korolov,30,27,vassily,none
+Gren Delede,28,41,gren,none
+Seifer Wolf,28,12,seifer,none
+Kesander Beysarus,27,36,kesander,none
+Tsaran Joir,26,5,tsaran,none
+Elana Tracer,25,48,elana,none
+Atsvara Tarasar,25,9,atsvara,thing(non-puppet)
+Sandor Woden,22,25,sandor,none
+Lance Corbet,22,18,lance,none
+Vengan Draelis,22,11,vengan,none
+Geophreigh Smitherbodkins IV,22,6,geophreigh,none
+Wescal Cantrell,21,3,wescal,none
+Blulurbgloblurb Druze,18,0,blulurbgloblurb,none
+Shael Edur,17,0,shael,none
+Kuxli,15,493,kuxli,none
+Veruca Violet,15,48,veruca,thing(non-puppet)
+Aldus Thel,14,29,aldus,none
+Snal'Fashtalli Teague-Ikihsa,14,5,snal'fashtalli,none
+Xar'on Tanner,14,5,xar'on,none
+Talon Karrde,13,42,talon,none
+Shiari Vane,13,11,shiari,none
+Inanna Jordain,13,4,inanna,none
+R2-D2,12,97,r2-d2,thing(non-puppet)
+Drayson Honos,12,23,drayson,none
+Gene Malantean,12,2,gene,none
+ak,11,149,ak,none
+Eva Sargent,11,30,eva,none
+Mege Vauki,11,28,mege,none
+Aramis Tyrese,11,7,aramis,none
+Alistair Al'Dira,11,2,alistair,none
+C-3PO,11,1,c-3po,thing(non-puppet)
+Calyx Drogyn,10,14,calyx,none
+Shenner Veery,10,1,shenner,none
+Ewan Dain,9,38,ewan,none
+Lorn Rhys,9,34,lorn,none
+Basca Starker,9,11,basca,none
+Liora Kovani,9,4,liora,none
+Ylsa Estrallas,9,2,ylsa,none
+Ariana Millikin,9,2,ariana,none
+Alora Antieres,9,1,alora,none
+Sean Dillon,9,1,sean,none
+Ohaotrantak Ostivort,9,1,ohaotrantak,none
+Tacra,8,261,tacra,none
+Tand,8,217,tand,none
+Dane Noth,8,14,dane,none
+Darth Malus,8,11,darth,none
+Tanis Cadell,8,9,tanis,none
+Camrath Kizuka,8,6,camrath,none
+Barrien Thrask,8,5,barrien,none
+Grathix Stur'ttrakath,8,2,grathix,none
+Sabbathius Osbourne,8,2,sabbathius,none
+David Stone,8,1,david,none
+Odion Cobb,8,1,odion,none
+Xegid Roark,8,1,xegid,none
+Chanera Ruai Thorn,8,0,chanera,none
+Morlok Adlerson,8,0,morlok,none
+Shenner,7,3305,shenner,none
+Aurejin,7,426,aurejin,none
+Miranda Jabs,7,29,miranda,none
+Kracen Ecks,7,10,kracen,none
+Thomas Mahon,7,10,thomas,none
+Vextin Mandor,7,8,vextin,none
+Shael Winters,7,4,shael,none
+Javin Mitali,7,3,javin,none
+Brin Harper,7,3,brin,none
+Auxin Valerius,7,2,auxin,none
+Moralis Rodriga,7,2,moralis,none
+Salty Jack (Jaqen H'gar),7,0,salty,none
+Violet Allure,7,0,violet,none
+Urio'kosh,6,251,urio'kosh,none
+Kacela,6,193,kacela,none
+Kelvis,6,106,kelvis,none
+Drorq,6,52,drorq,none
+V1C3,6,35,v1c3,thing(non-puppet)
+Darenak Alesis,6,5,darenak,none
+Jonau Diggs,6,5,jonau,none
+Chantinelle Thistleborn,6,3,chantinelle,none
+Jeralic Mandragon,6,1,jeralic,none
+Taggor Bren,6,1,taggor,none
+Galatea Demor,6,0,galatea,none
+Barnacle Bill (Billious Qarrack),6,0,barnacle,none
+Gial Ackbar,6,0,gial,none
+Winter Retrac,6,0,winter,none
+Vauki,5,196,vauki,none
+Vek,5,117,vek,none
+Lelila,5,74,lelila,none
+Sentinel,5,62,sentinel,none
+Xanatos,5,48,xanatos,none
+Joshua Arands,5,11,joshua,none
+Dorian Navtilos,5,6,dorian,none
+Seth Skyler,5,6,seth,none
+Ernest Pallando,5,5,ernest,none
+Longinus Van Sen,5,5,longinus,none
+Etiel te Danaan,5,4,etiel,none
+Giles Vermillion,5,2,giles,none
+Evir Yissik,5,2,evir,none
+Han'bel Eckhart,5,1,han'bel,none
+Kaitlin Mainwaring,5,1,kaitlin,none
+Damien Loki Katon,5,1,damien,none
+Maethor Savage,5,0,maethor,none
+Sarai Litve,5,0,sarai,none
+Heinrich Stalh,5,0,heinrich,none
+Leyanne Zion,5,0,leyanne,none
+Kairne Saa'thul,5,0,kairne,none
+Hate Sarray,5,0,hate,none
+Shael,4,507,shael,none
+Tarlin,4,87,tarlin,none
+Tarrin,4,76,tarrin,none
+Kathryn,4,74,kathryn,none
+Lepidoptera,4,41,lepidoptera,none
+Zaalbacca,4,32,zaalbacca,none
+Ramyxth,4,31,ramyxth,none
+Grizz,4,18,grizz,none
+Bavon Nass,4,17,bavon,none
+Sha Dark,4,8,sha,none
+Bacharan Valak,4,7,bacharan,none
+Salin Fawzy,4,6,salin,none
+Tak Dagon,4,5,tak,none
+Amaya Halos,4,4,amaya,none
+Gustaf Heram,4,3,gustaf,none
+Antal Brencis,4,2,antal,none
+Asli Nayana,4,2,asli,none
+Lon Cotar,4,1,lon,none
+Avalyshaar Dusten,4,1,avalyshaar,none
+Tarkis Kayl'bre,4,1,tarkis,none
+Kadgie Rodo,4,1,kadgie,none
+Silvin Katrar,4,1,silvin,none
+Lemos Ackinbrac,4,1,lemos,none
+Siva Chantillis,4,1,siva,none
+Celo'gnaritas'Subnoto,4,0,celo'gnaritas'subnoto,none
+Turk Avid,4,0,turk,none
+"Beaubos ""Skeezix"" Calhoun",4,0,beaubos,none
+Labatiel Atrox,4,0,labatiel,none
+Sidina Renard,4,0,sidina,none
+Ona Rei Delamont,4,0,ona,none
+Ranma Hoshiakarui,4,0,ranma,none
+Via Tyche,4,0,via,none
+Beaubos Calhoun,4,0,beaubos,none
+Cubitt Tethes,4,0,cubitt,none
+Dareus,3,1832,dareus,none
+Skeezix,3,247,skeezix,none
+Kintor,3,141,kintor,none
+Jusre,3,120,jusre,none
+Poguala,3,107,poguala,none
+Wes,3,96,wes,none
+Ilyana,3,89,ilyana,none
+Kian,3,84,kian,none
+Jairen,3,80,jairen,none
+Jasmine,3,74,jasmine,none
+Dylan,3,66,dylan,none
+Selektah,3,66,selektah,none
+Khirsah,3,53,khirsah,none
+Lehec,3,51,lehec,none
+Zalla,3,50,zalla,none
+Kaein,3,47,kaein,none
+Mersche,3,46,mersche,none
+Auo,3,39,auo,none
+Whitney,3,36,whitney,none
+Aerilaya,3,34,aerilaya,none
+Avitar,3,31,avitar,none
+Euphoria,3,29,euphoria,thing(non-puppet)
+Kierv,3,22,kierv,none
+Raj,3,20,raj,none
+Ash Seneal,3,19,ash,none
+2SK-MI,3,13,2sk-mi,none
+Drocal Arconen,3,11,drocal,none
+Kegren'Te,3,9,kegren'te,none
+Liuz Bogumil,3,7,liuz,none
+Sonja Damion,3,7,sonja,none
+Naten Bonrue,3,6,naten,none
+Molari Canto,3,6,molari,none
+Jamon Grendine,3,5,jamon,none
+Janos Audron,3,4,janos,none
+Phair Kreiss,3,4,phair,none
+Hase Stargazer,3,3,hase,none
+Venus Darkstar,3,2,venus,none
+Aubrey Saralyn,3,2,aubrey,none
+Paris Sieara,3,2,paris,none
+Greiko Lornan,3,2,greiko,none
+Kensle Gradvitz,3,2,kensle,none
+Howie Darklighter,3,1,howie,none
+Cordelia Nivhya,3,1,cordelia,none
+Crystal Keldahoff,3,1,crystal,none
+Marl Jace,3,1,marl,none
+Runther DeMagna,3,1,runther,none
+Poguala Waaris-Dawntreader,3,1,poguala,none
+Jaqen H'gar,3,1,jaqen,none
+Octavian Dibar,3,0,octavian,none
+Tellain Rockflyer,3,0,tellain,none
+Sally Carol,3,0,sally,none
+Matthew Fox,3,0,matthew,none
+Ara te Danaan,3,0,ara,none
+Nubudo Bakrak,3,0,nubudo,none
+Oren Balak,3,0,oren,none
+Tarin Pellegar,3,0,tarin,none
+Ezkhil i'Falzin,3,0,ezkhil,none
+Morganna,2,1595,morganna,none
+Leamer,2,167,leamer,none
+Ackbar,2,147,ackbar,none
+Howie,2,134,howie,none
+Coreshan,2,114,coreshan,none
+Sethas,2,102,sethas,none
+Thanos,2,100,thanos,none
+Lucky,2,99,lucky,none
+Clarise,2,93,clarise,none
+Krinko,2,92,krinko,none
+Ara,2,79,ara,none
+Ariani,2,67,ariani,none
+Swanstee,2,66,swanstee,none
+Vanilla,2,64,vanilla,thing(non-puppet)
+Ayaka,2,62,ayaka,none
+Crimthan,2,57,crimthan,none
+Tryno,2,54,tryno,none
+Imriel,2,53,imriel,none
+Kithan,2,51,kithan,none
+Inoga,2,49,inoga,none
+Fay,2,48,fay,none
+Defcon,2,47,defcon,none
+Naldo,2,44,naldo,none
+Mitra,2,44,mitra,none
+Scrat,2,40,scrat,none
+Bourne,2,40,bourne,none
+Feylin,2,40,feylin,none
+Russel,2,39,russel,none
+Sinter,2,37,sinter,none
+Whorus,2,37,whorus,none
+Darth Venger,2,36,darth,none
+Shovadu,2,35,shovadu,none
+Ryder,2,35,ryder,none
+Bruno,2,34,bruno,none
+Coreen,2,32,coreen,none
+Meissa,2,31,meissa,none
+Shoburhynn,2,29,shoburhynn,none
+Merk,2,29,merk,none
+Loraiil,2,29,loraiil,none
+Munch,2,28,munch,none
+Toryn,2,27,toryn,none
+Alder,2,27,alder,none
+Kyyiriiwur,2,23,kyyiriiwur,none
+Colin,2,23,colin,none
+Mitler,2,22,mitler,none
+Lavender,2,21,lavender,none
+Methos,2,21,methos,none
+Ressec,2,21,ressec,none
+Toby,2,20,toby,none
+Reveal,2,20,reveal,none
+Shintu,2,18,shintu,none
+Ephant Mon,2,17,ephant,none
+Fortune,2,16,fortune,none
+Andra,2,15,andra,none
+Geroam,2,14,geroam,none
+Rassa,2,12,rassa,none
+Joworral,2,12,joworral,none
+Imral,2,12,imral,none
+Crix Madine,2,11,crix,none
+Admiral Harkenson,2,11,admiral,none
+Dracolysk,2,11,dracolysk,none
+Sirlahn Inglet,2,8,sirlahn,none
+Sidra,2,8,sidra,none
+Kestryan du Bracc,2,7,kestryan,none
+Mara Shinomiya,2,6,mara,none
+Kitterick Brandis Finian,2,6,kitterick,none
+Aleister Vadim,2,6,aleister,none
+Seth Senesca,2,6,seth,none
+Cernious Vry'lya,2,6,cernious,none
+Simetha,2,6,simetha,none
+Devyn,2,5,devyn,none
+Nelle,2,5,nelle,none
+Anatoli Black,2,5,anatoli,none
+TC-81,2,5,tc-81,none
+Ven Secura,2,5,ven,none
+Agent McKenna,2,4,agent,none
+Jalek Helion,2,4,jalek,none
+Doril Farnsworth,2,4,doril,none
+Jalek Wessiri,2,4,jalek,none
+Dises Diaglo,2,4,dises,none
+Jordaan Mag,2,4,jordaan,none
+Lara Grayson,2,3,lara,none
+Jakys Vry'lya,2,3,jakys,none
+Aned Kirkland,2,3,aned,none
+Latar Zaff,2,3,latar,none
+Luther Syss,2,3,luther,none
+Brackett Benduday,2,3,brackett,none
+Nachkt'lyysk,2,3,nachkt'lyysk,none
+Wilhelm Krieger,2,3,wilhelm,none
+Vorn Paro,2,2,vorn,none
+Sharidan Hrackniss,2,2,sharidan,none
+Ullo the Hutt,2,2,ullo,none
+Kelvis Aquatica,2,2,kelvis,none
+Blake Hishinko,2,2,blake,none
+Varin Rall,2,2,varin,none
+Lahn,2,2,lahn,none
+Quaye Oswent,2,2,quaye,none
+Billious Qarrack,2,2,billious,none
+Irascius Quirn,2,2,irascius,none
+A. Peltoo Appel,2,2,a.,none
+Benjamin Jawatha,2,2,benjamin,none
+Valkyr Tenebre,2,2,valkyr,none
+Holden Deckherd,2,2,holden,none
+Askra Sho'bre,2,1,askra,none
+Solomon Fields,2,1,solomon,none
+Ivanil Sandomere,2,1,ivanil,none
+Laivin Quix,2,1,laivin,none
+Raika Navar,2,1,raika,none
+Eryk Zephron,2,1,eryk,none
+Airion Cimber,2,1,airion,none
+Grymm Selcan,2,1,grymm,none
+Ashby Williams,2,1,ashby,none
+Baedan Mirhoz,2,1,baedan,none
+Lyrik Welkar,2,1,lyrik,none
+Jorj Brinaj,2,1,jorj,none
+Dalek Rolynd,2,1,dalek,none
+Seamus Doherty,2,1,seamus,none
+Sonny Wuv Traa,2,0,sonny,none
+Graden Transal,2,0,graden,none
+Eithne Damia Tamesis,2,0,eithne,none
+Kitty (Kit),2,0,kitty,none
+Hawke Taren,2,0,hawke,none
+Rei'yak Caridla,2,0,rei'yak,none
+Aaden'maal Baeyal,2,0,aaden'maal,none
+Leebo Krupt,2,0,leebo,none
+Caliph Ashirael Rhannak,2,0,caliph,none
+Vyal Ruathen,2,0,vyal,none
+Jindra Langri,2,0,jindra,none
+Khanar Stryker,2,0,khanar,none
+Gillian Lasel,2,0,gillian,none
+Cortheon Jarrett,2,0,cortheon,none
+Rainier Aiden Maximilian,2,0,rainier,none
+Alina te Danaan,2,0,alina,none
+Jek Mirden,2,0,jek,none
+Cassie Monoseer,2,0,cassie,none
+Racra Krullrusc,2,0,racra,none
+Vito Zarl,2,0,vito,none
+Paulus Lazrus,2,0,paulus,none
+Jarl Rellik,2,0,jarl,none
+Lotus Blackpool,2,0,lotus,none
+Aranzael Moyat,2,0,aranzael,none
+Ashden Keldrona,2,0,ashden,none
+Doron Rtufo,2,0,doron,none
+Decrevi Cristescu,2,0,decrevi,none
+Zrak'Hroun,2,0,zrak'hroun,none
+Piper,1,746,piper,none
+Dante,1,615,dante,none
+Vengan,1,545,vengan,none
+Caiton,1,378,caiton,none
+Alistair,1,245,alistair,none
+Kyo,1,216,kyo,none
+Vermillion,1,193,vermillion,none
+Di'anCecht,1,170,di'ancecht,none
+Kaitlin,1,141,kaitlin,none
+Priti,1,124,priti,none
+Dionysis,1,105,dionysis,none
+Burrachacca,1,105,burrachacca,none
+Racra,1,89,racra,none
+Breecia,1,87,breecia,none
+Shikh,1,86,shikh,none
+Keifan,1,81,keifan,none
+Siva,1,74,siva,none
+N'Saldon,1,71,n'saldon,none
+Kendell,1,64,kendell,none
+Prashk,1,63,prashk,none
+Harlock,1,61,harlock,none
+Maethor,1,59,maethor,none
+Steyl,1,59,steyl,none
+Soren,1,56,soren,none
+Loki,1,56,loki,none
+Mojo,1,56,mojo,none
+Raven,1,54,raven,none
+Halo,1,53,halo,none
+Crystal,1,50,crystal,none
+Jarin,1,50,jarin,none
+Scar,1,45,scar,none
+Terrin,1,43,terrin,none
+Paladin,1,40,paladin,none
+Halos,1,40,halos,none
+Lila,1,39,lila,none
+Aren,1,38,aren,none
+Satine,1,36,satine,none
+Singe,1,36,singe,none
+Raver,1,35,raver,none
+Durjan,1,35,durjan,none
+Stail,1,35,stail,none
+Quick,1,34,quick,none
+Maelle,1,33,maelle,none
+Ahkaurakh,1,32,ahkaurakh,none
+Yadumu,1,31,yadumu,none
+Lokus,1,31,lokus,none
+Machkeu,1,31,machkeu,none
+Sid,1,31,sid,none
+Ayra,1,30,ayra,none
+Dagon,1,30,dagon,none
+Xanthe,1,29,xanthe,none
+Maxxen,1,29,maxxen,none
+Kora,1,29,kora,none
+Lanthazar,1,29,lanthazar,none
+Ghost 8,1,29,ghost,none
+Sneer,1,29,sneer,none
+Vix,1,28,vix,none
+Armstrong,1,28,armstrong,none
+Rodo,1,26,rodo,none
+Quila,1,26,quila,none
+Cole,1,26,cole,none
+Tantrix,1,25,tantrix,none
+Cheko,1,25,cheko,none
+Ricoar,1,25,ricoar,none
+Zarcane,1,25,zarcane,none
+Uriel,1,24,uriel,none
+Kain,1,24,kain,none
+Winthrop,1,24,winthrop,none
+Dawn,1,24,dawn,none
+Captain Diggs,1,24,captain,none
+Verin,1,24,verin,none
+Stoneface,1,23,stoneface,none
+Eddie,1,23,eddie,none
+Emma,1,23,emma,thing(non-puppet)
+Fulk,1,23,fulk,none
+Grei,1,22,grei,none
+TK-2501,1,22,tk-2501,none
+Gillian,1,22,gillian,none
+Legato,1,22,legato,none
+Hanna,1,22,hanna,none
+Snal'Fashtalli,1,22,snal'fashtalli,none
+Seyyid,1,21,seyyid,none
+Aidon,1,21,aidon,none
+Yashar,1,21,yashar,none
+Vzzee,1,21,vzzee,none
+Gorgan,1,21,gorgan,none
+Alan,1,21,alan,none
+Dak,1,20,dak,none
+Zhamari,1,20,zhamari,none
+Ross,1,20,ross,none
+Jingle,1,20,jingle,none
+Rislyn,1,20,rislyn,none
+Nate,1,20,nate,none
+Ivar,1,19,ivar,none
+Hotwire,1,19,hotwire,none
+Wilks,1,19,wilks,none
+Naota,1,18,naota,none
+ST-1337,1,18,st-1337,none
+Biff,1,18,biff,none
+Roberto,1,18,roberto,none
+Estos,1,18,estos,none
+Salty Jack,1,18,salty,none
+Auntie Maya,1,18,auntie,none
+Moore,1,17,moore,none
+Tiny,1,17,tiny,none
+Kiff,1,17,kiff,none
+Lono,1,17,lono,none
+Nesin,1,17,nesin,none
+Kretzman,1,17,kretzman,none
+C4,1,17,c4,none
+Staus,1,17,staus,none
+Cirah,1,17,cirah,none
+Dyrna,1,17,dyrna,none
+Chef,1,16,chef,none
+Tantra,1,16,tantra,none
+Sean,1,16,sean,none
+Claven,1,16,claven,none
+Bronwyn,1,16,bronwyn,none
+Chapman,1,16,chapman,none
+Coleman,1,16,coleman,none
+SH0RTY,1,16,sh0rty,none
+Barnacle Bill,1,15,barnacle,none
+Jali,1,15,jali,none
+Hoolihan,1,15,hoolihan,none
+Siege,1,14,siege,none
+Bochek,1,14,bochek,none
+Coxswain,1,14,coxswain,none
+Sulla,1,14,sulla,none
+Ment,1,13,ment,none
+Landis,1,13,landis,none
+Comdore,1,13,comdore,none
+Haihai,1,13,haihai,none
+Balak,1,13,balak,none
+Leate,1,13,leate,none
+Collier,1,13,collier,none
+Naria,1,13,naria,none
+Rogen,1,13,rogen,none
+Gienah,1,13,gienah,none
+Commander Calder,1,13,commander,none
+Moira,1,12,moira,none
+Dracon,1,12,dracon,none
+Razi,1,12,razi,none
+Rahvin,1,12,rahvin,none
+Coda,1,12,coda,none
+Denyse,1,12,denyse,none
+Sayla'kor,1,12,sayla'kor,none
+Yinda,1,12,yinda,none
+Brain,1,12,brain,thing(non-puppet)
+Rake,1,12,rake,none
+Tegger,1,12,tegger,none
+Kryan,1,12,kryan,none
+Poot,1,12,poot,none
+Cherish,1,11,cherish,thing(non-puppet)
+Monntok,1,11,monntok,none
+Skrit,1,11,skrit,none
+Spencer,1,11,spencer,none
+Adler,1,11,adler,none
+Tathleach,1,11,tathleach,none
+Mari,1,11,mari,none
+Chongatakiee,1,11,chongatakiee,none
+Ernie Pallando,1,11,ernie,none
+Zergo,1,10,zergo,none
+Aleh,1,10,aleh,none
+Mekeal,1,10,mekeal,none
+Handon,1,10,handon,none
+Zeebok,1,10,zeebok,none
+Shem,1,10,shem,none
+Tholt,1,10,tholt,none
+Ambar,1,10,ambar,none
+Halloway,1,10,halloway,none
+Krozit,1,10,krozit,none
+Jocal,1,10,jocal,none
+Lokiru,1,9,lokiru,none
+Colonel Desson,1,9,colonel,none
+Dydron,1,9,dydron,none
+Dayna,1,9,dayna,none
+Stelita,1,9,stelita,none
+Perem,1,9,perem,none
+Kieran,1,9,kieran,none
+Gunter,1,9,gunter,none
+Morganth,1,9,morganth,none
+Trrs'kal,1,9,trrs'kal,none
+Lavrish'lin,1,9,lavrish'lin,none
+Sha-Cha Cha,1,9,sha-cha,none
+Stanley,1,8,stanley,none
+Jenkins,1,8,jenkins,none
+Nurse Gwen,1,8,nurse,none
+Rawkrawr,1,8,rawkrawr,none
+Terral,1,8,terral,none
+Nol'Fet,1,8,nol'fet,none
+Darkholme,1,8,darkholme,none
+Tycho,1,8,tycho,none
+Unnh,1,8,unnh,none
+Glitter,1,7,glitter,none
+Sia Cia,1,7,sia,none
+T3-A7,1,7,t3-a7,none
+Mysti,1,7,mysti,none
+Mevid,1,7,mevid,none
+Xianna,1,7,xianna,none
+Grunax,1,7,grunax,none
+Sev,1,7,sev,none
+Giles Pendleton,1,7,giles,none
+cadracak-'r'shak,1,7,cadracak-'r'shak,none
+Ramsey,1,7,ramsey,none
+Gorath,1,7,gorath,none
+Thralo,1,7,thralo,none
+Sharid,1,7,sharid,none
+Hinrich,1,6,hinrich,none
+Boo-T,1,6,boo-t,none
+L3-ET,1,6,l3-et,none
+Keeros,1,6,keeros,none
+Wiyaana,1,6,wiyaana,none
+Alexin,1,6,alexin,none
+Tanith,1,6,tanith,none
+Co'Libri,1,6,co'libri,none
+Quarren Ambassador,1,6,quarren,none
+Corliss,1,6,corliss,none
+ST-2034,1,6,st-2034,none
+Slash,1,6,slash,none
+TK-2503,1,6,tk-2503,none
+TK-4792,1,6,tk-4792,none
+Cerdle,1,6,cerdle,none
+Dariza Ipex,1,6,dariza,none
+Juan,1,6,juan,none
+Rhiannon,1,6,rhiannon,none
+Jager,1,6,jager,none
+Viszla,1,6,viszla,none
+Ta-Nui-Bonda,1,6,ta-nui-bonda,none
+Eeth Mentel,1,5,eeth,none
+Yellowtail,1,5,yellowtail,none
+Attibecca,1,5,attibecca,none
+Tibor Stasio,1,5,tibor,none
+Katala,1,5,katala,none
+Sernz,1,5,sernz,none
+Szaric,1,5,szaric,none
+Emmit,1,5,emmit,none
+Tredo,1,5,tredo,none
+Loor,1,5,loor,none
+Nat Pagle,1,5,nat,none
+Hora,1,5,hora,none
+Naqua,1,5,naqua,none
+Grubba the Hutt,1,5,grubba,none
+Daxin,1,5,daxin,none
+ST-9042,1,5,st-9042,none
+Aido Or,1,5,aido,none
+Rika,1,5,rika,none
+Ambry,1,5,ambry,none
+Captain Durjan,1,5,captain,none
+Comwiz,1,4,comwiz,none
+Ver-Tak Kai,1,4,ver-tak,none
+Elly,1,4,elly,none
+Takajin,1,4,takajin,none
+Valen,1,4,valen,none
+Madixli,1,4,madixli,none
+Amelia Hawthorne,1,4,amelia,none
+Resniz,1,4,resniz,none
+Alex Raven,1,4,alex,none
+Casul Nettic,1,4,casul,none
+Marrell Thelin,1,4,marrell,none
+Tequa,1,4,tequa,none
+Dagger 3,1,4,dagger,thing(non-puppet)
+Jayla Burano,1,4,jayla,none
+Bastirio,1,4,bastirio,none
+Karn,1,4,karn,none
+Chaboub,1,4,chaboub,none
+Timo Droja,1,4,timo,none
+Uliq,1,4,uliq,none
+Zerae,1,4,zerae,none
+Captain Lofte,1,3,captain,none
+Lon Cotaar,1,3,lon,none
+Vek Eldar,1,3,vek,none
+Jak McCulloch,1,3,jak,none
+Goruk,1,3,goruk,none
+Tarrin Stardiver,1,3,tarrin,none
+Bil Faan,1,3,bil,none
+Kines,1,3,kines,none
+Whitney Pallando,1,3,whitney,none
+Da'Shi,1,3,da'shi,none
+Nooto,1,3,nooto,none
+Bias,1,3,bias,none
+Songir Fentrus,1,3,songir,none
+Barvareedee,1,3,barvareedee,none
+Unb'tar,1,3,unb'tar,none
+Demetria,1,3,demetria,none
+Terin,1,3,terin,none
+Glory Lockhart,1,3,glory,none
+Dandoi,1,3,dandoi,none
+Montgomery,1,3,montgomery,none
+Trett Hilo,1,3,trett,none
+Motwa Torra,1,3,motwa,none
+Kola,1,3,kola,none
+Sigil Rexton,1,3,sigil,none
+Lyshi,1,3,lyshi,none
+Obi-Wan Kenobi,1,3,obi-wan,none
+Bossil Perlee,1,3,bossil,none
+Deyal Huxlo,1,3,deyal,none
+Dyne Haederfeld,1,3,dyne,none
+Senator Hastell,1,3,senator,none
+Dean ak,1,3,dean,none
+Kenji,1,3,kenji,none
+Daniels,1,3,daniels,none
+Milo Sienar,1,3,milo,none
+Semtech Keno,1,2,semtech,none
+TK-2502,1,2,tk-2502,none
+Felipe del Montefort,1,2,felipe,none
+Hsskah Agileclaw,1,2,hsskah,none
+Ebon Zyar,1,2,ebon,none
+Jenya Vala,1,2,jenya,none
+Alstuner,1,2,alstuner,none
+Stefan,1,2,stefan,none
+Athahk,1,2,athahk,thing(non-puppet)
+Tacuba the Hutt,1,2,tacuba,none
+Tyrus Valtoor,1,2,tyrus,none
+Captain Cunha,1,2,captain,none
+G.S. Qwynt VIII,1,2,g.s.,none
+Kinsa'una,1,2,kinsa'una,none
+K3P0,1,2,k3p0,none
+Replicant,1,2,replicant,none
+Woren Isaal,1,2,woren,none
+Merreck Pelx,1,2,merreck,none
+Kath Samba,1,2,kath,none
+Fianar Reanus,1,2,fianar,none
+Senator Ahudeek,1,2,senator,none
+Thabo Mbeki,1,2,thabo,none
+Ariana Seri,1,2,ariana,none
+Teag Barrett,1,2,teag,none
+Edgar Krac'zah,1,2,edgar,none
+Braal Vey'la,1,2,braal,none
+Ginger,1,2,ginger,none
+Prudence Barry,1,2,prudence,none
+Josh Arands,1,2,josh,none
+Domicor Honos,1,2,domicor,none
+Sato,1,2,sato,none
+Aeron Corvus,1,2,aeron,none
+Giran Blaine,1,2,giran,none
+Zig Al Fidel,1,2,zig,none
+Shandra Fleming,1,2,shandra,none
+Admiral Bejin,1,2,admiral,none
+Shas Krutz,1,2,shas,none
+Ander Dar,1,2,ander,none
+Lyle Derfill,1,2,lyle,none
+Kyyrruk,1,2,kyyrruk,none
+Kiri Valios,1,2,kiri,none
+Laurence Dante,1,2,laurence,none
+Nicholas Chang,1,2,nicholas,none
+Humbert Pumberdum,1,2,humbert,none
+Sisko,1,2,sisko,none
+Tarazed Brum,1,2,tarazed,none
+Mersche Lumbroscopic,1,2,mersche,none
+Krechev,1,2,krechev,none
+Adaze Zasul,1,2,adaze,none
+Tray Garos,1,2,tray,none
+Andra Eleria,1,2,andra,none
+Inaya Macklebee,1,2,inaya,none
+Kora Liadin,1,2,kora,none
+Sasha Nettic,1,2,sasha,none
+B'ric Toppe,1,2,b'ric,none
+Yarah Ravenlocke,1,2,yarah,none
+Marius Starker,1,2,marius,none
+Jaina Solo,1,2,jaina,none
+Sascha Vildosti,1,1,sascha,none
+Ysanne Isard,1,1,ysanne,none
+Aldol-Eo Pold,1,1,aldol-eo,none
+Rafel de'Bris,1,1,rafel,none
+Ben Jawatha,1,1,ben,none
+Huey Longshot,1,1,huey,thing(non-puppet)
+Eoin Dunn,1,1,eoin,none
+Ms. Incinta,1,1,ms.,none
+Vergen Okkelveyer,1,1,vergen,none
+Fael Ramsis,1,1,fael,none
+Vincit Danyeko,1,1,vincit,none
+Hale Bristol,1,1,hale,none
+Orgrad Soval,1,1,orgrad,none
+Ystile Wye,1,1,ystile,none
+Benelek,1,1,benelek,none
+Joran Hess,1,1,joran,none
+Greven Sylar,1,1,greven,none
+Amerna Slanver,1,1,amerna,none
+Blake Lorrent,1,1,blake,none
+Jace Starr,1,1,jace,none
+Momma Cleo,1,1,momma,none
+Larin Ret'riss,1,1,larin,none
+Raina Aderanne,1,1,raina,none
+Nerik Dreshkar,1,1,nerik,none
+Feylin Calenik,1,1,feylin,none
+Hellion Kracken,1,1,hellion,none
+Harval Shaw,1,1,harval,none
+J. Hook,1,1,j.,none
+Commodore Snunb,1,1,commodore,none
+Lathan Vel,1,1,lathan,none
+Wallas Thurl,1,1,wallas,none
+Jak M'koy,1,1,jak,none
+Trent Ceska,1,1,trent,none
+Carmella Rise,1,1,carmella,none
+Salann Grayhe,1,1,salann,none
+Devon Striker,1,1,devon,none
+Kairo,1,1,kairo,none
+Krall Dar,1,1,krall,none
+Martin Teywer,1,1,martin,none
+Rharkyrtha,1,1,rharkyrtha,none
+Sesbtain Williams,1,1,sesbtain,none
+Flaron Korr,1,1,flaron,none
+Benji,1,1,benji,none
+Amari Cociena,1,1,amari,none
+Nicole Brouillard-Batrad,1,1,nicole,none
+Jimmy Pickle,1,1,jimmy,none
+Tiboor Stasio,1,1,tiboor,none
+Keely Prior,1,1,keely,none
+Erin Abrosen,1,1,erin,none
+Aideen Shamus,1,1,aideen,none
+Rinn Vakil,1,1,rinn,none
+Lola,1,1,lola,none
+Wing Commander Ilan,1,1,wing,none
+Jason Gorrman,1,1,jason,none
+Tyr Steiner,1,1,tyr,none
+Tetsen'sugazi,1,1,tetsen'sugazi,none
+Thayra Delmund,1,1,thayra,none
+Irru Gex,1,1,irru,none
+Ba'hob,1,1,ba'hob,none
+Major Peny,1,1,major,none
+Elya'balin,1,1,elya'balin,none
+Mat Cypher,1,1,mat,none
+William Roice,1,1,william,none
+Emily Dareus,1,1,emily,none
+Garret Fife,1,1,garret,none
+Ailah Vieres,1,1,ailah,none
+Tahk'pa,1,1,tahk'pa,none
+Mora Rodriguez,1,1,mora,none
+Xanatos Baldur,1,1,xanatos,none
+Verst Dejorn,1,1,verst,none
+Tricia Calder,1,1,tricia,none
+Reynar Dax,1,1,reynar,none
+Adams Garat,1,1,adams,none
+Rena Sarrabi,1,1,rena,none
+Pakya Razem,1,1,pakya,none
+Kintor Roberts,1,1,kintor,none
+Jorgen Essain,1,1,jorgen,none
+Jet Farx,1,1,jet,none
+Rojones,1,1,rojones,none
+Renovo Shadowlin,1,1,renovo,none
+Malouf,1,1,malouf,none
+Jada Kadoth,1,1,jada,none
+Ishtari Tsumeth,1,1,ishtari,none
+Cas Mos,1,1,cas,none
+Tuvare,1,1,tuvare,none
+Normack Gastrov,1,1,normack,none
+Savine Wolfray,1,1,savine,none
+Aldus Syn,1,1,aldus,none
+Tychus Varian,1,1,tychus,none
+K'alyeh U'shh,1,1,k'alyeh,none
+Kathryn Jrevelian,1,1,kathryn,none
+Randal Na'ts,1,1,randal,none
+Alana Ten'ou,1,1,alana,none
+Xanatos Xavier,1,1,xanatos,none
+Strenge Lehmann,1,1,strenge,none
+Gregory Garrett,1,1,gregory,none
+Blake Lorent,1,1,blake,none
+Doctor Alvarez,1,0,doctor,none
+Cerridan Shaerlati,1,0,cerridan,none
+Di'anChecht,1,0,di'anchecht,none
+Demitri Vry'lya,1,0,demitri,none
+Jonca Cojac,1,0,jonca,none
+Arenth Dubois,1,0,arenth,none
+Fern Powers,1,0,fern,none
+Preston Mortemilitis,1,0,preston,none
+Lierra Carlon,1,0,lierra,none
+Angalun Faust,1,0,angalun,none
+Naota Nandaba,1,0,naota,none
+Gym Harp'r,1,0,gym,none
+Besk Fel'ney,1,0,besk,none
+Akor Odaliik,1,0,akor,none
+Senator Bobbec,1,0,senator,none
+Di'anCecht Dichet A.C. Rial,1,0,di'ancecht,none
+Notlim,1,0,notlim,none
+Vernista Lan'desdin,1,0,vernista,none
+Senator Sesqua,1,0,senator,none
+Wes Carter,1,0,wes,none
+Anzon Gr'vish,1,0,anzon,none
+Illyana Crane,1,0,illyana,none
+Comdore Kay Serinoth,1,0,comdore,none
+Rafan Janrenk,1,0,rafan,none
+Delila Dmitri,1,0,delila,none
+Alina Gens,1,0,alina,none
+Snal'fashtalli Teague-Ikihsa,1,0,snal'fashtalli,none
+Mon Calamari Ambassador,1,0,mon,none
+Amek Drell,1,0,amek,none
+Athan Cole,1,0,athan,none
+Torg'ahail'naerso,1,0,torg'ahail'naerso,none
+Mayre O'Hanrahan,1,0,mayre,none
+Officer Izec,1,0,officer,none
+"Matthew ""Rabid"" Fox",1,0,matthew,none
+Wes Masco,1,0,wes,none
+Nimzar i'Falzin,1,0,nimzar,none
+Jim T. Case,1,0,jim,none
+Jamta Kisac,1,0,jamta,none
+Malik Ferdenko,1,0,malik,none
+Crimson Lionheart,1,0,crimson,none
+Gene Malentean,1,0,gene,none
+Eddie Halwinder,1,0,eddie,none
+Andrev Cassius,1,0,andrev,none
+Wally Vascili,1,0,wally,none
+Jadon Lenor,1,0,jadon,none
+Shoog-Mox Klagg,1,0,shoog-mox,none
+Chess Hutz,1,0,chess,thing(non-puppet)
+Soliloquy Olexa Sella,1,0,soliloquy,none
+Sanoire Cror,1,0,sanoire,none
+Carlist Rieekan,1,0,carlist,none
+Hauwkawrrka,1,0,hauwkawrrka,none
+Demitri Arands,1,0,demitri,none
+Bren Senzi,1,0,bren,none
+Kor'Goth,1,0,kor'goth,none
+Lonri'napara,1,0,lonri'napara,none
+Jade Ruen Vigos,1,0,jade,none
+Jimmy Hoolihan,1,0,jimmy,none
+Aleira Targadas,1,0,aleira,none
+Ratchet,1,0,ratchet,none
+Kimber Pallas,1,0,kimber,none
+Elena Dasun Korminos,1,0,elena,none
+Tabl Moek,1,0,tabl,none
+Chool Ndresi,1,0,chool,none
+Thraken Quadrix,1,0,thraken,none
+Kenneth Roberts,1,0,kenneth,none
+Shael Winter,1,0,shael,none
+Tekahan Maroc,1,0,tekahan,none
+Mugenjin Guren-Azayath,1,0,mugenjin,none
+Vaelyn Ir Xieker,1,0,vaelyn,none
+K. Kintor Roberts,1,0,k.,none
+Pyat dar Kuat,1,0,pyat,none
+Eliza i'Falzin,1,0,eliza,none
+Lucinda Jordain,1,0,lucinda,none
+Daryth,1,0,daryth,none
+Antra Silverthorn,1,0,antra,none
+Rivo (Snake1),1,0,rivo,none
+Sinya'kor,1,0,sinya'kor,none
+Lila Marcaigh,1,0,lila,none
+Ban Fleming,1,0,ban,none
+Seppi Kharan,1,0,seppi,none
+Nicamonte Vroon,1,0,nicamonte,none
+Jolan Kaerf,1,0,jolan,none
+Allerden Vraill,1,0,allerden,none
+Foerga Shameia,1,0,foerga,none
+Sylia Avra,1,0,sylia,none
+Miles Daq,1,0,miles,none
+Acthpa Sanduleak,1,0,acthpa,none
+Bruno Ringoire,1,0,bruno,none
+Ubi Sunt Enebi,1,0,ubi,none
+Mick Kuhndog,1,0,mick,none
+Tynan Aileron,1,0,tynan,none
+Suhail Kylrath,1,0,suhail,none
+Marz Tank,1,0,marz,none
+Baral Heram,1,0,baral,none
+Leda Same,1,0,leda,none
+Ken Wolf,1,0,ken,none
+Kathryn Montavre-Jrevelian,1,0,kathryn,none
+Marie Breya,1,0,marie,none
+Dagny Bryant,1,0,dagny,none
+Kaylen Morrell,1,0,kaylen,none
+Gordis Jandis,1,0,gordis,none
+Antan Malika,1,0,antan,none
+Kathryn McGuire,1,0,kathryn,none
+Voren Nadil,1,0,voren,none
+Biff Shelkin,1,0,biff,none
+Askrut Melan'lya,1,0,askrut,none
+Jay Langston,1,0,jay,none
+Severin Tanbris,1,0,severin,none
+Maximilian Veers,1,0,maximilian,none
+Mithral Hyperion,1,0,mithral,none
+Sharid Hascon,1,0,sharid,none
+Siren Delamont,1,0,siren,none
+Seneca Eris Foyle,1,0,seneca,none
+Syyvos Rintari,1,0,syyvos,none
+Meridian Tarasar,1,0,meridian,none

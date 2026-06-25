@@ -1,0 +1,198 @@
+{
+ "name": "RPlog_Sullustans_and_Stardust",
+ "title": "Sullustans and Stardust",
+ "summary": "In the rowdy Beggar's Cove Cantina in Nar Shaddaa's Refugee Sector, the free-trader and smuggler Jaspar Andromidas spots a small Sullustan, Jae Ten, weaving through the crowd consulting a datapad. Jaspar waves the wary newcomer over and stands him a few rounds of ale, and over drinks the two trade life stories about piloting, ship repairs, and dealings with pirates. Jae reveals he recently came into a valuable 'gift' after a pirate crew that crossed him got hauled off by Imperials, while Jaspar boasts of his modified freighter and the freedom of the smuggler's life. By the end of the evening the pair have struck up an easy rapport, exchanging introductions and agreeing they would make a good team, and a tipsy Jae stumbles off promising to show off his work.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jaspar"
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Jae Ten"
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

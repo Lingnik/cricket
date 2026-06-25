@@ -1,0 +1,289 @@
+{
+ "name": "RPlog_Palace_Business",
+ "title": "Palace Business",
+ "summary": "In the crowded main chamber of a Hutt Palace on Nar Shaddaa, the Corellian majordomo Ewan Dain trades wisecracks and a wager over Bothan ale with the influential Bothan Jakys Vry'lya, who goes by Demitri. Two Twi'lek women, the bookkeeper Ayaka and the newcomer Aayla Noor, mingle among the shady patrons, while a contingent of guards escorts in a heavily scanned cargo container led by a wry Quarren. As Dain conducts the delivery business and the smuggler captain Del saunters in, the gathering hums with the casual menace and deal-making of palace life.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Aayla",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Aayla",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Jakys",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Jakys",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Aayla",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Aayla",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Jakys",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Krel",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Krel",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Ayaka",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Aayla",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Krel",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Dain",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Del",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

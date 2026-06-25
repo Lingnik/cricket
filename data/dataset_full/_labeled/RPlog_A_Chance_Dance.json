@@ -1,0 +1,33 @@
+{
+  "name": "RPlog_A_Chance_Dance",
+  "title": "A Chance Dance on the Borderline",
+  "summary": "Two hours into a dull deep-space patrol along the contested Rebel border, New Republic pilot Raxis L'ygr (callsign Raptor) detects a small contact and breaks off to investigate, finding a lone, unmarked Z-95 Headhunter. The fighter is secretly flown by the Imperial ace Jal'Dana, Admiral Rall, operating under the callsign Vapor and the cover story of a courier on a milk run while she gathers scans hinting at a hidden Rebel depot. When Raxis tries to escort and verify her, Jal'Dana jams his transmissions and opens fire, and the two pilots trade aerobatic maneuvers in a tense dogfight. Jal'Dana methodically outflies him, crippling his X-wing's stabilizer and leaving him dead in space rather than killing him outright. She taunts him over the comm, tells him to spread word of her to the fleet, and slips into hyperspace with her data, leaving a furious, stranded Raxis to call for pickup.",
+  "rows": [
+    {"line": 17, "type": "room", "actor": "", "b": false},
+    {"line": 19, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 21, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 23, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 25, "type": "pose", "actor": "Ranger two", "b": false},
+    {"line": 27, "type": "scene", "actor": "", "b": false},
+    {"line": 29, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 31, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 33, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 35, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 37, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 39, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 41, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 43, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 45, "type": "pose", "actor": "Raxis", "b": true},
+    {"line": 47, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 49, "type": "pose", "actor": "Jal'Dana", "b": true},
+    {"line": 51, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 53, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 55, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 57, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 59, "type": "pose", "actor": "Jal'Dana", "b": true},
+    {"line": 61, "type": "pose", "actor": "Raxis", "b": false},
+    {"line": 63, "type": "pose", "actor": "Jal'Dana", "b": false},
+    {"line": 65, "type": "pose", "actor": "Jal'Dana", "b": true},
+    {"line": 67, "type": "pose", "actor": "Raxis", "b": false}
+  ]
+}

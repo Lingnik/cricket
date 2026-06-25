@@ -1,0 +1,301 @@
+{
+ "name": "RPlog_Relocation_relocation_relocation",
+ "title": "Relocation, Relocation, Relocation",
+ "summary": "Under a thick fog, the Imperial Bureau agent Alysha Mara oversees a brutal forced 'relocation' of four thousand Bothans from an occupied town, working alongside the stormtrooper Major Calyx Drogyn and the officer Cror. As loudspeakers broadcast Alysha's own recorded voice herding families like the Fos'kal household to processing transports, a cell of Bothan resistance fighters detonates rigged mines, killing troopers and triggering a savage reprisal. Orders change and the stormtroopers begin gunning down unarmed civilians while TIE fighters carpet the city with bombs, Fos'kal losing her mate and home amid the carnage. The atrocity unfolds in chilling detail, ending with two scorched plants surviving against the odds as a fragile promise of life from the ashes.",
+ "rows": [
+  {
+   "line": 13,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Fos'kal",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Cror",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Cror",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Fos'kal",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Fos'kal",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Drashkal",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Drashkal",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Fos'kal",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Cror",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Fos'kal",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Cror",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Drashkal",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Cror",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Fos'kal",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Drogyn",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Alysha",
+   "b": false
+  }
+ ]
+}

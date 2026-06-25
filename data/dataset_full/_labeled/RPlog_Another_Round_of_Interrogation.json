@@ -1,0 +1,151 @@
+{
+  "name": "RPlog_Another_Round_of_Interrogation",
+  "title": "Another Round of Interrogation",
+  "summary": "In a holding cell where time has long since blurred for the captives, the Lieutenant Rainier arrives to resume interrogating the Mon Calamari pilot Tokoga, this time trailed by a bored young cadet named Jonas. Rainier uses the session as a teaching exercise, quizzing Jonas about his Academy training and lecturing him to observe how the prisoner grows more flippant under pressure, while Jonas idly toys with his blaster settings and watches with little interest. When Tokoga keeps up his defiant banter, Rainier escalates to beating him with a baton, striking his wrists and arm as the Mon Calamari steels himself against the pain. Despite the blows and Jonas's suggestion to simply shoot him, Tokoga refuses to break, mocking his captors as amateurs compared to the real interrogators he has faced. The brutal round ends with Tokoga gravely warning Rainier that the two of them have no idea what they are dealing with.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Rainier",
+      "b": true
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": true
+    }
+  ]
+}

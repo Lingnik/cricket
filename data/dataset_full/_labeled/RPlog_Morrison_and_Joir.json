@@ -1,0 +1,1651 @@
+{
+ "name": "RPlog_Morrison_and_Joir",
+ "title": "Morrison and Joir",
+ "summary": "In Plaxton's Fountain Square, a tense moment over drawn blasters among Caspar marines is defused as the cold Imperial Joir arrives and joins his associates Troy, Azya, Webb, Kaein, and others. The scene then shifts to a private booth where Joir meets with Morrison, the urbane director of the CSA's ruthless Security Police, marked by the Black Sun tattoo on his wrist. Over cigarettes and mineral water, the two power-players spar diplomatically about CSA intentions in the Empire-aligned Mutanda system, Morrison's interest in an abandoned orbital station, and the murky background of his rising subordinate Aldog. Each guards his information as a form of power, and the meeting ends with mutual wariness and an open door to future dealings.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Raj",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Webb",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Webb",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Webb",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Raj",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Raj",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Troy",
+   "b": true
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Defcon",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Defcon",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Defcon",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Tarlin",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

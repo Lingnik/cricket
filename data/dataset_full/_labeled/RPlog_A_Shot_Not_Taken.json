@@ -1,0 +1,211 @@
+{
+  "name": "RPlog_A_Shot_Not_Taken",
+  "title": "A Shot Not Taken",
+  "summary": "Through a driving storm, the Sarian Simon hauls the limp, unconscious Pallando across his shoulders into the city center while the young woman Mailyn -- soaked, exhausted, and bewildered -- keeps pace at his side. At Fountain Square, Simon stops and hands Mailyn a blaster pack, his stern expression daring her to act, then turns to leave Pallando to the elements. But he stops, reconsiders, and returns to gently tend the injured man rather than harm him, even as Mailyn weighs whether to raise the weapon and fire into his back. A prickling sense in the back of his mind alerts Simon to the danger, and he turns slowly, calling her out: she could not shoot him in the back. He demands she answer why she could not pull the trigger -- questions whose answers are too awful for her to face -- until the weapon clatters to the rain-soaked ground and the threat passes. Finding his calm, Simon tells her he is going to walk away, and Mailyn, drenched and undone, is left bowed beneath the storm.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "desc",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "desc",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 18,
+      "type": "desc",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 19,
+      "type": "desc",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 22,
+      "type": "desc",
+      "actor": "Mailyn",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "desc",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "desc",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": true
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Mailyn",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

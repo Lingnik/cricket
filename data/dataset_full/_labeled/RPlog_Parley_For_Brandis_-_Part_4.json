@@ -1,0 +1,235 @@
+{
+ "name": "RPlog_Parley_For_Brandis_-_Part_4",
+ "title": "Parley for Brandis (Part 4)",
+ "summary": "In the climax of the rescue aboard the Selene flagship, the Sith Lord Malign and an armored Grand Admiral Danik Kreldin marshal droid guards, chanting voice-amplifiers, and the soldier Dareus's stormtroopers to trap Luke Skywalker's Jedi. United in Force-harmony, Luke, Johanna, Ai'kani, and Kyrin -- still bearing the wounded Brandis -- turn aside freezing darkness and a hail of firing metal spheres, unleash a blinding flash, and leap from the observation platform to a falling turbolift in a daring escape. Luke overloads a power conduit, scorching himself, as the Jedi blast an exit and flee toward the hangar, leaving Malign coldly confident that they will be caught yet trusting the Jedi will reach their ships. The hard-won extraction of Brandis succeeds amid the chaos.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  }
+ ]
+}

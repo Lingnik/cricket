@@ -1,0 +1,319 @@
+{
+ "name": "RPlog_Breaking_Point",
+ "title": "Breaking Point",
+ "summary": "In a makeshift cell, the Imperial interrogator Rainier drags the brutally beaten Mon Calamari Senator Tokoga before his fellow prisoner, the New Republic medic Myiari, taunting them about the futility of resistance. When Rainier begins clubbing the unconscious senator, Myiari attacks him barehanded; a short, vicious brawl ends with a stormtrooper's stun bolt dropping her, and both prisoners are shackled to the wall and revived with cold water. As Rainier escalates the torture and muses aloud about executing them, one stormtrooper, Brek, breaks ranks to argue against killing a New Republic senator and to question his superior's methods. Rainier withdraws and takes Brek aside, drawing him into a long, chilling conversation in the kitchen about the nature of pain, breaking points, and the craft of interrogation. Pressed to prove himself, Brek proposes letting the prisoners think they are freed while planting a tracking bug on the senator to harvest Rebel intelligence, an idea Rainier approves before dismissing him.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Brek",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  }
+ ]
+}

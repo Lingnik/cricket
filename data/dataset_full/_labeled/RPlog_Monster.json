@@ -1,0 +1,2827 @@
+{
+ "name": "RPlog_Monster",
+ "title": "Monster",
+ "summary": "On a rainy afternoon, the scarred Imperial ambassador Morganna takes a walk with her aides and is approached by the weapons dealer Methos, whom her guards rebuff, and by the soaked, suit-malfunctioning Dracolysk. The friendlier Rodo joins her and the two retreat from the rain to a bar for a meal and small talk about her difficult ambassadorial duties. There the Sarian woman Kaley arrives and quietly proposes that Morganna join her on a 'hunt' -- not of a beast, but of a woman named Jali whom Kaley intends to kill. Drawn by the prospect of violence yet wary of being seen, Morganna agrees only on the condition that she can remain faceless, revealing the predatory cruelty beneath the diplomat's surface.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Methos",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Methos",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Methos",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Methos",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Methos",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Dracolysk",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 416,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 452,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 476,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 530,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 541,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 546,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 561,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 565,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 575,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": true
+  },
+  {
+   "line": 577,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

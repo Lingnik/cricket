@@ -1,0 +1,415 @@
+{
+ "name": "RPlog_Mourning_Johanna",
+ "title": "Mourning Johanna",
+ "summary": "At the New Republic Military Headquarters on Coruscant, Luke Skywalker keeps grim vigil over the shrouded body of Johanna and summons his sister Leia, who comes to comfort him in his grief. Luke recounts how, at the ruins of the Basilica, Johanna brought the structure down with the dark side, attacked the Horansi Snarl with her lightsaber, and was then taken away in spirit by Vadim, leaving her empty body behind. As Snarl and the Sullustan General Enb'Zik gather to mourn, the family debates the dark possibility that Johanna's essence still lives and might be recovered, and how Vadim might use her vacant body. Leia gently bids the dead farewell, posts a guard, and turns the group's resolve toward dealing with Fett and rescuing Sabrina.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  }
+ ]
+}

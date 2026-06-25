@@ -1,0 +1,79 @@
+{
+  "name": "RPlog_An_Assassin_Arrives",
+  "title": "An Assassin Arrives",
+  "summary": "In a bright beachside cafe on Etti IV, the ESPO operative Gren Delede meets the red-haired assassin Graden to settle the aftermath of a recent killing. Delede passes Graden a datachip with crime-scene footage as a warning to be more careful, along with a meager payment that Graden, bound by his own honor code, refuses since the job fell short of specifications. Delede formally inducts Graden as a Pledge in his secretive organization, explaining the chain of loyalty he owes to Soldiers like Delede and warning that the path to power is littered with the dead. The two trade veiled threats and grudging respect, Graden bristling at being underestimated. Delede departs with the promise that Graden will be contacted when needed, leaving the assassin eager to get off-world.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Graden",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Graden",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Graden",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Graden",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Graden",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Graden",
+      "b": false
+    }
+  ]
+}

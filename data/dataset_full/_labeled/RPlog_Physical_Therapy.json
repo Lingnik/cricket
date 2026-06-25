@@ -1,0 +1,115 @@
+{
+ "name": "RPlog_Physical_Therapy",
+ "title": "Physical Therapy",
+ "summary": "On the orlop deck of the ICC Dauntless, the doctor Lynae Cassius finds her patient Lanil up on his feet doing calisthenics on a leg she has only just stitched, to her flat horror. The irreverent Lanil, bored and restless, jokes and needles her while she scolds him about scar tissue and the need for proper physical therapy and rest. Their bickering reveals a long, affectionate familiarity, and Lynae proposes moving him somewhere he can both recover and keep working in peace -- her own quarters. Lanil teases her mercilessly before declaring himself ready to escape the medbay, the exchange affectionate beneath the exasperation.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  }
+ ]
+}

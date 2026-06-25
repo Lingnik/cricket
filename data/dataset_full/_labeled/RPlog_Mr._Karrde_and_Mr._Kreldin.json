@@ -1,0 +1,217 @@
+{
+ "name": "RPlog_Mr._Karrde_and_Mr._Kreldin",
+ "title": "Mr. Karrde and Mr. Kreldin",
+ "summary": "On the baking streets of Mos Eisley, the Imperial Admiral Danik Kreldin literally bumps into the smuggler chief Talon Karrde, and old grievances over Chandrila erupt into a sudden, bloody shootout that leaves both men wounded and unconscious in the sand. As Kreldin struggles back toward finishing the job, the Ithullan Indren and the doctor Brandis converge on the scene, Brandis hauling the gravely injured Karrde to safety while Indren and the recovering Danik give chase through the alleys. A tense standoff over the dying smuggler ends with Indren seizing Danik and Brandis slipping away with Karrde draped over his shoulder, the wounded smuggler narrowly extracted from his Imperial enemy.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Indren",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lyssia",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Lyssia",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Indren",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Indren",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Indren",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Indren",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Karrde",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Indren",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

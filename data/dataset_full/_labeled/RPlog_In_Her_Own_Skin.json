@@ -1,0 +1,211 @@
+{
+  "name": "RPlog_In_Her_Own_Skin",
+  "title": "In Her Own Skin",
+  "summary": "Summoned at last to a mandatory medical examination she has dodged for twelve years, Major Jal'Dana Rall -- a long-serving TIE pilot who has lived as her dead twin brother to circumvent the Empire's ban on female aviators -- reports to Colonel Liuz Bogumil, the new commander interested in her for the 988th Special Operations Company. When Rall strips to the waist and reveals the truth, the medical team is stunned, but Bogumil, impressed rather than appalled, treats her decade-long deception as proof of exactly the resourcefulness his unit needs. ISB Agent Trent Ceska arrives to scrutinize her, then withdraws with Rall to his soundproofed bureau to interrogate her loyalty and motives. Satisfied she never considered running and acted only in service to the Empire, Ceska declines to demote her but conscripts her as a weekly informant on her own unit, pressing the point with a drawn blaster she refuses to fear. Rall accepts the terms on her own conditions of loyalty, and the unusual interview ends with Ceska tossing her a damaged blaster to drop at the armory.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": true
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": true
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": true
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Liuz Bogumil",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": true
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Trent Ceska",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    }
+  ]
+}

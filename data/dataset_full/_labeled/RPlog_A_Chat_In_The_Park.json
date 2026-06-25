@@ -1,0 +1,33 @@
+{
+  "name": "RPlog_A_Chat_In_The_Park",
+  "title": "A Chat in the Park",
+  "summary": "On a park bench, the grizzled, hard-living doctor Xar'on detoxes from the Gylocal he overused while treating the wounded on a moon, when the young Twi'lek Lieutenant Twila seeks him out for counsel. Slipping into the Twi'lek tongue of Ryl, the two speak candidly about Twila's volatile marriage to Colonel Gren, her struggles with anger and stubbornness, and the trauma she still carries from being tortured with bloodworms. Xar'on, drawing on a long lifetime of war stretching back to the Clone Wars and the Galactic Civil War, urges her to channel her rage, never lose hope, and above all to live in the now rather than be ruled by her past or her fears for the future. Twila slowly opens up, drawing comfort from the old man's hard-won wisdom and half-jokingly adopting him as a father figure. She resolves to try to move on for Gren's sake, and the two part with mutual warmth, Twila insisting that despite his protests, Xar'on is a good and wise man.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 18, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 20, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 22, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 24, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 26, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 28, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 30, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 32, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 34, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 36, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 38, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 40, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 42, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 44, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 46, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 48, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 50, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 52, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 54, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 56, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 58, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 60, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 62, "type": "pose", "actor": "Twila", "b": false},
+    {"line": 64, "type": "pose", "actor": "Xar'on", "b": false},
+    {"line": 66, "type": "pose", "actor": "Twila", "b": false}
+  ]
+}

@@ -1,0 +1,757 @@
+{
+  "name": "RPlog_35_ISY_Competition_Black_Butterfly_vs_Slush",
+  "title": "35 ISY Competition: Black Butterfly vs. Slush",
+  "summary": "In a simulator dueling competition during the 35 ISY games, the pilot Liza (flying as \"Slush\") faces Sarai (flying as \"Black Butterfly\") in a one-on-one starfighter match. The two trade volleys across many rounds, the cockpit voice calling out dropping shield levels as each pilot mixes gunnery and evasive flying. Liza pilots aggressively and lands repeated telling hits, while Sarai struggles to connect her shots despite some excellent piloting rolls. Momentary lapses and sloppy passes keep the contest tense, but Liza's steadier gunnery gradually wears Black Butterfly down. The match plays out as a back-and-forth of skill checks and maneuvering, with Slush holding the upper hand through the engagement.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Sarai",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    }
+  ]
+}

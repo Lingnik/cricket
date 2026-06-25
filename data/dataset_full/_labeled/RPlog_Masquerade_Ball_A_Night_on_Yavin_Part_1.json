@@ -1,0 +1,679 @@
+{
+ "name": "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_1",
+ "title": "Masquerade Ball: A Night on Yavin (Part 1)",
+ "summary": "Aboard the entertainment ship Angry Rancor, the Jordain sisters Inanna and Sel host a tropical-themed masquerade ball above Yavin IV. Costumed guests filter into the lounge: Inanna dressed as a spotted cat oversees the bar, her sister Sel performs as a glittering golden 'Birdie' on stage, and Ka'una prowls about as a striped wildcat. A guest in an elaborate papier-mache totem head introduces himself as the spirit Ramyxth, while Maethor totters in as a walking tiki lamp and Solon Halwinder appears as an invisible Duke. Over flowing drinks, song, and dancing, the partygoers banter and tease one another into the costume revelry, with the reluctant Inanna finally coaxed onto the dance floor by Ramyxth.",
+ "rows": [
+  {
+   "line": 8,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 9,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 10,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Solon_Halwinder",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Sel",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Sel",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Ramyxth",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

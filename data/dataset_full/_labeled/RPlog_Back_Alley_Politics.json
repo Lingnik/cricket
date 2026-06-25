@@ -1,0 +1,139 @@
+{
+  "name": "RPlog_Back_Alley_Politics",
+  "title": "Back Alley Politics",
+  "summary": "In a dark alley in East Coronet City on Corellia, the Wookiee Senator Tarshyyk -- comically hooded in a failed attempt at anonymity and speaking through his protocol droid -- waits nervously to meet the Twi'lek agent Alistair. Alistair arrives confidently in disguise, revealing his grin once the coast seems clear, relishing his first real excitement in months. Through the droid's translations, the two discuss the current situation on Corellia: stirrings of dissatisfaction among a few disgruntled Nobles, whispers still too faint for the Empire to notice. Alistair shares his twisted ambition to eventually provoke the Empire into a blockade, predicting that change is coming as the Republic recovers from the Imperial Blitzkrieg, and offers material aid funneled through Dac. Tarshyyk reveals that the bulk of the resources have already been pledged, and the wary Wookiee shuffles away clutching his droid as the clandestine meeting concludes.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": true
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": true
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Alistair",
+      "b": true
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Tarshyyk",
+      "b": true
+    }
+  ]
+}

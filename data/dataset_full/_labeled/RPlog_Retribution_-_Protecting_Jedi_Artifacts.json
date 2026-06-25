@@ -1,0 +1,367 @@
+{
+ "name": "RPlog_Retribution_-_Protecting_Jedi_Artifacts",
+ "title": "Retribution: Protecting Jedi Artifacts",
+ "summary": "After barely escaping the destruction of the Senate building and spending himself in a tremendous Jedi feat, an exhausted Luke Skywalker hides and sinks into a rejuvenating hibernation trance until dawn. Meanwhile, the recovering X-Wing pilot Kyrin Sh'vani and her doctor wait anxiously in a penthouse for word of whether Luke survived, the blinded Brandis able to sense him but uncertain. As the pilots Aramis and Vengan and others work to safeguard priceless Jedi artifacts amid the chaos of war-torn Coruscant, the log follows the effort to protect the Jedi's legacy and confirm their Master's survival.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  }
+ ]
+}

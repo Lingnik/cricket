@@ -1,0 +1,73 @@
+{
+  "name": "RPlog_C_Is_For_Cookey",
+  "title": "C Is for Cookey",
+  "summary": "At the Cat's Claw cantina on Ord Mantell, a foul-tempered squib refugee named Grizzlawlooraleth-Itabo, called Cookey, storms in demanding Blackwood ale and grumbling over his bad luck. The pirate captain Salty Jack, a quarren and recent fixture at the bar, overhears and shares a measure of his own genuine Blackwood, toasting a lost crewmate while sizing the newcomer up. Learning that Cookey was the cook aboard the doomed Black Betty, Jack offers him a berth in his galley as part of a new venture more lucrative than ordinary piracy. Cookey agrees over a drink, insisting only that his galley remain his sole domain. The deal sealed with a clashing of mugs, Cookey heads off to a paid room to sleep, far less disgruntled than when he arrived.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Cookey",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Cookey",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Cookey",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Cookey",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Cookey",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Cookey",
+      "b": false
+    }
+  ]
+}

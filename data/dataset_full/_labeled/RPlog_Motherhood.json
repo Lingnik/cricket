@@ -1,0 +1,469 @@
+{
+ "name": "RPlog_Motherhood",
+ "title": "Motherhood",
+ "summary": "On the revitalizing world of Selene, the Sith Imperator Darth Malign arrives amid pomp to a gathering of Moffs and officers, attended by the Grand Admiral Drayson and the Presav Crestian, while the Horansi agents Kasha and Tiali banter nearby. Two anxious mothers converge on the planet at the same time: Elana Tracer, who has come in search of her son Kipran, newly inducted into Malign's order, and Malign's own sister Johanna, who storms toward her brother to confront him over what was done to her son. Tensions flare as Cricket the droid melts down over his scorched ship and the mothers face the Sith's cold reckoning over the rituals their children underwent. Crestian moves to gently approach the surrendering Tracer, the scene weaving together themes of motherhood, loyalty, and the price of power.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 11,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 13,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Drayson",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Kipran",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Kipran",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Kipran",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Kipran",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Tiali",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Tracer",
+   "b": true
+  }
+ ]
+}

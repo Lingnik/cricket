@@ -1,0 +1,313 @@
+{
+ "name": "RPlog_Raid_of_the_Abyssal_Ruins",
+ "title": "Raid of the Abyssal Ruins",
+ "summary": "In the dank Abyssal Ruins of Coruscant's undercity, the Twi'lek crime lord Tyy'sun assembles a hired strike team -- the Wookiee mercenaries Shoburhynn and Kyyiriiwur, and the cautious gunman Jaxx -- to wipe out a gang that defied his order to vacate the area. After tense introductions in the shadows, the team storms a music-blaring hideout: Kyyiriiwur smashes through the door with his vibro-axe, Shoburhynn and Tyy'sun pour in behind, and a savage close-quarters slaughter erupts. Several gangers die in the first moments, but Kyyiriiwur is badly burned across the face before the survivors are cowed and two fleeing women are pinned down. Bloodied and victorious, Tyy'sun leads his battered crew back out of the ruins.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Kyyiriiwur",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Kyyiriiwur",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jaxx",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Kyyiriiwur",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jaxx",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jaxx",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Kyyiriiwur",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Kyyiriiwur",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Shoburhynn",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

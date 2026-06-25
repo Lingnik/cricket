@@ -1,0 +1,157 @@
+{
+  "name": "RPlog_Art_of_Darkness",
+  "title": "Art of Darkness",
+  "summary": "In the art gallery of the Xi Charrian city of Xi Xin on Charros IV, the Presav Crestian receives the Falleen crime lord and former Moff Nasiri for a discreet meeting, the relaxed venue chosen to suit their tastes. Nasiri arrives with a nervous hooded companion, the woman Ystile, and after pleasantries over a tray of fine off-world drinks, the conversation turns to a shared concern: the Twi'lek Dark Sider Skawn Kairn and the broader threat posed by a man named Rhys, who disrupts the balance of things. Crestian admits Kairn was a black mark on their earlier efforts, once based on The Wheel before slipping away, and Nasiri confirms the name lines up with a security missive his lingering Moff status still brings him. The two trade information and veiled motives amid the gallery's art, Nasiri keeping his reasons for hunting Rhys a mystery that Crestian is content to allow. The meeting closes with Crestian extending the Xi Char and the Union's welcome to their guests.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": true
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Ystile",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Nasiri",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    }
+  ]
+}

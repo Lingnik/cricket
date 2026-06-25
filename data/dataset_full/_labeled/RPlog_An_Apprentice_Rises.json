@@ -1,0 +1,121 @@
+{
+  "name": "RPlog_An_Apprentice_Rises",
+  "title": "An Apprentice Rises",
+  "summary": "Aboard the Star Destroyer Predator, kept on careful alert by Dareus, the Sith Lord Malign arrives on the bridge and confronts the former traitor, sensing that Dareus is haunted by something. Malign draws him into a deep discourse on the nature of the Force and the lonely path of their kind, explaining that the Sith are but an aspect of the Force, believers in a philosophy contemplated as long as the Jedi's. As Dareus absorbs the weight of his apparent destiny, he begins to accept that resisting it would be idiocy. Malign speaks darkly of an approaching storm rolling across the galaxy and the need to decide where to move and hide their resources, noting that Nar Shaddaa is clearly theirs while the wider galaxy is not. He also reveals his judgment that Lynae betrayed them long ago under Johanna's influence, and raises unfinished business on Cochran before departing -- prompting Dareus to call for a secure comlink to Cochran as the apprentice's new path takes hold.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    }
+  ]
+}

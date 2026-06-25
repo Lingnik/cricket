@@ -1,0 +1,601 @@
+{
+ "name": "RPlog_Prison_Break_Gone_Wrong",
+ "title": "Prison Break Gone Wrong",
+ "summary": "At a makeshift 100-by-100-meter detention center, Captain Stone oversees caged prisoners as a chaotic prison break erupts. Convicts and soldiers clash in a brutal firefight, the desperate Comdore slinking to a broken door to fire on a dark Jedi and Zhaoan riflemen while squads of marines under Vengan push through breaches into the courtyard. Amid the gunfire, some convicts try to bolt for freedom even into the wilderness, but the assault grinds forward as the breakout descends into bloody confusion. The log captures a prison break that goes badly wrong for all involved.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Stone",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Stone",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Adaze",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Gren",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Comdore",
+   "b": true
+  }
+ ]
+}

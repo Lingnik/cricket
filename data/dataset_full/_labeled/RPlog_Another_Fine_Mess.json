@@ -1,0 +1,259 @@
+{
+  "name": "RPlog_Another_Fine_Mess",
+  "title": "Another Fine Mess",
+  "summary": "Over the Kichnar Orbital Station shipyards, a crippled X-Wing limps out of hyperspace and the Republic's Rogue Squadron, led by Lance Corbet, moves to investigate -- not realizing the \"Regulator\" fighters answering its distress are Imperial infiltrators in disguise. Aboard Regulator 4, the Sith Lord Vassily Korolov coordinates with his fellow plant, the flight officer Thel, spinning a cover story about being chewed up by Lancers while they jockey into firing position against the shipyard's shield generators. The deception collapses when Korolov opens fire, and a vicious dogfight erupts: Corbet and his Rogues trade torpedoes and laser fire with the Imperials, Korolov's mounting frustration drawing on the Dark Side as ancient words slip from Thel's lips. Corbet picks off the disguised fighters one by one, but a hard-pressed Korolov makes a final suicidal run, slamming Regulator 4 into the control tower of the Sloan Dry-docks. As the burning wreckage streaks toward the structure, a comlink crackles to life with a rueful \"here is another nice mess you have gotten us into, Vassily.\"",
+  "rows": [
+    {
+      "line": 12,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": true
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Thel",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Thel",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Thel",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Thel",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Thel",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Thel",
+      "b": true
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Thel",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Thel",
+      "b": true
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": true
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": true
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Corbet",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": true
+    },
+    {
+      "line": 120,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

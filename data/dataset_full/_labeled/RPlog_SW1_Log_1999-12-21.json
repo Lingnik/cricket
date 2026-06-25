@@ -1,0 +1,73 @@
+{
+ "name": "RPlog_SW1_Log_1999-12-21",
+ "title": "SW1 Log: A Caspian at the Port",
+ "summary": "At a busy spaceport in the late hours, the pilot Bazil clunks his shuttle down onto a landing pad and notices the Caspian-uniformed Webb striding past, standing out among the usual crowd. Bazil's pointed scrutiny of the unfamiliar uniform draws Webb's return gaze, and the two trade a slightly awkward exchange in which Bazil claims he's simply unaccustomed to seeing Caspian faces at Republican ports. Webb, finding the conversation one of the odder ones he's had on this planet, moves on toward his ship. Bazil heads off to a shuttle-taxi, allowing himself a private, knowing smirk as he goes.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Bazil",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

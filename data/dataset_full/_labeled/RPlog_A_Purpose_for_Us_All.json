@@ -1,0 +1,271 @@
+{
+  "name": "RPlog_A_Purpose_for_Us_All",
+  "title": "A Purpose for Us All",
+  "summary": "In the white-stone Chianar Plaza on New Alderaan, the free-spirited Shael complains to the officer Rasi about being shot at in a shopping district -- piloting and tree-climbing are fun, getting shot at is not. They spot the former Imperial Commodore, the doctor Lynae Cassius, arriving with her watchful escort Vengan, and go to present themselves. A frank conversation unfolds about the Empire, vigilance, and old loyalties, joined by the Sullustan Enb'Zik (Ikihsa), who has history with Lynae and whose keen hearing draws him over from a nearby construction site. Enb'Zik presses Lynae with talk of democracy, compromise as the middle ground between love and fear, and the will of the governed, while Lynae -- bred to fight the war and weary of signing death certificates -- counters with hard-won realism about how rarely people care. As the Force whispers something to Enb'Zik, he quietly observes that Lynae does not speak like an Imperial, a remark that visibly unsettles her. The exchange ends with Enb'Zik bowing to take his leave, warning that a government ruling through fear brings mistrust upon itself, and Lynae accepting his parting words.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Shael",
+      "b": true
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    }
+  ]
+}

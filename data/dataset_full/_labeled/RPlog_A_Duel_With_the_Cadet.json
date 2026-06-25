@@ -1,0 +1,379 @@
+{
+  "name": "RPlog_A_Duel_With_the_Cadet",
+  "title": "A Duel With the Cadet",
+  "summary": "On the tarmac at Ord Mantell, the eager cadet Rebecca talks her way into a mock dogfight against the Lieutenant Raxis, daring him to test how good she really is. The two scramble their fighters and trade passes high over the planet, Rebecca needling him with laughter over the comm while Raxis resorts to a few underhanded tactics to keep the upper hand. After the spirited duel, both pilots set down and agree to continue the evening at the Cat's Claw cantina, where the mood turns more serious. Over drinks, Raxis broaches the painful subject of Lance -- a captured comrade -- and his own conflicted feelings about command and duty, while Rebecca insists she knows how to follow orders. The night opens up further when the former Ghost turned Marine, Gene, arrives with the reticent Comdore, and the group folds the newcomers into their table for an off-duty round of drinks and banter.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": true
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": true
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Gene",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Gene",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Comdore",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Gene",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Comdore",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "name": "RPlog_An_Encounter_on_Tatooine",
+  "title": "An Encounter on Tatooine",
+  "summary": "As Tatooine's suns set over an emptying Mos Eisley, the Corellian pilot Wes finds himself swarmed by pestering Jawas and a coin-hungry local child in a docking bay. Nearby stands the robed Elomin Flaron Korr, who watches with curiosity as Wes fends off the attention. Wes jokingly asks the stranger whether he has a sign on his back, and the two strike up a wary conversation; Flaron introduces himself as a finder of men, currently unemployed. Learning that Wes makes his living connecting people and recently flew a bounty hunter and his captives to Kappa, Flaron asks whether Wes knows a dealer in colorful equipment, admitting he has little money and needs only a basic weapon and perhaps a personal shield. Wes figures a weapon is easy enough but doubts anyone he knows can supply a personal shield, leaving the deal open as their chance meeting winds down.",
+  "rows": [
+    {
+      "line": 8,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 10,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Flaron",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Flaron",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Flaron",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Flaron",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Flaron",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Flaron",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Wes",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

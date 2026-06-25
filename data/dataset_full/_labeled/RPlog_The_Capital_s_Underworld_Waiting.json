@@ -1,0 +1,127 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_Waiting",
+  "title": "Waiting",
+  "summary": "While waiting at the Jedi Temple for Bavon Nass's imminent arrest, Senator Tokoga trades grim jokes about being 'the walking dead' with the medic Myiari, who is balancing the tense scene against her competition for a coveted hospital promotion. Commander Rasi arrives with a secured briefcase and confirms that the Verpine Dravin has traced the assassination payments back to Nass, giving them everything needed to lock him away. The group debates how the public will react to learning Tokoga faked his death and whether the imprisoned crime lord can still reach the courts, with Tokoga planning a full, expository press conference to explain himself. Dravin makes a theatrical entrance, joining the banter, while Rasi presses Tokoga about his habit of moving without bodyguards. Myiari departs for her hospital shift as the others await the arrest that will let the senator return from the dead.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+ "name": "RPlog_Reporting_Lance",
+ "title": "Reporting Lance",
+ "summary": "His X-Wing charred and battered, the pilot Raxis L'ygr lands and grimly reports to Lt. Colonel Ridge Archilles that Flight Officer Lance Corbet has been captured during their patrol, while the off-duty Gene looks on. Walking and talking through the after-action, Raxis recounts the ambush by a lone, impossibly fast TIE, and the two puzzle over the anomaly -- a single TIE with no carrier should not have been there. Reviewing Raxis's flight recorder, Ridge recognizes the enemy pilot's voice and callsign 'Wolf' as one of the Imperial ace Krieg's pilots, giving them a lead on where to find the captured Lance. Determined but insistent on going with his commander's blessing, Raxis finishes his report and hurries off to face Major Sh'vani.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Gene",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  }
+ ]
+}

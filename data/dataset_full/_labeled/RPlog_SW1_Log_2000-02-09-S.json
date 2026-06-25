@@ -1,0 +1,553 @@
+{
+ "name": "RPlog_SW1_Log_2000-02-09-S",
+ "title": "Battle of Wistril",
+ "summary": "A New Republic task force led by the Mon Calamari cruiser NRSC Deliverance jumps into the eerily quiet Wistril system, escorting Archer A-wings, Ghost and Rogue X-wings, and Draco bomber squadrons to seize Imperial supply canisters in orbit. They are met by the Victory-class Star Destroyer Volatile and four squadrons of TIE fighters that scramble from the planet and the destroyer. In the swirling dogfight the Ghost pilots take losses through reckless flying, Commodore Snunb directs warhead fire at a weakened starboard shield generator, and the fighters pour torpedoes into the Volatile's shields and engines. The Deliverance and its gunship hammer the destroyer until its engines die and the ship breaks apart in a final explosion, after which the surviving New Republic fighters disperse and move on toward the planet and its captured cargo.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

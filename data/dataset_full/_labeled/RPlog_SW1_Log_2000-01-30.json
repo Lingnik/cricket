@@ -1,0 +1,277 @@
+{
+ "name": "RPlog_SW1_Log_2000-01-30",
+ "title": "Bazil Reports to the Deliverance",
+ "summary": "Aboard the carrier NRSC Deliverance, Ghost Squadron commander Altair Quila spars with an unyielding Quartermaster over misplaced ships while the StarOps officer Roberto reviews efficiency reports and grumbles about supply-line holdups starving Wayland Squadron of spare parts. The tardy pilot Bazil McKenzie finally arrives in civilian clothes, having been detained for days by Corellian Customs who mistook him for an Imperial spy, then struggling to locate the distant warship. Bazil joins the banter, suggesting independent contractors for supplies, while Roberto vows to bully the Quartermaster Corps into compliance. The trio trade jokes about sticking the late-arriving Bazil with a foul refit garbage scow before he opts for an X-wing, and Altair sends him off to ready his long-idle fighter.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "desc",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Roberto",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Altair Quila",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

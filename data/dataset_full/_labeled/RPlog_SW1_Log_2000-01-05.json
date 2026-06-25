@@ -1,0 +1,319 @@
+{
+ "name": "RPlog_SW1_Log_2000-01-05",
+ "title": "A Briefing Aboard the Lady Dawntreader",
+ "summary": "On a near-empty Coruscant spaceport, the diplomat Poguala, the Lady Dawntreader, summons the newly-returned Jedi Master Luke Skywalker to her shuttle for a private briefing. She reveals that artifacts stolen from the former Imperial Palace include her grandmother's journals and Palpatine-era papers hinting at a secret cloning facility tied to a genocide on her homeworld of Daavrix. Skywalker, wrestling with guilt over his long absence, agrees to accompany the investigative expedition and to reach out to General D'agor, with whom he has unfinished business. Throughout the conversation Poguala is unsettled by inexplicable nervous tics, attended by her pilot-trainee Bazil McKenzie. They part with plans to coordinate coordinates and strategy before departing within the week.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Steiner",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Poguala",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

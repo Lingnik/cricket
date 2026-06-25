@@ -1,0 +1,223 @@
+{
+  "name": "RPlog_A_Test_of_Steel",
+  "title": "A Test of Steel",
+  "summary": "A crowded cantina erupts into carnage when the Sith Lord Malign and his stormtroopers stride in and the dark Lord begins cutting down patrons with his white-bladed saber. As blaster fire and screams fill the room, the survivors scatter: McBride drags the coughing Kyokusha toward the back wall and blows an escape hole with a grenade launcher, while the newcomer Takajin and the seething Kyo make for the gap. Across the room a separate, deeply personal duel rages between the matched swordsmen Thrask and the Quarren Scaven, with Gavin treacherously stepping in to help Scaven kill Thrask. Johanna fights her way deeper into the chaos and lands a boot that sends Malign flying into the bar, while Kyo -- desperate to reach her target and screaming at Malign as Tyler -- finds her ex-husband repeatedly blocking her path. The brawl swirls in constant motion: Thrask is disarmed and bodily slammed down, Kyo is wounded by Gavin's hateful words, and the lethal test of steel grinds on amid the wreckage.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "McBride",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Takajin",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": true
+    },
+    {
+      "line": 29,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "McBride",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Takajin",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Thrask",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Thrask",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "McBride",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Thrask",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "McBride",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Thrask",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": true
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Kyo",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Thrask",
+      "b": false
+    }
+  ]
+}

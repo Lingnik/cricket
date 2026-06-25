@@ -1,0 +1,187 @@
+{
+  "name": "RPlog_A_Done_Deal",
+  "title": "A Done Deal",
+  "summary": "Just after midnight on a busy Nar Shaddaa landing platform, the Twi'lek Karawn'Rai meets the human Jaspar Andromidas, who is recruiting crew on the recommendation of a mutual contact named Torin. Jaspar, an easygoing ex-military man, introduces himself and confirms he is looking for capable hands, while Karawn'Rai sizes him up amid the bustle of the spaceport. The two trade notes on their backgrounds, agreeing that military experience hardens the nerves and teaches a person to handle weapons, and Jaspar makes clear he is no harsh taskmaster. He estimates the first job should come within the week, pending word from other friends, and Karawn'Rai agrees to pass the offer along to two associates. The meeting closes amicably with the arrangement effectively settled.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Karawn'Rai",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": true
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Karawn'Rai",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Karawn'Rai",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Karawn'Rai",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Karawn'Rai",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Karawn'Rai",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

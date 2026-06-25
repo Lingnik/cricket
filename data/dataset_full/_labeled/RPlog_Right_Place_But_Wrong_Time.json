@@ -1,0 +1,307 @@
+{
+ "name": "RPlog_Right_Place_But_Wrong_Time",
+ "title": "Right Place, But Wrong Time",
+ "summary": "In the lightless, lawless Abyssal Ruins beneath Coruscant, the dark master Faust -- here called Viktor -- moves among the downtrodden he claims as 'his people,' drawing strength from the emotional chaos that lets him shed his dark-side shroud. His companion Phair, a thin woman trained but not Force-gifted, feels the eyes of the desperate upon them as Faust expounds his philosophy of natural order: that some are meant to be lords and others to serve. Phair, who has long lived by 'service before self,' confronts the limits of that creed against the darker vision Faust offers, the cold undercity setting the stage for a dangerous turn.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Phair",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Phair",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Phair",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Phair",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Viktor",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

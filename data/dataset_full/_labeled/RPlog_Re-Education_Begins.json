@@ -1,0 +1,259 @@
+{
+ "name": "RPlog_Re-Education_Begins",
+ "title": "Re-Education Begins",
+ "summary": "Held in an interrogation-turned-sleeping room, the captive Shael is subjected to a calculated program of sensory manipulation and psychological conditioning by a coldly soothing Imperial Agent who addresses her only as 'C-1125.' Denied normal rest and gradually broken down, Shael spirals into self-loathing, sobbing, and trembling as the Agent praises her for having 'done the Emperor's will' and urges her to take pride in it. The chilling scene marks the beginning of her forced re-education, the Agent's gentle menace leaving her hollowed and weeping on her cot.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

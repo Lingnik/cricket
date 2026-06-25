@@ -1,0 +1,415 @@
+{
+ "name": "RPlog_Nar_Shaddaa_-_Sabrina_s_Rescue_3",
+ "title": "Nar Shaddaa - Sabrina's Rescue (Part 3)",
+ "summary": "While Luke's team fights deep inside Galla the Hutt's facility, the pilot Rook stands guard at the Voidstalker's ramp and dispatches two of the Hutt's thugs who come to investigate. As reinforcements gather and the infiltration team is reported in trouble, Ai'kani, Snarl carrying the limp Sabrina, and Luke burst out the west doors and race for the ship. Rook hauls everyone aboard and lifts off under fire, then duels a flight of cobbled-together TIE-Y 'Ugly' fighters in a tense space chase, evading and destroying them one by one. With Ai'kani wounded and Luke tending her, Rook outmaneuvers the last pursuer until the Voidstalker finally jumps to hyperspace, escaping Hutt space with Sabrina rescued.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Spanner",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  }
+ ]
+}

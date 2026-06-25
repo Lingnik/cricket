@@ -1,0 +1,121 @@
+{
+  "name": "RPlog_A_Walk_in_the_Park",
+  "title": "A Walk in the Park",
+  "summary": "On a misty day in a sparsely populated New Alderaan park on Ord Mantell, Princess Leia strolls with her cousin Sabrina beside a fountain, reflecting on hope and the wishes children cast into its waters. Their conversation turns to family -- young Anakin, and Leia's worries about Jacen and Jaina -- and then to a delicate matter Sabrina wishes Leia's help with, involving a young pregnant woman. Leia, drawing on her own experience, insists on speaking with the woman herself first, cautioning that pregnancy and shifting circumstances make consent and timing complicated. Sabrina agrees and broadens the request to enlisting the woman's help with entertainment efforts on Ord Mantell, sharing a laugh over the image of Threepio fussing about flowers. Leia embraces her cousin and promises to find time to come speak with her, the two parting on warm, hopeful terms.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Sabrina",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

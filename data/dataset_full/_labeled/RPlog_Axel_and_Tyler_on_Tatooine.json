@@ -1,0 +1,181 @@
+{
+  "name": "RPlog_Axel_and_Tyler_on_Tatooine",
+  "title": "Axel and Tyler on Tatooine",
+  "summary": "On a frigid Tatooine night a few dunes from Mos Espa, the smuggler Axel Vichten -- unable to find the Predator or raise anyone on comms -- sets his ship down to meet the brooding Tyler Damion, who waits huddled by a primitive shelter, chain-smoking. Sheltering together from the blowing sand, the two Corellians talk frankly: Tyler urges Axel to relax and get over himself, while Axel circles warily around the unresolved bad blood involving Dareus. Axel admits he was once furious about broken promises and the things he was supposed to gain, and Tyler concedes that's about the core of it, the two agreeing that what matters now is who still wants to keep fighting the good fight. Axel makes plain he has goals he'll stop at nothing to achieve, and Tyler -- the sleepless Dark Lord of the Sith -- accepts him as a business partner and teammate. With enough aired between them, Axel braves the sandstorm back to his ship the Boomstick and lifts off into the desert night.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Axel",
+      "b": true
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Axel",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Axel",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Tyler",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Axel",
+      "b": true
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

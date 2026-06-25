@@ -1,0 +1,493 @@
+{
+ "name": "RPlog_Piper_s_Guards_Shoot_Kuxli",
+ "title": "Piper's Guards Shoot Kuxli",
+ "summary": "On Hideaway Beach near Plaxton on Caspar, the CSA VicePrex Piper coldly looks on as her Espo guards open fire on the young Horansi cub Kuxli. Wounded and panicking, Kuxli bolts for the road crying for help, only to be cut down by repeated blaster bolts until he collapses unmoving in the sand. Unmoved and scowling, Piper orders the Espos to drag the unconscious cub to her ship, and the procession of guards hauling his limp body makes its way through Plaxton's Fountain Square -- past a startled witness, Vance -- toward the spaceport. The brutal scene underscores Piper's ruthless devotion to the Authority's interests.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Piper",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Piper",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Vance",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Vance",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

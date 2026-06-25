@@ -1,0 +1,229 @@
+{
+  "name": "RPlog_A_Late_Night_at_the_Hangar",
+  "title": "A Late Night at the Hangar",
+  "summary": "Hiding out afterhours in a repair hangar, the laid-back Lieutenant Raxis L'ygr spins a smashball and nurses his coffee until the prickly pilot Rebecca -- whom he calls Varn -- tows in her battered X-Wing for repairs. Still smarting from a violent pirate attack during the Ghosts' outsector patrol, Rebecca grumbles in Corellian and pokes Raxis hard in the chest with a hydrospanner over a comm-channel jab he made mid-engagement. The two trade barbed but warming banter as she climbs into the cockpit to work, Raxis hovering on the ladder and gently checking that she's alright after taking deep, clawing wounds that put her in the bacta tank. Their needling softens into genuine affection: Rebecca teases him as the \"mighty slayer of wicked beasts\" who saved the day, and admits she's glad his arm healed. Raxis raises his cup to her as she heads off, watching her go with a warmer smile and a quiet \"Good night, Varn.\"",
+  "rows": [
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": true
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": true
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": true
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Rebecca",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    }
+  ]
+}

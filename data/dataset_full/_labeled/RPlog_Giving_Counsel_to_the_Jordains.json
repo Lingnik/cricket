@@ -1,0 +1,307 @@
+{
+ "name": "RPlog_Giving_Counsel_to_the_Jordains",
+ "title": "Giving Counsel to the Jordains",
+ "summary": "At the Cat's Claw Cantina on Ord Mantell, Luke Skywalker tracks down the singer Serenella through the Force just as her father Ehlias takes his leave, and joins her and her newly met sister Inanna Jordain. Luke gently reports that he has been unable to confirm whether Serenella's estranged husband Antoine Dareus -- now fallen to the dark side -- is truly dead, and reveals he has located Darth Malign's fleet and intends to seek Dareus out himself. As Serenella breaks down in tears, Luke subtly probes her mind and confirms she knew of Antoine's Force abilities, then projects a warmth of well-being to calm the table. He firmly counsels her that she must let Dareus go and cannot see him again, however much she longs to say goodbye, with Inanna backing him up. The smuggler Shael arrives mid-scene and lends quiet support, and Luke departs to find Dareus, promising to return and bring him no harm, while the sisters and Shael resolve to leave together.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ehlias",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Serenella",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  }
+ ]
+}

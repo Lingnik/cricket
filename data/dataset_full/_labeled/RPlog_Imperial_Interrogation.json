@@ -1,0 +1,217 @@
+{
+  "name": "RPlog_Imperial_Interrogation",
+  "title": "Imperial Interrogation",
+  "summary": "In a detention cell on the sealed Imperial base of Selene, Commander Danik Kreldin and the returning officer Lanil interrogate Seneca -- a captured swoop-team manager accused of running weapons to the local rebel cell. When Seneca denies the charge and refuses to break under threats and a leveled blaster, the troopers cuff her and tape her eyes open, subjecting her to a two-hour barrage of horrific war imagery and a screeching soundtrack that culminates in a simulated Death Star destruction of Bonadan, driving her into a screaming panic attack and unconsciousness. Concluding she has nothing of value, Lanil leaves her fate to Danik, who revives her with a bucket of cold water and informs her she is being fined five thousand credits and reported to the Corporate Sector. Seneca recovers her composure and reveals she is an Auditor of the Office of the Auditor General, warning that torturing and detaining her will bring serious consequences upon the credit-dependent Empire. Unmoved, Danik dismisses her authority, threatens her again at gunpoint, and orders her to pay the fine.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Lanil",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Lanil",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Lanil",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Lanil",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Seneca",
+      "b": true
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    }
+  ]
+}

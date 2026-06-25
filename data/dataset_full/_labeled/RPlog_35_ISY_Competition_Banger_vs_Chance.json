@@ -1,0 +1,547 @@
+{
+  "name": "RPlog_35_ISY_Competition_Banger_vs_Chance",
+  "title": "Banger vs. Chance",
+  "summary": "In the third round of the 35 ISY fighter-simulator championship, Marshal Krieg Inrokana (Banger) duels his own former trainee, Squadron Leader Alex Dante, flying as Chance. Knowing Dante is no pilot to be lured into a trap, Krieg opens with disciplined aggression while Dante stays calm, keeping her fighter light and maneuverable. The two evenly matched aviators trade fire across several exchanges, each anticipating the other's habits from their shared training. Krieg's experience gradually tells, and he wears down Chance's craft to take the match. The duel underscores the respect between teacher and student even as Banger advances.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    }
+  ]
+}

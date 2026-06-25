@@ -1,0 +1,884 @@
+[
+ {
+  "handle": "Lynae",
+  "variants": [
+   "Lynae",
+   "Lynae Cassius",
+   "Lynae Caiton",
+   "Lynae Cassius-Caiton",
+   "Lynae Cassius-Mahon"
+  ],
+  "finger": {
+   "full_name": "Lynae Cassius",
+   "race": "Human",
+   "affiliation": "Unaffiliated",
+   "occupation": "**NONE**",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Beginning_Again",
+   "RPlog_Nothin_but_a_family_thing",
+   "RPlog_A_Call_for_Aid",
+   "RPlog_A_Chip_and_a_Chair_is_All_You_Need"
+  ]
+ },
+ {
+  "handle": "jessalyn",
+  "variants": [
+   "Jessalyn Valios"
+  ],
+  "finger": {
+   "full_name": "Jessalyn Valios",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Jedi Witch",
+   "homeworld": "Yavin IV",
+   "background": "",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Blast_from_the_Past",
+   "RPlog_A_Caspian_House_Warming_Party",
+   "RPlog_A_Churban_Reunion_of_Sorts",
+   "RPlog_A_Dark_Secret"
+  ]
+ },
+ {
+  "handle": "Johanna",
+  "variants": [
+   "Johanna",
+   "Johanna Siri te Danaan",
+   "Etiel te Danaan",
+   "Johanna Damion",
+   "Alina te Danaan",
+   "Ara te Danaan"
+  ],
+  "finger": {
+   "full_name": "Johanna Siri te Danaan",
+   "race": "Human",
+   "affiliation": "Unknown",
+   "occupation": "Mother/Pilot/Jedi",
+   "homeworld": "Tatooine",
+   "background": "Faith is the sister of Justice.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_SW1_Log_2001-01-05",
+   "RPlog_The_Closing_Act",
+   "RPlog_A_Bombing_How_Quaint",
+   "RPlog_A_Place_in_the_Universe"
+  ]
+ },
+ {
+  "handle": "Luke",
+  "variants": [
+   "Luke Skywalker"
+  ],
+  "finger": {
+   "full_name": "Luke Skywalker",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Jedi Master",
+   "homeworld": "Tatooine",
+   "background": "The Classic Trilogy.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_New_Moon_Rises",
+   "RPlog_A_Vision_of_Hope",
+   "RPlog_Abandoned_Sith_Factory",
+   "RPlog_Aggressive_Negotiations_with_Luke_Skywalker"
+  ]
+ },
+ {
+  "handle": "Axel",
+  "variants": [
+   "Axel",
+   "Axel Vichten"
+  ],
+  "finger": {
+   "full_name": "Axel Vichten",
+   "race": "Near Human",
+   "affiliation": "Imperial",
+   "occupation": "Political intrigue could paint the walls of any of Axel Vichten's ships as the man was notorious for playing the sides of conflicts and making a substantial fortune from it, he was a war profiteer, and it was a profession no one could blame him for being in as long as the galaxy has been at war. <From Darth Malign's Viewpoint>",
+   "homeworld": "Caspar (Immigrant from Sevarcos II)",
+   "background": "        GSF Dossier File: +background Axel 20\n        Home Planet Information: +background Axel 21\n        Various types of Spice and Spice concoctions: +background axel 22-27\n Planet of Origin: Sevarcos",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Nothin_but_a_family_thing",
+   "RPlog_A_Deserted_Star_Destroyer",
+   "RPlog_A_Gift_of_Spice",
+   "RPlog_A_Plan_Unveiled"
+  ]
+ },
+ {
+  "handle": "Ambrosia",
+  "variants": [
+   "Ambrosia",
+   "Ambrosia Delgard"
+  ],
+  "finger": {
+   "full_name": "Ambrosia Delgard",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Ambassador",
+   "homeworld": "Pyrdir",
+   "background": "Life before her service to the New Republic isn't something Ambrosia is keen to disclose, but over the years, some snippets have leaked, rumors passed about, and those in the 'need to know' category have become aware.\n\n Her service began on Caspar, as an Aide for Ambassador Dean Corso. Promotion came rather unexpectedly, when he was removed from the picture and she was left to run the Embassy in his stead. Since then, she's negotiated 2 treaties with the CDU, birthed a little girl, become a widow, played a role in the liberation of Corellia, lived a bit of quiet life on Ord Mantel, returned to Caspar with her daughter, and became victim yet again to anti-NR assembly. \n\n This past year has seen her briefly reinstated on Caspar, then homeless, captured, tortured, freed, recovered for a few months, active role in liberating smuggled slaves, participant on NR 20th Anniv gala committee, infected with an alien parasite and recaptured, freed...and now struggling to get a grip on her sanity. Needless to say: it's been a rough one.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Blizzard_Baby",
+   "RPlog_A_Drink_to_Disaster",
+   "RPlog_A_Fickle_Crowd",
+   "RPlog_A_Gentleman_s_Disagreement"
+  ]
+ },
+ {
+  "handle": "Krieg",
+  "variants": [
+   "Krieg",
+   "Krieg Inrokana"
+  ],
+  "finger": {
+   "full_name": "Krieg Inrokana",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "Task Force Inquisitor Commander",
+   "homeworld": "Corellia",
+   "background": "See URL below",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Battle_of_Trandosha",
+   "RPlog_Imperial_Gala_Continued",
+   "RPlog_16_ABY_Imperial_Gala_Awards",
+   "RPlog_16_ABY_Imperial_Gala_Ball"
+  ]
+ },
+ {
+  "handle": "Rasi",
+  "variants": [
+   "Rasi",
+   "Rasi Praddhan Cen",
+   "Rasi Cen"
+  ],
+  "finger": {
+   "full_name": "Rasi Praddhan Cen",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Officer, Republic Navy",
+   "homeworld": "Fondor",
+   "background": "20/22",
+   "quote": "\"And the bloodied slave rose to his feet, thrust his hand into his defiant chest, tore out his own heart and threw it at the aggressor saying 'free from bondage!'\".\n\n Creating wanton destruction and sipping tea since: Mon Jun 26 09:28:11 2006\n--------------------------------< Awards: 1 >---------------------------------\n        * Legend Status: awarded February 2008"
+  },
+  "source_logs": [
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_2",
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_3",
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_4",
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_5"
+  ]
+ },
+ {
+  "handle": "Bazil",
+  "variants": [
+   "Vauki",
+   "Bazil McKenzie",
+   "Mege Vauki",
+   "Captain Diggs",
+   "Jonau Diggs"
+  ],
+  "finger": {
+   "full_name": "Bazil Ard'rian McKenzie",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Reformed Vagarian",
+   "homeworld": "Tatooine",
+   "background": "Type +background Bazil 0 to view Bazil's background.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_SW1_Log_2000-06-03",
+   "RPlog_SW1_Log_2000-06-04-1",
+   "RPlog_SW1_Log_2000-06-09-1",
+   "RPlog_SW1_Log_2000-06-10-1"
+  ]
+ },
+ {
+  "handle": "Danik",
+  "variants": [
+   "Danik Kreldin"
+  ],
+  "finger": {
+   "full_name": "**NONE**",
+   "race": "Human",
+   "affiliation": "Unknown",
+   "occupation": "**NONE**",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_New_Mission",
+   "RPlog_Alois_vs_Maethor",
+   "RPlog_Ambushing_Jedi",
+   "RPlog_An_Interview_with_a_Spy"
+  ]
+ },
+ {
+  "handle": "Simon",
+  "variants": [
+   "Simon Sezirok"
+  ],
+  "finger": {
+   "full_name": "Simon Sezirok",
+   "race": "Unknown",
+   "affiliation": "Unknown",
+   "occupation": "Resurrecting the Old Republic",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Lesson_Set_in_Stones",
+   "RPlog_A_Lesson_Set_in_Stones_Part_II",
+   "RPlog_A_Little_Respect",
+   "RPlog_A_Meeting_with_Paro"
+  ]
+ },
+ {
+  "handle": "Kyrin",
+  "variants": [
+   "Kyrin",
+   "Kyrin Sh'vani"
+  ],
+  "finger": {
+   "full_name": "Kyrin Sh'vani",
+   "race": "Near Human",
+   "affiliation": "New Republic",
+   "occupation": "Starfighter Pilot, Rogue Squadron",
+   "homeworld": "Chylene",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_An_Unexpected_Visitor",
+   "RPlog_A_Friendly_Drink",
+   "RPlog_Attempted_Arrest",
+   "RPlog_Battle_of_Bimmiel"
+  ]
+ },
+ {
+  "handle": "Tyler",
+  "variants": [
+   "Tyler",
+   "Tyler Damion"
+  ],
+  "finger": {
+   "full_name": "Tyler Damion I",
+   "race": "Unknown",
+   "affiliation": "Imperial",
+   "occupation": "Imperator of the New Order",
+   "homeworld": "Corellia",
+   "background": "A villain from a long time ago... coming to a local Blockbuster near you.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Conversations_Act4",
+   "RPlog_A_Bit_Of_A_Situation",
+   "RPlog_A_Decision",
+   "RPlog_A_Plan_Unveiled"
+  ]
+ },
+ {
+  "handle": "Leia",
+  "variants": [
+   "Leia Organa",
+   "Leia Organa Solo"
+  ],
+  "finger": {
+   "full_name": "Leia Organa Solo",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Chief of State",
+   "homeworld": "Alderaan",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Playing_Politician",
+   "RPlog_Sithly_Stroll_in_the_Park",
+   "RPlog_A_N_kosi_Meets_a_Chief",
+   "RPlog_A_Walk_in_the_Park"
+  ]
+ },
+ {
+  "handle": "Enb'Zik",
+  "variants": [
+   "Enb'Zik",
+   "Ikihsa Enb'Zik"
+  ],
+  "finger": {
+   "full_name": "Ikihsa Enb'Zik",
+   "race": "Sullustan",
+   "affiliation": "Unaffiliated",
+   "occupation": "Jedi Knight",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Commute_part_2",
+   "RPlog_Imperial_Gala_Continued",
+   "RPlog_SW1_Log_2000-08-07-4",
+   "RPlog_SW1_Log_2000-08-09"
+  ]
+ },
+ {
+  "handle": "Mira",
+  "variants": [
+   "Mira",
+   "Mitra",
+   "Mira Isaria"
+  ],
+  "finger": {
+   "full_name": "Mira Isaria",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "**NONE**",
+   "homeworld": "Corellia",
+   "background": "Victim of a horrible conspiracy",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Aurejin_Saves_Jessalyn",
+   "RPlog_Beware_Siths_Bearing_Gifts",
+   "RPlog_Tonight_there_s_gonna_be_a_jailbreak",
+   "RPlog_A_Lesson_Set_in_Stones"
+  ]
+ },
+ {
+  "handle": "Nighman",
+  "variants": [
+   "Paul Nighman"
+  ],
+  "finger": {
+   "full_name": "Paul Nighman",
+   "race": "Human",
+   "affiliation": "Unaffiliated",
+   "occupation": "Xenoarcheaologist/Scientist/Professor",
+   "homeworld": "Corellia",
+   "background": "Well established in the universe as a professor and practioner of xenoarchaeology, Paul Nighman PhD has a rather varied reputation. As a scientist, he is one of the best in his field. But there are rumors that he dabbles in some less than savory pursuits as well, such as smuggling and other potentially illegal activities. Five years ago he went out to explore and study some newly discovered primitive culture planets out along the rim. He returned only upon hearing of the impending annexation of his home world and was caught three years ago aiding refugees on Corellia during the Imperial invasion and was imprisoned there. He recently was freed during a planetary rebellion prison break and has been trying to find employment and get back to his previous life.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Blast_from_the_Past",
+   "RPlog_A_Cunning_Plan",
+   "RPlog_A_Night_Away_From_Home",
+   "RPlog_A_Ray_of_Hope"
+  ]
+ },
+ {
+  "handle": "Korolov",
+  "variants": [
+   "Korolov",
+   "Darth Venger",
+   "Vassily Korolov"
+  ],
+  "finger": {
+   "full_name": "Darth Venger",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "Sith Lord",
+   "homeworld": "Coruscant",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Imperial_Gala_Continued",
+   "RPlog_A_Prex_is_Chosen",
+   "RPlog_Siths_and_Stones_...",
+   "RPlog_16_ABY_Imperial_Gala_Awards"
+  ]
+ },
+ {
+  "handle": "Crestian",
+  "variants": [
+   "Crestian Tarasar"
+  ],
+  "finger": {
+   "full_name": "Crestian Tarasar",
+   "race": "Sarian",
+   "affiliation": "Unaffiliated",
+   "occupation": "Statesman",
+   "homeworld": "Caspar",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Prudent_Request",
+   "RPlog_A_Walk_Amongst_the_Plant_Life",
+   "RPlog_Art_Collection",
+   "RPlog_Art_Therapy"
+  ]
+ },
+ {
+  "handle": "Liza",
+  "variants": [
+   "Liza Molokai"
+  ],
+  "finger": {
+   "full_name": "Liza 'Alluria' Molokai",
+   "race": "Sarian",
+   "affiliation": "Imperial",
+   "occupation": "Wing Commander - Task Force Inquisitor",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_16_ABY_Imperial_Gala_Awards",
+   "RPlog_16_ABY_Imperial_Gala_Ball",
+   "RPlog_16_ABY_Imperial_Gala_Celebration",
+   "RPlog_35_ISY_Competition_Banger_vs_Slush"
+  ]
+ },
+ {
+  "handle": "Korynn",
+  "variants": [
+   "Korynn Fleming",
+   "Shandra Fleming",
+   "Ban Fleming"
+  ],
+  "finger": {
+   "full_name": "Korynn Fleming",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "ISB Sector Director",
+   "homeworld": "Coruscant",
+   "background": "Korynn Fleming. 39 years old. ISB Sector Director, with a history in interrogation. More info is available by OOC means through +backgrounds 2-5 and my wiki page. If you wish to know any of this information ICly, please ask me first.",
+   "quote": "Korynn Fleming: Making players #&$! their pants since 2005.\n--------------------------------< Awards: 1 >---------------------------------\n        * MUSHY: Best Actor (2007)"
+  },
+  "source_logs": [
+   "RPlog_16_ABY_Imperial_Gala_Celebration",
+   "RPlog_Brig_-_Day_Five",
+   "RPlog_Brig_-_Day_Four",
+   "RPlog_Corellia_Corellia"
+  ]
+ },
+ {
+  "handle": "Tokoga",
+  "variants": [
+   "Tokoga"
+  ],
+  "finger": {
+   "full_name": "Tokoga",
+   "race": "Mon Calamari",
+   "affiliation": "New Republic",
+   "occupation": "Senator",
+   "homeworld": "Dac",
+   "background": "See wiki.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_N_kosi_Meets_a_Chief",
+   "RPlog_An_Offer_of_Information",
+   "RPlog_Another_Round_of_Interrogation",
+   "RPlog_Breaking_Point"
+  ]
+ },
+ {
+  "handle": "Malus",
+  "variants": [
+   "Malus",
+   "Lorn Rhys",
+   "Darth Malus",
+   "Malus Brock"
+  ],
+  "finger": {
+   "full_name": "Lorn Rhys",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "Balanced Chaos",
+   "homeworld": "Unknown",
+   "background": "Everything that has transpired has done so according to my design.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Celestine_Cycle_-_And_A_Body_Hits_The_Floor",
+   "RPlog_Celestine_Cycle_-_Rising_Tensions",
+   "RPlog_A_Chip_and_a_Chair_is_All_You_Need",
+   "RPlog_And_That_s_No_Small_Thing"
+  ]
+ },
+ {
+  "handle": "Malif",
+  "variants": [
+   "Malif",
+   "Malif Tal-Tahn"
+  ],
+  "finger": {
+   "full_name": "Malif Tal-Tahn",
+   "race": "Near Human",
+   "affiliation": "Unknown",
+   "occupation": "Unknown",
+   "homeworld": "",
+   "background": "        Malif Tal-Tahn is a profiteer with a colorful history and has at times held position as CEO of various corporations over the years and for a time was Auditor General of the CSA. Even if rumor is to be believed serving in the regime of the NSO. His whereabouts until this time have been unknown.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Conversations_Act3",
+   "RPlog_16_ABY_Imperial_Gala_Ball",
+   "RPlog_A_Chip_and_a_Chair_is_All_You_Need",
+   "RPlog_An_Odd_Acquaintance_Turns_into_a_Promising_Endeavor"
+  ]
+ },
+ {
+  "handle": "Lando",
+  "variants": [
+   "Lando",
+   "Lando Calrissian"
+  ],
+  "finger": {
+   "full_name": "Lando Calrissian",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Galactic Entrepreneur",
+   "homeworld": "Socorro",
+   "background": "ESB and ROTJ, mostly.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_SW1_Log_2000-05-17",
+   "RPlog_A_New_Moon_Rises",
+   "RPlog_A_Visit_from_Lando",
+   "RPlog_Ariana_Millikin_and_Company"
+  ]
+ },
+ {
+  "handle": "Karrde",
+  "variants": [
+   "Karrde",
+   "Talon Karrde"
+  ],
+  "finger": {
+   "full_name": "Talon Karrde",
+   "race": "Human",
+   "affiliation": "Unknown",
+   "occupation": "Contrabandista/Information Broker",
+   "homeworld": "Corellia",
+   "background": "This is a Feature Character (FC). Read the Zahn, 'Heir to the Empire' trilogy. For more trivia, there are backgrounds 1 and 2, as well as my website noted below. Anything more than what's here, you'll have to pay for IC.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_SW1_Log_2001-04-06",
+   "RPlog_A_Business_Proposition_on_Kichnar",
+   "RPlog_Ariana_Millikin_and_Company",
+   "RPlog_Arrival_on_Myrkr"
+  ]
+ },
+ {
+  "handle": "Tracer",
+  "variants": [
+   "Elana Tracer"
+  ],
+  "finger": {
+   "full_name": "Elana Tracer",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "Former Presav of Caspar",
+   "homeworld": "Caspar",
+   "background": "http://sw1mush.wikia.com/wiki/Elana_Tracer",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Prudent_Request",
+   "RPlog_All_About_Eva",
+   "RPlog_Atsvara_s_Hot_Takes",
+   "RPlog_Birthday_Baroness"
+  ]
+ },
+ {
+  "handle": "Jal'Dana",
+  "variants": [
+   "Jal'Dana Rall",
+   "Varin Rall"
+  ],
+  "finger": {
+   "full_name": "Jal'Dana Rall",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "",
+   "homeworld": "Berchest",
+   "background": "http://sw1mush.wikia.com/wiki/Jal%27Dana_Rall",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_16_ABY_Imperial_Gala_Awards",
+   "RPlog_16_ABY_Imperial_Gala_Celebration",
+   "RPlog_35_ISY_Competition_Vapor_vs_Banger",
+   "RPlog_35_ISY_Competition_Vapor_vs_Slush"
+  ]
+ },
+ {
+  "handle": "Drake",
+  "variants": [
+   "Simone Drake",
+   "Drake Rukhas"
+  ],
+  "finger": {
+   "full_name": "Sebastian Drake",
+   "race": "Human",
+   "affiliation": "Unaffiliated",
+   "occupation": "Pirate, Slaver, Thief, Smuggler. Any job as long as the credits are right.",
+   "homeworld": "",
+   "background": "A former crewman on various pirate and smuggling vessels looking to break out on his own.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Business_Proposition_on_Kichnar",
+   "RPlog_A_Caspian_House_Warming_Party",
+   "RPlog_A_Casual_Encounter_with_Han_Solo",
+   "RPlog_A_Churban_Reunion_of_Sorts"
+  ]
+ },
+ {
+  "handle": "Myiari",
+  "variants": [
+   "Myiari Oerstead"
+  ],
+  "finger": {
+   "full_name": "Myiari Oerstead",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Medic",
+   "homeworld": "Commenor",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_An_Offer_of_Information",
+   "RPlog_Birds_of_a_Feather",
+   "RPlog_Breaking_Point",
+   "RPlog_Day_At_The_Cantina"
+  ]
+ },
+ {
+  "handle": "Jaspar",
+  "variants": [
+   "Jaspar Andromidas"
+  ],
+  "finger": {
+   "full_name": "Jaspar Andromidas",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Smuggler",
+   "homeworld": "Corellia",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Done_Deal",
+   "RPlog_A_Drink_to_Disaster",
+   "RPlog_A_Gathering_of_Shadows",
+   "RPlog_A_Gentleman_s_Disagreement"
+  ]
+ },
+ {
+  "handle": "Drax",
+  "variants": [
+   "Drax",
+   "Drax Rendolen"
+  ],
+  "finger": {
+   "full_name": "Drax Rendolen",
+   "race": "Human",
+   "affiliation": "Unknown",
+   "occupation": "Space Cowboy",
+   "homeworld": "Alderaan",
+   "background": "Check the wiki or just RP with me.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_SW1_Log_2001-01-05",
+   "RPlog_Welcome_Back_to_Caspar",
+   "RPlog_A_Fight_with_Kyyel",
+   "RPlog_A_Gentleman_s_Disagreement"
+  ]
+ },
+ {
+  "handle": "Zeak",
+  "variants": [
+   "Zeak",
+   "Zeak Oppenhiemer",
+   "Zeak Oppenheimer"
+  ],
+  "finger": {
+   "full_name": "Zeak Oppenhiemer",
+   "race": "Near Human",
+   "affiliation": "New Republic",
+   "occupation": "Being Zeak",
+   "homeworld": "",
+   "background": "http://sw1mush.wikia.com/wiki/Zeak_Oppenhiemer",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_SW1_Log_2000-05-25-2",
+   "RPlog_SW1_Log_2000-05-30-1",
+   "RPlog_A_Leak",
+   "RPlog_An_Unscrupulous_Undertaking_Atrocious_Arrangements_Pt_1"
+  ]
+ },
+ {
+  "handle": "Wolf",
+  "variants": [
+   "Seifer Wolf",
+   "Ken Wolf"
+  ],
+  "finger": {
+   "full_name": "Seifer Wolf",
+   "race": "**NONE**",
+   "affiliation": "**NONE**",
+   "occupation": "**NONE**",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Deserted_Star_Destroyer",
+   "RPlog_A_Fallen_Comrade",
+   "RPlog_A_Second_Chance_with_Jal_Dana_Part_2",
+   "RPlog_A_Wolf_s_New_Den"
+  ]
+ },
+ {
+  "handle": "Chewbacca",
+  "variants": [
+   "Chewbacca"
+  ],
+  "finger": {
+   "full_name": "Chewbacca",
+   "race": "Wookiee",
+   "affiliation": "New Republic",
+   "occupation": "Keeping Solo's butt outta trouble",
+   "homeworld": "Kashyyyk",
+   "background": "Han's life long friend and all around adorable wook. If you don't know who I am by now, just ask!",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_21st_of_Selona_Action",
+   "RPlog_An_Old_Score_with_Solo",
+   "RPlog_Chewbacca_Bursts_Through_the_CSA_Defenses",
+   "RPlog_Chewbacca_Returns_to_Etti_IV"
+  ]
+ },
+ {
+  "handle": "Serenella",
+  "variants": [
+   "Serenella",
+   "Serenella Jordain"
+  ],
+  "finger": {
+   "full_name": "Serenella Jordain",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Dancer/Singer",
+   "homeworld": "Vorzyd",
+   "background": "+bg Sel 50",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_1",
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_2",
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_3",
+   "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_4"
+  ]
+ },
+ {
+  "handle": "Leo",
+  "variants": [
+   "Leo",
+   "Leo Corak"
+  ],
+  "finger": {
+   "full_name": "Leo Corak",
+   "race": "Human",
+   "affiliation": "New Republic",
+   "occupation": "Jedi Order",
+   "homeworld": "Corellia",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Beach_Getaway",
+   "RPlog_Sithly_Stroll_in_the_Park",
+   "RPlog_A_Bombing_How_Quaint",
+   "RPlog_Battle_of_Bespin_-_Space"
+  ]
+ },
+ {
+  "handle": "Keline",
+  "variants": [
+   "Keline Nelhrn"
+  ],
+  "finger": {
+   "full_name": "Keline Nelhrn",
+   "race": "Human",
+   "affiliation": "Imperial",
+   "occupation": "**NONE**",
+   "homeworld": "",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_Brig_-_Day_One",
+   "RPlog_Convoy_Lost",
+   "RPlog_Dathomir_Ambush_Brief",
+   "RPlog_Dathomir_Raid"
+  ]
+ },
+ {
+  "handle": "Twila",
+  "variants": [
+   "Twila Virda"
+  ],
+  "finger": {
+   "full_name": "Twila Virda",
+   "race": "Twi'lek",
+   "affiliation": "New Republic",
+   "occupation": "",
+   "homeworld": "Ryloth",
+   "background": "**NONE**",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Bit_Of_A_Situation",
+   "RPlog_A_Capital_Duel_and_Assault",
+   "RPlog_A_Chat_In_The_Park",
+   "RPlog_A_Pirate_s_Trap"
+  ]
+ },
+ {
+  "handle": "Tyy'sun",
+  "variants": [
+   "Tyy'sun Eson"
+  ],
+  "finger": {
+   "full_name": "Tyy'sun \"Ttub\" Eson",
+   "race": "Twi'lek",
+   "affiliation": "Unaffiliated",
+   "occupation": "Crimelord",
+   "homeworld": "Ryloth",
+   "background": "http://sw1mush.wikia.com/wiki/Tyy%27sun_Eson for full background. +background tyy 42 for short concept and 50 for CSA ID card.",
+   "quote": ""
+  },
+  "source_logs": [
+   "RPlog_A_Budding_Rivalry",
+   "RPlog_Aggressive_Negotiations_with_Luke_Skywalker",
+   "RPlog_An_Abyssal_Union",
+   "RPlog_Battle_of_the_Rocks"
+  ]
+ }
+]

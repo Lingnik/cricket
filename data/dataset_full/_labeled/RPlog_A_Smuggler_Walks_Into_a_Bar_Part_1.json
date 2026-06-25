@@ -1,0 +1,103 @@
+{
+  "name": "RPlog_A_Smuggler_Walks_Into_a_Bar_Part_1",
+  "title": "A Smuggler Walks Into a Bar (Part 1)",
+  "summary": "In the notorious Beggar's Cove cantina on Nar Shaddaa, the crime boss Vane lounges in an elevated booth with a Twi'lek dancer when a desperate, half-drunk smuggler named Jaspar slumps into the bar. Loosened by a brutal cocktail, Jaspar confesses that his ship has been impounded and that he is carrying valuable, illicit cargo he cannot afford customs to find. He offers Vane the entire haul if she will help him recover the vessel, though he stubbornly refuses to say exactly what the cargo is. Vane, skeptical and unimpressed by the vague pitch, drinks her lum and probes for details, sensing the deal needs more substance before she commits. The encounter ends with her conceding they will need to learn more, setting up the negotiation to continue.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Vane",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+ "name": "RPlog_Of_Diplomacy_and_Reprisal",
+ "title": "Of Diplomacy and Reprisal",
+ "summary": "Aboard the New Republic Star Destroyer Reprisal, flagship of the 2nd Fleet, Captain Stone leads a welcoming party in the starfighter hangar for the visiting Caspian ambassador Ambrosia Delgard, who arrives weary with her drooling toddler daughter Gabi on her hip. The junior officers Mitali and the diminutive Twi'lek Marine Wrista play host, charmed by the baby, while the pilots Aaden and Kegren'Te look on and the new transfer Midshipman Harrison Bach hangs back, unsure whether to approach. As Delgard trades pleasantries and her irreverent droid C4 embarrasses her, the docking of Commander Adam Shadow's contingent prompts a brief, formal meet-and-greet ahead of a joint investigation. The scene captures the bustle of shipboard protocol, the human touches of a tired diplomat and her child, and the careful courtesies of a fledgling Republic-Caspian collaboration.",
+ "rows": [
+  {
+   "line": 21,
+   "type": "desc",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "desc",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "desc",
+   "actor": "Hase",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "desc",
+   "actor": "Hase",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "Hase",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "desc",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "desc",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "desc",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "desc",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "desc",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "desc",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "desc",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "desc",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "desc",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "desc",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "desc",
+   "actor": "Seth",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "desc",
+   "actor": "Seth",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "desc",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "desc",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "desc",
+   "actor": "Harrison",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "desc",
+   "actor": "Harrison",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "desc",
+   "actor": "Harrison",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "desc",
+   "actor": "Harrison",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "desc",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "desc",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "desc",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "desc",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "desc",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "desc",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "desc",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "desc",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Harrison",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Harrison",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Harrison",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": true
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Stone",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Aaden",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Stone",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Kegren",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": true
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": true
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Stone",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Wrista",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Stone",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": true
+  },
+  {
+   "line": 283,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

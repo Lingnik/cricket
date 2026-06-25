@@ -1,0 +1,355 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_The_Final_Meeting",
+  "title": "The Final Meeting",
+  "summary": "Summoned by a Zabrak prison officer, Senator Tokoga and the medic Myiari travel to a maximum-security prison for an audience with the captured crime lord Bavon Nass, who claims he wants to discuss terms for not dragging Tokoga to court once freed. The smug meeting is shattered when raiders bore through the prison roof with a mining drill and rappel inside, stunning the senator's guards and seizing Nass at gunpoint. The intruders, in Mandalorian-style armor that Tokoga recognizes as linked to his acquaintance Lanze Beviin, threaten the captives with a bomb and remove a tracking transponder before dragging Nass away to a waiting ship. Once the dust settles, the Zabrak officer reveals the prison's sensors had been sabotaged, allowing the audacious extraction to succeed. Tokoga quietly decides not to mention the armor's insignia, content to let Nass meet whatever fate his enemies have planned.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Zabrak",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Zabrak",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Nass",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Nass",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Nass",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Nass",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Nass",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Nass",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Raiders",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Zabrak",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Zabrak",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Zabrak",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Zabrak",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Myiari",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

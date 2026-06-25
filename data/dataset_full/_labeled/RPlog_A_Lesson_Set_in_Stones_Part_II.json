@@ -1,0 +1,229 @@
+{
+  "name": "RPlog_A_Lesson_Set_in_Stones_Part_II",
+  "title": "A Lesson Set in Stones, Part II",
+  "summary": "Aboard the freighter White Ghost, the Sarian Force-teacher Simon continues instructing his two reluctant students -- the rough, plainspoken Mira and the Corellian Markus -- in the nature of the Force. Simon explains in his reverent, carefully chosen words how every living creature carries a part of the Force and how the Jedi call its corruption the Dark Side, while Mira, baffled by his abstract talk, stares at the rocks in her hand and bluntly cuts through the philosophy to the practical point. Markus, who has come to regard Simon as a mentor or \"Brother,\" listens in thoughtful silence and turns the unfamiliar concepts over in his mind. When a beeping from the cockpit calls Markus away, Simon offers to try guiding him in something new despite never having done it before, and the wary Markus agrees. Simon then proposes a different exercise for Mira, piquing her interest beyond her beloved stones as the lesson moves into fresh territory.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "desc",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "desc",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "desc",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "desc",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "desc",
+      "actor": "Mira",
+      "b": true
+    },
+    {
+      "line": 42,
+      "type": "desc",
+      "actor": "Markus",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "desc",
+      "actor": "Markus",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "desc",
+      "actor": "Markus",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Mira",
+      "b": true
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Markus",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Markus",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Markus",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Mira",
+      "b": true
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Markus",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Markus",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

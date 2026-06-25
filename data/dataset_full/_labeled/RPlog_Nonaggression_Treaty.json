@@ -1,0 +1,193 @@
+{
+ "name": "RPlog_Nonaggression_Treaty",
+ "title": "Nonaggression Treaty",
+ "summary": "At a tense diplomatic conference, President Mahon of the Caspian Democratic Union negotiates a nonaggression treaty with Imperial representatives, including Warlord Korolov and the smooth Imperial Court Advisor Count Dises Diaglo, with the New Republic officer Caiton and Governor Bailey Laran also at the table. The parties spar over the boundaries of CDU neutrality: whether Imperial and Rebel forces may clash just outside Union borders, how arms shipments through Union space would be regulated, and what constitutes a veiled threat versus an honest accounting of facts. Caiton presses pointed questions about enforcement and ramifications while Mahon parries with stoic legalism. After Count Diaglo withdraws to review the matter, Mahon and Caiton share a more relaxed exchange, the groundwork for an agreement tentatively laid.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Dises",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Dises",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Dises",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Dises",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Dises",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Dises",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Dises",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

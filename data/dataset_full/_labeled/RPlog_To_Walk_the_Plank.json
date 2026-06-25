@@ -1,0 +1,319 @@
+{
+ "name": "RPlog_To_Walk_the_Plank",
+ "title": "To Walk the Plank: Tyy'sun Eson's Spacing of Skywalker's Allies",
+ "summary": "Aboard his ship, the crimelord Tyy'sun Eson taunts and brawls hand-to-hand with the captive Twi'lek Alistair, whose Teras Kasi training proves no match for Eson's wild, Force-fueled reflexes. After stunning Alistair with a shock collar, Eson condemns his bound prisoners--Alistair, the Jedi padawan Ai'kani, Lando Calrissian, and the unraveling Silvin--to be ejected one by one into deep space. Ai'kani lashes out by drawing the Force violently toward herself, disorienting Eson and stripping away his sense of power even as Alistair and then she are spaced. Lando rages and vows vengeance while Silvin, broken by the loss of Ai'kani's calming presence, mutilates himself against his bindings. Satisfied yet shaken, Eson spares Lando for his bounty value and Silvin for further entertainment, ordering the smuggler beaten unconscious as the ship carries on.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lando Calrissian",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Lando Calrissian",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Silvin",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Lando Calrissian",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Lando Calrissian",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lando Calrissian",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Silvin",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Silvin",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Lando Calrissian",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Silvin",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  }
+ ]
+}

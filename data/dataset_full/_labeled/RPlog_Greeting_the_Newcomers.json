@@ -1,0 +1,271 @@
+{
+ "name": "RPlog_Greeting_the_Newcomers",
+ "title": "Greeting the Newcomers",
+ "summary": "Aboard the NRCV Audacity in the Mon Calamari system, the New Republic XO Rasi (Lt-Commander Cen) hosts a personnel-exchange visit from the Caspian Navy led by Lt-Commander Lynae Cassius, who arrives aboard her own ship the Red Sky with the Dug cadet Bakrak, the Corellian pilot Captain Shadow, and her aide Sadim. After formal greetings, Rasi leads a tour of the recently upgraded Marauder-class corvette, explaining its enhanced maneuverability, power, and weaponry. The conversation deepens into a wide-ranging debate over the nature of the New Republic versus the Old -- prompted by Bakrak's bitterness over the Republic's ancient surrender of the Dug homeworld Malastare to the Gand -- touching on history, accountability across generations, and whether the universe is fundamentally grim or hopeful. Lynae argues for hard-eyed acceptance of war's brutality while Rasi counters with raised expectations and the New Republic's principle of equality for all beings. Bakrak ultimately reaffirms his loyalty to the CDU, and the cordial, philosophical exchange winds toward a tour of the crew quarters.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Shadow",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  }
+ ]
+}

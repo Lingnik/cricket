@@ -1,0 +1,73 @@
+{
+  "name": "RPlog_A_Second_Chance_with_Jal_Dana_Part_1",
+  "title": "Mission Briefing on Ord Mantell",
+  "summary": "In a dimly lit ready room on the Ord Mantell military base, New Republic pilots gather for a mission briefing. Second Lieutenant Raxis L'ygr opens the session, outlining that Ghost Squadron will escort and protect the heavy corvette Audacity on a standard patrol amid recent light pirate activity. Captain Kesander Beysarus, called Sandman, takes over to assign flights and additional tasks, sending Falcon Squadron on long-range recon and Dagger Squadron on torpedo drills. Among the assembled is the Quarren pilot Lyrik Welkar, eager and nervous on his first real StarOps mission, assigned with the Spectres to flanking duty. Raxis dismisses the pilots to report to their squadrons on the flight deck within ten minutes.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Lyrik Welkar",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Raxis L'ygr",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Raxis L'ygr",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Kesander Beysarus",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Kesander Beysarus",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Lyrik Welkar",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Raxis L'ygr",
+      "b": false
+    }
+  ]
+}

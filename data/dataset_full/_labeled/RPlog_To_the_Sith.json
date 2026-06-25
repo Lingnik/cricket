@@ -1,0 +1,175 @@
+{
+ "name": "RPlog_To_the_Sith",
+ "title": "To the Sith: Malign Takes Kreldin as Apprentice",
+ "summary": "In his fire-lit office, the content Grand Admiral Danik Kreldin--flush with battlefield victories and growing Force potential--is visited by the Sith Malign, servant of the shadow Emperor Vadim. Malign dismisses Kreldin's pride in the Galactic Civil War as meaningless against the eternal, unseen war between Sith and Jedi, urging him to cast off mundane ambitions of empire and military for true power in the Dark Side. Through lessons of hatred, fear, and anger--extinguishing the fire and flooding the room with dark energy--Malign tests and pushes his would-be apprentice. Kreldin pledges his loyalty to the Sith and to Vadim while privately resolving to keep controlling the Empire as his instrument. Malign warns him to hone his still-weak skills, defers the matter of the captive Jedi Brandis to the military, and departs with a promise to continue Kreldin's training.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Malign",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

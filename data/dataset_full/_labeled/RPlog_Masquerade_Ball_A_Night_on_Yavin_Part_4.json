@@ -1,0 +1,421 @@
+{
+ "name": "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_4",
+ "title": "Masquerade Ball: A Night on Yavin (Part 4)",
+ "summary": "The masquerade aboard the Angry Rancor winds toward its later hours as guests pair off across the dance floor. Kyrin Sh'vani continues teaching Ka'una to move with her costume tail, the doctor Lepidoptera spars verbally with the foppish Count Rasi before he leads her out to dance, and the Hoojib-costumed Hoojib chats with hostess Inanna about expanding his business ventures. Shael nurses her caf and her dislike of formal parties while the silver-tongued Rebel pilot spins lies about his origins to the blue-winged Kyrin. Unbeknownst to the revelers, a lone Wookiee lurking by the viewport is Luke Skywalker in disguise. The mingling and quiet flirtations carry the night onward.",
+ "rows": [
+  {
+   "line": 8,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Hoojib",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Hoojib",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Hoojib",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Ka'una",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Hoojib",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Hoojib",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Lepidoptera",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Inanna",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

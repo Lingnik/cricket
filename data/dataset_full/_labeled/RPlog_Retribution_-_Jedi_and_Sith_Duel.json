@@ -1,0 +1,223 @@
+{
+ "name": "RPlog_Retribution_-_Jedi_and_Sith_Duel",
+ "title": "Retribution: Jedi and Sith Duel",
+ "summary": "In the acid rain and ruin of war-torn Coruscant, a battered Luke Skywalker, dust-caked and tattered, rouses from a meditative trance near the shattered Senate building as a squad of blood-pauldroned 65th Legion stormtroopers fan out through the courtyard. There the Jedi Master confronts the Sith Warlord Korolov in a climactic duel amid the rubble of the capital. The desperate clash of lightsaber and dark-side power forms a centerpiece of the wider battle of retribution, Luke standing against the Sith in the heart of the fallen Republic seat.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  }
+ ]
+}

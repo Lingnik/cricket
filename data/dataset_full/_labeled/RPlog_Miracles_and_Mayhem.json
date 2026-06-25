@@ -1,0 +1,1705 @@
+{
+ "name": "RPlog_Miracles_and_Mayhem",
+ "title": "Miracles and Mayhem",
+ "summary": "Searching for her injured friend Paul Nighman, the anxious young busker Shenner arrives at the seaside home of Paul's old colleague, the aged Mon Calamari professor Dr. Molari Canto. Canto gently but pointedly interrogates her about who she is and what Paul means to her before relenting and directing her to the cliffside where Paul sits brooding over the sea. There Shenner and the recovering Paul share a tender, halting reconciliation, talking through his guilt over hurting Jessalyn, his plans to leave, and the deepening, uncertain bond between them. The day unfolds into a quiet picnic and a tearful, wordless comfort, and Paul carries the exhausted girl to rest before confiding his troubled feelings to Molari.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Canto",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Canto",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Canto",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 303,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 433,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 459,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 541,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 557,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 561,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 565,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 569,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Canto",
+   "b": false
+  },
+  {
+   "line": 575,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 577,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 581,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

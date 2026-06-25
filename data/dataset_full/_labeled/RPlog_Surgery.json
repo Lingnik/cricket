@@ -1,0 +1,229 @@
+{
+ "name": "RPlog_Surgery",
+ "title": "Surgery",
+ "summary": "At the Dr. Tarquin Memorial Hospital on Caspar, Lynae undergoes a delicate operation to remove a sabotaged device wired to her heart, with the surgeon Xar'on and the slicer-technician Bodan working together. Lynae explains the device's lethal fail-safe -- that cutting her off from it could stop her heart -- before being anesthetized, while Bodan slices into its programming and Xar'on prepares the surgical field. As Bodan maps and safely disables the implant's triggers, Xar'on extracts both the device and a linked unit from her wrist, and when her heart rate drops as predicted, he restarts it with micro paddles. The procedure goes smoothly, the team successfully removing the threat and reviving Lynae's heart, with her earlier Force-aided healing by Finian credited for leaving enough undamaged tissue for the operation to succeed.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lynae"
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Lynae"
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Lynae"
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lynae"
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Lynae"
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Bodan",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 107,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Xar'on"
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Bodan"
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Xar'on"
+  }
+ ]
+}

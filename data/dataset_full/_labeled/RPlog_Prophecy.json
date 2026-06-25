@@ -1,0 +1,2461 @@
+{
+ "name": "RPlog_Prophecy",
+ "title": "Prophecy",
+ "summary": "On the serene bridge of the elegant ship Refrain of Anshalar, the Jedi Jessalyn Valios experiences a profound Force vision touching on the spectres of Chandrila, her master Aurejin, and the pilot Kyyel Marrak. The vision plays out themes of despair, survival, and unyielding hope, affirming Jessalyn as the 'Jedi's Heart' who will not merely survive but thrive against the dangers lurking ahead. Radiating hopeful energy, she emerges from the experience renewed, laughing lightly before retiring to her quarters. The log unfolds as a luminous meditation on prophecy and the resilience of hope.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 416,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Aurejin",
+   "b": true
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 474,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

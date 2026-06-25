@@ -1,0 +1,28 @@
+{
+  "name": "RPlog_The_New_Imperium_and_the_Sector",
+  "title": "A Diplomat in White",
+  "summary": "Aboard an Imperial Star Destroyer in Caspar space, Elana Tracer -- representative of Imperator Tyler Damion, dressed pointedly in white rather than Moff's regalia -- receives Prex Zeak Oppenheimer of the Corporate Sector Authority, who arrives with two cybernetic acolytes of his cult. What begins as a warm reunion between former swoop racers quickly sharpens into hard diplomacy: Tracer relays Damion's demands that the Authority break up its conglomerates, end Oppenheimer's personal skimming, and halt its military buildup in the Tingel Arm. Zeak counters that the Imperium, as a new regime, has no standing charter with the Authority and that its aggressive scouting and threats must cease before any partnership can form. The two spar over property rights, KDY-SFS, and the personal entanglements of family members caught in the new regime. The meeting ends with Tracer pledging to send an empowered, unarmed delegation to negotiate a new charter with the DIREX Board.",
+  "rows": [
+    {"line": 10, "type": "scene", "actor": ""},
+    {"line": 12, "type": "scene", "actor": ""},
+    {"line": 14, "type": "scene", "actor": ""},
+    {"line": 16, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 18, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 20, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 22, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 24, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 26, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 28, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 30, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 32, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 34, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 36, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 38, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 40, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 42, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 44, "type": "pose", "actor": "Elana Tracer", "b": true},
+    {"line": 46, "type": "pose", "actor": "Zeak Oppenheimer"},
+    {"line": 48, "type": "pose", "actor": "Elana Tracer"},
+    {"line": 50, "type": "pose", "actor": "Zeak Oppenheimer"}
+  ]
+}

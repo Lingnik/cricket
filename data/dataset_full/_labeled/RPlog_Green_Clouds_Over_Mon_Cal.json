@@ -1,0 +1,145 @@
+{
+ "name": "RPlog_Green_Clouds_Over_Mon_Cal",
+ "title": "Green Clouds Over Mon Cal",
+ "summary": "On the refugee-packed parade grounds of Reef Home on Dac, the Mirialan technician Mitali works to load emergency generators for the two million Coruscant evacuees while the Bith engineer Ohao brings around Marine ration bars for lunch. As they share a weary meal, the two trade stories of their pasts -- Ohao a former starship-design professor at the University of Charmoth, Mitali a more disciplined student of engineering -- and commiserate over the strained supply situation and grim military food. A strange band of green clouds or energy briefly streaks across the sky, sparking near-panic among the watching refugees, but a quick check with the Reprisal confirms it poses no danger. Mitali sends Ohao to find a loudspeaker to calm the crowd and settles in to help coordinate relief efforts from the makeshift headquarters. The scene is a quiet, character-driven slice of life amid the chaos of the Coruscant evacuation.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ohao",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  }
+ ]
+}

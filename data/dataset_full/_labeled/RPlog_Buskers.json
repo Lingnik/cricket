@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Buskers",
+ "title": "Buskers",
+ "summary": "In the decaying Yan Square on Dreven, the Caspian operative Veruca Violet moves under the cover of a Biscuit Baron executive scouting real estate, accompanied by the general Janus and the albino agent Vanilla. Amid a lively crowd of street performers, a veiled dancer who is secretly one of their own field agents draws the trio into a flirtatious, pickpocketing routine designed to mask a covert exchange. Veruca and Janus peel away, leaving Vanilla to be led off as the dancer's supposed client, and the two slip into a back alley to confer. There the agent delivers her intelligence: the beggar Auntie Maya recognized the Falleen Ssanyu by name and raved about a returning 'Dark One' angry with all his children and a 'man in red,' before leading Ssanyu away, after which Maya vanished and is presumed dead. To preserve their cover, Vanilla punches the agent and hands over a credit chit and an earring to fake a robbery, then follows the agent's escape instructions out of the square as the agent stages a loud scene about being mugged.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Vanilla",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Dancer",
+   "b": false
+  }
+ ]
+}

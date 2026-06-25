@@ -1,0 +1,61 @@
+{
+  "name": "RPlog_A_Decision",
+  "title": "A Decision",
+  "summary": "Aboard a darkened, insignia-stripped Star Destroyer over Nar Shaddaa, the disgraced Imperial Dareus is escorted onto the bridge to answer a summons from the Sith Warlord Malign. Malign reveals that Luke Skywalker is in the system and that the Hutt Fleet grows nervous, while Dareus shares intelligence that Axel intends to bomb the Maffi compound on Ord Mantell with Jedi foreknowledge. Malign presses Dareus to return to the Sith's service, assuring him the work serves a higher purpose outside Imperial jurisdiction, and ultimately offers him command of the vessel. Wary of being branded a traitor again and bound by obligations to others, Dareus refuses to commit on the spot. Malign departs the bridge, leaving the offer open and urging Dareus to think on the Sith's larger designs for the galaxy.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    }
+  ]
+}

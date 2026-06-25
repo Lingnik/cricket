@@ -1,0 +1,331 @@
+{
+ "name": "RPlog_Candid_Conversation",
+ "title": "Candid Conversation",
+ "summary": "In her Coruscant office, Chief of State Leia Organa meets with the ex-Imperial soldier Sandor Woden, joined by her aide Winter and, slipping in unseen through the Force, her brother Luke Skywalker. Leia raises the possibility of Luke sifting Sandor's memories for Imperial tactics, but Luke, reluctant to intrude on a private mind, instead uses Truth Sense to confirm Sandor is honest and suggests Winter help him commit what he knows to paper. In the process Sandor reveals a crucial intelligence point: the current 'Emperor' officially does not exist, with Lord Korolov visibly steering the government since Malign's disappearance, a schism between military and bureaucracy the Republic might exploit. After the others leave, Luke privately warns Leia that a true, powerful Emperor named Vadim does exist beyond Korolov, glimpsed through memories the captured Jedi Brandis transmitted to Snarl. The siblings turn to the wider crisis, the Emperor's plan to dismantle the Jedi Order, the abduction of Sabrina, and the dark clouding of the future, before Leia gently presses Luke about her own neglected training and a family dinner, and Luke departs once more cloaked from notice.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Winter",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Winter",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Winter",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Winter",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Winter",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Winter",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  }
+ ]
+}

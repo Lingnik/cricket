@@ -1,0 +1,2335 @@
+{
+  "name": "RPlog_A_Forgotten_Star",
+  "title": "A Forgotten 'Star'",
+  "summary": "A glittering reception fills the Main Mezzanine of the Black Krayt Swoop Arena on the eve of its first grand swoop race, drawing racers, executives, spies, and socialites into a crowded swirl of drinks and intrigue. The boastful racer Troy holds court with fellow pilots Selektah and Naldo, the shop-owner Benjawa, and his personal doctor Aerilaya, while StarShield CEO Rabid (Mr. Fox) quietly orders his marines into position and confronts the unwelcome senatorial aide Ozzle. At the center of the undercurrents is the enigmatic Venus -- once known as the Empress Juliet -- whose reunion with the Imperial Tsaran Joir, a man who spent days at her side, stirs forgotten emotion beneath his cold exterior. The shark-like Master Sergeant Webb stalks Joir through the crowd, finally confronting him directly, as Rabid presses Venus and Ozzle in a tense diplomatic standoff. Amid the comic mishaps of the Quarren Ressec, the clumsy Jager, and the bored marine Juan, the gathering teems with old loyalties, veiled threats, and racing bravado as Ment challenges Troy and calls out for anyone who wants to race but lacks a swoop.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Selektah",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Selektah",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Selektah",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "desc",
+      "actor": "Venus",
+      "b": true
+    },
+    {
+      "line": 170,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "desc",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Kor'goth",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Kor'goth",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Kor'goth",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Kor'goth",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Benjawa",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Venus",
+      "b": true
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Naldo",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Defcon",
+      "b": false
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Aquila",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Aquila",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 336,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 345,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Selektah",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Juan",
+      "b": false
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Juan",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 366,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 368,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 378,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 379,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 382,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 383,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 386,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 390,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 392,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 395,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 396,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 400,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "pose",
+      "actor": "Clarise",
+      "b": false
+    },
+    {
+      "line": 406,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 409,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 428,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 433,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 434,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 436,
+      "type": "pose",
+      "actor": "Ressec",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "pose",
+      "actor": "Juan",
+      "b": false
+    },
+    {
+      "line": 439,
+      "type": "pose",
+      "actor": "Juan",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 442,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 443,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 445,
+      "type": "pose",
+      "actor": "Juan",
+      "b": false
+    },
+    {
+      "line": 446,
+      "type": "pose",
+      "actor": "Juan",
+      "b": false
+    },
+    {
+      "line": 448,
+      "type": "pose",
+      "actor": "Selektah",
+      "b": false
+    },
+    {
+      "line": 449,
+      "type": "pose",
+      "actor": "Selektah",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 452,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 454,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 455,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 456,
+      "type": "pose",
+      "actor": "Jager",
+      "b": false
+    },
+    {
+      "line": 458,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 459,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 460,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 462,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 463,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 464,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "pose",
+      "actor": "Ozzle",
+      "b": false
+    },
+    {
+      "line": 467,
+      "type": "pose",
+      "actor": "Aquila",
+      "b": false
+    },
+    {
+      "line": 468,
+      "type": "pose",
+      "actor": "Aquila",
+      "b": false
+    },
+    {
+      "line": 470,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 471,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 473,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 476,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 477,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 479,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 481,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 484,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 485,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 489,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 491,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 492,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 494,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 496,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 497,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 499,
+      "type": "pose",
+      "actor": "Venus",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Troy",
+      "b": false
+    },
+    {
+      "line": 503,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 504,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 506,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 507,
+      "type": "pose",
+      "actor": "Joir",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 513,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 514,
+      "type": "pose",
+      "actor": "Aerilaya",
+      "b": false
+    },
+    {
+      "line": 516,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 517,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "pose",
+      "actor": "Ment",
+      "b": false
+    },
+    {
+      "line": 521,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

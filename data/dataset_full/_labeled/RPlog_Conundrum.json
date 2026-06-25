@@ -1,0 +1,31 @@
+{
+  "name": "RPlog_Conundrum",
+  "title": "The Conundrum at Wuher's Cantina",
+  "summary": "In a quiet Tatooine cantina tended by a laconic bartender named Shem, a troubled Toydarian gambler nurses a strong drink while wrestling with a dilemma. He confides that he is unsure whether to stay tied to a group of difficult 'associates' who keep him out of trouble or to walk away and return to his old life of gambling. Shem offers plainspoken advice that familiar company, even self-interested or abrasive company, can be worth keeping. The Toydarian slips and nearly reveals his real name 'Po' before insisting he is called Zergo, and arranges for Shem to buy drinks for a notorious Quarren and Mon Calamari pair who talk like pirates. Having talked himself into a decision, Zergo pays up and flaps unsteadily out the door, thanking the bartender for listening.",
+  "rows": [
+    {"line": 18, "type": "room", "actor": "", "b": false},
+    {"line": 20, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 22, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 24, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 26, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 28, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 30, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 32, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 34, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 36, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 38, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 40, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 42, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 44, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 46, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 48, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 50, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 52, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 54, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 56, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 58, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 60, "type": "pose", "actor": "Zergo", "b": false},
+    {"line": 62, "type": "pose", "actor": "Shem", "b": false},
+    {"line": 64, "type": "pose", "actor": "Zergo", "b": false}
+  ]
+}

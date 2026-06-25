@@ -1,0 +1,385 @@
+{
+ "name": "RPlog_Recovery",
+ "title": "Recovery",
+ "summary": "In the sterile med bay of a New Republic base, the recently freed Caspian ambassador Ambrosia Delgard recovers alongside her spirited young daughter Gabi, who loudly protests her bacta treatments and demands to go home to her mother's bed. They share the ward with Dr. Kovani (Liora), an Imperial officer and doctor who defected with Ambrosia from the Nemesis and now fears imprisonment as a spy. Over respirator treatments, ice cream, and the blunt suspicions of young Gabi toward the 'Imperial,' Ambrosia reassures Kovani that she will not be jailed but will stay with them while questions are answered, recalling the trauma of a bombing that nearly killed them outside their home. The warm, character-rich scene weaves recovery, motherhood, and the uneasy beginning of trust between former enemies.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

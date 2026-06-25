@@ -1,0 +1,217 @@
+{
+  "name": "RPlog_A_Lone_Marine_Demolition_Team",
+  "title": "A Lone Marine Demolition Team",
+  "summary": "In a daring one-man operation during a raging space battle, 2nd Lt. Vengan Draelis is strapped into a slender torpedo-pod and fired from the Reprisal to ram and embed into the hull of a Victory-class Star Destroyer, covered by an agile Corellian Corvette. Cracking sardonic jokes the whole way, Vengan slips out into the Destroyer's eerily quiet corridors, gunning down surprised technicians and planting demolition charges as he navigates by his HUD toward the reactor bay. He nearly blunders into a platoon of twenty Stormtroopers, triggering a frantic shipwide hunt as the Imperial commander orders scans, Mouse droids, and squads to run him down. The covering Corvette slams into the command tower as a diversion, and Vengan reaches the main reactor, setting his timers for ten minutes. With the crew thrown into all-out survival and an Abandon Ship alert sounding, Vengan grins as the first explosions tear through the doomed destroyer and makes his escape.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": true
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": true
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": true
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": true
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": true
+    },
+    {
+      "line": 65,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": true
+    },
+    {
+      "line": 73,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Vengan",
+      "b": false
+    }
+  ]
+}

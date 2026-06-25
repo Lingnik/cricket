@@ -1,0 +1,121 @@
+{
+  "name": "RPlog_Baby_Steps",
+  "title": "Baby Steps",
+  "summary": "Seeking a taste of mundane normalcy, the well-off pilot Johanna takes the former Jedi Chana and her twelve-year-old daughter Ara to browse a war-memorabilia shop. Chana gravitates to the \"Clone War\" section among de-milled blasters and deactivated droids, while Ara presses her nose to a display case begging for a souvenir and Johanna steers her toward paper books. The shopkeeper -- speaking Bocce -- dismisses the existence of Jedi Knights when Chana asks after lightsabers, drawing a wry smirk from her. Chana reveals she has been carrying old Jedi-era handheld tools like talismans and considers selling them, but Johanna gently urges her to keep them as reminders of the care invested in such things, and Chana admits selling them on her birthworld would be unwise. The outing turns quietly tender as Johanna, wanting fun rather than melancholy, glimpses how young and uncertain Chana truly is beneath her hardened exterior.",
+  "rows": [
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Ara",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Chana",
+      "b": true
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Johanna",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Chana",
+      "b": false
+    }
+  ]
+}

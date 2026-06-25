@@ -1,0 +1,181 @@
+{
+ "name": "RPlog_SW1_Log_2000-01-19",
+ "title": "First Inspection of the NRS Internuncio",
+ "summary": "In a New Republic hangar bay, the diplomatic pilot Bazil McKenzie brings in his brand-new freighter, the NRS Internuncio, for its first inspection. Sergeant Lianna Blackledge of Support Ops, freshly back on duty and pointedly calm, is wrapping up a stern talk with a reluctant technician about mandatory zero-G training when she crosses paths with the distracted pilot. After he inadvertently leans on a crate she needs to catalog, the two strike up a businesslike exchange about the ship's rough handling and shaky repulsorlifts. Lianna logs a work order and estimates a couple of hours to realign the repulsor system on the freshly built vessel, then signs off shift with a dry warning to avoid the mess-hall jello as both head for the elevators.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Lianna Blackledge",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

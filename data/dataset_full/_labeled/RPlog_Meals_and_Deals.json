@@ -1,0 +1,421 @@
+{
+ "name": "RPlog_Meals_and_Deals",
+ "title": "Meals and Deals on Nar Shaddaa",
+ "summary": "On the landing platforms of the city-moon Nar Shaddaa, the smuggler Jaspar reunites with the diminutive Sullustan mechanic Jae Ten, who has been eagerly inspecting Jaspar's freighter, the Hirakiis. After Jae fusses over the ship, the pair head down to the smoky Meltdown Cafe for ale and meat. Over their meal Jaspar lays out a job he is planning with a supplier friend who claims to have a lucrative catch lined up. Jae, delighted by food and the promise of credits, toasts to the venture as the two cement their partnership.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Jae",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jae",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Jae",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

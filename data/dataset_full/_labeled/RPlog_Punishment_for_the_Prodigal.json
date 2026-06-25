@@ -1,0 +1,4039 @@
+{
+ "name": "RPlog_Punishment_for_the_Prodigal",
+ "title": "Punishment for the Prodigal",
+ "summary": "In a windowless, stifling underground room on Tatooine, the sharp-toothed captor Mephisto looms in the shadows over the recovered captive Ylsa, relishing the lesson he intends to teach her for the indiscretions that forced his crew to hide from the Imperials. As the brutal ordeal unfolds, Ylsa is haunted by Mephisto's assault and by the possible death of Paul, withdrawing into herself for fear and meditation while others, including Ilyana and Ullo, move about the grim hideout. The dark, claustrophobic scene chronicles the prodigal's punishment and the despair it breeds.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 345,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 387,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 431,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 466,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 476,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 478,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 487,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 493,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 505,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 522,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 523,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 526,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 530,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 541,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 546,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 557,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 562,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 565,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 568,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 575,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 577,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 581,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 584,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 588,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 593,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 597,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 599,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 603,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 610,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 612,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 614,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 617,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 620,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 622,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 624,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 627,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 629,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 631,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 633,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 637,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 638,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 643,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 644,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 647,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 648,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 649,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 651,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 652,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 655,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 658,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 659,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 661,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": true
+  },
+  {
+   "line": 662,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 663,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 665,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 667,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 668,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 670,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 672,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 673,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 677,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 678,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 680,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 683,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 685,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 686,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 687,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 688,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 689,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 690,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 691,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 692,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 693,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 694,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 696,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 697,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 698,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 701,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 702,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 703,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 704,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 705,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 706,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 707,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 709,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 710,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 711,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 713,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 714,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 715,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 716,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 717,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 718,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 719,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 720,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 721,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 722,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 723,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 724,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 726,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 727,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 728,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 729,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 730,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 732,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 733,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 734,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 735,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 736,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 738,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 739,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 740,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 741,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 743,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 744,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 745,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 746,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 747,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 748,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 749,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 751,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 752,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 753,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 754,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 756,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 757,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 758,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 759,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 760,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 761,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 762,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 763,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 764,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 766,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 767,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 768,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 769,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 770,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 772,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 773,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 774,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 775,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 776,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 777,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 779,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 780,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 781,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 783,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 784,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 785,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 786,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 787,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 788,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 789,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 791,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 792,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 793,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 794,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 796,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 797,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 798,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 799,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 800,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 801,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 803,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 804,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 805,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 806,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 808,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 809,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 810,
+   "type": "pose",
+   "actor": "Ullo",
+   "b": false
+  },
+  {
+   "line": 811,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 812,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 813,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 814,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 815,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 817,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 818,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 819,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 820,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 822,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 823,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 824,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 825,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 826,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 827,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 828,
+   "type": "pose",
+   "actor": "Ilyana",
+   "b": false
+  },
+  {
+   "line": 829,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 830,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 832,
+   "type": "pose",
+   "actor": "Ylsa",
+   "b": false
+  },
+  {
+   "line": 833,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 834,
+   "type": "pose",
+   "actor": "Mephisto",
+   "b": false
+  },
+  {
+   "line": 835,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 836,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 838,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

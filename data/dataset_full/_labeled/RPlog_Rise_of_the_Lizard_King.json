@@ -1,0 +1,433 @@
+{
+ "name": "RPlog_Rise_of_the_Lizard_King",
+ "title": "Rise of the Lizard King",
+ "summary": "In the Spine Mountains of the Trandoshan world Dosha, near the village of Forak and the ruined temple of the New Sith Order once home to the nobleman Drayson Honos, the Lambda shuttle Emissary touches down in a hidden valley. Aboard, Lord Aldus Thel dons the mask, hood, and vocoder of Darth Venger as he and the Sith Warlord Korolov prepare for their roles, speaking of the service the Empire demands of all. Checking their weapons, the two Sith set out toward Forak, the scene heralding a dark ascent amid the ruins of the old order.",
+ "rows": [
+  {
+   "line": 11,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Thel",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Thel",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  }
+ ]
+}

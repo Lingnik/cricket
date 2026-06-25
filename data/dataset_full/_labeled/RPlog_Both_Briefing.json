@@ -1,0 +1,109 @@
+{
+ "name": "RPlog_Both_Briefing",
+ "title": "Briefing for the Both System",
+ "summary": "Standing in for Admiral Ackbar, Vice Admiral Laivin Quix convenes the officers of Second Fleet to deliver a new assignment. With Imperial pressure rumored to be tightening on Bothawui and its suffering civilian population, she tasks the newly promoted Lieutenant Commander Argon Brand and his ship Lightbringer with slipping into the fringes of the Both system to scan and gauge the size of the Imperial fleet, stressing that engagement is forbidden and speed is everything. Falcon Squadron's StarOps pilots are assigned to accompany the reconnaissance, and the marine pilot Halos, listening incognito from the crowd, questions whether so few fighters are enough. In response Quix adds a contingency, ordering a colonel to lead six Ghosts as a diversion to buy the scanning team the minutes it needs. The briefing closes with Argon pledging to deliver the intelligence High Command needs and Quix dismissing the assembled officers.",
+ "rows": [
+  {
+   "line": 11,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Argon",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Halos",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Argon",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Halos",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Argon",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Halos",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Argon",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Halos",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Argon",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Quix",
+   "b": false
+  }
+ ]
+}

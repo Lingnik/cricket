@@ -1,0 +1,283 @@
+{
+ "name": "RPlog_Futile_Research_-_Arrival",
+ "title": "Futile Research: Arrival",
+ "summary": "As the expansion phase of New Alderaan begins on Ord Mantell, Luke Skywalker takes a breather atop his X-Wing while construction machinery and bulk recyclers pour in to house refugees fleeing Dac. The Sullustan captain Enb'Zik arrives aboard the Wild Rose with a group of evacuee children, among them a thoughtful ten-year-old girl named Arise, and the two make their way to greet Luke while R2-D2 patches up Jedi One. Arise frets aloud over whether settling the refugees at Ord Mantell -- ringed on three sides by the Empire -- was truly the right decision, and Enb'Zik gently reassures her that the choice was made carefully and for good reasons. The smuggler-pilot Shael joins them, having secured more supply runs, and trades easy banter with Luke about trustworthy work and his staffing troubles. Weary from the journey, the group agrees to turn in for the night, with Luke reaffirming that New Alderaan will be protected.",
+ "rows": [
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "R2-D2",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Ikihsa",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "R2-D2",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "desc",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "desc",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Enb_Zik",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Arise",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  }
+ ]
+}

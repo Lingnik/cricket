@@ -1,0 +1,343 @@
+{
+ "name": "RPlog_Settling_In",
+ "title": "Settling In",
+ "summary": "The Corellian scholar-adventurer Paul Nighman, looking road-worn and on edge, hides in a quiet corner of the Palanhi City Starport poring over an old book while the technician Tand tinkers nearby with a computer component. Restless, Paul sets out to explore the hot desert capital, browsing the abstract sculptures at Cybot Galactica and comparing one to an illustration in his book, then finding the Academy locked and giving up on an errand his colleague Marcus had suggested. Tired, filthy, and hungry, he checks into the lavishly renovated Grand Palanhi Hotel, talking his way into a luxurious suite that had been canceled by a mysterious \"Mr. and Mrs. Sky-something.\" He tips the bellboy generously, marvels at the opulent room, and finally settles into one of the most blissful baths of his life as the desert sun sets.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Tand",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Tand",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Tand",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

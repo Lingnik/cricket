@@ -1,0 +1,367 @@
+{
+ "name": "RPlog_Fun_With_Ozzle_and_Sinjon",
+ "title": "Fun With Ozzle and Sinjon",
+ "summary": "In the KOS Gardens, the Forsaken Sith Ozzle and the Horansi light-walker Sinjon Teague trade philosophical barbs over the grey path, the dark path, and the true path. The scarred Morganna arrives in a foul mood, harried by a clinging skrit, and seats herself to brood while Ozzle joins her and Sinjon prepares to leave. When Morganna hurls a clumsy Horansi insult after him, Sinjon doubles back to cheerfully correct her grammar and mock Ozzle's vague dismissal, infuriating both. Ozzle retaliates by using the Force to snake a power cable across Sinjon's path, tumbling the cat into the fountain, then needles the soaked Mashi as he departs. Left alone with Morganna, Ozzle counsels her that her feared anger is in fact a source of power to be controlled rather than suppressed, planting the seed of a darker tutelage before he too takes his leave.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Skrit",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Arres",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Arres",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

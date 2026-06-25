@@ -1,0 +1,337 @@
+{
+ "name": "RPlog_Nelhrn_s_Loyalty",
+ "title": "Nelhrn's Loyalty",
+ "summary": "During a COMPNOR lockdown of the Star Destroyer Inquisitor, Commander Keline is summoned to a cordoned-off ISB interview checkpoint and seated across from Korynn, the cold ISB Director also known as Fleming, conducting a loyalty interrogation. Surprised by her frank honesty, Korynn questions Keline about a secret meeting she attended, the faked death she heard described, Commodore Caiton's involvement, and her opinion of Emperor Vadim's broadcast. Satisfied that her only fault was an admitted mistake rather than disloyalty, Korynn has her write down the names of officers present and grants her clearance to return to her post, demanding her absolute silence about the interview. Keline accepts, saluting and pledging her continued loyalty to the Empire.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Keline",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Korynn",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  }
+ ]
+}

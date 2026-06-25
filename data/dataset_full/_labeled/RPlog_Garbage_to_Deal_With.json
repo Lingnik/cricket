@@ -1,0 +1,271 @@
+{
+ "name": "RPlog_Garbage_to_Deal_With",
+ "title": "Garbage to Deal With",
+ "summary": "During the Winter Fete, a Doomsday alert scrambles Ghost Squadron from the NRSD Reprisal when a commercial freighter, the Valspar, is detected over Mon Calamari with an invalid transponder. Lieutenant Kesander Beysarus (Ghost 7, 'Sandman') and the green pilot Raxis (Ghost 3, 'L'ygr') launch to interdict, shadowed by the silent Kyrin (Ghost One) flying overwatch. The freighter's pilot Mitler, hauling a shady cargo for a Rodian, refuses to heave to and bolts for the gravity-well edge, weaving through traffic and using a slow barge for cover as the Ghosts give chase. When the fighters score hits on his shields, Mitler vents his cargo to scatter debris in their path and opens fire, narrowly escaping into hyperspace. The Ghosts break off unharmed, having at least forced the smuggler to dump his heavily shielded, pressurized cargo container -- possibly holding sentients -- which they flag for recovery as they set course home to the Reprisal.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Mitler",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+  "name": "RPlog_A_Budding_Rivalry",
+  "title": "A Budding Rivalry",
+  "summary": "Deep in the ruined slums of an undercity, the wary guide Ai'kani leads the spacefaring human Silvin through the darkness toward a derelict complex, cautioning him about the dangers of the underworld. The pair are tracking the Twi'lek Tyy'sun -- also called Eson -- who is at work amid jackhammering sounds with his hulking Wookiee companion Shoburhynn. When the two parties meet outside the shattered building, recognition flares: Tyy'sun and Ai'kani clearly share a charged history, and a tense standoff develops with Silvin and Shoburhynn squaring off as opposite numbers. Tyy'sun confronts Ai'kani, who answers that her nature is one of self-control rather than bloodshed, refusing to be lectured. The confrontation ends without violence as Ai'kani and Silvin make their stand and then withdraw, Tyy'sun watching them go in silence as the scene fades to black on the newly kindled rivalry.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Shoburhynn",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": true
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Shoburhynn",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Shoburhynn",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": true
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Shoburhynn",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Silvin",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Shoburhynn",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

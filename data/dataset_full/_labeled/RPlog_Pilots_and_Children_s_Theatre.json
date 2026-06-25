@@ -1,0 +1,205 @@
+{
+ "name": "RPlog_Pilots_and_Children_s_Theatre",
+ "title": "Pilots and Children's Theatre",
+ "summary": "At the invitation of a retired Rebel Alliance veteran, members of Ghost Squadron attend a children's theatre production reenacting the great battles of the Galactic Civil War -- Yavin, Hoth, and the rescue of Han Solo from Jabba. The squadron's Chyleni commander Kyrin Sh'vani, the pilots Drake, Raxis, and the wry Corellian Kesander Beysarus, and the quiet Lance Corbet are charmed and swarmed by excited children, Kyrin ending up with toddlers in her lap and clinging between her wings. As the kids playact Skywalker shooting down TIE fighters, Kesander reflects with quiet emotion on how dearly these stories were bought in real lives lost. The warm, bittersweet outing ends with the pilots praising the young performers and a wide-eyed child asking Raxis how to grow up to be an X-Wing pilot.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Drake",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Drake",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Lance",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Drake",
+   "b": false
+  }
+ ]
+}

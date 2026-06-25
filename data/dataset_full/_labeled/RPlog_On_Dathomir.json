@@ -1,0 +1,277 @@
+{
+ "name": "RPlog_On_Dathomir",
+ "title": "On Dathomir",
+ "summary": "Stranded on the wild world of Dathomir after a crash, a small unit of New Republic personnel under orders from Inrokana makes camp in makeshift camouflage, swapping flight gear for the bush. Around a crackling fire, the pilot Raxis Dante and the markswoman Leyanne trade wary, half-joking talk about whether their uneasy situation will end peacefully or with blasters, while Leyanne field-strips and cleans her rifle. The dark-skinned crewmember blends into the night as the group settles into the tense quiet of survival on the witch-world.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Leyanne",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  }
+ ]
+}

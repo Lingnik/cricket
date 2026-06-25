@@ -1,0 +1,121 @@
+{
+ "name": "RPlog_Near_Capture_Escape_From_Tyy_sun",
+ "title": "Near Capture: Escape from Tyy'sun",
+ "summary": "In a park on Etti IV, the crime lord Tyy'sun, going by the name Eson, lures the warrior woman Ash to a bench via a note delivered by Twi'lek youths on hoverboards. The wretched, parch-skinned Twi'lek confronts her over her lover Tritus's abuses against one of the Family's own, the woman A'estshy Nubiari, dismissing news of a cease-fire. When Ash refuses to be cowed, Tyy'sun cooks a glop grenade and drops it at her feet, forcing her to dive away and draw her weapon as she flees. Tyy'sun watches her escape with a laugh, recognizing that Tritus's lover is a formidable foe.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Ash",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Ash",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Ash",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Ash",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "RPlog_A_New_Mission",
+  "title": "A New Mission",
+  "summary": "On a secluded lakeshore far from civilization, Imperial Captain Danik Kreldin waits to meet the Sith Warlord Malign, who arrives flanked by silent black-armored guards. Malign acknowledges the stir Kreldin has caused as a war criminal but voices his support, then declares Kreldin's exclusive naval service at an end. He gives Kreldin a white Imperial-Starburst medallion that serves as both his secret symbol and a private communicator, and assigns him a covert mission: transfer to COMPForce and monitor High Lord Korolov, whom Malign distrusts. Draped in a ceremonial cloak as the Warlord's personal agent, Danik accepts the honor and pledges not to fail. Malign and his soldiers vanish into the misty treeline, and an excited Kreldin folds away his cloak to begin his new clandestine role.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

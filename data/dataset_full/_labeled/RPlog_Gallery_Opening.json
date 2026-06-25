@@ -1,0 +1,379 @@
+{
+ "name": "RPlog_Gallery_Opening",
+ "title": "Gallery Opening",
+ "summary": "Councillor cadracak-'r'shak opens a new art gallery in Xi Xin on Charros IV, a deliberately non-conformist pyramid meant to expose the long-isolated Xi Charrians to the cultures of the wider galaxy. The opening draws a lively mix of Caspian celebrities and dignitaries: the distractible Quarren Druze, the detail-obsessed technician Selko (still fixing the lighting from inside the ceiling), the warm Nara, the watchful Ama-Li, Admiral Lynae, the Presav Crestian and his daughter Atsvara, and the Xi Charrian engineer ak. Over champagne and canapes, the guests admire the gallery's theme of identity, debate the value of Atsvara's complete Biscuit Baron Jolly Meal toy collection, and trade affectionate banter about hugs, patriotism, and embarrassing dreams. cadracak explains the gallery will be permanent and that he hopes to build relations with other Union museums. The evening is a warm celebration of Xi Charrian culture reaching outward and of the camaraderie among Caspar's circle.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Ama-Li",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Ama-Li",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "cadracak",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "cadracak",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "ak",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "cadracak",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  }
+ ]
+}

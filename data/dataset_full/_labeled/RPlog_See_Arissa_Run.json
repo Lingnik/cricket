@@ -1,0 +1,361 @@
+{
+ "name": "RPlog_See_Arissa_Run",
+ "title": "See Arissa Run",
+ "summary": "Lured by a cryptic message to Cloud City, the half-Echani privateer captain Arissa Kiiko discovers too late that it is a trap set by the Imperial Warlord and Sith Vassily Korolov, who has tracked her for slicing into Imperial files. In the city's dim industrial hub, Korolov confronts her, disarms her blaster with the Force, and draws her into a prolonged, brutal force-pike duel that doubles as an Echani battle of wits, both probing each other's technique and spirit. Korolov, his eyes turning golden with the dark side, tests her resolve while she fights desperately for survival, refusing to give in even as he wounds her and reads the fear and regret buried in her mind. Unwilling to die for nothing, Arissa breaks away, shoots out a power box to plunge the corridor into darkness, and flees through the ducts to her ship the Kolier, escaping as Korolov calmly promises they will meet again and returns to report to the Emperor.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Jut",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Arissa Kiiko",
+   "b": false
+  }
+ ]
+}

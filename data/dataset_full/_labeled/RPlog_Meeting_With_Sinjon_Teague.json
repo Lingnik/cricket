@@ -1,0 +1,4123 @@
+{
+ "name": "RPlog_Meeting_With_Sinjon_Teague",
+ "title": "Meeting with Sinjon Teague",
+ "summary": "In the opulent Keepon Casino, the guarded Corellian operative Paul Nighman arrives under the watchful, menacing escort of a dangerous Antharian woman who berates him for being late before stalking out. Seeking a drink to steady himself, Paul falls into conversation with Sinjon Teague, a scholarly Mashi Horansi reading a handwritten Mandalorian historian's journal at the bar. As the casino's strange mirror-wall ripples with ghostly images and other patrons drift in and out, the two trade careful, philosophical talk about Mandalore, the Antharian female's baiting, and Paul's unpleasant past there. The cordial exchange ends with the courtly Horansi offering Paul his address on Caspar and a warm benediction, the two parting as wary but mutually respectful new acquaintances.",
+ "rows": [
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "desc",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Lynx",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Lynx",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 416,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 474,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 565,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Phoenix",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 575,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 576,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 577,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 578,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 581,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 584,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 597,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 603,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Phoenix",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Phoenix",
+   "b": true
+  },
+  {
+   "line": 609,
+   "type": "pose",
+   "actor": "Phoenix",
+   "b": true
+  },
+  {
+   "line": 610,
+   "type": "pose",
+   "actor": "Phoenix",
+   "b": true
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 617,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 618,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 620,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 622,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 624,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 627,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 629,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 631,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 633,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 637,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": true
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 643,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 645,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 649,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 651,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 652,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 659,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 660,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 661,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 665,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 670,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 672,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 678,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 680,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Mari",
+   "b": true
+  },
+  {
+   "line": 683,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 685,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 686,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 687,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 688,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 689,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 690,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 691,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 692,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 694,
+   "type": "pose",
+   "actor": "Mari",
+   "b": false
+  },
+  {
+   "line": 696,
+   "type": "pose",
+   "actor": "Taggor",
+   "b": false
+  },
+  {
+   "line": 698,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 699,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": false
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 701,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 702,
+   "type": "pose",
+   "actor": "Ariana",
+   "b": true
+  },
+  {
+   "line": 703,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 704,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 706,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 707,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 709,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 710,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 711,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 713,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 715,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 716,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 717,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 718,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 719,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 720,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 721,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 723,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 724,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 725,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 727,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 728,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 729,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 730,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 731,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 733,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": false
+  },
+  {
+   "line": 734,
+   "type": "pose",
+   "actor": "Eryk",
+   "b": true
+  },
+  {
+   "line": 736,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": false
+  },
+  {
+   "line": 737,
+   "type": "pose",
+   "actor": "Rabid",
+   "b": true
+  },
+  {
+   "line": 739,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 740,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 741,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 742,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 743,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 745,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 746,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 748,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 749,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 751,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 752,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 753,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 754,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 755,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 756,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 757,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 758,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 759,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 760,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 761,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 762,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 763,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 765,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 766,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 768,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 769,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 770,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 771,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 772,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 773,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 774,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 776,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 777,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 779,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 780,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 782,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 783,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 784,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 785,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 787,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 788,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 790,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 791,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 792,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 793,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 794,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 795,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 796,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 797,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 798,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 799,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 801,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 802,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 803,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 804,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 805,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 806,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 807,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 808,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 809,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 810,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 811,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 813,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 814,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 815,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 816,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 817,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 818,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 819,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 820,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 821,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 823,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 824,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 826,
+   "type": "pose",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 827,
+   "type": "pose",
+   "actor": "Donivan",
+   "b": true
+  },
+  {
+   "line": 828,
+   "type": "pose",
+   "actor": "Donivan",
+   "b": true
+  },
+  {
+   "line": 830,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 831,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 832,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 833,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 834,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 835,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 836,
+   "type": "desc",
+   "actor": "Donivan",
+   "b": false
+  },
+  {
+   "line": 837,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 838,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 839,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 840,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 841,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 842,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 843,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 844,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 846,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 847,
+   "type": "pose",
+   "actor": "Paul",
+   "b": false
+  },
+  {
+   "line": 848,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 849,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 851,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 852,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 853,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": false
+  },
+  {
+   "line": 855,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 856,
+   "type": "pose",
+   "actor": "Sinjon",
+   "b": true
+  },
+  {
+   "line": 858,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

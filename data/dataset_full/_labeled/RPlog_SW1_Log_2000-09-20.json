@@ -1,0 +1,85 @@
+{
+ "name": "RPlog_SW1_Log_2000-09-20",
+ "title": "Probing a Shattered Mind",
+ "summary": "After Morganna -- using the alias Kacela -- seduces and renders Bazil McKenzie unconscious in a Coruscant hotel, she uses her dark Force powers to ransack his memories for intelligence. Sifting through the overwhelming, fractured insanity of his mind, she catches fragmentary images: the planet Selene, the corrupt faces of John Donivan, Ernie Pallando, and Hul Pantek conspiring together, the lost love Casey Johnson, his murdered father, rotting Imperial corpses, and his torment over Altair Quila. The barrage of horror nearly overwhelms Kacela, who struggles to fuzz out her own identity and implant the suggestion that the evening was innocent before fleeing. She leaves Bazil seemingly unharmed, unaware that his ruined, demonic mind mockingly whispers a Tatooine dirge of death after her, hinting at the dark end he foresees.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

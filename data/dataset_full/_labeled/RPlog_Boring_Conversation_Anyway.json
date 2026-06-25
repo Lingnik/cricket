@@ -1,0 +1,157 @@
+{
+ "name": "RPlog_Boring_Conversation_Anyway",
+ "title": "Boring Conversation Anyway",
+ "summary": "Having seized the bulk freighter Corulag Haul, the Rattataki pirate captain Vane finds herself jumped out near a planet guarded by the Nemesis, flagship of the enemy fleet. To talk her way past, Vane impersonates the freighter's captain, 'Lieutenant Collins,' opening a static-laced channel with the Nemesis's duty officer, Lieutenant-Commander Amaza Sunrider, and transmitting forged convoy logs that she extracts by torturing the freighter's bound real captain. When Sunrider grows cautious about a claimed hull breach and urges the ship to hold position for repair crews, Vane bluffs that decompression forces her to land immediately and pushes the freighter toward the planet. Sunrider, unwilling to fire on an apparent Imperial vessel, relents and merely logs her concerns, and Vane slips toward Caspar's atmosphere where its magnetic shadow will mask her from sensors. Relieved, Vane signals the Republic of her arrival and orders her crew to recover her missing ship before the Star Destroyer can claim it.",
+ "rows": [
+  {
+   "line": 11,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Amaza",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Vane",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

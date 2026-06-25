@@ -1,0 +1,517 @@
+{
+  "name": "RPlog_21st_of_Selona_Action",
+  "title": "The Engagement of the 21st of Selona",
+  "summary": "A sprawling space battle unfolds as Republic reinforcements clash with an Imperial fleet led by Captain Valerius aboard the flagship Inquisitor. The Imperial pilot Dante and her squadron tangle with starfighters while Lt. Barakzai and Commander Razem work the flagship's bridge, and the Republic commander Rasi coordinates his cruisers and the Rapier from afar. Into the chaos jumps Han Solo in the Millennium Falcon, with Chewbacca manning the quad lasers, drawn in to lend a hand and shield a stricken Republic recon ship -- the Prowler-class scout crewed by the rattled Snarl'Fashtalli, the Kasa Gienah, and Chakuro. The Falcon and Dante's fighters trade fire as the recon ship, its shields failing, scrambles to survive long enough for the Republic to maneuver and concentrate missiles on the Inquisitor's command tower. As the tide turns in the Republic's favor, Razem orders a full-speed retreat from the system and Rasi turns his attention to the battle's conclusion.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Barakzai",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Dante",
+      "b": true
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Barakzai",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Razem",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Barakzai",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Chewie",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Gienah",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Gienah",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Chewie",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Chakuro",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Gienah",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Razem",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Dante",
+      "b": true
+    },
+    {
+      "line": 131,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Chewie",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Gienah",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Chakuro",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Chakuro",
+      "b": true
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Chewie",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Razem",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Gienah",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Chakuro",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Chakuro",
+      "b": true
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Razem",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    }
+  ]
+}

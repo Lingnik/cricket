@@ -1,0 +1,277 @@
+{
+ "name": "RPlog_Meet_Kyyel",
+ "title": "Meet Kyyel",
+ "summary": "On the landing pad of Justa Starport, the dark-side adept Simon Sezirok, the Selas, descends from his battered shuttle and is confronted by the pilot Kyyel Marrak, whom he derides as a Jedi sympathizer. The two trade venomous words over the woman Mailyn Raines and Simon's history with the Jedi Jessalyn Valios, each refusing to give ground. Simon reaches out with the Force, first threatening Kyyel's throat and then trying to plant a command in his mind to no longer see Simon as an enemy. Though Kyyel is not weak-minded and resists the intrusion, half drawing his sword, the tense standoff ends without bloodshed, Simon relying on what manipulation he has managed to leave behind.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "desc",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "desc",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

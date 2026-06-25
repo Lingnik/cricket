@@ -1,0 +1,547 @@
+{
+ "name": "RPlog_SW1_Log_2000-08-08-1",
+ "title": "Recruiting the Bothan",
+ "summary": "In the plaza before the Imperial Palace on Coruscant, the disguised Intelligence officer Bazil McKenzie and a fellow agent (played by Avitar) wait amid tourists, armed but inconspicuous, to meet a prospective new recruit. The recruit, a Bothan named Jocal with a rough past selling Kessel spice on Corellia, navigates the crowd and accidentally bumps into Bazil, who recognizes him as his contact. Bazil confirms Jocal has been accepted into the ranks and will begin training within a day or two, handing him a datapad containing all the information he needs, a map to the military complex, and instructions to check into a nearby inn. The two shake hands, with Bazil offering round-the-clock contact and full access to department requisitions.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Avitar",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Avitar",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Avitar",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Avitar",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Avitar",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Avitar",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Jocal",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

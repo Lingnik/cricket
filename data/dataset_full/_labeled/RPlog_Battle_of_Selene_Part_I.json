@@ -1,0 +1,259 @@
+{
+  "name": "RPlog_Battle_of_Selene_Part_I",
+  "title": "Battle of Selene, Part I",
+  "summary": "A multi-faction assault descends on the Imperial capital of Selene as a Corporate Sector Authority Espo fleet, including the Strike Cruiser Authority, arrives to attack the Imperial Palace under the pretext of restoring order. The opening of the battle is heralded from orbit by the crowning Super Star Destroyer Dark Eminence, which begins a controlled but devastating descent toward the planet, raining burning debris over the Imperial city and throwing the CSA fleet into alarm. On the surface, the Imperial soldier Raika watches the chaotic sky while patrolling toward the palace as Espo assault troops and the 23rd Engineering Company breach the perimeter fence with demolition charges and turbolaser fire. The palace guards, caught off guard, fall back to fortified interior positions as the first wave of invaders pours through the breach and the regime's defenders are steadily ground down. Amid the slaughter Raika chuckles at the destruction, and an Espo commander steps forward with a comm-equipped trooper to press the attack on the embattled garrison.",
+  "rows": [
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Raika",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Raika",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Raika",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

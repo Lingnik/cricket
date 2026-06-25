@@ -1,0 +1,187 @@
+{
+ "name": "RPlog_Blood_Brothers",
+ "title": "Blood Brothers",
+ "summary": "Former StarOps pilot Drax Rendolen uses an old code from his Knights of Korriban days to summon the veteran smuggler Krackor Reincus to a hidden oasis in an asteroid field near Corellia, docking the Arcadia to Krackor's black ILC Edgecrusher. Over drinks and cigaras the two old associates catch up and discover they share a deep scar: both were grotesquely violated by the Sith Lord Malign, who infused his own genetic code into them. Drax explains he is worried about Andreya Carvalo, a woman he cares for who has gone off on a reckless solo vendetta, and he needs the destination where Krackor dropped her. They strike a deal, Drax trading a cache of Durindfire gems and a New Republic customs and intelligence connection for the answer, and Krackor reveals he took her to the Imperial-held world of Coruscant. Parting as brothers, Drax sets off to arrange his own insertion onto Coruscant to find her.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Drax",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_Preponderance_of_Evidence",
+  "title": "Preponderance of Evidence",
+  "summary": "Captain Dravin, a Verpine security contractor, slips into the Jedi Temple to find Senator Tokoga relaxing in a hot tub and presents him with a datapad and cred-stick proving that the crime lord Bavon Nass personally ordered and paid for the senator's faked assassination. Tokoga is delighted, recognizing this as Nass's fatal mistake, though he warns Dravin that Nass may put a bounty out once he learns the senator still lives. Dravin, insisting on his own integrity, declines any reward and refuses to keep the illegally earned money, hoping to prove that operators like him can be a benefit to Ord Mantell. Tokoga clarifies that he respects legitimate private security and considers Nass a parasite by contrast, and the two part as wary allies, Tokoga vowing to be there when the warrant is finally served.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Dravin",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Tokoga",
+      "b": false
+    }
+  ]
+}
