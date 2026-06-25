@@ -1,0 +1,1069 @@
+{
+  "name": "RPlog_Love_s_Recovery",
+  "title": "Love's Recovery",
+  "summary": "Tormented by the dark memories Jessalyn Valios glimpsed within him, the troubled Force-user Orson flees to the abandoned Caspar Lighthouse off the Plaxton City waterfront, hiding himself in the Force and dreading her judgment. Steeling herself against the fear of rejection, Jessalyn follows the Force to the island and climbs the rusted lighthouse to face him at its windswept summit. Orson insists she need not pretend that what she saw, the shame and self-loathing laid bare, was acceptable, but Jessalyn answers that knowing him completely is exactly what makes their bond precious and confesses she can no longer live without him. His fear gives way as he opens himself to her once more, his Force-gift shining pure despite his pain, and the two cling together re-weaving their shattered bond. They exchange whispered declarations of love and a searching kiss, and though Orson is spent and far from healed, he stands propelled forward by her devotion, the pair resolving to return together to the city and to each other.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Orson",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": true
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": true
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Orson",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Orson",
+      "b": true
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Orson",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

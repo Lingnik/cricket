@@ -1,0 +1,5095 @@
+{
+  "name": "RPlog_Han_s_Admission",
+  "title": "He's Okay, I Gotta Find Him",
+  "summary": "Admiral Ackbar, worried by reports that Han Solo has not left his quarters since learning Chewbacca was shot down over Etti IV, calls on the grief-stricken Corellian to find him sleepless and feverishly poring over intelligence reports, insisting against all evidence that his co-pilot survived. Ackbar gently bargains a deal: he will send a ship to scan the Etti system for distress signals if Han will rest, and the exhausted smuggler finally slips into uneasy slumber. Luke arrives soon after and coaxes Han out for food and drinks at the Rusty Urchin Restaurant, where the diplomat Ariana, the young Eddie, and the eavesdropping technician Bec gather around the table. The conversation pries loose painful truths about Grathix's betrayal on Palanhi and the loss of the Millennium Falcon, until Han erupts, blaming himself for both the ship and Chewbacca, and storms out. Luke trails him to the Briny Deep Tap House, where after a bitter argument Han confesses he has been suffering nightmares since his imprisonment, and Luke pledges to help him through them.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": true
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Threepio",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Threepio",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 319,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 342,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 345,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 351,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 368,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 370,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 376,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 378,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 379,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 380,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 382,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 383,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "desc",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 388,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 391,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 392,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 394,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 395,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 396,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 400,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 406,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 415,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 420,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 428,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 432,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 433,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 436,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 437,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 439,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 440,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "desc",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 443,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": true
+    },
+    {
+      "line": 444,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 445,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 446,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 448,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 449,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 450,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 453,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 454,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 455,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 456,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 457,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 459,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 460,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 461,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 463,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 464,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 466,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 467,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 468,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 469,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 470,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 471,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 473,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 475,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 476,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 477,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 479,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 481,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 484,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 485,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 486,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 491,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 492,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 493,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 495,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 496,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 497,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 499,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 500,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 502,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 503,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 506,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 507,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 512,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 513,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 514,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 515,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 517,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 521,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 522,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 523,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 524,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 526,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 527,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 528,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 530,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 531,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 532,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 534,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 535,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 536,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 538,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 539,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 540,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 541,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 542,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 543,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 544,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 545,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 546,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 547,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 548,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 549,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 550,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 551,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 552,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 553,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 554,
+      "type": "desc",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 556,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 559,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 560,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 561,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 563,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 564,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 566,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 567,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 568,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 569,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 570,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 571,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 573,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 575,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 576,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 578,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 579,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 580,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 581,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 583,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 585,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 586,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 587,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 588,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 589,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 590,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 592,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 593,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 594,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 595,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 597,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 598,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 599,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 600,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 602,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 603,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 604,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 606,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 607,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 609,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 610,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 611,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 612,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 614,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 615,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 617,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 619,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 620,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 621,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 623,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 624,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 625,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 627,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 628,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 630,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 631,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 633,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 634,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 635,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 636,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 638,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 639,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 640,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 642,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 643,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 645,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 646,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 648,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 649,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 650,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 651,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 652,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 653,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 654,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 656,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 657,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 659,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 660,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 661,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 663,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 664,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 665,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 667,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 668,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 669,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 671,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 672,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 674,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 675,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 676,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 677,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 678,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 680,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 681,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 682,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 684,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 685,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 686,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 688,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 689,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 690,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 692,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 693,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 694,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 695,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 697,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 699,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 700,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 701,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 702,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 703,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 704,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 705,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 707,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 708,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 709,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 710,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 711,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 712,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 713,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 714,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 715,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 716,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 717,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 718,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 719,
+      "type": "desc",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 721,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 722,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 723,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 725,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 726,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 727,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 728,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 730,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 731,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 732,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 733,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 735,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 736,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 737,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 739,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 740,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 741,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 743,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 744,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 745,
+      "type": "pose",
+      "actor": "Eddie",
+      "b": false
+    },
+    {
+      "line": 747,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 748,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 750,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 751,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 752,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 753,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 754,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 755,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 757,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 758,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 759,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 761,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 762,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 763,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 764,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 765,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 766,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 768,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 769,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 770,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 772,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 773,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 774,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 776,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 777,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 778,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 780,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 781,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 782,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 783,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 784,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 785,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 786,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 788,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 789,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 790,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 792,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 793,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 795,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 796,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 797,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 798,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 800,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 802,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 803,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 804,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 805,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 806,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 807,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 809,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 810,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 811,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 812,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 813,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 814,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 815,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 816,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 817,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 819,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 820,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 821,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 822,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 823,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 825,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 826,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 827,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 828,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 829,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 831,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 832,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 834,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 835,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 836,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 838,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 839,
+      "type": "pose",
+      "actor": "Bec",
+      "b": false
+    },
+    {
+      "line": 841,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 843,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 844,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 845,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 846,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 848,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 849,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 851,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 852,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 853,
+      "type": "pose",
+      "actor": "Ariana",
+      "b": false
+    },
+    {
+      "line": 855,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 856,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 857,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 858,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 860,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 861,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 863,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 864,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 865,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 866,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 867,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 868,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 869,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 870,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 871,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 872,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 873,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 874,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 875,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 876,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 877,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 878,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 879,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 880,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 881,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 882,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 883,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 884,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 885,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 886,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 887,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 889,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 890,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 891,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 892,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 893,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 894,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 896,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 897,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 898,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 899,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 900,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 901,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 902,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 904,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 905,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 906,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 907,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 908,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 910,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": true
+    },
+    {
+      "line": 911,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 912,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 913,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 914,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 915,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 917,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": true
+    },
+    {
+      "line": 918,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 919,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 920,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 921,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 923,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 924,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 925,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 927,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 928,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 929,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 930,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 932,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 934,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 935,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 936,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 938,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 940,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 941,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 942,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 944,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 945,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 947,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 948,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 949,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 951,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 952,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 953,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 955,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 956,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 957,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 958,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 960,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 962,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 963,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 965,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 966,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 967,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 968,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 969,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 970,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 971,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 972,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 973,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 975,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 976,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 977,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 978,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 979,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 980,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 981,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 982,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 984,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 985,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 986,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 987,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 988,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 989,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 991,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 992,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 993,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 994,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 995,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 997,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 998,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 999,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1000,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1001,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1003,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1004,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1005,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1006,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1007,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1009,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1010,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1011,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1012,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1013,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1014,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1016,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 1017,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1018,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1020,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 1021,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1022,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1023,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1024,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1026,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1027,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1028,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1029,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1030,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1031,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1033,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1035,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1036,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1038,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1039,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1040,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1041,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1043,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1044,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1045,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1047,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1049,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1050,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1051,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1053,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1054,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1055,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1056,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1057,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1059,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1060,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1061,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1062,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1063,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1065,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1066,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1067,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1069,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1070,
+      "type": "pose",
+      "actor": "Han Solo",
+      "b": false
+    },
+    {
+      "line": 1072,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1073,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 1075,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

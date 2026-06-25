@@ -1,0 +1,199 @@
+{
+ "name": "RPlog_Kidnapping_Brandis",
+ "title": "Kidnapping Brandis",
+ "summary": "Lured to a Tatooine marketplace by a faked distress message about Talon Karrde, the Jedi doctor Brandis arrives cautiously and realizes too late that the call was bait set by Danik Kreldin, who has been hunting him since their last encounter. Danik leaps from a rooftop with his vibrorapier while two disguised stormtroopers provide sniper cover, and the two duel through the scattering crowd as Danik recklessly endangers bystanders with a frag grenade. A mysterious helmeted operative, Rake, intervenes on behalf of the local Hutt interests, garroting and entangling the stormtroopers before Danik drives him off with blaster fire. Wounded by the vibrorapier and repeated stun bolts, Brandis tries to flee down an alley but is finally dropped unconscious, and Danik orders his troopers to haul the captured Jedi back to the ship and off the planet.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Rake",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Rake",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Rake",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Rake",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,3193 @@
+{
+ "name": "RPlog_Touchdown",
+ "title": "Touchdown: Escape from the Nemesis",
+ "summary": "The Jedi Leo Corak, flying a stolen TIE Avenger under the guise of the Sith 'Darth Venger,' threads the Imperial blockade above Caspar to cover the escape of the New Republic shuttle Ticonderoga. Aboard the shuttle, the marine pilot Amaya 'Halo' Halos fights to fly a damaged lambda crammed with freed prisoners, including the ailing Ambassador Ambrosia Delgard and the defecting Imperial medic Liora Kovani, while Delgard's young daughter Gabi seizes the comm to reach her mother. As the Nemesis declares a free-fire zone and TIE fighters give chase, Leo destroys the pursuers and transmits a hyperspace solution, and the Ticonderoga jumps clear just ahead of the turbolasers. Touching down at the New Republic base on New Alderaan, the survivors disembark; Gabi reunites with her mother, Kovani submits to processing, and Delgard's relief curdles into dread as she realizes the Empire had ransacked her child's room.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Communications Chief",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Communications Chief",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Communications Chief",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Communications Chief",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Communications Chief",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Communications Chief",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Nemesis Control",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Co-Pilot",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 445,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 465,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 470,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 476,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 478,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 485,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 489,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 505,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 509,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 530,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 541,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 546,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 561,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 575,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 576,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 577,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 581,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Halo",
+   "b": false
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 610,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 611,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 620,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 624,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 627,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 629,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 631,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 633,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 637,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 645,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 649,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 651,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 652,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 653,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 660,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 661,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 670,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Replacement Trooper",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Replacement Trooper",
+   "b": false
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Replacement Trooper",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Replacement Trooper",
+   "b": false
+  },
+  {
+   "line": 678,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 680,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 685,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

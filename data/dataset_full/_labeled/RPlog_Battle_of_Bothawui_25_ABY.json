@@ -1,0 +1,289 @@
+{
+  "name": "RPlog_Battle_of_Bothawui_25_ABY",
+  "title": "Battle of Bothawui (25 ABY)",
+  "summary": "A New Republic strike led by Commander Argon Brand jumps into Imperial-held space around Bothawui, using a decoy transport to mask the arrival of his fleet of cruisers, Corellian Gunships, and troop transports bent on landing forces at the spaceport. The Imperial picket corvette Sentry is destroyed as Argon's flagship Rapier punches toward the planet, drawing the response of Commander William Roice in the Venator-class Responder, eager to prove himself in his fish-man superior's absence. The two lines close and trade turbolaser fire; Roice's static textbook formation disables the Rapier and damages the Saber, but proves fatal when Argon's Corellian Gunships loose missiles that tear the Responder apart, killing Roice and his bridge crew. The surviving Gunships are then cut down by Imperial corvettes, and amid heavy losses on both sides the Republic transports fight through the broken line to make planetfall, the bloody opening of a campaign whose later battles will be harder for the price paid here.",
+  "rows": [
+    {
+      "line": 11,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Sentry",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Sentry",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Sentry",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "William Roice",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

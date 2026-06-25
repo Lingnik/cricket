@@ -1,0 +1,319 @@
+{
+  "name": "RPlog_Make_Way_I_am_a_Doctor",
+  "title": "Make Way, I Am a Doctor",
+  "summary": "On a landing pad in Cloud City, the irrepressible Zeltron baroness-administrator Quinne Stardust Rose insists on climbing past a customs window despite her assistant's protests, and promptly falls and breaks a limb. Three physicians converge on the scene, the brisk Dr. Lynae Cassius, the flustered Quarren engineer-physician Dr. Druze, with the Sarian officials Crestian and Fleet Captain Drorq looking on. Lynae, first on the scene, scans and stabilizes the injured baroness while Druze negotiates with the city's administrator over who will foot the bill for a private physician. Quinne, cheerfully demanding the good painkillers, is eased onto a stretcher and carried aboard the ship Red Sky for treatment. In the medbay Lynae and Druze trade professional courtesies and notes on Quinne's unusual Zeltron physiology as the patient finally quiets under sedation.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Quinne's Assistant",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Quinne's Assistant",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Quinne's Assistant",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Cloud City Administrator",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Cloud City Administrator",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Drorq",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Druze",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Quinne Stardust Rose",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    }
+  ]
+}

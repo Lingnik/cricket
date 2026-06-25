@@ -1,0 +1,211 @@
+{
+ "name": "RPlog_Simon_Meets_Cort_Part_2",
+ "title": "Simon Meets Cort (Part 2)",
+ "summary": "In a Casparian alley, the Telgossian warrior Simon Sezirok is locked in a losing duel against the Dark Jedi Cort Stasus, his lightstaff barely holding off Cort's twin crimson blades while Mira watches sickly from a nearby NRI hovercar. Cort toys with Simon, breaking a rib with a kick and then demonstrating raw Dark Side power by incinerating one of the New Republic agents with a bolt of energy. Horrified, Simon hurls another agent clear and demands Cort fight only him. Impressed by Simon's strength, Cort relents and offers to spare them in exchange for a promise: that Simon will seek him out on Dreven, asking for 'Etrigan,' when he is ready to learn true power. Simon coldly vows only that they will meet again, and Cort melts into the night as the NRI agents herd Simon away.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

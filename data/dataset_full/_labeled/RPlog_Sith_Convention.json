@@ -1,0 +1,547 @@
+{
+ "name": "RPlog_Sith_Convention",
+ "title": "Sith Convention",
+ "summary": "Noticing an unusual gathering of New Sith Order veterans on his homeworld of Caspar, Presav Crestian Tarasar arranges an impromptu dinner at the fine Captain's Table restaurant in Noques Rasala. He hosts the local 'holy man' Axel Vichten, who arrives with the Falleen mercenary and intelligence operative Ssanyu on his arm, and is soon joined by the returned former Grand Admiral Salin Fawzy. Over wine and a chef's tasting menu, the four trade barbed banter about the old order's survival of Thel's purge, the Imperator Malign's presence on world, Ssanyu's torture-and-espionage services, the Corporate Sector's drift toward the Republic, and the austere charm of Caspar. Axel departs early for a new-moon ritual and Salin is called away by his comlink, leaving Crestian and Ssanyu to part with mutual hints of future collaboration and the dry pleasantries of plotting Sith.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Salin Fawzy",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Ssanyu",
+   "b": false
+  }
+ ]
+}

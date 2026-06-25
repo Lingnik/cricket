@@ -1,0 +1,697 @@
+{
+ "name": "RPlog_Tyy_sun_Hunt",
+ "title": "Tyy'sun's Hunt: Cornered on Ord Mantell",
+ "summary": "On the New Republic crossroads world of Ord Mantell, the operative Ash (Nitisha, alias Ja'casha) is shadowed across the starport by the surveillance network of the Twi'lek maffi of New Kala'uun, who corner her aboard a train and at a cafe at the behest of their crimelord, Tyy'sun Eson. Eson demands she repay a 'debt' owed for her past ties to Tritus, whose organization aided the Hutt Draga in the slaughter of Twi'leks, but Ash defiantly refuses, hurling hot coffee at his agent A'estshy (Shy) and calling for aid. A volatile standoff erupts as Eson confronts a parade of figures from his past--the Mandalorian Cantrell, the Sith fringer Axel Vichten, the Quarren warrior Thrask, and a disguised Bothan spy Besk--with weapons, a thermal detonator, and rifles drawn amid Eson's mounting rage. Recognizing the moment is wrong for battle and that his diminished power can no longer dominate his enemies, Eson stands down, ordering Axel off his streets and demanding he deliver the agents of the Twi'lek inquisition, before withdrawing with his Family, A'estshy, and Thrask as his strange allies.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Blue Twi'lek",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Blue Twi'lek",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Blue Twi'lek",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Ko'ciell",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Green Twi'lek",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Green Twi'lek",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Maffi Twi'lek",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Maffi Twi'lek",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Maffi Twi'lek",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Green Twi'lek",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Thrask",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Besk",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Thrask",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Besk",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Thrask",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Thrask",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Besk",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Thrask",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Besk",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Thrask",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Ash",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Besk",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Eson",
+   "b": false
+  }
+ ]
+}

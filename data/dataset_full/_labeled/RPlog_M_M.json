@@ -1,0 +1,199 @@
+{
+  "name": "RPlog_M_M",
+  "title": "Malif and Malus",
+  "summary": "In the rain-veiled offices of the Tahn Consortium in Central City on Athaniss, the businessman Malif receives the masked, voice-modulated Malus, also known by the name Rhys. Over wine and finger food the two engage in a sparring philosophical dialogue, circling questions of power, loyalty, and the decline of the old order. Malus speaks cryptically of balance and standing in the twilight grey between extremes, while Malif counters that chaos is the only true expression of freedom and that everyone is too content with the status quo. Their exchange probes the limits of familial bonds and shared ambition, neither fully showing his hand. The meeting closes as a meeting of guarded equals, each having taken the measure of the other's worldview.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "desc",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Malus",
+      "b": false
+    }
+  ]
+}

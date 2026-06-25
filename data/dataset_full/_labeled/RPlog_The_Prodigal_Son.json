@@ -1,0 +1,1985 @@
+{
+ "rows": [
+  {
+   "line": 17,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "Shenner"
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "Shenner"
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "Shenner"
+  },
+  {
+   "line": 42,
+   "type": "desc",
+   "actor": "Shenner"
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 92,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 100,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 101,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 118,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 119,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 125,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 128,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 129,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 135,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 136,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 138,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 140,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 141,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 143,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 145,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 146,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 191,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 192,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 194,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 258,
+   "type": "desc",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 259,
+   "type": "desc",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 261,
+   "type": "desc",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 325,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 326,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 360,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 361,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Shenner"
+  },
+  {
+   "line": 393,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 395,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 396,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 398,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 400,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 401,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 403,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 405,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 406,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 408,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 410,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 411,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 413,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 415,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 419,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 420,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 422,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 424,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 425,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 427,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 428,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 432,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 446,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 447,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Lando",
+   "b": true
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 513,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 519,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 529,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 535,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 541,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 542,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 546,
+   "type": "pose",
+   "actor": "Kian",
+   "b": true
+  },
+  {
+   "line": 548,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": true
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 564,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 574,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 576,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 578,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 582,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 586,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 592,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 594,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 596,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 604,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 610,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Paul",
+   "b": true
+  },
+  {
+   "line": 618,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 620,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 622,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 624,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 626,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 634,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 648,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 652,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 654,
+   "type": "desc",
+   "actor": "Kian"
+  },
+  {
+   "line": 655,
+   "type": "desc",
+   "actor": "Kian"
+  },
+  {
+   "line": 657,
+   "type": "desc",
+   "actor": "Kian"
+  },
+  {
+   "line": 659,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 661,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 665,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 675,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 677,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 683,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 685,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 687,
+   "type": "pose",
+   "actor": "Lando"
+  },
+  {
+   "line": 689,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 691,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 693,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 695,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 697,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 698,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 702,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 704,
+   "type": "pose",
+   "actor": "Skeezix"
+  },
+  {
+   "line": 706,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 707,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 709,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 711,
+   "type": "pose",
+   "actor": "Kian",
+   "b": true
+  },
+  {
+   "line": 713,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 715,
+   "type": "pose",
+   "actor": "Kian"
+  },
+  {
+   "line": 717,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 719,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 721,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 723,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 724,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 726,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 728,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 730,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 731,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 733,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 735,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 736,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 738,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 740,
+   "type": "pose",
+   "actor": "Molari Canto"
+  },
+  {
+   "line": 742,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 744,
+   "type": "pose",
+   "actor": "Molari Canto"
+  },
+  {
+   "line": 746,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 748,
+   "type": "pose",
+   "actor": "Molari Canto"
+  },
+  {
+   "line": 750,
+   "type": "pose",
+   "actor": "Molari Canto",
+   "b": true
+  },
+  {
+   "line": 752,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 754,
+   "type": "pose",
+   "actor": "Molari Canto"
+  },
+  {
+   "line": 756,
+   "type": "pose",
+   "actor": "Molari Canto",
+   "b": true
+  },
+  {
+   "line": 758,
+   "type": "pose",
+   "actor": "Paul"
+  },
+  {
+   "line": 760,
+   "type": "pose",
+   "actor": "Molari Canto"
+  },
+  {
+   "line": 762,
+   "type": "pose",
+   "actor": "Molari Canto",
+   "b": true
+  },
+  {
+   "line": 764,
+   "type": "pose",
+   "actor": "Molari Canto",
+   "b": true
+  },
+  {
+   "line": 766,
+   "type": "pose",
+   "actor": "Molari Canto",
+   "b": true
+  },
+  {
+   "line": 768,
+   "type": "system",
+   "actor": ""
+  }
+ ],
+ "name": "RPlog_The_Prodigal_Son",
+ "title": "The Prodigal Son",
+ "summary": "Returning to Coral City on Mon Calamari after weeks away researching Mandalore, the antiquarian Paul Nighman crosses paths with the young busker Shenner, newly dressed up and playing for crowds, and the two share a tentative, tender reunion she clearly hopes is more than friendship. Back at the NR barracks, Paul reconnects with his friend Jessalyn Valios -- who confides that Luke Skywalker is leaving for Kashyyyk and that she's been promoted -- while the grief-stricken General Beabous Calhoun (Skeezix) wrestles aloud with a nightmare of his late wife Jenny. When Paul coldly announces he intends to wrap up his goodbyes and avoid getting too attached, Jessalyn slaps him and storms off, leaving Shenner to witness the painful rift. Later, drinking alone in the Briny Deep Tap House, Paul plans an expedition to Kashyyyk with Lando, only for a gang of brutal blue aliens to seize the wounded Jessalyn; Paul, Lando, Skeezix, and the acrobatic child Kian battle them in a bloody brawl, rescuing her at the cost of a savage gash to Paul's neck. His armor of detachment finally shattered, Paul makes his way to his old mentor Dr. Molari Canto, where he at last breaks down and weeps for the first time in his life."
+}

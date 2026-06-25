@@ -1,0 +1,361 @@
+{
+ "name": "RPlog_It_s_Just_a_Flesh_Wound",
+ "title": "It's Just a Flesh Wound",
+ "summary": "Recovering from a blaster wound to the leg sustained in a Rebel attack at an Imperial event, ISB Senior Agent Lanil Jast holds a tense videocomm with Bureau agent Bogumil, who curtly refuses to share classified findings across agency lines. Lieutenant Maris Becton then visits Lanil's infirmary bed; their friendly talk turns to Lanil's barely concealed feelings for Lynae and his worry over her fate, and he asks Maris to confirm Lynae is alive. Later the surgeon Lynae herself tends Lanil, reporting that the Admiral survived and the terrorists are dead, before he reluctantly passes on a disturbing rumor that her husband Yoseph is missing and presumed dead. Lynae, shaken, insists he is merely taking personal time, and the two share a quietly tender moment before she sends him back to sleep.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Bogumil",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Bogumil",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Bogumil",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Bogumil",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Bogumil",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Maris Becton",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  }
+ ]
+}

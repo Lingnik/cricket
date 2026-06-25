@@ -1,0 +1,559 @@
+{
+  "name": "RPlog_Arrival",
+  "title": "Arrival (Rise of the Sith: Ord Vaxal)",
+  "summary": "Investigating reports of refugees sold into slavery, the Jedi initiate Enb'Zik and his Horansi wife Snarl emerge from hyperspace over Ord Vaxal in their Mantaray Ranger One, only to find a massive battle underway as Lord Malign's disciplined Sith fleet crushes the lawless world's pirate defenders. Recognizing Malign's flagship Dark Presence and his personal X-wing, Enb'Zik decides against fleeing and fights through the chaos toward the surface, with Snarl laying cover fire and Malign personally launching a proton torpedo in pursuit. Enb'Zik narrowly evades the torpedo and slips into the atmosphere as Malign breaks off to meditate, leaving unrevealed that the fleet's temporary captain, Cato, is a woman Enb'Zik once believed redeemed. Aboard the Dark Presence, the venerable Lord Regent Drayson Honos counsels Cato on planetary administration while she secretly orders the Jedi and his companion detained unharmed. On the ground, Enb'Zik and Snarl land thirty kilometers from the capital and flee into the jungle, narrowly escaping Legion General Siege's droid patrols and a hover-tank as they begin the trek toward the besieged city.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Cato",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Cato",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Cato",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Siege",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Siege",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Cato",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Cato",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Cato",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Drayson Honos",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Siege",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Siege",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "RPlog_If_You_Plant_Them_They_Will_Grow",
+  "title": "The Alien Death Plant",
+  "summary": "In an Imperial Interview Chamber, the newly promoted ISB Corporal Lanil Jast summons the Bureau of Operations director Celo to share a discovery made during a surveillance sweep of the border world Onderon, where Rebel militias are suspected of forming. Rather than rebels, the ISB team recovered Botanical Sample 80-2075, the 'Alien Death Plant', a fast-spreading, highly toxic specimen that renders soil infertile, reproduces by airborne spores, and can kill within thirty minutes at close range. Lanil proposes that Celo's office locate the rebel cells so that the plant can be deployed to scour Onderon clean through double-exponential growth, with loyalists quietly rounded up for re-education, or left to die as a warning. Celo questions the plan's catastrophic scope and the need for a cure, then insists the whole operation be formalized in a report to their superiors before anything proceeds, ending the meeting until proper authorization is secured.",
+  "rows": [
+    {"line": 17, "type": "room", "actor": "", "b": false},
+    {"line": 19, "type": "pose", "actor": "Lanil Jast", "b": false},
+    {"line": 21, "type": "pose", "actor": "Celo", "b": false},
+    {"line": 23, "type": "pose", "actor": "Lanil Jast", "b": false},
+    {"line": 25, "type": "pose", "actor": "Celo", "b": false},
+    {"line": 27, "type": "pose", "actor": "Lanil Jast", "b": false},
+    {"line": 29, "type": "pose", "actor": "Celo", "b": false},
+    {"line": 31, "type": "pose", "actor": "Lanil Jast", "b": false},
+    {"line": 33, "type": "pose", "actor": "Celo", "b": false},
+    {"line": 35, "type": "pose", "actor": "Lanil Jast", "b": false},
+    {"line": 37, "type": "pose", "actor": "Celo", "b": false}
+  ]
+}

@@ -1,0 +1,571 @@
+{
+ "name": "RPlog_Second_Battle_of_Mon_Calamari_Second_Assault",
+ "title": "Second Battle of Mon Calamari: Second Assault",
+ "summary": "An Imperial task force led by former admiral Danik Kreldin aboard the Star Destroyer Conqueror jumps into the Calamari system to renew the assault on the Republic shipyards and fleet. Kreldin's plan is to isolate the Republic Star Destroyer Templar by sandwiching it with Moore's Fleet while concentrating his bombers -- among them Lieutenant Biff's squadron and gunners like Janos -- on the assault frigate Adamant and the lighter gunship Garm Bel Iblis, freshly commanded by the green Captain Morganth. The battle escalates as Commander Monntok maneuvers the Crusader to flank the Conqueror and Captain Mora Rodriga arrives to take command, vowing vengeance on Kreldin. The doomed Adamant fights to the last and rams the Conqueror in a fiery suicide run, crippling but not destroying the Imperial flagship; with his ships battered and the full weight of the Republic fleet turning on him, Kreldin orders a withdrawal toward Corellia.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Biff",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Loor Fondor",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Biff",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Biff",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Biff",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Morganth",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Janos",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Monntok",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

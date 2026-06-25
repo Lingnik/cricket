@@ -1,0 +1,355 @@
+{
+  "name": "RPlog_Lynae_s_Homecoming",
+  "title": "Lynae's Homecoming",
+  "summary": "Returning to the Night Tavern in Noques Rasala on Caspar after fifteen years away, Dr. Lynae Cassius reunites with the former raider turned priest Axel Vrichten, who greets her with a warm embrace and a drink. The quiet homecoming swells into a gathering of dignitaries as the Sarians Crestian and Fleet Captain Drorq arrive, followed by the Jedi Tracer and her companions Etiel and Elana. Over warm, rum-spiked drinks the group falls into a wide-ranging conversation about faith, worship, and the mysterious Olumi Osahn sect that Axel serves as priest. Axel excuses himself to deliver a prayer at the darkest hour, leaving the others to debate the nature of belief and the figure of Tyler. The evening becomes a rich, convivial reunion of old friends and new acquaintances trading philosophy and warmth against the Caspian cold.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "desc",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Drorq",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Etiel",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Etiel",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Etiel",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Drorq",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Etiel",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Etiel",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Tracer",
+      "b": false
+    }
+  ]
+}

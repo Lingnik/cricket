@@ -1,0 +1,475 @@
+{
+  "name": "RPlog_Interlude",
+  "title": "The Survivors Return from Dathomir",
+  "summary": "On a busy New Republic military base, Commander Jared Starwind of the NRCV Audacity receives an intelligence report from the cold Bothan officer Askrut Melan'lya, whom he rebukes for letting hatred of the Empire eclipse his duty to defend the Republic, while the gruff Marine Master Sergeant Merreck Pelx and the eager Wookiee Flight Cadet Cheko look on and the Mandalorian Ambassador Aranzael arrives asking after the absent Lieutenant Wrista Ipex. The casual scene shatters when a Mon Calamari traffic controller orders the landing strips cleared and three heavily damaged CR-90 corvettes limp in trailing smoke, one exploding on approach. Starwind realizes these are the only survivors of the strike force ambushed at Dathomir, where Wrista's platoon had gone. As medics, damage-control teams led by the Bith engineer Ohao, and Cheko rush to evacuate the wounded, Admiral Ackbar himself arrives, orders the ships stabilized and stripped, and directs that the brave crews and their rescuers be decorated. Starwind broadcasts a call to give the returning survivors compassion and a welcome home, while Ackbar departs to brief General Madine and weigh a careful response.",
+  "rows": [
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Askrut",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Askrut",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Askrut",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Aranzael",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Askrut",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Aranzael",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Askrut",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Aranzael",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": true
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Askrut",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Aranzael",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Aranzael",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Aranzael",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Pelx",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Ohao",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Jared Starwind",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Ackbar",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Cheko",
+      "b": false
+    }
+  ]
+}

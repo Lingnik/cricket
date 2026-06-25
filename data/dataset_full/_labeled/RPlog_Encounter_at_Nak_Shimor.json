@@ -1,0 +1,523 @@
+{
+ "name": "RPlog_Encounter_at_Nak_Shimor",
+ "title": "Encounter at Nak Shimor",
+ "summary": "The New Republic corvette Audacity, carrying observers from the militantly neutral Caspian Navy, jumps to the contested border world of Nak Shimor to intercept an Imperial reconnaissance incursion, its XO Commander Rasi (Cen) briefing the assembled pilots while Caspian Commander Lynae Cassius shrewdly reads the feint for what it is. As Ghost Squadron under Kyrin Sh'vani and the Dagger bombers (with NPC ace Squeak ferrying the seasick Dug observer Bakrak) engage the dozen Razor TIE Interceptors led by Liza Molokai and the nervous veteran Gorgan, the Audacity pounds the Imperial corvette Somnium. Outnumbered, the Imperials are ordered to retreat, executing a costly combat-hot landing as the Somnium prepares to jump out. Just then a wolfpack of Skiprays under Marshal Krieg Inrokana drops from hyperspace to cover the withdrawal, trading defiant threats over the comm with Lynae, who answers his bluster, voice disguised, with cold scorn. With Nak Shimor garrison reinforcements inbound, both Imperial elements jump clear rather than fight a losing stand, leaving the Audacity victorious; Rasi, impressed by Lynae's foresight, deploys sensor drones to guard against any repeat incursion before heading in for repairs.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Jamon Grendine",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Jamon Grendine",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Dhamon",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Dhamon",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Tarin",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Tarin",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Gorgan",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Bakrak",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Squeak",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  }
+ ]
+}

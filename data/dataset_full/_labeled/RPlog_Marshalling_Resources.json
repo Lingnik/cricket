@@ -1,0 +1,259 @@
+{
+  "name": "RPlog_Marshalling_Resources",
+  "title": "Marshalling Resources",
+  "summary": "In the Neimoidia Room of the Silverwood House of Fashion on Caspar, the Presav Crestian summons the priest and Inquisitor Axel Vrichten for a private meeting ahead of an upcoming wargame. Over a hidden bottle of Whyren's Reserve, Crestian explains his aim of keeping the Caspian Union ready to defend itself as the New Republic falters, and offers Axel a Reserve Commander's commission and uniform. Axel, taking the offer seriously, accepts on the condition that he be allowed to truly use the station, making clear his loyalties run to Caspia and the Union. The two trade banter about wearing multiple hats and Axel's plan to press-gang his temple-priest entourage and recruits from Selene into a ragtag squadron. The meeting ends with resources marshalled, a new commission accepted, and both men anticipating surprises when the wargames begin.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Axel Vrichten",
+      "b": true
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "RPlog_The_Capital_s_Underworld_An_Unexpected_Visit",
+  "title": "The Capital's Underworld: An Unexpected Visit",
+  "summary": "Senator Tokoga of Dac is working alone in his New Alderaan office when a polished petitioner gains entry under the false name Lorne Rin and reveals himself to be the crime lord Bavon Nass. Nass frames his protection rackets as a legitimate private security service that fills gaps left by failing law enforcement, and dangles the promise of favorable media coverage for the Senator's initiatives. Tokoga firmly rejects the overture, refusing to trade his integrity and insisting that courts and a free market, not extortion, should govern New Alderaan. When the medic Myiari arrives for the Senator's overdue follow-up exam, Tokoga pointedly introduces her to Nass as a citizen whose view should matter, and she withholds her open disdain. The meeting ends in a tense impasse, with Tokoga demanding time and Myiari opting to wait until the men conclude their business.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 18, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 20, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 22, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 24, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 26, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 28, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 30, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 32, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 34, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 36, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 38, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 40, "type": "system", "actor": "", "b": false},
+    {"line": 42, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 44, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 46, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 48, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 50, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 52, "type": "pose", "actor": "Myiari", "b": false},
+    {"line": 54, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 56, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 58, "type": "pose", "actor": "Myiari", "b": false},
+    {"line": 60, "type": "pose", "actor": "Bavon Nass", "b": false},
+    {"line": 62, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 64, "type": "pose", "actor": "Myiari", "b": false}
+  ]
+}

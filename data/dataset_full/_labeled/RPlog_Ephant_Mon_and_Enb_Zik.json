@@ -1,0 +1,181 @@
+{
+ "name": "RPlog_Ephant_Mon_and_Enb_Zik",
+ "title": "Ephant Mon and Enb_Zik",
+ "summary": "In Chalmun's Cantina on Tatooine, the Jedi Enb'Zik, traveling cowled and incognito, seeks out Ephant Mon, the Chevin who once served as Jabba the Hutt's right hand and now claims to have found religion and fallen on hard financial times. Ephant Mon spins a tale of Jabba's many secret vaults scattered across the galaxy, most already looted, but insists at least one undiscovered vault remains and recruits adventurers like Zik to find it. Zik, who cares only for any Force-related artifacts it might hold, downplays his interest in wealth and asks to join a team already further along in the search. Ephant Mon names another seeker, Malif Tal-Tahn, currently on Bespin; Zik, recognizing Malif's ties to the Sith Malign and wary of being beaten to whatever he seeks, agrees to partner with him. Giving only the alias 'Jailbird' and a reference to Malif's doctor friend on Caspar, Zik secures the introduction and departs for Bespin, leaving both parties cordially pursuing their own hidden agendas.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  }
+ ]
+}

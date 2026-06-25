@@ -1,0 +1,91 @@
+{
+ "name": "RPlog_Escape_from_Caspar_Part_2",
+ "title": "Escape from Caspar, Part 2",
+ "summary": "Using the access card Krieg provided, the warlord Danik Kreldin, now shed of his 'Alois' disguise and looking like himself again, fires up the borrowed swoop in garage 112 with his nervous sniper accomplice Sandor (Woden) riding behind. Meanwhile Krieg, departing Caspar legitimately in his treaty-protected Imperial skipray, sets down at a prearranged spot in the woodlands near the racetracks and waits with his loyal crew. Danik races the swoop down off Marin Mountain and through the forest trails under cover of darkness, telling Sandor their next destination is Corellia, a hotbed of dissent where they will regroup to strike against Vadim's Empire. He reaches the rendezvous, greets Krieg, and the crew quickly loads the swoop aboard the freshly overhauled blastboat. With Sandor warily boarding and counting faces, Danik clasps Krieg's hand in thanks, promises their paths will cross again, and ascends the ramp with a final 'For the glory of the New Order' as the hatch seals and the ship prepares to lift off Caspar.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Danik",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Sandor",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

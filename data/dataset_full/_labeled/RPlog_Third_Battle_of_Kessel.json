@@ -1,0 +1,1938 @@
+{
+ "name": "RPlog_Third_Battle_of_Kessel",
+ "title": "The Third Battle of Kessel",
+ "summary": "Rear Admiral Danik Kreldin's Imperial squadron -- the Star Destroyer Tormentor, the VSD Renegade, and the Interdiction picket Oppressor -- is running battle drills over the prison world of Kessel when a New Republic task force, spearheaded by the Star Destroyer Crusader and a wing of Corellian gunships, jumps into the system. Badly outnumbered, Kreldin scrambles his bombers and fighters, signals Selene for reinforcements, and pours fire into the Crusader while Republic bombers under Darenak (Razor 1) and Seppi, harried by a lone A-Wing, press their attack runs. The fight becomes a grinding capital-ship slugfest: the Crusader's shields are battered down and its hull pounded by the Tormentor and Oppressor even as the gunships under Oppenhiemer dart along the edges lobbing missiles. The Oppressor takes heavy damage, but the Imperial line holds; the Crusader is left a battle-scarred wreck and the Republic gunships break off, leaving the Tormentor and Renegade undamaged as the engagement winds down.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Oppenhiemer"
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Danik Kreldin"
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 69,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 70,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 79,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 83,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Darenak"
+  },
+  {
+   "line": 90,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Crusader"
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 96,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 97,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 99,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 100,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 106,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 107,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 108,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Oppenhiemer"
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "A-Wing Pilot"
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Danik Kreldin"
+  },
+  {
+   "line": 118,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 119,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 120,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 124,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 125,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 127,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 129,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 130,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 132,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 134,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 135,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 136,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 137,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 138,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 140,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Oppressor"
+  },
+  {
+   "line": 144,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 145,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 147,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 148,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 150,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 151,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 154,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "A-Wing Pilot"
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Seppi"
+  },
+  {
+   "line": 160,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 161,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Darenak"
+  },
+  {
+   "line": 163,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 164,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "A-Wing Pilot"
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Crusader"
+  },
+  {
+   "line": 169,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 170,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 171,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 172,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Oppenhiemer"
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Oppenhiemer",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 177,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 179,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 180,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 181,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 182,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 183,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 185,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 186,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 187,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 188,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 190,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 191,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 192,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 193,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Danik Kreldin"
+  },
+  {
+   "line": 200,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 201,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 202,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 203,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 204,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 205,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 206,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 207,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 208,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 209,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 210,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 211,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 212,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 213,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 214,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 215,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 216,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 217,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 218,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 219,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 220,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 221,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 222,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 223,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 224,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 225,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 226,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 227,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 228,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 229,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 230,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 231,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 232,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 233,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 234,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 235,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 236,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 237,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 238,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Oppressor"
+  },
+  {
+   "line": 241,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 242,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Renegade"
+  },
+  {
+   "line": 246,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 247,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 248,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 249,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 250,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 251,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Seppi"
+  },
+  {
+   "line": 254,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 255,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Darenak"
+  },
+  {
+   "line": 259,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 260,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "A-Wing Pilot"
+  },
+  {
+   "line": 264,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 265,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Oppenhiemer"
+  },
+  {
+   "line": 269,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 270,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 272,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 273,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Danik Kreldin"
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Crusader"
+  },
+  {
+   "line": 279,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 280,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 281,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 282,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 283,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 284,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 285,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 286,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 287,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 288,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 289,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 290,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 291,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 292,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 294,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 295,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 296,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 297,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 298,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 299,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 300,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 301,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 302,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 303,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 304,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 305,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 308,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 309,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 310,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 311,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 312,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 313,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 314,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 315,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 316,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 317,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 318,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 319,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 320,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 321,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 322,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 323,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 324,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 326,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 327,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 328,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 329,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Seppi"
+  },
+  {
+   "line": 333,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 334,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Darenak"
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Black Star III"
+  },
+  {
+   "line": 338,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 339,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Crusader"
+  },
+  {
+   "line": 343,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 344,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "A-Wing Pilot"
+  },
+  {
+   "line": 346,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 347,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 348,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 349,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 350,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 351,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 352,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 353,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Danik Kreldin"
+  },
+  {
+   "line": 356,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 357,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 358,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 359,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 360,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 361,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 362,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 363,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 364,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 365,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 366,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 367,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 368,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 369,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 370,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 371,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 372,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 373,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 374,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 375,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 376,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 377,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 378,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 379,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 380,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 381,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Oppressor"
+  },
+  {
+   "line": 384,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 385,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 386,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 387,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Renegade"
+  },
+  {
+   "line": 390,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 391,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 392,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 393,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Black Star III"
+  },
+  {
+   "line": 396,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 397,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Oppenhiemer"
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "A-Wing Pilot"
+  },
+  {
+   "line": 403,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 404,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Danik Kreldin"
+  },
+  {
+   "line": 407,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 408,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 409,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 410,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 411,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 412,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 413,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 414,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 415,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 416,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 418,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 419,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 421,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 422,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 423,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 424,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 425,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 426,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 427,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 428,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 429,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 430,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 431,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 432,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Oppressor"
+  },
+  {
+   "line": 436,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 437,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 438,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 439,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Oppenhiemer"
+  },
+  {
+   "line": 443,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 444,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 445,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 446,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 447,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 448,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 449,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 450,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 451,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 452,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 453,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 454,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 455,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 456,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 457,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 458,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 459,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 460,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 461,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 462,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 463,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 464,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 465,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 466,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 467,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

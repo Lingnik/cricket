@@ -1,0 +1,1525 @@
+{
+  "name": "RPlog_Swoop_Racing_on_Theseus",
+  "title": "Swoop Racing on Theseus",
+  "summary": "At the Titania Invitational of the Galactic Swoop League, Imperial pilot Danik Kreldin watches and races the deadly Grade 3 course aboard the Dark Wind, clearing its nebulas, comet rides, ion-cannon gauntlets and a mock Death Star superlaser run to seize the division lead. In the spectators' deck he is approached by Talia Andorn, a red-haired Noiri swooper who scents on him the trace of one of her own kind, Kao Ijuf, and grows suspicious about the woman's true origins. A later heat pits Danik's friend Reanus on the Starblade against his rival Daana Roon on the Turn of Fate, a brutal duel in which both racers take injuries and damage before Reanus narrowly edges ahead. Between races Danik trades flirtatious banter with Lady Athena, CEO of Dragons of Coruscant and organizer of the after-party, while Talia and her companion Mella keep circling back to question Danik about the mysterious Kao, the announcer's running commentary and the GSL leader board framing the day's spectacle.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Kartijan",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 104,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 115,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 123,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 151,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 158,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 170,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 184,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 196,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 204,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 210,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 218,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 229,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 236,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 250,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 258,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 264,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 276,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Athena",
+      "b": true
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 294,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 301,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Announcer",
+      "b": true
+    },
+    {
+      "line": 312,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Reanus",
+      "b": true
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 331,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 351,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 366,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 368,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 370,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 379,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 383,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 386,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 388,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 391,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 395,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 396,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 400,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 406,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 407,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 409,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 415,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Mella",
+      "b": true
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Danik",
+      "b": true
+    },
+    {
+      "line": 429,
+      "type": "pose",
+      "actor": "Talia",
+      "b": true
+    }
+  ]
+}

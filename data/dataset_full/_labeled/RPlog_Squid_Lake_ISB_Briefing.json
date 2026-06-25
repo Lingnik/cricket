@@ -1,0 +1,27 @@
+{
+  "name": "RPlog_Squid_Lake_ISB_Briefing",
+  "title": "A Liaison's Reluctant Oath",
+  "summary": "Aboard the I2SD Inquisitor, just hours before undergoing surgery to don his covert disguise, ISB Sector Director Korynn Fleming summons Commander Vextin Mandor, the Imperial Navy liaison who first recommended the Dac operation, to his office. Fleming explains that he will personally infiltrate Calamari to coordinate his already-inserted moles, leaving Colonel Desson to run ISB affairs in his stead. He asks Mandor to serve as a discreet physical courier between the target zone and the Task Force, traveling under a falsified independent-trader identity. The scholarly, mild-mannered Mandor agrees, but when he raises the possibility of capture, Fleming coldly makes clear that Mandor must ensure his cover never breaks and, if caught, must take his own life before the rebels can interrogate him. Shaken but resolved, Mandor accepts the voluntary assignment as Fleming, his time running short, rises to depart for his insertion.",
+  "rows": [
+    {"line": 19, "type": "room", "actor": "", "b": false},
+    {"line": 20, "type": "room", "actor": "", "b": false},
+    {"line": 21, "type": "room", "actor": "", "b": false},
+    {"line": 22, "type": "room", "actor": "", "b": false},
+    {"line": 27, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 32, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 37, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 38, "type": "pose", "actor": "Korynn Fleming", "b": true},
+    {"line": 43, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 48, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 53, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 58, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 63, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 68, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 73, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 78, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 83, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 88, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 93, "type": "pose", "actor": "Vextin Mandor", "b": false},
+    {"line": 98, "type": "pose", "actor": "Korynn Fleming", "b": false}
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "name": "RPlog_Masquerade_Ball_A_Night_on_Yavin",
+  "title": "Masquerade Ball: A Night on Yavin",
+  "summary": "The Wampa Lounge aboard the Angry Rancor is transformed into a jungle-themed venue for a costumed masquerade ball set on Yavin. This index entry establishes the setting and catalogues the night's elaborate disguises, from the prize-winning Massassi-totem costume of Ramyxth and the raven-haired Lepidoptera to the Lethan Twi'lek Ka'una as a body-painted striped cat. A parade of other guests appear in costume, a tiki torch, a piranha beetle, a Rebel pilot, the Count, a Serenella imposter, a Hoojib, a Wookiee, a Ranphyx, and the bird-feathered Birdie, with Solon Halwinder and Kyrin attending uncostumed. The full role-play is split across five linked parts transcluded here, capturing the evening's masked revelry in detail.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "desc",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "desc",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "desc",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "desc",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+ "name": "RPlog_Ecks_is_a_Naughty_Boy",
+ "title": "Ecks Is a Naughty Boy",
+ "summary": "Convinced she has been swindled by the broker Kracen Ecks, the pilot-Jedi Johanna lures him to an abandoned, lawless spaceport in East Coronet City on Corellia, backed by her pilots Chana and Leo, after a bizarre incident in which Ecks's identical 'twin' tried to kill him in public. Johanna feigns sympathetic concern to draw out his story, but when Ecks deflects, she pins him to a wall with the Force while Chana presses him on whether he is a clone and Leo demands the truth about the Dig encounter. Crushed for air, Ecks confesses: he is a clone with no memory of his origins, recently put in Johanna's path by a vengeful New Republic General, an old flame she ruined, who promised him answers and who, Ecks insists, actually sent the murderous clone to kill them both. As the revelation lands and Johanna's grip tightens with rage, Ecks passes out before he can finish naming the threat. Meanwhile the hungover gambler Jaykub stumbles awake under a nearby ship, blunders toward the scene, and obliviously tries to charm a drink off the women, just as the evening's roleplay wraps.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "desc",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Jaykub",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jaykub",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jaykub",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jaykub",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

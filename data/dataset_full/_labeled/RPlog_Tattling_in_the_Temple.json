@@ -1,0 +1,1411 @@
+{
+  "name": "RPlog_Tattling_in_the_Temple",
+  "title": "Tattling in the Temple",
+  "summary": "In the sunlit solarium of the Jedi temple on New Alderaan, Ord Mantell, Ambassador Ambrosia Delgard seeks a private audience with Master Luke Skywalker to deliver troubling news. Reluctant in her role as messenger, she relays a warning passed to her by the opportunist Zeak Oppenhiemer: Johanna Te Da'nan intends to offer herself as apprentice to the Sith Lord Vidious in a reckless scheme to usurp power from Vadim and perhaps slay Vidious herself. Luke receives the report calmly, acknowledging that the desperate plan rings true to Johanna's loyal but reckless character, and gently presses Ambrosia for details while sensing the recent trauma weighing on her. The conversation turns to her young daughter Gabi, whose nightly terrors haunt them both, before the scene pauses and dissolves into a round of irreverent out-of-character banter between the two players.",
+  "rows": [
+    {
+      "line": 9,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 11,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

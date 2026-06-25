@@ -1,0 +1,433 @@
+{
+  "name": "RPlog_Little_Storyteller",
+  "title": "The Little Storyteller",
+  "summary": "Alone in a seaside cliff dwelling as dawn approaches, the young girl Gabi coaxes a dying fire back to life and etches a creation myth into the limestone floor with a shard of fossilized coral. In hushed, ritual cadence she tells the tale of the Sarian people, born from a cataclysm when the angry stars sent a wave of burning fire to punish their ungrateful charges. She recounts how those who heeded the warning signs hid deep within the world of Merganser and survived, emerging changed into a new world, while those who ignored the omens perished. A noise outside, footsteps on the shore, briefly halts her work and quickens her breath. Recognizing the approach of her guardian, the Jedi pilot Leo, she finishes her story, smothers the embers, and creeps off to embrace her krayt dragon companion in the dark.",
+  "rows": [
+    {
+      "line": 8,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 10,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 11,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Gabi",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

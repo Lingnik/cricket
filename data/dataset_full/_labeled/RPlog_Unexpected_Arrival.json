@@ -1,0 +1,433 @@
+{
+ "name": "RPlog_Unexpected_Arrival",
+ "title": "Unexpected Arrival: War Games over Ord Mantell",
+ "summary": "Three days into a large-scale New Republic war-game over Ord Mantell, the weary Audacity XO Rasi mans the bridge as the Caspian task force, posing as Imperial raiders, opens a simulated attack. Admiral Raddemacher cedes operational command of the attacking 'Imperial' fleet to a defected former Imperial officer, Cadet Lynae Cassius, who orchestrates aggressive, unorthodox tactics--drawing the defenders' corvettes into the MC-80's own firing arcs and committing hidden reserves. The Sith general Tyler Damion (callsign Fossil) leads the attacking Hydra fighter squadrons against Kyrin Sh'vani's Ghost Squadron, which fields the Jedi Ikihsa Enb'Zik and pits Force-user against Force-user. Across a sprawling, shifting capital-ship and starfighter melee involving Captain Texa Nathal's Valiant group, Cassius's relentless 'Imperial' wedge punches through the Republic line and scores a decisive simulated hit on the MC-80, ending the exercise with one Ghost pilot--Kyrin--'killed' and a rescue shuttle dispatched, as Cassius praises the crews and reports to medbay.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Admiral Raddemacher",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Texa Nathal",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Ohao Ostivort",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Texa Nathal",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ohao Ostivort",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Texa Nathal",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Texa Nathal",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  }
+ ]
+}

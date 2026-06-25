@@ -1,0 +1,631 @@
+{
+  "name": "RPlog_Local_Law",
+  "title": "Local Law",
+  "summary": "Commander Jonas, in full uniform for once, meets with Commander Valerius and the visiting intelligence officer Rainer at a Corellian military base to debrief local CorSec officers, Major Peny and Captain Durjan, about a covert broadcast operation. The interview sours as Durjan abruptly seals the room, guns down Major Peny, and reveals himself as a traitor intent on taking the Imperials hostage for an exchange. A vicious close-quarters brawl erupts, with Jonas, Valerius, and the wry Rainer trading blows and blaster fire with the determined Durjan until the stormtrooper Brek Halsmer blasts through the door to turn the tide. The corrupt captain is beaten down and shackled, and the officers grimly agree he must be treated as a hostile interrogation subject. With the fight won, the battered group trades dark humor and drinks amid the wrecked office, toasting the end of the bloody affair.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Peny",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Peny",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Peny",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Peny",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": true
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Peny",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": true
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Durjan",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Rainer",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Brek Halsmer",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Jonas",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Valerius",
+      "b": false
+    }
+  ]
+}

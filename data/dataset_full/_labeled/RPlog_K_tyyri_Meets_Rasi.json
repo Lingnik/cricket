@@ -1,0 +1,397 @@
+{
+ "name": "RPlog_K_tyyri_Meets_Rasi",
+ "title": "K'tyyri Meets Rasi",
+ "summary": "In a grand plaza on New Alderaan, the navy officer Rasi Cen waits to meet the surgeon Lynae, leaning on a cane from an old injury. Their conversation is interrupted by the arrival of K'tyyri, a feline N'kosi warrior-mother and refugee from Mutanda, herding her unruly cubs Sufa and Yadumu through the gardens. After a tense moment when Sufa stalks the humans, introductions are made, and K'tyyri explains that she seeks protection and an audience with the senators about war on her homeworld, ruined by the Griffin Alliance and the CSA. Lynae, a veteran of war herself, and Rasi offer to help her make connections with the Republic's leaders. The encounter winds between weighty talk of war and refuge and the comic chaos of K'tyyri's tumbling, squabbling children.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Sufa",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Sufa",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Sufa",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Yadumu",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": true
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  }
+ ]
+}

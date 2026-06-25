@@ -1,0 +1,211 @@
+{
+ "name": "RPlog_Uncomfortable_Traffic",
+ "title": "Uncomfortable Traffic: A Pirate Ambush over Ord Mantell",
+ "summary": "New Republic StarOps pilot Lieutenant Kesander 'Sandman' Beysarus pulls the freshly scrubbed Raxis 'Raptor' L'ygr from droid-maintenance duty to investigate pirate activity on the rimward edge of the Ord Mantell system. The two X-wings of Ghost Squadron find a pair of old Z-95 Headhunters--the outlaws Boordiz and Garhash--ambushing the battered freighter Teseract, whose captain Aram Feshda'kar and gunner Mihirin spray panicked covering fire. Sandman and Raptor set up a pincer attack from opposite flanks, masking their approach behind the system's sun, and catch the obsolete pirate craft by surprise. Raxis destroys Boordiz's fighter outright and finishes off the crippled Garhash, splashing both bandits, before the pilots escort the grateful Teseract safely into New Alderaan's spaceport. A day's work done, Ghost Squadron returns home.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Boordiz",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Teseract Crew",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Boordiz",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Garhash",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Teseract Crew",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Boordiz",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Boordiz",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Garhash",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Teseract Crew",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Garhash",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Kesander",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Teseract Crew",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

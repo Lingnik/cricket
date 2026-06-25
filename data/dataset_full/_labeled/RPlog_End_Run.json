@@ -1,0 +1,301 @@
+{
+ "name": "RPlog_End_Run",
+ "title": "End Run",
+ "summary": "Newly promoted Major Johmac Mabru leads Alpha Flight, a mixed escort of Ghost, Falcon, and Dagger squadron fighters, in a desperate run to push three supply freighters through the thinned Imperial blockade of Coruscant. They are met by the corvette Prowler under Commander Jal'Dana Rall, who scrambles her Zeta and Viper squadrons and personally takes to a TIE Interceptor to lead the defense, splitting her forces to herd the freighters into the corvette's guns. A swirling dogfight ensues: Johmac, the Corellian Cole, and the breezy A-wing pilot Aramis tangle with the Imperial aces Hawkeye and Hammer while Jal'Dana commands the battlefield from her cockpit, downing an A-wing and directing the Prowler's turbolasers to cripple one freighter. The New Republic pays a heavy price, losing two Y-wings, an A-wing, and a freighter, but the two surviving freighters slip past the corvette's flank and jump clear toward Coruscant with their vital cargo. Johmac counts the run a bittersweet success against the odds, while the exhausted Commander Rall, having bloodied the Republic yet again, recalls her fighters to resupply, the Imperial noose tightening a little more with each costly crossing.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Cole",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Hawkeye",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Hammer",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Cole",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Hawkeye",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Hammer",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Cole",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Hawkeye",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Hammer",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Cole",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Hawkeye",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Hammer",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Hawkeye",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Hammer",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Johmac",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

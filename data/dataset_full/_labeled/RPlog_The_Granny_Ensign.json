@@ -1,0 +1,20 @@
+{
+  "name": "RPlog_The_Granny_Ensign",
+  "title": "The Granny Ensign",
+  "summary": "Under the twin suns of Tatooine, the Imperial handler Rainier walks the newly arrived security officer Sivytra, nicknamed the \"granny ensign\" for graduating Carida at an older age, through the streets of Mos Eisley. As they move past domed houses and guarded plazas, Rainier quizzes Sivy on the local power struggle between rival crime lords Ghent and the Hutt-backed Ollin Rel, testing her tactical instincts. Sivy lays out detailed plans for fortifying and assaulting Ghent's fortified cafe headquarters and for covertly backing his side using disguised naval or army troops as proxy forces. Impressed, Rainier explains that their own presence remains hidden behind an Imperial decoy asset and instructs her to keep building contacts and listening until he assigns her first mission the next day. Sivy agrees, opting to return to her lodging by a different route, and the two part.",
+  "rows": [
+    {"line": 15, "type": "scene", "actor": "", "b": false},
+    {"line": 19, "type": "pose", "actor": "Sivytra", "b": false},
+    {"line": 21, "type": "pose", "actor": "Sivytra", "b": false},
+    {"line": 23, "type": "pose", "actor": "Rainier", "b": false},
+    {"line": 25, "type": "pose", "actor": "Sivytra", "b": false},
+    {"line": 27, "type": "pose", "actor": "Rainier", "b": false},
+    {"line": 29, "type": "pose", "actor": "Sivytra", "b": false},
+    {"line": 31, "type": "pose", "actor": "Rainier", "b": false},
+    {"line": 33, "type": "pose", "actor": "Sivytra", "b": false},
+    {"line": 35, "type": "pose", "actor": "Rainier", "b": false},
+    {"line": 38, "type": "pose", "actor": "Sivytra", "b": false},
+    {"line": 40, "type": "pose", "actor": "Rainier", "b": false},
+    {"line": 43, "type": "pose", "actor": "Sivytra", "b": false}
+  ]
+}

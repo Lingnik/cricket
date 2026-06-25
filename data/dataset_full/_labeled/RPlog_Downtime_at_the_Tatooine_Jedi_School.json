@@ -1,0 +1,115 @@
+{
+ "name": "RPlog_Downtime_at_the_Tatooine_Jedi_School",
+ "title": "Downtime at the Tatooine Jedi School",
+ "summary": "During a quiet afternoon at the Jedi School on Tatooine, Princess Leia relaxes in the Meditation Room with the student Aubrey, reflecting on the bittersweet aftermath of Emperor Palpatine's death, when her brother Luke Skywalker enters and joins them. The twins share a tender greeting and somberly observe that, despite the celebrated victory, the war is far from over and new threats to peace remain. The drowsy student Ethan wakes from a half-day's sleep among the pillows, the diligent apprentice Cort proudly unveils a sketch for a new Jedi training device, and the shy alien student Tholt slips in from the suns, comically muddling the introductions. Leia, gently insisting she is a fellow learner here and not to be fawned over, smooths over the students' awe with self-deprecating humor. Aubrey excuses herself from the stuffy, crowded room, and the scene settles into easy camaraderie as Ethan agrees to help Cort build his contraption.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Aubrey",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Aubrey",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Tholt",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Luke",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Aubrey",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Aubrey",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Tholt",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  }
+ ]
+}

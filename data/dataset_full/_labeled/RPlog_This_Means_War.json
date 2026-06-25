@@ -1,0 +1,23 @@
+{
+  "name": "RPlog_This_Means_War",
+  "title": "Firefight in the Subterranean Bazaar",
+  "summary": "In the Subterranean Bazaar beneath Coruscant, the Privateers -- commodore Dylan and his crew Racra and Kintor -- gun down the mercenary Jaxx, who is felled by Racra's blaster and Dylan's stun coils for having attacked one of their own on the orders of a man named Morgan. Crime lord Tyy'sun Eson arrives and boldly steps between Jaxx and his assailants, revealing himself and demanding that the Privateers respect his domain over the Undercity and bring future grievances to him rather than acting on their own. Dylan refuses to take orders and departs, planting droids that detonate explosives among the crowd as a parting insult. Enraged by the slaughter of civilians in his territory, Tyy'sun hurls his armored air-speeder directly at Dylan as a projectile, grievously wounding the commodore. The standoff over a settled debt erupts into open war between the two factions.",
+  "rows": [
+    {"line": 18, "type": "pose", "actor": "Racra"},
+    {"line": 20, "type": "pose", "actor": "Kintor"},
+    {"line": 22, "type": "pose", "actor": "Jaxx"},
+    {"line": 24, "type": "pose", "actor": "Dylan"},
+    {"line": 27, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 29, "type": "pose", "actor": "Racra"},
+    {"line": 31, "type": "pose", "actor": "Kintor"},
+    {"line": 33, "type": "pose", "actor": "Jaxx"},
+    {"line": 35, "type": "pose", "actor": "Dylan"},
+    {"line": 37, "type": "pose", "actor": "Dylan", "b": true},
+    {"line": 39, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 41, "type": "pose", "actor": "Racra"},
+    {"line": 43, "type": "pose", "actor": "Kintor"},
+    {"line": 45, "type": "pose", "actor": "Dylan"},
+    {"line": 47, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 49, "type": "pose", "actor": "Dylan"}
+  ]
+}

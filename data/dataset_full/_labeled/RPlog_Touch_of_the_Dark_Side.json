@@ -1,0 +1,709 @@
+{
+ "name": "RPlog_Touch_of_the_Dark_Side",
+ "title": "Touch of the Dark Side: A Reckoning in the Smuggler's Dig",
+ "summary": "In a seedy Corellian cantina, an eclectic crowd of Imperials, defectors, and a New Republic Jedi pass an afternoon of barbed drinking. The ISB agent Korynn Fleming, moving under the alias Jakob Pak, quietly arranges a target's death before slipping out, while Petra and her aide Davyd discuss boosting CorSec training and Commodore Lynae Caiton nurses the disgraced ex-officer Dareus and a hung-over Johanna. As the wine flows and the pilot Nynaeve plays her woodwind, the Jedi Johanna Siri te Danaan trades increasingly pointed philosophical blows with Dareus over the Sith, the dark side, and the costs of power. When Dareus needles her once too often, Johanna ignites her lightsaber and then chokes him with the Force before the watching Sith Warlord Vassily Korolov, drawing on the dark side she learned under the Emperor; she relents only when he passes out, sickened by what she has done. Korolov, delighted, agrees to wipe the memory of the incident in exchange for a dark scroll Johanna stole from the temple at Ord Trasi, and the two strike their bargain as the evening closes.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Corellian Patron",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Petra",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Nynaeve",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Vassily Korolov",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "name": "RPlog_Simon_Sezirok_Fights_CorSec",
+ "title": "Simon Sezirok Fights CorSec",
+ "summary": "On Trader's Way in Coronet City, the Telgossian wanderer Simon Sezirok and the Corellian Markus Lisardis cross paths just as two corrupt CorSec officers, looking to vent their frustrations, harass Markus over invented 'Good Citizen' laws and draw their blasters. When one guard turns his weapon on the bystander Dracon, Simon ignites his lightstaff to draw fire while Markus, seizing the distraction, elbows and kicks one officer unconscious. Simon deflects the experienced guard's volleys until the man, realizing he faces a Jedi, hastily pretends nothing happened and helps his battered partner. Grateful and intrigued by Simon's strange weapon, Markus leads him to the Smuggler's Dig cantina to lie low, where Simon at last begins to explain that his lightstaff is the product of the Selas Ritual of Acceptance, descended from the teachings of the ancient Jedi.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "desc",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "desc",
+   "actor": "Dracon",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Dracon",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Dracon",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Dracon",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Dracon",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

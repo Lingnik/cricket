@@ -1,0 +1,181 @@
+{
+ "name": "RPlog_Traitor",
+ "title": "Traitor: A Defector's Trap on Chandrila",
+ "summary": "During the Imperial occupation of Chandrila, Captain Danik Kreldin meets in his commandeered control-tower office with Fenn Khor, the head of military operations for the local New Republic insurgency, who offers to defect. Hardened by years on the savage jungle moon of Dxun, Fenn professes loyalty only to strength and the Empire, and proposes to betray his own comrades by luring an insurgent prison-break team into an Imperial ambush. Kreldin agrees, sending Fenn back to gather attack details in exchange for Stormtrooper armor secretly fitted with tracking devices, and warns him against any double-cross. The next day Fenn returns with a still greater prize: word that Luke Skywalker has joined the insurgents and will lead the prison strike, prompting Kreldin to summon special help and consider hostage-taking to neutralize the Jedi, while Fenn pledges his service and slips back to his doomed comrades.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Fenn Khor",
+   "b": false
+  }
+ ]
+}

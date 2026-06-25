@@ -1,0 +1,355 @@
+{
+ "name": "RPlog_Korynn_is_Discovered_at_Selene",
+ "title": "Korynn is Discovered at Selene",
+ "summary": "When a top-priority signal reaches the ISB Command Center reporting that the missing Korynn Fleming has been found carbonite-frozen in a trader's cargo at Selene, Colonel Desson dispatches the agent Dreven Mercurio to retrieve him. At Selene, Dreven meets Commissar Bossil Perlee, confirms the prisoner's identity with a 97-percent biometric match, and takes custody of the slab, which had clearly been tortured by amateurs. Brought back aboard the Star Destroyer Inquisitor under Krieg's watchful eye, Korynn is thawed and submerged in bacta to heal. As Dreven formally processes 'Prisoner 198A,' Korynn -- relieved to be home rather than in enemy hands -- accepts that he will be questioned and judged by the Select Committee before being restored to Imperial duty.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Colonel Desson",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Bossil Perlee",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Bossil Perlee",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Bossil Perlee",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Bossil Perlee",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "desc",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "desc",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Dreven Mercurio",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

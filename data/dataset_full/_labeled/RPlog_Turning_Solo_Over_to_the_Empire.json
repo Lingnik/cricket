@@ -1,0 +1,1903 @@
+{
+ "name": "RPlog_Turning_Solo_Over_to_the_Empire",
+ "title": "Turning Solo Over to the Empire",
+ "summary": "On the CSA capital world of Etti IV, the Authority official Simone Drake--eager to be rid of the New Republic warships menacing her sector--escorts the cloaked Imperial agent Sabbath to the Port Security Office where Han Solo is being held prisoner. Sabbath gloats over the captured smuggler, who responds with characteristic defiance and a failed escape attempt, before Sabbath subdues him with a brutal choke and a drugged vial that knocks him unconscious. Hoisting Solo over his shoulders, Sabbath carries him across the late-night starport to his shuttle, the Crazy Diamond, and departs for Imperial space, thanking Drake for her cooperation. Drake, anxious to keep the handover quiet, returns home through the city, passing--without recognizing--the disguised musician Shenner playing flute on a park bench, who is shaken to realize how close she has come to the dangerous woman's residence.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "desc",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "desc",
+   "actor": "Duke",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "desc",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "desc",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "desc",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 400,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 431,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 433,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 445,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 460,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 476,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Simone Drake",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 489,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 490,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 493,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

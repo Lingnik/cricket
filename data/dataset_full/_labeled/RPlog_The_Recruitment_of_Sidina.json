@@ -1,0 +1,26 @@
+{
+  "name": "RPlog_The_Recruitment_of_Sidina",
+  "title": "An Offer at the Boarding Ramp",
+  "summary": "At a crowded Corporate Sector spaceport, the bounty hunter Sidi Ren struggles to load cargo aboard her ship, the Destin Forada, unaware that the crime lord Tyy'sun Eson has been watching her for over a week. Eson approaches and reveals himself as a Deputy Viceprex of Resources, offering to recruit her talents and connections into his growing Twi'lek syndicate. Wary and paranoid, Sidi keeps a blaster trained on him throughout, insisting they talk aboard her ship while she probes the terms of his proposition. Eson dangles protection, brotherhood, advancement, and sponsorship beyond what her independent work or the OOAG can provide, while warning that involvement with him will test her loyalty. Sidi admits her loyalties already lie with whichever side is winning -- currently the Imperials -- but ultimately extends her hand, and Eson seals the deal, promising she will hear from him soon.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Sidi Ren"},
+    {"line": 17, "type": "pose", "actor": "Sidi Ren", "b": true},
+    {"line": 20, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 22, "type": "pose", "actor": "Sidi Ren"},
+    {"line": 23, "type": "pose", "actor": "Sidi Ren", "b": true},
+    {"line": 25, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 27, "type": "pose", "actor": "Sidi Ren"},
+    {"line": 28, "type": "pose", "actor": "Sidi Ren", "b": true},
+    {"line": 30, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 32, "type": "pose", "actor": "Sidi Ren"},
+    {"line": 33, "type": "pose", "actor": "Sidi Ren", "b": true},
+    {"line": 35, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 37, "type": "pose", "actor": "Sidi Ren"},
+    {"line": 39, "type": "pose", "actor": "Sidi Ren", "b": true},
+    {"line": 41, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 43, "type": "pose", "actor": "Sidi Ren"},
+    {"line": 44, "type": "pose", "actor": "Sidi Ren", "b": true},
+    {"line": 46, "type": "pose", "actor": "Tyy'sun Eson"},
+    {"line": 48, "type": "system", "actor": ""}
+  ]
+}

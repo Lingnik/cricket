@@ -1,0 +1,91 @@
+{
+ "name": "RPlog_Vendetta_Swoops_Sources",
+ "title": "Vendetta, Swoops, and Sources",
+ "summary": "At a swoop racing arena on Nar Shaddaa, the independent Ithorian fixer Rixt follows a thin lead to a strange, heavily cyborged man named Elias, who watches the races from a private vantage and prides himself on being well informed. Speaking past the roar of passing swoops, Elias confirms he is the contact behind Rixt's summons and lays out an enticing offer: he can supply rare Ithorian flora--including the Karobba flower, secretly grown at a research facility developing an anti-Jedi toxin--in exchange for keeping Rixt on retainer for a discreet long-term project. Intrigued less by profit than by the challenge, Rixt agrees to start with the single plant and a near-term acquisition to test the partnership. Satisfied, Elias names his target--Moff Jacob Festus--and gives Rixt one week to gather all he can on the Moff's activities in return for his flower, before departing to collect his winnings.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "desc",
+   "actor": "Elias",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Elias",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Elias",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Elias",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Elias",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Elias",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Rixt",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Elias",
+   "b": false
+  }
+ ]
+}

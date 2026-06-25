@@ -1,0 +1,2791 @@
+{
+ "name": "RPlog_Jairen_Stops_a_Thief",
+ "title": "Jairen Stops a Thief",
+ "summary": "On a rainy night in Plaxton's SandBar on Caspar, the Marine pilot Tarlin Lathis, the cold Imperial-trained officer Joir, and the former TIE-pilot-turned-swoop-mechanic Azya share a wary, philosophical conversation over coffee, Joir baring an Imperial Royal Guard tattoo as he muses on discipline and chaos. The graceful, elf-eared swordsman Jairen arrives and quietly catches a pickpocket (Wil) in a wrist lock; when Wil's drunken friend Tegger draws a blaster on him at point-blank range, Jairen disassembles the gun with a lightning-fast stroke of his ornate sword, leaving Tegger to flee in terror straight into the arms of Tarlin's summoned Marines. The street musician Shenner, the bartender Ariani, and the self-important Dark Jedi Ozzle look on as the brief confrontation ends without bloodshed, Ariani rewarding Jairen's neat work with a drink on the house.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "desc",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "desc",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "desc",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 198,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 206,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 207,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 210,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 213,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "desc",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 339,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 340,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 341,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 342,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 343,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 348,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 349,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 351,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 353,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 354,
+   "type": "desc",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": true
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 476,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 541,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 550,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 559,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 565,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Tegger",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 576,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 577,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 581,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 585,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Joir",
+   "b": true
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Tarlin Lathis",
+   "b": true
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Jairen",
+   "b": true
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 601,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": true
+  },
+  {
+   "line": 603,
+   "type": "pose",
+   "actor": "Azya",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Azya",
+   "b": true
+  },
+  {
+   "line": 606,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

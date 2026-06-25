@@ -1,0 +1,313 @@
+{
+  "name": "RPlog_Interrogation_of_Korynn_Part_1",
+  "title": "The Interrogation of Director Fleming",
+  "summary": "In the interrogation wing of the I2SD Inquisitor, ISB Director Korynn Fleming, recovered from abduction and torture and now designated Prisoner 198A, is questioned by his own subordinate Agent Dreven Mercurio to determine whether he has been compromised, with the curious Agent Acthpa looking on. Suspended in a bacta tank, Fleming insists he was never broken by his captors, that he fed them dead-end lies, and that he serves Emperor Vadim more loyally than ever, enduring repeated bursts of subcutaneous electrical torture without yielding. He reveals his abduction was the result of a deliberate operation to draw out enemies of the Bureau, blames the CSA for the attack, and pointedly faults Mercurio for failing to protect him. When Dreven displays a live feed of Fleming's kneeling biological parents and threatens their execution to extract more information, Korynn refuses to break, coldly accepting their apparent murder with the words 'Glory to the Empire.' Dreven leaves the shock running and departs with Acthpa, intending to resume later; an OOC note clarifies the parents' execution was staged.",
+  "rows": [
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Acthpa",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Acthpa",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Acthpa",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Acthpa",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 116,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Acthpa",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 132,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Acthpa",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 153,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

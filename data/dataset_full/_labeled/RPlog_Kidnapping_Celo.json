@@ -1,0 +1,91 @@
+{
+ "name": "RPlog_Kidnapping_Celo",
+ "title": "Kidnapping Celo",
+ "summary": "Leaving an estate he had successfully cased, the Chiss spy Cetolum realizes he is being tailed and turns down an alley to confront his pursuer -- Danik Kreldin (operating under the name Alois), clad in jetpack-equipped enhanced armor and shadowed by plainclothes guards. The two trade cool words before Danik throws a non-lethal glop grenade to pin Cetolum, who narrowly dodges into the rubbish. Hovering out of reach, Danik corners him and opens fire with a powerful HM-100 riot gun, blasting away Cetolum's cover and the spy himself. With Cetolum downed, Danik hauls the unconscious Chiss over his shoulder and plans a stealthy route through Coronet's sewers back to his estate for interrogation.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Cetolum",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

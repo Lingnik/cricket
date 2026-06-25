@@ -1,0 +1,115 @@
+{
+ "name": "RPlog_Krieg..._to_the_Rescue",
+ "title": "Krieg to the Rescue",
+ "summary": "Captured New Republic pilot Shael endures sleep deprivation, beatings, and sensory torture in an ISB detention block, broken down by an abusive guard who keeps her hooded, cuffed, and standing for hours. Finally moved to a white interrogation cell, she is visited by Marshal Krieg Inrokana, whose arrival brings a flood of relief and hope. Krieg, however, insists she address him by his title and number her as a prisoner, explaining that on ISB territory he can do little for her unless she trades information or enlists in Imperial service. Shael refuses to betray the New Republic, insisting she knows nothing despite having admitted to orchestrating the raid that got her captured. Krieg leaves her with only a vague promise to seek food and look into her claims, and the guard hauls her back to her cell for another beating.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Shael",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  }
+ ]
+}

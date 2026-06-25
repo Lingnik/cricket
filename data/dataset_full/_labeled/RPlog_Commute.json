@@ -1,0 +1,19 @@
+{
+  "name": "RPlog_Commute",
+  "title": "The Long Commute Through the Jungle",
+  "summary": "Eleven hours after their first clash with Malign's forces, the Sullustan Padawan Enb'Zik and his feline wife Snarl flee through the lush jungle outside Tof Soren on Ord Vaxal, methodically hunted by tireless Sith battle droids that quarter the forest and track heat signatures. Pausing near the forest's edge, Enb'Zik rigs thermal decoys to mislead their pursuers and outlines his plan to infiltrate the old layered penal city through its storm drains and bluff districts to reach Old Soren. Snarl, ever scanning their surroundings, suggests climbing the bluffs by claw or vine. As speeder-mounted droids search the canopy and converge on the crash site and their heat trail, the pair press on toward the glowing capital with dawn still two hours away.",
+  "rows": [
+    {"line": 19, "type": "scene", "actor": "", "b": false},
+    {"line": 21, "type": "pose", "actor": "Enb'Zik", "b": false},
+    {"line": 23, "type": "scene", "actor": "", "b": false},
+    {"line": 25, "type": "scene", "actor": "", "b": false},
+    {"line": 27, "type": "pose", "actor": "Snarl", "b": false},
+    {"line": 29, "type": "pose", "actor": "Snarl", "b": false},
+    {"line": 31, "type": "scene", "actor": "", "b": false},
+    {"line": 33, "type": "scene", "actor": "", "b": false},
+    {"line": 35, "type": "pose", "actor": "Enb'Zik", "b": false},
+    {"line": 37, "type": "pose", "actor": "Snarl", "b": false},
+    {"line": 39, "type": "scene", "actor": "", "b": false},
+    {"line": 41, "type": "system", "actor": "", "b": false}
+  ]
+}

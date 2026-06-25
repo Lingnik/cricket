@@ -1,0 +1,463 @@
+{
+ "name": "RPlog_Landing_on_Cochran",
+ "title": "Landing on Cochran",
+ "summary": "As Grand Admiral Kreldin's fleet pins the Griffon Fleet, the Imperial 501st launches a massive dropship assault on the Lingons starport on Cochran. Stormtroopers ST-1337 and ST-2034, under sergeant Tanis Cadell, spearhead the landing into withering fire, while the defected officer Sandor Woden -- now fighting on an assignment he barely understands beside the marine Kintor -- finds himself targeting the very Imperials he once served. The battle becomes a grinding starport firefight of grenades, E-webs, smoke screens, and jetpack Griffon assault troops, with Captain Thabo Mbeki pressing the rebel Army company forward and the veteran Maethor setting up gun positions. Sandor is wounded and pulled back as Imperial air support and fresh CompForce dropships arrive, and New Republic Ghost Squadron X-wings finally scream into the contested skies above the embattled starport.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "ST-2034",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "ST-2034",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "ST-2034",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Tibor Stasio",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "ST-2034",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Sandor Woden",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Thabo Mbeki",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Thabo Mbeki",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": true
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": true
+  },
+  {
+   "line": 240,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "ST-1337",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Thabo Mbeki",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Kintor",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Maethor",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Kensle Gradvitz",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Kensle Gradvitz",
+   "b": true
+  },
+  {
+   "line": 283,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  }
+ ]
+}

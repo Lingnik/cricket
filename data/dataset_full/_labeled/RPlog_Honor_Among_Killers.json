@@ -1,0 +1,1429 @@
+{
+  "name": "RPlog_Honor_Among_Killers",
+  "title": "The Skin of Samus",
+  "summary": "At the Imperial Embassy, the hunter Taggor seeks out the scarred Ambassador Morganna to ask what she knows of the bounty hunter Detjin and whether he would have reason to join the Hunters' Guild. Their conversation turns grim when Morganna boasts of a trophy in her collection, the skin of a Horansi named Samus, who turns out to have been Taggor's dear friend and master. After an angry confrontation, Morganna explains that Detjin, not she, killed the feline, and that she merely purchased the skin. Moved by Taggor's grief, she leads him to her private trophy chamber and, in an unexpected gesture of honor between killers, permits him to perform Horansi death rites over Samus and take the pelt away to lay it to rest properly. Taggor accepts, promising to replace it with the next Horansi he hunts, and the two part on uneasy but mutually respectful terms, with Morganna warning him to keep her involvement secret from a figure named Sharkad.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 190,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 230,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Taggor",
+      "b": true
+    },
+    {
+      "line": 309,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

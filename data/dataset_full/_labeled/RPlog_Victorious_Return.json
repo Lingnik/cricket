@@ -1,0 +1,565 @@
+{
+ "name": "RPlog_Victorious_Return",
+ "title": "Victorious Return: Extraction from Dathomir",
+ "summary": "After a costly ground campaign on Dathomir, the corvette Relentless under Captain Wardin and Interceptor pilots led by Liza 'Slush' Molokai arrive to extract the stranded Imperial forces once the New Republic's Audacity withdraws. Commander Dante coordinates the survivors and the dead on the ground as TIE-escorted shuttles land, load the wounded, and lift off without resistance, returning to the Star Destroyer Inquisitor. In the hangar bay, the recovered but gravely weakened Marshal Krieg--who had given away his rations and starved for a week rather than touch rebel food--rises from his stretcher to a stormtrooper honor guard and a thunderous 'Hoorah,' declaring the mission a victory and ordering an open bar, shore leave, and ISB debriefings. Amid jubilant reunions among Dante, Liza, Sarai, Odion, Keline, and the stormtrooper Karissa, Krieg playfully orders the soap-craving, water-shy troops hosed down before being escorted off to rest, leaving the celebration--and a cold-water dousing--in full swing.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Captain Wardin",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Captain Wardin",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Shuttle Pilot",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Relentless Comm",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Shuttle Pilot",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Shuttle Pilot",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Karissa",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Sarai",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  }
+ ]
+}

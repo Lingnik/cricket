@@ -1,0 +1,475 @@
+{
+  "name": "RPlog_Battle_of_Bothawui_III_25_ABY",
+  "title": "Battle of Bothawui III (25 ABY)",
+  "summary": "With Drev'starn city fallen to the Republic, the Imperial battle squadron withdraws, its Star Destroyers carrying troops meant to crush the offensive, while Commander Argon Brand -- now aboard the assault frigate Derlin -- moves to see what the Imperials intend. Captain Harval Shaw, commanding the Victory-class Executioner, turns to engage with three Carrack cruisers as Argon doggedly maneuvers to keep the Derlin on the Star Destroyer's port side and away from its forward guns. Through a prolonged duel of turbolasers and ion cannons, Shaw cannot divine the Republic captain's single-minded tactic until, too late, the Derlin makes a reckless head-on overshoot, clearing the Executioner at point-blank range and settling behind its exposed, stabilizer-crippled stern. Argon's broadsides knock out the Executioner's engines, leaving it dead in space, and he demands its surrender. Shaw stalls for time to attempt a hyperspace jump while insisting on speaking to a senior officer, but Captain Cen of the Deliverance orders Argon to fire; the jump fails, two engineers die containing a reactor breach, and Shaw finally yields his ship and crew. As terms are arranged, Shaw quietly marches off to purge his computer core.",
+  "rows": [
+    {
+      "line": 12,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Argon Brand",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Harval Shaw",
+      "b": false
+    }
+  ]
+}

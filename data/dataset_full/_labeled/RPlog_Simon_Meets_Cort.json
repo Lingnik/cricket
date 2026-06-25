@@ -1,0 +1,349 @@
+{
+ "name": "RPlog_Simon_Meets_Cort",
+ "title": "Simon Meets Cort",
+ "summary": "Fleeing through the darkened streets of Caspar with the timid Mira in tow, the Telgossian Simon Sezirok senses he is being stalked and turns to face his pursuer: the corpse-pale Dark Jedi Cort Stasus, who has tracked them by the Force. Cort, looking sickly from his Sith studies, admires Simon's homemade lightstaff and presses him about his allegiances, offering to teach him the true power of the Force and bring him before his Master. Simon refuses, declaring loyalty only to Mira and Markus Lisardis, and when Cort reveals he killed the Jedi Ethan Katana, an outraged Mira pelts him with garbage. As the duel of blades begins, an NRI hovercar screeches in to extract Mira; Simon orders her to flee and squares off against Cort's twin crimson sabers, certain he is outmatched.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "desc",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

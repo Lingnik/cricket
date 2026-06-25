@@ -1,0 +1,2929 @@
+{
+ "name": "RPlog_Jessalyn_s_Dream",
+ "title": "Jessalyn's Dream",
+ "summary": "Unable to sleep aboard the NRV Alderaan, Jessalyn Valios confides to Luke Skywalker that strange dreams and alien thoughts have been intruding on her mind. Luke takes her hand and gently probes her dream through the Force, surfacing a vision of an interrogation and a fair-haired stranger -- but recoils in alarm when he momentarily mistakes the dark presence for Sabbath, drawing the worried attention of Admiral Jeralic. Luke escorts the shaken Jessalyn to the crew quarters, where the disguised street kid Shenner, fluting quietly in the dark, is drawn into conversation and reveals that the fallen Force-user Lady Alora Antieres has been on Etti IV trying to recruit her -- news that stuns Luke. Jessalyn confesses her fear of Luke and his power, and he patiently explains the Force that surrounds them before finally coaxing her back to sleep and slipping out.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 186,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 204,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": true
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Jeralic",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 452,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 466,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 476,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 523,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 537,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 553,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 559,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 561,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 565,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 567,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 575,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 577,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 581,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 587,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 597,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 601,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 611,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 617,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 620,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 624,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 627,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 629,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 633,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 639,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": true
+  },
+  {
+   "line": 640,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 643,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 645,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 648,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 652,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 653,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 660,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 665,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 670,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 677,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 680,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 683,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 685,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 686,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 688,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 690,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 691,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 693,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 694,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 695,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 697,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 699,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 701,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 702,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 704,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 705,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 707,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

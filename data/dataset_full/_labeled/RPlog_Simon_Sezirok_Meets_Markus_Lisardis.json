@@ -1,0 +1,475 @@
+{
+ "name": "RPlog_Simon_Sezirok_Meets_Markus_Lisardis",
+ "title": "Simon Sezirok Meets Markus Lisardis",
+ "summary": "In the bustling Coronet City spaceport, the lost Telgossian wanderer Simon Sezirok keeps a hunter's watch over the crowd, sensing that his waiting is at an end as two YT-1300s arrive. The cold huntress Kacela snatches a flyer and trades a wary stare with Simon before departing, while the Corellian freelancer Markus Lisardis disembarks with his ratty-cloaked young charge Mira, whom he has taken under his wing. Simon greets the pair, and he and Markus fall into a long, searching conversation about home, exile, and family: Simon explains he is forever lost from his land-bound people of Telgosse, while Markus recounts leaving Corellia and his father's capture by the Imperials. Recognizing a noble kinship, Markus introduces himself and Mira and offers Simon his help, the two parting as new acquaintances as the spacer Morrison looks on.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "desc",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "desc",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "desc",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "desc",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "desc",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "desc",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "desc",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "desc",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "desc",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

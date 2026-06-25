@@ -1,0 +1,1561 @@
+{
+  "name": "RPlog_Healing_on_Calamari",
+  "title": "A Bedside Confession on Mon Calamari",
+  "summary": "Recovering in a Calamari hospital with his injured right arm sealed in a bacta enclosure awaiting a new prosthetic, Luke Skywalker is visited by Jessalyn, who comes to thank him for rescuing her, and shortly after by his sister Leia. After Leia leaves to attend diplomatic matters and pass along word of their safe arrival, Luke gently presses Jessalyn about her awkwardness around him, drawing out the subject of the kiss they shared. Jessalyn admits she is in love with him, while Luke, pained, confesses he cannot pursue a relationship given his responsibilities, even as the two share tender kisses and admissions of feeling. The conversation ends unresolved but affectionate, with Jessalyn promising to return the next day as Luke settles back to rest. The log is an intimate, dialogue-driven character piece centered on the strained romance between Luke and Jessalyn.",
+  "rows": [
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 63,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "desc",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 116,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "desc",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "desc",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 203,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 323,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 336,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Jessalyn",
+      "b": true
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Luke",
+      "b": true
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+ "name": "RPlog_Jedi_Purge_-_Cort_versus_Ethan",
+ "title": "Jedi Purge: Cort versus Ethan",
+ "summary": "Having already killed Aubrey, Priti, and Tholt, the corrupted apprentice Cort rigs the Tatooine Jedi School with a bomb and lies in wait as the last surviving student, Ethan, returns on a Dewback with the protocol droid Threepio and a recovered statue. Stricken with grief at the sight of his dead friends, Ethan is ambushed: Cort blasts Threepio and crushes Ethan's dog Bram against a wall with the Force before the two duel with lightsabers amid the wreckage. Driven into an animal rage by Ethan calling him 'Cort,' the Dark Jedi overwhelms the half-blind apprentice and beats him to death. With the bomb's timer ticking down, Cort gathers his trophies and leaves the school behind, content to return home to his master.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Ethan",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Cort",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Cort",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

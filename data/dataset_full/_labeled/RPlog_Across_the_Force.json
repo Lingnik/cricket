@@ -1,0 +1,901 @@
+{
+ "name": "RPlog_Across_the_Force",
+ "title": "Across the Force",
+ "summary": "Adrift in the silvery dreamscape of the Force, the wounded Orson meditates while brooding over Jessalyn's apparent turn to the dark side and her decision to change allegiances. Unintentionally his consciousness brushes against the sleeping Jessalyn, who has been hiding with Simon in the sewers and whose mental barriers against the Force have begun to dissolve. The two former companions speak across the distance: she begs him to leave her alone and to fulfill his destiny without mourning her, insisting she cannot return to the Jedi tainted as she is, while Orson refuses to abandon her, admitting only that he was not strong enough for her. A childhood memory surfaces of a five-year-old Jessalyn on a landing pad, offering wildflowers to the departing Dr. Xavier Nighman, the one adult who ever cared for her, before he leaves her behind. As the fragile contact frays, Orson is reeled back across the Force and wakes at the Uwannabuyim's workstation, whispering that had the Jedi asked him months ago whether he wished to learn the Force, he would have said no.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Orson",
+   "b": true
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Orson"
+  },
+  {
+   "line": 223,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

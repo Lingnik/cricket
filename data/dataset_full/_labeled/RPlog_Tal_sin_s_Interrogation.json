@@ -1,0 +1,18 @@
+{
+  "name": "RPlog_Tal_sin_s_Interrogation",
+  "title": "Staff Sergeant Secura's Defiance",
+  "summary": "Revived in a high-security holding facility, the captured Twi'lek deserter Tal'sin Secura is led in a prisoner jumpsuit to an interrogation room to be served his charges by the JAG officer Vengan, accompanied by his assigned counsel Captain Malouf and prosecutor Major Rojones. Insolent and unbowed, Tal'sin props his feet on the table and mocks Vengan even as he is presented with a list of charges, the gravest being five counts of attempted murder of Republic Marines for firing a ZCF grenade launcher at Sergeant Rourke, plus desertion, resisting arrest, and assorted lesser offenses. Vengan offers to amend a stolen-property charge in exchange for the access codes to a Gnat called Quicksilver. Tal'sin scornfully crosses out the most serious charge, refuses to negotiate, and demands to be returned to his cell to await a military judge. Vengan orders him put on combat half-rations for a week with no amenities, but the hardened Twi'lek, a survivor of Ryloth's heat storms and two Sith Star Destroyers, only laughs off the punishment as a vacation.",
+  "rows": [
+    {"line": 8, "type": "scene", "actor": "", "b": false},
+    {"line": 10, "type": "pose", "actor": "Tal'sin", "b": false},
+    {"line": 12, "type": "pose", "actor": "Vengan", "b": false},
+    {"line": 14, "type": "pose", "actor": "Tal'sin", "b": false},
+    {"line": 16, "type": "pose", "actor": "Vengan", "b": false},
+    {"line": 18, "type": "pose", "actor": "Tal'sin", "b": false},
+    {"line": 20, "type": "pose", "actor": "Vengan", "b": false},
+    {"line": 22, "type": "pose", "actor": "Tal'sin", "b": false},
+    {"line": 24, "type": "pose", "actor": "Vengan", "b": false},
+    {"line": 26, "type": "pose", "actor": "Tal'sin", "b": false},
+    {"line": 27, "type": "system", "actor": "", "b": false}
+  ]
+}

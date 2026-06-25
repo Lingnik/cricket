@@ -1,0 +1,655 @@
+{
+ "name": "RPlog_Jessalyn_Meets_Leia",
+ "title": "Jessalyn Meets Leia",
+ "summary": "Arriving aboard a ship after a mission with Chewbacca, the nervous young Jessalyn Valios slips into the crew quarters and unknowingly strikes up a conversation with Princess Leia, whom she fails at first to recognize. Mortified when she realizes who she is addressing, Jessalyn introduces herself, and the gracious Leia puts her at ease. Jessalyn reports that she and Chewbacca were unable to locate Mr. Roark's daughter, and the two discuss whether the daughter even exists -- Jessalyn affirming, from speaking with Roark himself, that she does and is important to him. The brief, warm encounter ends with mutual courtesy as Jessalyn, starstruck, takes her leave of the Princess.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

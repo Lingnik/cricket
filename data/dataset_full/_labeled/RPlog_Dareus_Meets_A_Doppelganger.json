@@ -1,0 +1,679 @@
+{
+  "name": "RPlog_Dareus_Meets_A_Doppelganger",
+  "title": "Dareus Meets a Doppelganger",
+  "summary": "Aboard his Sith flagship Predator, the apprentice Captain Antoine Dareus is confronted by a Force-projected doppelganger of Luke Skywalker, conjured from light-years away aboard the Refrain of Anshalar. Skywalker admits he has come on reconnaissance, and the two trade barbed philosophical clashes over the dark side, the Republic, and Dareus's master Malign as the Jedi probes the ship's history, uncovering the torture of Dareus's wife Serenella and hints about the dead world of Cochran. Dareus orders a ship-wide lockdown and unleashes Malign's hidden combat droids, and the doppelganger duels them through corridor after corridor, deliberately wrecking the ship and absorbing every detail of the droids' design and numbers. Believing he has captured and felled the great Skywalker, Dareus kneels to claim the lightsaber, only for the doppelganger and its weapon to dissolve into nothing, the whole intrusion having been an elaborate intelligence-gathering ruse. Humiliated and enraged, Dareus orders an evacuation of the Cochran facility, while the real Skywalker, his mission accomplished, jumps the Refrain to hyperspace with Seth Senesca at the helm.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Luke",
+      "b": false
+    }
+  ]
+}

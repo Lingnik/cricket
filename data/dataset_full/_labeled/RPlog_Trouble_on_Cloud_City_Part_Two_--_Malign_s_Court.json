@@ -1,0 +1,853 @@
+{
+ "name": "RPlog_Trouble_on_Cloud_City_Part_Two_--_Malign_s_Court",
+ "title": "Trouble on Cloud City, Part Two: Malign's Court",
+ "summary": "The Sith Imperator Malign descends on Bespin with an overwhelming fleet, his Circle of Irluuk acolytes, and his sister Johanna -- now Grand Moff of the sector -- to root out a 'pest problem' and hold court. The Jedi Jessalyn and her companion Basca Starker, attempting to flee, are intercepted and compelled to attend a tense dinner where old wounds, accusations, and political revelations spill across the table: the Caspian Presav Crestian Tarasar reports rescuing Force-sensitive younglings from Trandoshan raiders, Basca exposes himself as an Imperium agent, and Johanna confronts the darkness Vadim planted within Basca. As Johanna and Jessalyn probe the Sith spawn 'Stayn' through the Force, the immortal Vadim manifests through him, the Circle's monstrous director Sigil Rexton and the mutant Wookiee honor guard close in, and Crestian draws a blaster. Johanna asserts her legal authority over her own world to spare Basca's life for the moment, Malign acquiescing, and an uneasy, violence-charged truce settles over the court even as Crestian, Tracer, and Kipran vow not to forget the night's treacheries.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Domicor Honos",
+   "b": false
+  },
+  {
+   "line": 11,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Sigil Rexton",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Domicor Honos",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Sigil Rexton",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Sigil Rexton",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Vadim",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Sigil Rexton",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Sigil Rexton",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Basca",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

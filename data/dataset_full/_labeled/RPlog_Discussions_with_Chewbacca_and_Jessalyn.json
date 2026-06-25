@@ -1,0 +1,487 @@
+{
+ "name": "RPlog_Discussions_with_Chewbacca_and_Jessalyn",
+ "title": "Discussions with Chewbacca and Jessalyn",
+ "summary": "Aboard the New Republic vessel Alderaan, Chewbacca and the young pilot Jessalyn return from a failed mission to Corellia and seek out Princess Leia in the aft corridor. Chewbacca, blaming himself, reports grim news: Winter has gone silent since departing for Etti IV, the security around the captured Han Solo is formidable, and the CSA officer Roark whom they hold prisoner may be their only leverage to free Han. Leia counsels restraint, fearing that holding Roark and massing the fleet risks provoking a war that betrays everything the New Republic stands for, and argues that releasing Roark to the Authority is the first step toward earning its trust. The three weigh the danger that the Empire may seize Han before the CSA can be persuaded to hand him over, and worry that no one has even tried to recover Roark, a sign the Authority may have already fled to Imperial protection. Agreeing that releasing the prisoner is the wisest course, Chewbacca departs to check on Roark, leaving Leia and Jessalyn with their shared concern for Han.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "desc",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "desc",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

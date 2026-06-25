@@ -1,0 +1,2419 @@
+{
+ "name": "RPlog_Kidnapped_on_GDIStar",
+ "title": "Kidnapped on GDIStar",
+ "summary": "In a lounge aboard the Corporate Sector station GDIStar, the CSA delegate Piper Drake chats with the Mon Calamari N'Saldon and the young Horansi Kuxli when the Imperial Admiral Sabbath joins them, holding forth on the coming upheaval in the Empire and trading a long debate with N'Saldon over wealth, morality, and service. After the others drift off, Sabbath corners Piper in the residential sector and calmly informs her that she will accompany him as a hostage to his meeting with a Grand Moff, confiscating her comlink despite N'Saldon's overheard alarm. He marches her through weapons scans to his shuttle, the Crazy Diamond, and flies her to his starship the Ummagumma, where he settles the frightened delegate in the crew lounge -- insisting she think of him not as her captor but her host for the week or two ahead.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Skeezix",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": true
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "N'Saldon",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": true
+  },
+  {
+   "line": 389,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 393,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 448,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 460,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 465,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 466,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 470,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 474,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 479,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 485,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 490,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 493,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 497,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 505,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 516,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 518,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 522,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 523,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 525,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 526,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 527,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 530,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 541,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 543,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 547,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 549,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 557,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 562,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 576,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 586,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 588,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 598,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 603,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 611,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 616,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 620,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 622,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 624,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 625,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 627,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 629,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 632,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 634,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 635,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 636,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 637,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 638,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 639,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 640,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 643,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 644,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 648,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 649,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 650,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 651,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 652,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 653,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 656,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 660,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 668,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 672,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 678,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 680,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 686,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": true
+  },
+  {
+   "line": 688,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 690,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 692,
+   "type": "pose",
+   "actor": "Piper Drake",
+   "b": false
+  },
+  {
+   "line": 694,
+   "type": "pose",
+   "actor": "Sabbath",
+   "b": false
+  },
+  {
+   "line": 696,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

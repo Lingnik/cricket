@@ -1,0 +1,283 @@
+{
+  "name": "RPlog_Aggressive_Negotiations",
+  "title": "Aggressive Negotiations",
+  "summary": "At the fortified headquarters of the Caspian Democratic Union, Minister Cordelia convenes high-stakes talks between New Republic Ambassador Ambrosia Delgard and the Empire's Lord Aldus Thel, breaker of the New Sith Order and architect of the Caspian blockade. Thel demands unconditional Imperial Security Bureau oversight of Caspian customs, accusing the Union of smuggling weapons to the Rebellion disguised as foodstuffs and furniture. Cordelia turns the tables by revealing seized footage of Imperial-crested aid crates packed with arms and spying gear, exposing the Empire's own hand in fomenting unrest. Caught off guard, Thel furiously denies the charge but cannot prevent its exploitation. Cordelia dictates her terms\u2014an immediate end to the blockade and submission to an impartial arbitrator\u2014and Thel, his leverage broken, grimly promises only to relay the demands to the Emperor.",
+  "rows": [
+    {
+      "line": 12,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Cordelia",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Ambrosia Delgard",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Aldus Thel",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

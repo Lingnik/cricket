@@ -1,0 +1,22 @@
+{
+  "name": "RPlog_Hope_Renewed",
+  "title": "A Reason to Live",
+  "summary": "In her cell, the broken prisoner Shael sits withdrawn and suicidal, having surrendered control over every aspect of her life. The Imperial Krieg, in a fresh uniform, visits to bid her farewell before departing on a mission, bringing food and trying to gauge her fragile mental state. When Shael bitterly says that if he cared he would kill her, Krieg instead reveals startling news: Whisler's father, a man Shael gave up for dead thirteen years ago, is alive, works for the Imperial military, and may be permitted to come speak with her. The revelation pierces Shael's deadened mask, kindling desperate hope and a flood of questions about her own missing mother. Krieg, unable to answer more before he must leave, slips her a hidden bar of chocolate and departs, having unexpectedly won back her goodwill and given her a reason to keep living.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 19, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 22, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 25, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 28, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 31, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 34, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 37, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 40, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 43, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 46, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 49, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 52, "type": "pose", "actor": "Shael", "b": false},
+    {"line": 55, "type": "pose", "actor": "Krieg", "b": false},
+    {"line": 58, "type": "pose", "actor": "Shael", "b": false}
+  ]
+}

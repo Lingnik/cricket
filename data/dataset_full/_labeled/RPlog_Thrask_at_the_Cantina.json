@@ -1,0 +1,28 @@
+{
+  "name": "RPlog_Thrask_at_the_Cantina",
+  "title": "Old Enemies on Corellia",
+  "summary": "Now a hunted rogue agent with a price on his head, the former Marine Sandor Woden slips into the seediest cantina he can find on Imperial-held Corellia, shadowed by his armored bodyguard Alois posing as an indifferent mercenary at the bar. There he finds an unexpected face from his past: the Quarren terrorist Thrask, who carries his own hefty bounty. Wary but not hostile, the two former adversaries trade guarded talk over caf -- Sandor reveals he is no longer with the New Republic, having taken a medical discharge, and has come to Corellia to bring the war to the bureaucratic elements he intends to kill. Thrask, suspecting Sandor's hand in the Caspar bombing he denies, judges their goals not so different and warns him that Corellia teems with bounty hunters and crime syndicates eager to collect. Invoking 'the enemy of my enemy,' Thrask departs, and Sandor slips out a separate exit with Alois trailing behind toward their safe house.",
+  "rows": [
+    {"line": 17, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 19, "type": "pose", "actor": "Sandor Woden", "b": true},
+    {"line": 21, "type": "pose", "actor": "Thrask"},
+    {"line": 23, "type": "pose", "actor": "Alois"},
+    {"line": 27, "type": "pose", "actor": "Thrask"},
+    {"line": 29, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 33, "type": "pose", "actor": "Thrask"},
+    {"line": 34, "type": "pose", "actor": "Thrask", "b": true},
+    {"line": 37, "type": "pose", "actor": "Alois"},
+    {"line": 41, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 43, "type": "pose", "actor": "Thrask"},
+    {"line": 46, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 48, "type": "pose", "actor": "Thrask"},
+    {"line": 49, "type": "pose", "actor": "Alois"},
+    {"line": 53, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 57, "type": "pose", "actor": "Thrask"},
+    {"line": 61, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 65, "type": "pose", "actor": "Thrask"},
+    {"line": 69, "type": "pose", "actor": "Sandor Woden"},
+    {"line": 72, "type": "pose", "actor": "Alois"},
+    {"line": 74, "type": "system", "actor": ""}
+  ]
+}

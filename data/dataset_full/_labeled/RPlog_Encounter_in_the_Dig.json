@@ -1,0 +1,499 @@
+{
+ "name": "RPlog_Encounter_in_the_Dig",
+ "title": "Encounter in the Dig",
+ "summary": "In the wreckage of the Smuggler's Dig cantina on Tatooine, the blue Twi'lek Alistair tends a wounded man after a barroom brawl and trades stories of Nar Shaddaa and Tatooine with the aging smuggler Krackor. Their drink is interrupted by the wildly out-of-place arrival of the foppish Corellian aristocrat Lord Geophreigh Smitherbodkins and his fastidious Kubaz valet J'Eeves, come to procure Kubindi Cognac for an upcoming party celebrating a rare acquired book. Smitherbodkins cheerfully extends party invitations to Krackor and to a second, harder Twi'lek, the crime lord Tyy'sun (Eson), who has come to the Dig to move bootleg lum. Offended when the aristocrat laughingly dismisses his lum, Tyy'sun draws his blaster and tries to force Smitherbodkins to drink and praise it, only for the drunken, self-sacrificing J'Eeves to keep hurling himself into the line of fire. To Tyy'sun's surprise, the unflappable Smitherbodkins calmly drinks shot after shot, buys his tormentor a round, and meets the threat with witty, cutting composure, deflating the confrontation. The two spar philosophically over privilege and hardship before Tyy'sun, grudgingly impressed, withdraws, leaving Smitherbodkins to haul his passed-out valet home.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "J'Eeves",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Smitherbodkins",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

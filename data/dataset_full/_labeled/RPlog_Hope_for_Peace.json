@@ -1,0 +1,29 @@
+{
+  "name": "RPlog_Hope_for_Peace",
+  "title": "The Corellian Peace Conference",
+  "summary": "After nearly two years of grinding war on Corellia, delegates gather on a hover-platform above a river for a peace conference meant to end the fighting between the Empire and the New Republic. Representing the Republic and the Jedi is the retired intelligence director and war hero Korbel, accompanied by his old friend and fellow pilot Leo Corak, while the Empire is represented by the coldly calculating Inquisitor captain Auxin Valerius. Over a shared candy bar, the two sides quickly reach an impasse: Korbel demands the Empire withdraw and let Corellia govern itself, while Valerius flatly refuses to cede Imperial territory, insisting the Council of Moffs and the Emperor decide such matters. With neither side willing to yield, Korbel warns that the Jedi and Republic fleets will be forced to intervene and declares the talks closed. Both delegations depart for their respective shores, Valerius already summoning his tactical staff, leaving Corellia bound for renewed war rather than peace.",
+  "rows": [
+    {"line": 16, "type": "scene", "actor": "", "b": false},
+    {"line": 18, "type": "scene", "actor": "", "b": false},
+    {"line": 20, "type": "scene", "actor": "", "b": false},
+    {"line": 22, "type": "scene", "actor": "", "b": false},
+    {"line": 24, "type": "pose", "actor": "Korbel", "b": false},
+    {"line": 26, "type": "pose", "actor": "Auxin Valerius", "b": false},
+    {"line": 28, "type": "pose", "actor": "Leo Corak", "b": false},
+    {"line": 30, "type": "pose", "actor": "Korbel", "b": false},
+    {"line": 32, "type": "pose", "actor": "Auxin Valerius", "b": false},
+    {"line": 34, "type": "pose", "actor": "Leo Corak", "b": false},
+    {"line": 36, "type": "pose", "actor": "Korbel", "b": false},
+    {"line": 38, "type": "pose", "actor": "Auxin Valerius", "b": false},
+    {"line": 41, "type": "pose", "actor": "Leo Corak", "b": false},
+    {"line": 43, "type": "pose", "actor": "Korbel", "b": false},
+    {"line": 45, "type": "pose", "actor": "Auxin Valerius", "b": false},
+    {"line": 46, "type": "pose", "actor": "Auxin Valerius", "b": true},
+    {"line": 48, "type": "pose", "actor": "Korbel", "b": false},
+    {"line": 50, "type": "pose", "actor": "Leo Corak", "b": false},
+    {"line": 52, "type": "pose", "actor": "Auxin Valerius", "b": false},
+    {"line": 54, "type": "pose", "actor": "Korbel", "b": false},
+    {"line": 56, "type": "pose", "actor": "Leo Corak", "b": false},
+    {"line": 58, "type": "pose", "actor": "Auxin Valerius", "b": false}
+  ]
+}

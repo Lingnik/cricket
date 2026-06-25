@@ -1,0 +1,223 @@
+{
+ "name": "RPlog_Judgement_Passed",
+ "title": "Judgement Passed",
+ "summary": "Aboard the Star Destroyer Inquisitor's interrogation wing, Captain Jal'Dana Rall arrives to pass judgment on Flight Officer Damien 'Loki' Katon, a disgraced TIE pilot condemned for treason during wartime. Director Korynn Fleming reports on the prisoner's tortured confession while Commander Krieg and a pair of stormtroopers attend. Rall confronts the unrepentant Katon, who defends his actions as service to the true Empire and refuses to kneel to Emperor Vadim; Fleming reads the lengthy charges and Krieg offers grim parting words. When Katon declares he chooses death before dishonor, Rall executes him with a single blaster bolt to the head, orders his remains disposed of like garbage, and leaves with Krieg to discuss further matters.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Damien Katon",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Calyx Droygn",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Calyx Droygn",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "TK-4418",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Damien Katon",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Damien Katon",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Damien Katon",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "TK-4418",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Damien Katon",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Kyo",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "TK-4418",
+   "b": false
+  }
+ ]
+}

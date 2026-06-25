@@ -1,0 +1,26 @@
+{
+  "name": "RPlog_Day_At_The_Cantina",
+  "title": "A Day at the Cat's Claw",
+  "summary": "At the Cat's Claw cantina on Ord Mantell, Senator Tokoga quietly nurses a whiskey while gathering intelligence on New Alderaan's persistent organized crime, having heard rumors of a rising syndicate. The spacer Rainer, the medic Myiari, and the Sluissi pilot Shane all happen to be present, and Rainer drifts over to question the Senator about the apparent coincidence of so many acquaintances gathering in one place. Amid easy banter, Myiari complains of being repeatedly hit on, and the group trades small talk while Rainer probes Tokoga's reasons for frequenting the dive. The scene cuts off due to a lost log, with a note that Rainer ultimately agreed to supply Tokoga with information about the crime boss Nass's operations in exchange for payment.",
+  "rows": [
+    {"line": 17, "type": "ooc", "actor": "", "b": false},
+    {"line": 20, "type": "scene", "actor": "", "b": false},
+    {"line": 24, "type": "pose", "actor": "Myiari", "b": false},
+    {"line": 28, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 32, "type": "pose", "actor": "Shane", "b": false},
+    {"line": 36, "type": "pose", "actor": "Rainer", "b": false},
+    {"line": 40, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 44, "type": "pose", "actor": "Shane", "b": false},
+    {"line": 48, "type": "pose", "actor": "Rainer", "b": false},
+    {"line": 52, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 56, "type": "pose", "actor": "Shane", "b": false},
+    {"line": 60, "type": "pose", "actor": "Rainer", "b": false},
+    {"line": 64, "type": "pose", "actor": "Myiari", "b": false},
+    {"line": 68, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 72, "type": "pose", "actor": "Shane", "b": false},
+    {"line": 76, "type": "pose", "actor": "Rainer", "b": false},
+    {"line": 80, "type": "pose", "actor": "Myiari", "b": false},
+    {"line": 83, "type": "system", "actor": "", "b": false},
+    {"line": 84, "type": "system", "actor": "", "b": false}
+  ]
+}

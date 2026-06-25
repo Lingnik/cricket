@@ -1,0 +1,301 @@
+{
+  "name": "RPlog_Battle_Droid_Duel",
+  "title": "Battle Droid Duel",
+  "summary": "At a modified arena on Kalla, Arakyd Industries hosts a gladiatorial dueling-droids event drawing tens of thousands of spectators. The retired swoop racer Violet, settling into her seat with a bottle of brandy, befriends a Jawa named Lola while the warrior Siva watches from above. The star contestant is the modified 501-Z police droid Zed -- fighting as 'Shen-Lung' and serving as both droid and master -- who first survives a gauntlet of the arena's own deadly traps, dodging cleavers, impalers, and spinning blades before disabling them with his vibro-axes. He then faces the bulky Mark X Executioner, a flamethrower- and vibrosaw-armed killer droid, in a brutal melee. Zed's superior speed and twin axes shred the Mark X's chassis despite a few lucky blocks, and after a flurry of blows the Executioner short-circuits and collapses in smoke. Victorious and lightly charred, Zed exits to the workshop for repairs as cleaning droids clear the wreckage.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Violet",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Violet",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Violet",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Siva",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

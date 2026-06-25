@@ -1,0 +1,205 @@
+{
+  "name": "RPlog_Dathomir_Ambush_Brief",
+  "title": "Establishing the Dathomir Ambush",
+  "summary": "In a secure, jamming-shrouded briefing room, Captain Keline and Marshal Krieg Inrokana brief the commanders of Task Force Inquisitor on a planned ambush at Dathomir. New Republic intelligence has been deliberately leaked to lure two Nebulon-B frigate squadrons and the elite Ghost and Falcon fighter squadrons into raiding a depot there, which the Empire has secretly emptied as bait. Keline and Krieg lay out the trap: a CR90 with Razor squadron will hold the system as bait, and once the rebels commit, Interdictors and Imperial Star Destroyers will jump in to surround them, with the HIMS Malevolence sealing the escape route so the enemy is crushed or forced to crash on the planet. The pilot Liza, the eager Commander Dante, and the watchful ISB Agent Dorian Navtilos discuss the plan, the politics of the locals, and the severe penalty for any leak. After the briefing, Dorian privately passes Krieg a decrypted transcription recovered from a captured TIE pilot's datapad as the commanders disperse to prepare for battle.",
+  "rows": [
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Keline",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Keline",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Keline",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Keline",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Keline",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    }
+  ]
+}

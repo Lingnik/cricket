@@ -1,135 +1,1621 @@
 {
   "name": "RPlog_Spa_Treatment",
-  "title": "A Mandalorian at the Spa",
-  "summary": "Aboard the Angry Rancor's luxurious spa, the Nagai Ash coaxes the reluctant Mandalorian soldier Cantrell into a day of relaxation, joining the regular patron Ka'una, a crimson Twi'lek, in the jacuzzi. The group soaks, drinks, and trades banter about hunting expeditions and Cantrell's many battle scars before moving on to massages, where Cantrell's old injuries are worked loose to his groaning delight. They are joined by Nun'ia, the cream-colored Twi'lek cruise manager, who flirts with Cantrell and discusses her planned gladiatorial entertainment events and her dream of opening her own restaurant. The friends talk of self-defense lessons, Nun'ia's promise to Ka'una not to carry a blaster, and the pleasures of the Pleasure Palace before retiring to the lounge, where Nun'ia serves a lavish meal she cooked herself. Over steak, ale, and dessert, the group encourages Nun'ia's restaurant ambitions and lingers in easy companionship until Ash departs for a walk and a hunt, leaving Nun'ia alone with the intimidating but harmless Cantrell.",
+  "title": "A Day at the Angry Rancor Spa",
+  "summary": "At the luxurious spa aboard the Angry Rancor, the Nagai huntress Ash finally coaxes the battle-scarred Mandalorian Cantrell into a day of pampering, joining the regular patron Ka'una, a crimson Twi'lek, who is already soaking in the jacuzzi. The group trades banter about saunas, hunting expeditions, and the Pleasure Palace before moving on to deep-tissue massages that leave Cantrell groaning in unfamiliar bliss. They are joined by the cream-colored Twi'lek Nun'ia, the Rancor's cruise manager and an aspiring restaurateur, whose flirtations fluster the warrior even as her timidity around weapons draws gentle offers of self-defense training. Talk turns to Nun'ia's planned gladiatorial events, swordsmanship, and business dreams as the companions adjourn to the lounge, where Nun'ia serves a lavish meal she has cooked herself. Over steak, exotic ale, and dessert, the friends tease one another about etiquette, rations, and piercings, until Ash departs for a hunt and leaves Nun'ia alone with the Mandalorian she still finds quietly intimidating.",
   "rows": [
-    {"line": 17, "type": "room", "actor": "", "b": false},
-    {"line": 19, "type": "room", "actor": "", "b": false},
-    {"line": 21, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 23, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 24, "type": "pose", "actor": "Ka'una", "b": true},
-    {"line": 26, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 28, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 30, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 32, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 34, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 36, "type": "scene", "actor": "", "b": false},
-    {"line": 38, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 40, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 42, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 44, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 46, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 48, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 50, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 52, "type": "scene", "actor": "", "b": false},
-    {"line": 54, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 56, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 58, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 60, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 62, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 64, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 66, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 68, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 70, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 72, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 74, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 76, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 78, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 80, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 82, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 84, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 86, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 88, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 90, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 92, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 94, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 96, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 98, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 100, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 102, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 104, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 106, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 108, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 110, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 112, "type": "scene", "actor": "", "b": false},
-    {"line": 114, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 116, "type": "scene", "actor": "", "b": false},
-    {"line": 118, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 120, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 122, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 124, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 126, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 128, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 130, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 132, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 134, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 136, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 138, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 140, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 142, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 144, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 146, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 148, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 150, "type": "pose", "actor": "Ka'una", "b": true},
-    {"line": 152, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 154, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 156, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 158, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 160, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 162, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 164, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 166, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 168, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 170, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 172, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 174, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 176, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 178, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 180, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 182, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 184, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 186, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 188, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 190, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 192, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 194, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 196, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 198, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 200, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 202, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 204, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 206, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 208, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 210, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 212, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 214, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 216, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 218, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 220, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 222, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 224, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 226, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 228, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 230, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 232, "type": "pose", "actor": "Cantrell", "b": true},
-    {"line": 234, "type": "pose", "actor": "Ka'una", "b": false},
-    {"line": 236, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 238, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 240, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 242, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 244, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 246, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 248, "type": "pose", "actor": "Nun'ia", "b": true},
-    {"line": 250, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 252, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 254, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 256, "type": "pose", "actor": "Cantrell", "b": false},
-    {"line": 258, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 260, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 262, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 264, "type": "pose", "actor": "Ash", "b": true},
-    {"line": 266, "type": "pose", "actor": "Nun'ia", "b": false},
-    {"line": 268, "type": "pose", "actor": "Ash", "b": false},
-    {"line": 270, "type": "pose", "actor": "Nun'ia", "b": false}
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": true
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": true
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 336,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 368,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 379,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 383,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 391,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 395,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 409,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 415,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 429,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 433,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 437,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 439,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 443,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 445,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 447,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": true
+    },
+    {
+      "line": 449,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 453,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 455,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 457,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 459,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 461,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 463,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 467,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 469,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 471,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 473,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 476,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 478,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 484,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 486,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 492,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 494,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 496,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 499,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 503,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 507,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    },
+    {
+      "line": 513,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 515,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 517,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 521,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": true
+    },
+    {
+      "line": 523,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 525,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 527,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 529,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 531,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 533,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 535,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 537,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 539,
+      "type": "pose",
+      "actor": "Ash",
+      "b": false
+    },
+    {
+      "line": 541,
+      "type": "pose",
+      "actor": "Ash",
+      "b": true
+    },
+    {
+      "line": 543,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": false
+    },
+    {
+      "line": 545,
+      "type": "pose",
+      "actor": "Nun'ia",
+      "b": true
+    }
   ]
 }

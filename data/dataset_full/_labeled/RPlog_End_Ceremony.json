@@ -1,0 +1,757 @@
+{
+ "name": "RPlog_End_Ceremony",
+ "title": "The End Ceremony",
+ "summary": "On Ord Mantell, the New Republic hosts a lavish atrium reception to mark the conclusion of joint wargames with the Caspian Democratic Union, drawing senators, military officers, Jedi, and outsiders together for an evening of mingling and speeches. Around Chief of State Leia Organa-Solo, Senator Lemos Ackinbrac, Commander Rasi (Cen), the Bothan corporal Tarkis, and the CSA observer Malif Tal-Tahn debate whether Imperial and Republic soldiers are truly so different, while the Jedi Enb'Zik and the Twi'lek Alistair discuss their recent spar and the danger of harbored anger. Admiral Ackbar and General Carlist Rieekan take the podium to vow the military's renewed professionalism, and Leia stuns the room by announcing general elections, every office, including her own, to be opened to the people. An awards ceremony follows: Enb'Zik receives the Superior Service Medal and delivers an impassioned speech on hope and freedom, Lemos is honored for leadership, and Caspian Presav Thomas Mahon, surprised and reluctant, accepts the Medal of the Republic Spirit for Bravery on behalf of his troops. On the sidelines, the Caspian commander Lynae Cassius trades wry, knowing banter with the Imperial-savvy Lieutenant Varin about ruined uniforms and the costs of rank, as the formalities close and the true festivities begin.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Tarkis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Vaughan",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Tarkis",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Tarkis",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Aranzael",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Tarkis",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Vaughan",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Aranzael",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Aranzael",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Krackor",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Alistair",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Aranzael",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Vaughan",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Aranzael",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Leia",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Carlist Rieekan",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Carlist Rieekan",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Carlist Rieekan",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Leia",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Carlist Rieekan",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": true
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Carlist Rieekan",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Lemos",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Carlist Rieekan",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Varin",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Varin",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Varin",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Varin",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Varin",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Varin",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Ackbar",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

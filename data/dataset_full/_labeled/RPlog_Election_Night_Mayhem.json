@@ -1,0 +1,421 @@
+{
+ "name": "RPlog_Election_Night_Mayhem",
+ "title": "Election Night Mayhem",
+ "summary": "On election night at Kichnar Orbital Station, dignitaries gather as the smallest Caspian constituency prepares to announce the first results, drawing the presumptive new Presav Crestian Tarasar, the newly minted Moff of Selene Elana Tracer (there to secretly meet the Prex Zeak Oppenheimer), and assorted drifters like the spacer Rafan and the fugitive ex-officer Calyx Drogyn. The returning droid K3P0 certifies Crestian's party candidate Sirlahn Inglet as Councillor, but the festivities are shattered when a cell of Sarian 'Pure Caspar' extremists detonates suicide bombs near the defeated candidate Hilo, who tries and fails to add his own thermal detonator to the carnage. Waves of fanatic gunmen then storm the concourse, chanting against aliens and invaders, wounding Crestian in the shoulder and targeting the unconscious Tracer, whose bodyguards die shielding her. The attack is beaten back by Crestian's datadagger and viridian battle droids, the heavily armed Griffon exiles and their child marksmen, and Calyx Drogyn, who shields and stabilizes the Moff with a medic's reflexes before slipping away to avoid Imperial scrutiny. As station security restores order and offstage fleets maneuver, all the candidates but one survive, and a bloodied, frowning Tracer is recovered by her stormtroopers, ordering them to write it off as local trouble, a grim homecoming to the station of her youth.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": true
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Rafan",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rafan",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Zeak",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Rafan",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Zeak",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Sirlahn Inglet",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Zeak",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Rafan",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Rafan",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Calyx Drogyn",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Rafan",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Crestian",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  }
+ ]
+}

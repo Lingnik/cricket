@@ -1,0 +1,181 @@
+{
+ "name": "RPlog_Ecks_File_-_JD-01_-_Welcoming_Committee",
+ "title": "Ecks File JD-01: Welcoming Committee",
+ "summary": "Arriving in the hangar of Johanna's mysterious capital ship, the pilot Chana and her R2 unit Didi spot a sleek black Lambda shuttle and, ever wary, run a casual check on its registration. Its owner, the tall and silver-tongued broker Kracen Ecks of Ecks Factor Expeditions, descends mid-comlink-deal and cheerfully introduces himself, explaining he is expected for a contract with Johanna. Chana directs him to Johanna, warns him of her temper and to call her 'Ma'am', and answers his probing questions as a self-described cheap hired gun, while Ecks, the affable merchant, quietly files away every detail, especially overheard references to a son, the Jedi, and Anakin. The two bond over a shared love of flying and agree to go up together sometime, with Ecks content to wait in the public areas of the ship until Johanna is free. After another business call pulls Ecks's attention away, Chana saunters past and cheekily pats his rear, her giggling droid in tow, as she heads off to a certification test.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Chana",
+   "b": true
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Kracen Ecks",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Chana",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

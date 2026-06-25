@@ -1,0 +1,1615 @@
+{
+  "name": "RPlog_Another_Clue",
+  "title": "Another Clue",
+  "summary": "Strolling through the sunlit Fountain Square of Plaxton City, the Jedi Jessalyn Valios and her student Orson Tighe remain on edge after a recent encounter with a sinister stranger who knew Jessalyn by name. Jessalyn's paranoia spikes when she spots a bag of candied treats resting suspiciously close by, identical to one the stalker had carried, alongside a small green plastic strip. The towering Wroonian wanderer Daana Roon, bored and idly drawn to the square, approaches the pair and joins their conversation. Unwrapping the foil, Jessalyn discovers the object is a free pass to Plaxton City Beachfront Amusements, an old complex down by the water. Recognizing it as a deliberate breadcrumb left by the stranger rather than a coincidence, Jessalyn masks her unease with smalltalk while privately warning Orson through the Force that visiting the park may mean walking into a trap.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "desc",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "desc",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "desc",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": true
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Daana",
+      "b": true
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Daana",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Orson Tighe",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

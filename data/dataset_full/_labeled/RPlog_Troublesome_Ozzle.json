@@ -1,0 +1,1585 @@
+{
+ "name": "RPlog_Troublesome_Ozzle",
+ "title": "Troublesome Ozzle: The Ambassador's Dilemma",
+ "summary": "In Caspar's SandBar, the scarred Imperial Ambassador Morganna is deep in a private conversation with the menacing Sarian Ozzle when her superior, the cold Imperial officer Joir, arrives and interrupts, refusing to defer to Ozzle's intimidating presence. The slight prompts Ozzle to storm out, leaving Morganna anxious that she has angered the dangerous man who can stop hearts with a thought, while onlookers Kaein, Troy, and Piper trade idle barbs at the bar. Joir escorts the troubled Morganna back to the Imperial Embassy, where she explains the long, fraught history of fear and faded friendship between herself and Ozzle. Joir counsels her to maintain respect without servitude and to stay strong, promising they can take action if Ozzle ever becomes too great a threat, and the two part in wary agreement that respect is earned but fear, too, can breed it.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ariani",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "desc",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Ozzle",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Shizznet",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Shizznet",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Kaein",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

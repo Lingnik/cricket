@@ -1,0 +1,22 @@
+{
+  "name": "RPlog_Identification",
+  "title": "Identifying a Toydarian's Poison",
+  "summary": "NovaCom Medical CEO Aurelia Silabar receives an unannounced visit from the Corellian noble and antiquities dealer Lord Smitherbodkins, who presents her with a dull green canister of unknown substance found planted aboard his ship. Aurelia, who had received an identical canister from Miranda Jabs only the day before, feigns ignorance while confirming the contents: a crude, first-generation fungal toxin harmless to Toydarians but lethal to humans, an inept assassination attempt she traces to the unstable new CSA Prex, the Toydarian Qwynt. The two corporate titans agree that Qwynt's erratic, scandal-prone leadership threatens the Direx board and the CSA's reputation, and Smitherbodkins announces he will convene an emergency board meeting to demand Qwynt's resignation. Aurelia pledges her support and a united front, extracting Smitherbodkins's promise to avoid further public brawls, before he departs and she savors her private contempt for the Toydarian's doomed ambitions.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Aurelia", "b": false},
+    {"line": 17, "type": "pose", "actor": "Aurelia", "b": true},
+    {"line": 19, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 20, "type": "pose", "actor": "Smitherbodkins", "b": true},
+    {"line": 22, "type": "pose", "actor": "Aurelia", "b": false},
+    {"line": 24, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 26, "type": "pose", "actor": "Aurelia", "b": false},
+    {"line": 28, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 29, "type": "pose", "actor": "Smitherbodkins", "b": true},
+    {"line": 31, "type": "pose", "actor": "Aurelia", "b": false},
+    {"line": 33, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 34, "type": "pose", "actor": "Smitherbodkins", "b": true},
+    {"line": 36, "type": "pose", "actor": "Aurelia", "b": false},
+    {"line": 38, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 40, "type": "pose", "actor": "Aurelia", "b": false}
+  ]
+}

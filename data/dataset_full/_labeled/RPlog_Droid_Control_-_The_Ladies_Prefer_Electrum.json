@@ -1,0 +1,217 @@
+{
+ "name": "RPlog_Droid_Control_-_The_Ladies_Prefer_Electrum",
+ "title": "The Ladies Prefer Electrum",
+ "summary": "Aboard the Sith flagship Leviathan, the young Sith baroness Atsvara escorts the celebrity astromech Cricket McKenzie to Droid Control to replace the tazer torn from his arm by 'two thoughtless meatsacks' in the Mos Espa market. They are met by Colonel V1C3, Crestian's pinstripe-suited droid adjutant, and then by ak, the renowned Xi Charrian engineer and Dean of the Xi Can Cathedral Factory, who agrees to build Cricket a one-of-a-kind custom replacement, soliciting metallurgical help from Silverwood and Zubindi. As schematics of the original device are pulled up by the utility droid T3-A7, the conversation devolves into the gleeful question of whether 'the ladies' will prefer electrum or chromium plating, drawing the entire room of droids into the debate. When T3-A7 declares electrum 'sexy', a smitten Cricket eagerly settles on electrum, and ak promises a serviceable interim taser now with a true cathedral-precision masterpiece to be crafted later on Charros. Throughout, Atsvara quietly works her own angles, plotting to bring V1C3 in as an investor before finalizing a buyout while the Herglic technician hauls in a crate of spare parts.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "V1C3",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "ak",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "ak",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "ak",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Cricket",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

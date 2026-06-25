@@ -1,0 +1,1231 @@
+{
+  "name": "RPlog_Ariana_Millikin_and_Company",
+  "title": "Ariana Millikin and Company",
+  "summary": "At the main spaceport of Calamari's Coral City, the retired General Lando Calrissian, frustrated with supply troubles for his Nkllon operation, spots the weary and standoffish Ariana Millikin and lays on his trademark charm to lift her spirits. Their flirtation is interrupted by the arrival of the businessman Talon Karrde, with whom Lando trades barbed banter about smuggling, the defeated Empire, and Karrde's new gambling venture on Caspar. Lando secures a table for two at Karrde's casino for himself and Ariana before hurrying off to a supplier meeting. Left alone with Karrde, Ariana drops her guard and quietly pleads to leave with him, hinting at a deeper history between them. Karrde firmly refuses, citing unacceptable risk, and turns back to inspect his ship, leaving a resigned Ariana to walk away in the opposite direction.",
+  "rows": [
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "desc",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Lando",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Karrde",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Ariana Millikin",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

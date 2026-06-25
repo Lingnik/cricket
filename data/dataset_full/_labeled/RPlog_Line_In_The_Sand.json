@@ -1,0 +1,181 @@
+{
+  "name": "RPlog_Line_In_The_Sand",
+  "title": "A Line in the Sand",
+  "summary": "Withdrawing from the political tensions of Dac, Jedi Master Luke Skywalker meditates aboard the cloaked Jedi cruiser Refrain of Anshalar, where his sister Leia joins him. The twins debate how to win the trust of the Mon Calamari people, with Leia insisting that no diplomatic gesture alone will turn the tide. Through the Force, Luke senses that the Sith Darth Malign has made some proposal to Leia, and his calm fractures into fear as he refuses to consider any bargain with a pawn of Vadim. Leia presses him on what truly matters, finding answers and the cause of their troubles versus saving political face, and Luke vows he can achieve whatever Malign offered without selling out. They acknowledge that Malign may move against Dac regardless of their consent, and draw a shared line, that Leia will stand with Luke so long as it does not cost more of their people their lives.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    }
+  ]
+}

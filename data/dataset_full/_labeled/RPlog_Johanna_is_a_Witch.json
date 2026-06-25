@@ -1,0 +1,775 @@
+{
+ "name": "RPlog_Johanna_is_a_Witch",
+ "title": "Johanna is a Witch",
+ "summary": "Returning home to his Corellian estate, the unsuspecting Danik Kreldin is accosted by the dark-fallen Jedi Johanna, who toys with him before using Affect Mind to walk him docilely away and onto her ship. She transports him to Tatooine, dangling him over the Sarlacc and using Force powers -- mind control, truth sense, pyrokinesis, and more -- to torment him and wring the Empire's plans out of him. Hauling the broken Danik to a hidden room where her droid Cricket records the scene, Johanna forces him to recant his Imperial loyalties for the camera, a humiliating confession that IGNews broadcasts galaxy-wide as 'Danik Humiliated.' The log ends with rumors that the reporter who first ran the story has since vanished.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "RPlog_Who_s_to_Blame",
+  "title": "A Verpine Problem on Etti IV",
+  "summary": "In her office on Etti IV, the composed FoxTech executive Miranda Jabs is interrupted by an unannounced, agitated visit from the industrialist Smitherbodkins, who barges past her Verpine receptionist to report a serious problem. After Jabs raises a privacy field, Smitherbodkins helps himself to her liquor and explains that a Verpine associate of his enemy has escalated their feud beyond personal vendetta: the saboteur engineered a snowstorm that disrupted Etti IV's climate control and delayed Corporate Sector Authority shipments, and that very day hijacked Smitherbodkins's speeder remotely, nearly causing accidents across the city. Calling the situation unacceptable, Jabs confirms he has contacted security, and Smitherbodkins notes that investigators are pulling data from his speeder to trace the highly skilled Verpine slicer, even as he wryly compliments the quality of her drink.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Miranda", "b": false},
+    {"line": 18, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 20, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 22, "type": "pose", "actor": "Miranda", "b": false},
+    {"line": 24, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 25, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 27, "type": "pose", "actor": "Miranda", "b": false},
+    {"line": 29, "type": "pose", "actor": "Smitherbodkins", "b": false}
+  ]
+}

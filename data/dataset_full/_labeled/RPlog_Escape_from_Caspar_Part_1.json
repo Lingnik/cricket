@@ -1,0 +1,121 @@
+{
+ "name": "RPlog_Escape_from_Caspar_Part_1",
+ "title": "Escape from Caspar, Part 1",
+ "summary": "Relaxing at a Caspian mountain lodge during his time off, the Imperial pilot Krieg shares caff with his swoop-racing acquaintance Shael, when an aging, disguised stranger calling himself 'Alois' approaches with an urgent matter. Krieg quickly recognizes the man as his presumed-dead former mentor, the warlord Danik Kreldin, a wanted fugitive after his failed attack on the Imperial ambassador, and politely excuses himself from Shael to speak privately. Down in the secluded racing garages, Danik reveals he survived against all odds and is back for 'one last fight', insisting he would never harm the true Empire and begging Krieg to smuggle him off Caspar. Krieg, loyal to his old teacher, agrees and devises a plan: Danik and a companion will take Krieg's swoop into the unmonitored wilderness and feign a breakdown, after which Krieg, departing legitimately in his Imperial skipray, will pick them up under cover of the standing treaty. They arrange to meet the next day at the same hour, Krieg handing over the access card to garage 112, and part with mutual gratitude as Danik melts back into the shadows to await the escape.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Shael",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Danik",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

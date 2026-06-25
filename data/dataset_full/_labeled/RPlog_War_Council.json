@@ -1,0 +1,265 @@
+{
+ "name": "RPlog_War_Council",
+ "title": "War Council: The Hutts' Envoy",
+ "summary": "As the Imperator Darth Malign's freshly assembled war council--guided by Grand Admiral Drayson Honos--deploys task forces across the galaxy, the Falleen black-market broker Nasiri Gejalli arrives at the Grand Moff's commandeered office bearing two proposals on behalf of the Hutt Cartels: assurance of the Imperium's stance toward Hutt space, and an offer to manage the war effort's legal and illicit finances. While the nervous new Moff Elana Tracer briefs Drayson on the troubled Corporate Sector and the planned scale-up of the Selene shipyards, Malign rebuffs Nasiri's bid for advance military vessels, demanding proof of value and loyalty and insisting any aid be earned by damaging Oppenheimer's CSA. When Nasiri presses and Johanna intervenes to broker a compromise, Malign's temper flares--reminding the Falleen of the titled power in the room--before he coolly offers three Skipray Blastboats, one now and two upon delivering something worthy, or the alternative of bending the knee and returning Geonosis. Nasiri declines and withdraws empty-handed; Malign lets both standing offers linger, and the council adjourns to relocate to the command fleet for the campaign ahead.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 11,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  }
+ ]
+}

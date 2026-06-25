@@ -1,0 +1,26 @@
+{
+  "name": "RPlog_He_Was_Doing_You_A_Favour",
+  "title": "Springing Cricket from the Mos Espa Lockup",
+  "summary": "The homicidal astromech Cricket sits raging in the Mos Espa drunk tank after being arrested for tasering Axel Vichten's unmentionables and having his prized taser confiscated as evidence. Drawn by the rare spectacle, the young Baroness Atsvara Tarasar of House Dragonflower arrives in her Dragonflower crew uniform and demands to see Cricket, sparring verbally with the unimpressed Devaronian desk officer over her age and authority. Atsvara leverages the threat of lawsuits and the department's looming trouble with the Vichten case, plus a casual bribe, to negotiate Cricket's release into her custody on the promise that he will not retaliate against the constables. The exhausted officer agrees and has the IG-RM droid set Cricket back on his wheels, though the taser stays as evidence. The pair depart with Atsvara quietly plotting future, non-harmful revenge for the insults dealt to her and Cricket.",
+  "rows": [
+    {"line": 10, "type": "scene", "actor": "", "b": false},
+    {"line": 11, "type": "scene", "actor": "", "b": false},
+    {"line": 12, "type": "pose", "actor": "Cricket", "b": false},
+    {"line": 14, "type": "scene", "actor": "", "b": false},
+    {"line": 15, "type": "pose", "actor": "Atsvara", "b": false},
+    {"line": 16, "type": "pose", "actor": "Atsvara", "b": true},
+    {"line": 18, "type": "pose", "actor": "Devaronian Officer", "b": false},
+    {"line": 20, "type": "pose", "actor": "Atsvara", "b": false},
+    {"line": 21, "type": "pose", "actor": "Atsvara", "b": true},
+    {"line": 22, "type": "pose", "actor": "Atsvara", "b": true},
+    {"line": 23, "type": "pose", "actor": "Atsvara", "b": true},
+    {"line": 25, "type": "pose", "actor": "Cricket", "b": false},
+    {"line": 26, "type": "pose", "actor": "Devaronian Officer", "b": false},
+    {"line": 28, "type": "pose", "actor": "Atsvara", "b": false},
+    {"line": 29, "type": "pose", "actor": "Atsvara", "b": true},
+    {"line": 31, "type": "pose", "actor": "Cricket", "b": false},
+    {"line": 33, "type": "pose", "actor": "Atsvara", "b": false},
+    {"line": 35, "type": "pose", "actor": "Devaronian Officer", "b": false},
+    {"line": 37, "type": "pose", "actor": "Atsvara", "b": false}
+  ]
+}

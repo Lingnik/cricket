@@ -1,0 +1,626 @@
+{
+ "name": "RPlog_Face_Off_with_Sidi_and_Eson",
+ "title": "Face-Off at Monument Plaza",
+ "summary": "At Monument Plaza atop Coruscant's Menrai Mountain, the hooded Jedi Master Luke Skywalker is shadowed by the Mirialan bounty hunter Sidi Ren, who has tracked him for a sizable Imperial bounty, while the disguised Sith Tyler (also known as Malign) hides among the meditating monks awaiting his own clandestine meeting. When Sidi draws her DY-255 heavy blaster on Luke, Tyler nearly breaks cover to disarm her before Luke calmly declares the situation under control. The Twi'lek crime lord Tyy'sun, called Eson, roars in on a swoop to extract his associate, and the cloaked Jarek Syris emerges to lend his menace, but Luke effortlessly absorbs Sidi's blaster bolts into his bare palm, deflects Eson's fire, and cripples the fleeing swoop with his lightsaber. Cornered, Eson plays his trump card, comming his lieutenant Malif with orders to execute thirty hostages unless he personally returns, forcing Luke to stand down the New Republic marines. The Jedi warns both Sidi and Eson against the dark path they walk, offers Eson the chance to learn the Force honorably, and ultimately lets them depart in an unmarked speeder driven by Siva, with Malif and Lavender aboard, promising their paths will cross again.",
+ "rows": [
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Tyler"
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 66,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 67,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 68,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 69,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 70,
+   "type": "desc",
+   "actor": "Sidi"
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Jarek"
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 87,
+   "type": "desc",
+   "actor": "Jarek"
+  },
+  {
+   "line": 88,
+   "type": "desc",
+   "actor": "Jarek"
+  },
+  {
+   "line": 89,
+   "type": "desc",
+   "actor": "Jarek"
+  },
+  {
+   "line": 90,
+   "type": "desc",
+   "actor": "Jarek"
+  },
+  {
+   "line": 91,
+   "type": "desc",
+   "actor": "Jarek"
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Tyler"
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Jarek",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Tyler",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Sidi",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Sidi"
+  },
+  {
+   "line": 166,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 167,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 169,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 170,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 172,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 173,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Siva",
+   "b": true
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Lavender",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Tyy'sun",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Tyy'sun"
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Siva",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Siva",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Luke"
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Luke",
+   "b": true
+  }
+ ]
+}

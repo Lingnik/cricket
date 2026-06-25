@@ -1,0 +1,163 @@
+{
+ "name": "RPlog_Two_for_Tea",
+ "title": "Two for Tea: A Confession Over Dantooine Leaves",
+ "summary": "In her spartan quarters aboard the Dauntless, the Imperial Navy doctor Captain Lynae Caiton brews tea when her old friend ISB Senior Agent Lanil Jast lets himself in for what he calls a friendly visit. Over the Dantooine tea, Lanil confesses long-held romantic feelings for her, acknowledging her absent and disenchanted husband Yoseph, who has not set foot aboard the ship in all their time there. Lynae, candid about being ill-suited to messy emotions and fiercely devoted to her career and duty, gently declines anything beyond their deep friendship, even as she admits her feelings for him are complicated. The two old hands--both of a 'dying breed' who remember the days before the Empire--talk through politics, marriage red tape, and Lynae's quiet sadness about Yoseph, and Lanil offers to stay to help her gather her thoughts, settling in to take the couch.",
+ "rows": [
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Lanil",
+   "b": false
+  }
+ ]
+}

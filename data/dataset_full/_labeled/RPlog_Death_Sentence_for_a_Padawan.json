@@ -1,0 +1,175 @@
+{
+  "name": "RPlog_Death_Sentence_for_a_Padawan",
+  "title": "Death Sentence for a Padawan",
+  "summary": "Imprisoned and malnourished in a cell deep within the asteroid base Demonspine, the Padawan Ai'kani sings softly to keep her grip on the Force as her long captivity wears on. The Twi'lek crime lord Tyy'sun, recovered from near death and seething with unnatural rage, enters to confront her, choking and striking her while raging that her team killed his men and that she stood between him and the girl Yejide, whom he now claims as his daughter. Ai'kani defies him, condemning his cruelty and warning that the Jedi Order will hunt him down. The mute servant Vaelyn arrives with food only to witness the scene; Tyy'sun orders her to clothe Ai'kani in a funeral shroud, blind and bind her, and bring her to the hangar, intending to take her to remote Trandosha for execution. Vaelyn tends to and dresses the doomed Padawan with quiet respect, signing her honor, while Tyy'sun departs to prepare his ship, and the scene fades to black on Ai'kani's sealed fate.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Vaelyn",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Tyy'sun",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "name": "RPlog_Back_In_the_Fold",
+  "title": "Back In the Fold",
+  "summary": "In the observation lounge of the Imperial Strike Cruiser over Selene, the recently released Ensign Antoine Dareus -- once a commander, imprisoned ten years on Kessel for insubordination -- is needled by the ISB Commissar Lanil Jast, who warns him against repeating past mistakes. The idealistic Ensign Alden Spiers steps in to defend Dareus, sparking a heated argument with Jast over the Security Bureau's habit of humiliating loyal frontline officers, until Spiers excuses himself to return to his ship. The confrontation is interrupted by the arrival of Grand Admiral Danik Kreldin and his entourage, who publicly reinstates Dareus's Star of Cimber, promotes him to Lieutenant Junior Grade, and awards him the Navy Cross for service on Coruscant and Ord Trasi. Kreldin approves Dareus's transfer to Captain Syris's command aboard the Stolz, and the two bond over Kreldin's newly acquired Corellian Rapier as Jast, won over, offers a public apology. A vindicated Dareus, his career restored, departs to pack for his new assignment a changed and happy man.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Alden Spiers",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Lanil Jast",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Antoine Dareus",
+      "b": false
+    }
+  ]
+}

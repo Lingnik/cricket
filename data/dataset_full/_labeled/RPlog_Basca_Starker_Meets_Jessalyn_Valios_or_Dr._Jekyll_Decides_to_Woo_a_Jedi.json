@@ -1,0 +1,691 @@
+{
+  "name": "RPlog_Basca_Starker_Meets_Jessalyn_Valios_or_Dr._Jekyll_Decides_to_Woo_a_Jedi",
+  "title": "Basca Starker Meets Jessalyn Valios, or Dr. Jekyll Decides to Woo a Jedi",
+  "summary": "In the Mos Eisley market, the biotech researcher Basca Starker -- recently smeared in a news broadcast by Zeak Oppenheimer -- seeks out the Jedi Master Jessalyn Valios to explain himself. Over cold tea in a cafe, he recounts how his classified Imperial project to study and weaponize the Force led him to bargain Jedi Archive copies in exchange for curing the Caspian phage, then to flee the Committee and CSA with all his research intact, defending the deal Johanna Danaan struck to save lives. Charmed and curious, Jessalyn agrees to be his date to a naming ceremony in his honor on Caspar. In a second meeting in the twilight desert outside the city, the two share wine and a deepening debate on the nature of the Force, the Dark Side, and Sith alchemy. Basca trades Jessalyn a secret -- that a Force connection could be forged between a non-adept and the Force only through the joint work of a Jedi and a Dark Adept, at great peril -- for a kiss beneath the stars. The flirtation grows serious as Basca reveals he is actually in his mid-fifties, his youthful appearance altered, and presses Jessalyn to spend the night; she, tempted but bound by duty, gently declines while agreeing to attend his formal ball.",
+  "rows": [
+    {
+      "line": 8,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

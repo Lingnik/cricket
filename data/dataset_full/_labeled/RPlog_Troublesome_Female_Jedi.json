@@ -1,0 +1,463 @@
+{
+ "name": "RPlog_Troublesome_Female_Jedi",
+ "title": "Troublesome Female Jedi: Confrontation on the Bluffs",
+ "summary": "While studying in solitude on Corellia's Ocean Bluffs, the Jedi padawan Ai'kani is nearly run down by a speeder carrying Grand Admiral Danik Kreldin, who recognizes her snooping near his estate and moves to take her into Imperial custody. Their tense standoff is interrupted by the arrival of Johanna Siri te Danaan, whom Ai'kani is horrified to sense has fallen to the dark side; the cheerfully menacing pilot toys with Kreldin and coldly rebuffs Ai'kani's plea for help. As the curious Sullustan Adam Zero and the off-duty Imperial Commander Ryder blunder into the scene, Johanna seizes Kreldin in a Force-choke, only for him to break free with a flash grenade. Ai'kani recklessly tackles Johanna to break her concentration and is briefly pinned at knifepoint before the dark Jedi spares her and departs. With Imperial reinforcements arriving, Ai'kani flees down the bluffs with Zero in tow toward the spaceport, while a shaken Kreldin orders Ryder to seal the starport and hunt the two Jedi down.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Vaathkree",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Zero",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Zero",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Ryder",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Zero",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Ryder",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Zero",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Ryder",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Zero",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Ryder",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Zero",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Ryder",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

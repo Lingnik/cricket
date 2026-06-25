@@ -1,0 +1,577 @@
+{
+  "name": "RPlog_Looking_For_Old_Soldiers",
+  "title": "Looking for Old Soldiers",
+  "summary": "The amnesiac Serenella and her Twi'lek companion Ka'una set out to dig into Serenella's hidden past, beginning with a frank conversation in their hotel room about who she once was. Dressed for the part, they share a meal at an upscale restaurant where they reconnect with the charming Jalek Wessiri, trading flirtatious banter and probing for leads. Their search takes them to the small Freedom Fighters of Efavan Museum, where the curator Maxxen pulls old enlistment records and photographs from his archives. A snapshot captioned 'Naughty Kitty' and a name, Aerith Fenn, briefly raise Serenella's hopes before proving dead ends, though the trail eventually points toward a Marine named Rhade Terrel. Grateful for Maxxen's patient help, the pair leave a quiet donation and depart with a copy of the photo, one small step closer to the truth.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Jalek Wessiri",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Maxxen",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Ka'una",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

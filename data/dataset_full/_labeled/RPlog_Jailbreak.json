@@ -1,0 +1,499 @@
+{
+ "name": "RPlog_Jailbreak",
+ "title": "Jailbreak",
+ "summary": "Held in an Imperial detention cell apart from her tortured Mon Calamari friend, the medic Myiari is taunted by stormtrooper Alek Telsinc, who is secretly under orders to lose. When he goads her once too often, Myiari snaps, beats him unconscious with his own helmet, and strips his gear to free the senator Tokoga -- all while two officers, Brek Halsmer and his theatrically minded superior Rainier, watch on a monitor and debate the value of staging the escape. Rainier and Brek then move in personally, and a running firefight erupts through the two-story house as Myiari and the limping Tokoga trade blaster fire, grenades, and glop with the two Imperials. Using a helmet as a decoy, Myiari and Tokoga break for the door just as outside authorities -- led by a Bothan officer -- kick in the entrance, take the pair into custody, and resolve to clamp down on off-world travel while the Imperials slip away.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Alek Telsinc",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Brek Halsmer",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Rainier",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Bothan officer",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Bothan officer",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Bothan officer",
+   "b": true
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Bothan officer",
+   "b": true
+  }
+ ]
+}

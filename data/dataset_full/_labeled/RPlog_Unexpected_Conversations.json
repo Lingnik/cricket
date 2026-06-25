@@ -1,0 +1,931 @@
+{
+ "name": "RPlog_Unexpected_Conversations",
+ "title": "Unexpected Conversations: A Reckoning in the Sandbar",
+ "summary": "In Caspar's Sandbar, the exiled former Imperial doctor Lynae Caiton--kept alive on borrowed time by a rewired pacemaker implanted as punishment for her treason--confronts her hard-drinking friend Keifan over his slide toward the Maffi underworld and andriss addiction, drawing the wary attention of the local pilot Jamon. When the argument spikes her sabotaged heart and she collapses, Keifan, a former Imperial himself, revives her, and the wandering Jedi Johanna arrives to offer Lynae a fresh start traveling at her side. The fragile peace fractures as Darth Malign, the criminal Malif, the mercenaries Dareus and Axel, the marine Webb, and finally the CDU President Mahon and his guards filter into the bar; Malign baits and threatens Lynae, who defiantly defends free will and the Caspian way before Mahon declares the Sith persona non grata. At last the healer Brandis Finian--whom Lynae once helped torture--arrives at her summons, and after a tense negotiation she swears him a future favor in exchange for his aid, and he Force-heals her damaged heart enough to buy time for the surgery that may finally free her from the device.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Jamon",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Webb",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Keifan",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Sarray",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Sarray",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Mahon",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 433,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 435,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 437,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Brandis",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,2713 @@
+{
+ "name": "RPlog_Shootout_on_Palanhi",
+ "title": "Shootout on Palanhi",
+ "summary": "Searching Palanhi City for missing companions, Alexis and Piper arrive at Starport Road to find a tense standoff: the Espo-escorted CSA man Dillon and a squad of Imperial stormtroopers facing off against the Wookiee Chewbacca and a band of fighters -- Khil, Jusre, Inoga, Leamer, Zarcane, Jander, and Miles Daq -- hidden behind the crates. The confrontation erupts into a vicious shootout, Chewbacca tearing into the troopers while the others trade blaster fire from cover and the stormtrooper CO, WA-1056, is steadily worn down. Caught in the crossfire, Dillon is badly hurt and dragged to safety by his Espos as troopers fall and the survivors rally medpacks around their wounded leader. The brawl leaves the squad battered and the rescuers scattered back across the square.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Jander",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 442,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 465,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 485,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 489,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 491,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 497,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Khil",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 515,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Inoga",
+   "b": false
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 521,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 522,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 526,
+   "type": "pose",
+   "actor": "Zarcane",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 531,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "pose",
+   "actor": "Trooper WA-1056",
+   "b": false
+  },
+  {
+   "line": 537,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 546,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 550,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 553,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 557,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 559,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 561,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 562,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 565,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 567,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 571,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 576,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 578,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 606,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 610,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 625,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 648,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 652,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 653,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 659,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 661,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 665,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 677,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 683,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 685,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 686,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 688,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 690,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 692,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 694,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 696,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 698,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 702,
+   "type": "pose",
+   "actor": "Alexis",
+   "b": false
+  },
+  {
+   "line": 704,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 706,
+   "type": "pose",
+   "actor": "Jusre",
+   "b": false
+  },
+  {
+   "line": 707,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 709,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 710,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 712,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 714,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 715,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 717,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 718,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 720,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 722,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 723,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 725,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 727,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 729,
+   "type": "pose",
+   "actor": "W8-SD",
+   "b": false
+  },
+  {
+   "line": 731,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 733,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 734,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 736,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 738,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 740,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 742,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 744,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 746,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 748,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 750,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 752,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 754,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 756,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 758,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 760,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 762,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 764,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 766,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 768,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 770,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 771,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 773,
+   "type": "pose",
+   "actor": "W8-SD",
+   "b": false
+  },
+  {
+   "line": 774,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 776,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 778,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 780,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 782,
+   "type": "pose",
+   "actor": "W8-SD",
+   "b": false
+  },
+  {
+   "line": 784,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 786,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 788,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 790,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 792,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 793,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 795,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 797,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 799,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 801,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 803,
+   "type": "pose",
+   "actor": "Miles Daq",
+   "b": false
+  },
+  {
+   "line": 805,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 807,
+   "type": "pose",
+   "actor": "C-3PO",
+   "b": false
+  },
+  {
+   "line": 809,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 811,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 812,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 814,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 816,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 817,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 818,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 819,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": false
+  },
+  {
+   "line": 820,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 821,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 823,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 825,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

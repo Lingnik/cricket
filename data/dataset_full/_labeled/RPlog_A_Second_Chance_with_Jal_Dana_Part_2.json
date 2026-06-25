@@ -1,0 +1,757 @@
+{
+  "name": "RPlog_A_Second_Chance_with_Jal_Dana_Part_2",
+  "title": "Furball at the Ord Mantell Line",
+  "summary": "Along the Imperial-Republican border near Ord Mantell, the New Republic corvette Audacity and its Ghost Squadron of X-wings run a routine patrol while the hidden Imperial carrier Emancipator launches a TIE sweep led by Commander Wolf, shadowed by the inspecting Admiral Jal'Dana Rall in her stark-white interceptor and her wingman Boomer (Korolov). When Wolf engages prematurely, the two formations collide into a swirling dogfight in which the Corellian Captain Kesander 'Sandman' Beysarus, the X-wing ace Raxis 'Raptor' L'ygr in Ghost 3, and the Dug pilot Shovadu in Ghost 4 trade fire with the Imperials. Raxis recognizes the white TIE as Admiral Rall, and the corvette's controller Rasi orders the squadron to isolate and disable her fighter, turning the skirmish into a personal duel between the pilot she dubs 'Meat' and the Admiral. As the Star Destroyer Vindictive arrives and opens its lethal anti-fighter arcs, Jal'Dana orders all Imperial craft to regroup, and Kesander calls the Ghosts to break contact and limp home with light damage. Both sides count the engagement a draw with no losses, leaving the rivalry between Raxis and Admiral Rall unresolved.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Vextin Mandor",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Vextin Mandor",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Farswori",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Vextin Mandor",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Amelia Hawthorne",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Wolf",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Kesander",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Shovadu",
+      "b": false
+    }
+  ]
+}

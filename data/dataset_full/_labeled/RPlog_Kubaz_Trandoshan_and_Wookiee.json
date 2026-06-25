@@ -1,0 +1,229 @@
+{
+ "name": "RPlog_Kubaz_Trandoshan_and_Wookiee",
+ "title": "A Kubaz, a Trandoshan, and a Wookiee",
+ "summary": "In the aftermath of the refinery explosion and attacks that rocked Cloud City, three friends on a break from the Caspian relief effort -- the Kubazian tailor Zubindi Hakoon, Trandoshan captain Drorq, and Wookiee politician Zaalbacca -- head into the Caspar Caf for coffee. There they cross paths with the harried acting Baroness-Administrator Quinne Stardust Rose and, to everyone's astonishment, find Johanna's ex Zeak Oppenhiemer moonlighting behind the bar, browbeating a long-suffering Rodian barista he insists on calling 'Jack.' Amid Zeak's absurd, increasingly chemical coffee experiments -- including a swamp-water brew Drorq happily downs -- the group trades gossip about Johanna's recovery and the investigation, orders elaborate drinks, and settles in as Zeak slips off toward the restrooms with a cryptic promise that the best is yet to come.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Quinne Stardust Rose",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Drorq",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Bob",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Bob",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": true
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Quinne Stardust Rose",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Zaalbacca",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Drorq",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Bob",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Bob",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Quinne Stardust Rose",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Quinne Stardust Rose",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Bob",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Quinne Stardust Rose",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Drorq",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Zeak Oppenhiemer",
+   "b": false
+  }
+ ]
+}

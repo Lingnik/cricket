@@ -1,0 +1,31 @@
+{
+  "name": "RPlog_To_Hire_a_Smuggler_Part_two",
+  "title": "A Holocall with Captain Vane",
+  "summary": "Roused from a doze in the Caspian embassy, Ambassador Ambrosia Ad-Delgard takes an incoming holo-transmission from Captain Shiari Vane, a flamboyant Rattataki smuggler responding to word that the Republic needs captains skilled at evading Imperial blockades. Vane, eager and theatrical, confirms her interest in running humanitarian aid -- food, water, medicine, and possibly weapons -- through the Imperial blockade of the starving Caspian worlds. Ambrosia lays out her terms: thirty-five thousand credits up front plus three to five thousand per run, with blockade evasion the captain's own burden. Vane haggles for double the per-run rate, arguing the risk to ship and crew, and Ambrosia agrees to take it to her Naval contacts while keeping a child glimpsed in the background sheltered from view. The two part with the deal nearly struck and a promise to stay in touch.",
+  "rows": [
+    {"line": 10, "type": "system", "actor": ""},
+    {"line": 12, "type": "system", "actor": ""},
+    {"line": 14, "type": "system", "actor": ""},
+    {"line": 18, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 22, "type": "pose", "actor": "Ambrosia Ad-Delgard", "b": true},
+    {"line": 26, "type": "pose", "actor": "Shiari Vane"},
+    {"line": 30, "type": "desc", "actor": "Shiari Vane"},
+    {"line": 32, "type": "desc", "actor": "Shiari Vane"},
+    {"line": 34, "type": "desc", "actor": "Shiari Vane"},
+    {"line": 38, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 42, "type": "pose", "actor": "Shiari Vane"},
+    {"line": 46, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 50, "type": "pose", "actor": "Shiari Vane"},
+    {"line": 54, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 56, "type": "pose", "actor": "Ambrosia Ad-Delgard", "b": true},
+    {"line": 60, "type": "pose", "actor": "Shiari Vane"},
+    {"line": 64, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 66, "type": "pose", "actor": "Ambrosia Ad-Delgard", "b": true},
+    {"line": 70, "type": "pose", "actor": "Shiari Vane"},
+    {"line": 74, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 78, "type": "pose", "actor": "Ambrosia Ad-Delgard", "b": true},
+    {"line": 82, "type": "pose", "actor": "Shiari Vane"},
+    {"line": 84, "type": "pose", "actor": "Ambrosia Ad-Delgard"},
+    {"line": 86, "type": "system", "actor": ""}
+  ]
+}

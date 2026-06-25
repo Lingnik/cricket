@@ -1,0 +1,5785 @@
+{
+  "name": "RPlog_Griffons_Betrayal_and_a_Mandalorian_Plant",
+  "title": "Griffon's Betrayal and a Mandalorian Plant",
+  "summary": "In the KOS Gardens aboard Kichnar Station, the scarred and volatile Morganna trades barbed words with the aloof Griffon admiral Lanthazar and his nervous aide Fay before colliding with the perpetually irritated Grathix, who has sought her out to see her prized carnivorous plant. Nearby, Leia and Han Solo reunite while Lanthazar presses the princess for New Republic support against the Empire, and Kadgie and the Horansi Machkeu drift through the gathering. Morganna and Grathix leave for the starport, where they cross paths with the Grand Admiral Adlerson and the ambassador Erin Abrosen; Morganna covertly warns the Imperial entourage of New Republic presence before retreating into a rain-soaked Plaxton square, where Machkeu seeks to mend their strained friendship and she pushes him away for his own safety. Retiring at last to her ship the Sable Fox, Morganna shows off her plant, only for Grathix to reveal himself as one of the last sons of Mandalore: he poisons the bloom to force her hand, demanding it in exchange for what he knows of the dead world of Mandalore. Enraged, Morganna beats him until she breaks her own hand against a strut, then surrenders the plant and a message for her mysterious patron, and Grathix departs with a warrior's farewell as she curses him and finally sleeps.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Fay",
+      "b": true
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Fay",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Fay",
+      "b": true
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Fay",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Fay",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Fay",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Fay",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Fay",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": true
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": true
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 319,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": true
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 345,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 351,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 366,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 370,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 376,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 378,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 379,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 380,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 382,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": true
+    },
+    {
+      "line": 388,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 390,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 391,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 392,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 394,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 395,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 398,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 400,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 406,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 409,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": true
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 415,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Lanthazar",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 428,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": true
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 432,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 433,
+      "type": "pose",
+      "actor": "Kadgie",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 436,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 439,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 440,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 442,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 444,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 445,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 446,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 447,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 448,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 450,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 451,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 453,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 454,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 455,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 456,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 458,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 459,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 461,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 462,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 463,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 467,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 468,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 469,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 470,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 473,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 475,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 476,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 478,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": true
+    },
+    {
+      "line": 479,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 481,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 483,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 485,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 486,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 489,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 491,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 492,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 493,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 494,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 495,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 496,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 499,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 500,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 502,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 503,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 504,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 506,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": true
+    },
+    {
+      "line": 507,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 508,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 512,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 514,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": true
+    },
+    {
+      "line": 515,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 516,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 520,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 521,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 522,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 523,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 524,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 526,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 527,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 528,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 529,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 531,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": true
+    },
+    {
+      "line": 532,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 533,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 535,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 536,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 537,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 538,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 539,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 541,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": true
+    },
+    {
+      "line": 542,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 543,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 544,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 546,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": true
+    },
+    {
+      "line": 547,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 548,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 550,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 551,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 553,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 554,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 555,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 556,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": true
+    },
+    {
+      "line": 559,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 560,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 561,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 562,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 565,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": true
+    },
+    {
+      "line": 566,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 567,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 568,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 570,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 571,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 572,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 575,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 576,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 577,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 579,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": true
+    },
+    {
+      "line": 580,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 581,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 582,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 583,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 584,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 585,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 586,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 588,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 589,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 590,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 591,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 593,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 594,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 595,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 596,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 598,
+      "type": "pose",
+      "actor": "Leia",
+      "b": true
+    },
+    {
+      "line": 599,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 600,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 601,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 603,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 604,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 605,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 606,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 608,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": true
+    },
+    {
+      "line": 609,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 610,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 611,
+      "type": "pose",
+      "actor": "Rabid",
+      "b": false
+    },
+    {
+      "line": 613,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 614,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 615,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 616,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 617,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 618,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 620,
+      "type": "pose",
+      "actor": "Han",
+      "b": true
+    },
+    {
+      "line": 621,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 622,
+      "type": "pose",
+      "actor": "Han",
+      "b": false
+    },
+    {
+      "line": 624,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 626,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": true
+    },
+    {
+      "line": 627,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 628,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 629,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 631,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 632,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 633,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 635,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 636,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 637,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 638,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 639,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 641,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 642,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 643,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 644,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 646,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 647,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 648,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 649,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 651,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 652,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 653,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 655,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": true
+    },
+    {
+      "line": 656,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 657,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 659,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 660,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 662,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 663,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 664,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 666,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 668,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 669,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 671,
+      "type": "pose",
+      "actor": "Erin",
+      "b": true
+    },
+    {
+      "line": 672,
+      "type": "pose",
+      "actor": "Erin",
+      "b": false
+    },
+    {
+      "line": 674,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": true
+    },
+    {
+      "line": 675,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 676,
+      "type": "pose",
+      "actor": "Athahk",
+      "b": false
+    },
+    {
+      "line": 678,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 679,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 680,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 682,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 683,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 685,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 687,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 688,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 689,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 691,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 693,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": true
+    },
+    {
+      "line": 694,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": false
+    },
+    {
+      "line": 695,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": false
+    },
+    {
+      "line": 697,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 698,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 699,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 700,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 702,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 703,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 704,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 705,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 707,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 708,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 710,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 711,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 713,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 714,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 715,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 717,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 718,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 719,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 720,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 722,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 724,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": true
+    },
+    {
+      "line": 725,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": false
+    },
+    {
+      "line": 727,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 728,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 730,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 731,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 732,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 733,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 735,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": true
+    },
+    {
+      "line": 736,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": false
+    },
+    {
+      "line": 738,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 740,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 741,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 742,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 744,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 745,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 746,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 748,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 749,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 750,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 751,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 752,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 754,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 755,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 756,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 757,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 759,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 760,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 762,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 763,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 764,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 765,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 767,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 768,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 770,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 771,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 772,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 774,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 775,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 777,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 778,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 779,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 781,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 782,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 784,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 785,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 786,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 787,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 789,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 790,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 792,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 793,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 794,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 796,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 798,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 799,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 800,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 802,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 803,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 804,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 805,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 807,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": true
+    },
+    {
+      "line": 809,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 810,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 811,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 812,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 814,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": true
+    },
+    {
+      "line": 815,
+      "type": "pose",
+      "actor": "Wiyaana",
+      "b": false
+    },
+    {
+      "line": 817,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 818,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 819,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 820,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 822,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 823,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 824,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": false
+    },
+    {
+      "line": 826,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 827,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 828,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 829,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 831,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 832,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 833,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 834,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 836,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 837,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 838,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 840,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 842,
+      "type": "pose",
+      "actor": "Machkeu",
+      "b": true
+    },
+    {
+      "line": 844,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 845,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 846,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 847,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 849,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 850,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 851,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 853,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 855,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 856,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 857,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 858,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 860,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 861,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 862,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 863,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 865,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 866,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 867,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 869,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 870,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 872,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 873,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 874,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 875,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 876,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 878,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 880,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 881,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 883,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 884,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 885,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 887,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 888,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 889,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 890,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 892,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 894,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 895,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 896,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 897,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 898,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 899,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 900,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 901,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 903,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 904,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 905,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 906,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 908,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 909,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 910,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 911,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 913,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 914,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 915,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 916,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 918,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 919,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 920,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 922,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 923,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 924,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 925,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 927,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 928,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 929,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 930,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 932,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 933,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 934,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 935,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 936,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 937,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 938,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 939,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 941,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 942,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 943,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 945,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 946,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 947,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 948,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 949,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 950,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 952,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 954,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 955,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 956,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 957,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 959,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 960,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 962,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 963,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 964,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 965,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 967,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 968,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 969,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 971,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 972,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 973,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 974,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 976,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 977,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 978,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 979,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 980,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 982,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 983,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 984,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 985,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 986,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 988,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 989,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 990,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 991,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 992,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 994,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 995,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 996,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 997,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1000,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1001,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1002,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1004,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1005,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1006,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1007,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1009,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1010,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1011,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1012,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1013,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1014,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1015,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1016,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1018,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1019,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1020,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1021,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1023,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1024,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1025,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1026,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1027,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1028,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1029,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1030,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1031,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1033,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1034,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1035,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1036,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1037,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1038,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1039,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1040,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1041,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1042,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1044,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1045,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1046,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1047,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1049,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1050,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1051,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1052,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1053,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1054,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1055,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1056,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1057,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1059,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1060,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1061,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1062,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1063,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1064,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1065,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1067,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1068,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1069,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1070,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1071,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1072,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1073,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1075,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1076,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1077,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1078,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1079,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1080,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1081,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1082,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1084,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1085,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1086,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1088,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1089,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1090,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1091,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1092,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1093,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1094,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1095,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1096,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1097,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1099,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1100,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1102,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1103,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1104,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1105,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1106,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1107,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1108,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1109,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1110,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1112,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1114,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1115,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1116,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1117,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1118,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1120,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1121,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1122,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1123,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1124,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1126,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1127,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1128,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1129,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1130,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1131,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1132,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1133,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1134,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1135,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1136,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1138,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1139,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1140,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1141,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1142,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1143,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1145,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1146,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1147,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1149,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1150,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1151,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1152,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1153,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1155,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1156,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1157,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1158,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1159,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1160,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1161,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1162,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1163,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1165,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1166,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1167,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1168,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1169,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1171,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1172,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1173,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1174,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1175,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1176,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1177,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1179,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1180,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1181,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1183,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1184,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1185,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1186,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1187,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1188,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1189,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1190,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1191,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1193,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1194,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1195,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1196,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1197,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1198,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1200,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": true
+    },
+    {
+      "line": 1201,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1202,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1203,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1204,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1205,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1206,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1207,
+      "type": "pose",
+      "actor": "Grathix",
+      "b": false
+    },
+    {
+      "line": 1209,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": true
+    },
+    {
+      "line": 1210,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 1212,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+ "name": "RPlog_Enter_The_Rapier",
+ "title": "Enter the Rapier",
+ "summary": "On the surface of New Alderaan, the towering cruiser Rapier is being loaded for a long deployment as its commanding officer, Commander Rasi, awaits two arriving guests ahead of an upcoming mission into Corellian space. The runaway medic Myiari Oerstead, recruited to fill the ship's shortage of qualified medical staff, arrives uncertain about serving aboard a warship and her tight crew quarters, while Senator Tokoga makes a low-key entrance amid his Senate-guard retinue. Rasi welcomes them, vouching that Myiari was chosen for her reliability and discretion as much as her skill, and quietly cautions the senator that the Rapier's destination is not widely known. He escorts the party to their quarters and requests a private word with Tokoga. Myiari belatedly discloses that she fled Commenor six years ago and may still be a flagged missing person, but the senator reassures her that the authorities where they are headed will have far more pressing concerns than an old missing-persons case.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Myiari",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Tokoga",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

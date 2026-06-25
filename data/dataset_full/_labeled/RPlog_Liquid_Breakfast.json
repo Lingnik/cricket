@@ -1,0 +1,463 @@
+{
+  "name": "RPlog_Liquid_Breakfast",
+  "title": "Liquid Breakfast",
+  "summary": "Morning at the Sandbar cantina on Caspar brings together a weary, hard-drinking crowd around the bounty hunter Adam Shadow's corner table. The Rodian Gimel Daleth, sleepless and pouring spiked caf down his throat, grows increasingly belligerent, while the bartender Shintu and the calm pilot Asli Nayana try to keep the peace. As Shadow takes his leave and later returns, Daleth's drunken antics escalate until he draws a blaster and waves it at the assembled officers. Asli demands he surrender the weapon as the Quarren Krel Scrinae wanders in to join the strange gathering, and the scene dissolves into a scramble for cover before Asli bolts for the door. The morning ends in comic chaos, with the over-served Rodian finally slumping into a doze in the middle of the cantina.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "desc",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "desc",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "desc",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "desc",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "desc",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "desc",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "desc",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "desc",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "desc",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "desc",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "desc",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "desc",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "desc",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "desc",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "desc",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "desc",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Shintu",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Emma",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Gimel Daleth",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Adam Shadow",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Asli Nayana",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Emma",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Krel Scrinae",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -23,26 +23,43 @@ import json
 import os
 import sys
 
+import re
+
 import rplog_to_jsonl as r2j
 
 DROP = {"blank", "sep"}
 BODY_TYPES = {"pose", "scene", "room", "desc", "ooc", "system"}
 
+# Pure divider/rule lines (----, ____, ====, * * *) carry no RP text. They are
+# technically non-blank, so render shows them and the labeler may or may not label
+# them; either way they are not content. Treat them like blank lines: not required
+# for coverage, dropped from output, and never a round-trip obligation.
+_DIVIDER = re.compile(r"^[\s\-_=*+~]*$")
+
+
+def is_noise(line):
+    if r2j.is_blank(line):
+        return True
+    s = line.strip()
+    return len(s) >= 3 and bool(_DIVIDER.match(line)) and not any(c.isalnum() for c in s)
+
 
 def assemble(text, mp):
     start, last, lines = r2j.body_line_span(text)
-    body_nums = [i + 1 for i in range(start, last + 1) if not r2j.is_blank(lines[i])]
+    body_nums = [i + 1 for i in range(start, last + 1) if not is_noise(lines[i])]
     body_set = set(body_nums)
 
     by_line = {}
     errors = []
     for row in mp:
         ln = row["line"]
+        if 1 <= ln <= len(lines) and is_noise(lines[ln - 1]):
+            continue  # label points at a divider/blank -- drop silently, not content
         if ln in by_line:
             errors.append("duplicate label for line %d" % ln)
         by_line[ln] = row
         if ln not in body_set:
-            errors.append("labeled line %d is not a non-blank body line" % ln)
+            errors.append("labeled line %d is not a content body line" % ln)
     missing = [n for n in body_nums if n not in by_line]
     if missing:
         errors.append("uncovered body lines: %s%s" % (
@@ -59,7 +76,7 @@ def assemble(text, mp):
             continue
         t, a = row["type"], (row.get("actor") or "").strip()
         blank_between = prev_num is not None and any(
-            r2j.is_blank(lines[k]) for k in range(prev_num, n - 1))
+            is_noise(lines[k]) for k in range(prev_num, n - 1))
         newturn = (cur is None or t != cur["type"] or a != cur["actor"]
                    or row.get("b") or blank_between)
         if newturn:

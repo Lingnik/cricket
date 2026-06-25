@@ -1,0 +1,1111 @@
+{
+  "name": "RPlog_Changing_The_Guard",
+  "title": "Changing the Guard at the Meltdown",
+  "summary": "A quiet evening of tense drinks at the Meltdown Cafe on Nar Shaddaa erupts into a full-scale brawl when a Sith-backed coup against Grubba the Hutt spills through the doors. The Sith Tyler Damion, fighting under the alias 'Tatooine Bob,' is hurled into the bar by Grubba's towering Wookiee bodyguard, and the patrons, the soldier Sarray, the reporter Eithne, the exiled gunman Dareus, the smug Twi'lek Via, the crime lord Thanos, the drunken pirate Juran, the surgeon-commodore Lynae, the grumbling medic Xar'on, arms dealer Kaitlin, the silent Tritus, and the bloodthirsty pilot Axel Vichten, are forced to fight for their lives. The Wookiee and Grubba's thugs are slaughtered, Lynae mercy-kills the dying as Xar'on storms off in disgust, and Thanos declares the cafe the seed of his new regime. With the system locked down by Axel's fleet, the survivors regroup over looted drinks, reckoning their tangled loyalties to the Sith, the Maffi, and each other before scattering into the war-torn streets.",
+  "rows": [
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Thanos",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Juran",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Juran",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Cade",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Juran",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Thanos",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Juran",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Thanos",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Lon",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Navigator woman",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 345,
+      "type": "pose",
+      "actor": "Juran",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Cade",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Thanos",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "pose",
+      "actor": "Sarray",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Juran",
+      "b": false
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Eithne",
+      "b": false
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Xar'on",
+      "b": false
+    },
+    {
+      "line": 434,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 442,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 446,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 450,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 454,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 458,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 462,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 466,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 470,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 478,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 486,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 494,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 502,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 506,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 514,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 522,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 526,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 530,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 534,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 538,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 542,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 546,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 550,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 554,
+      "type": "pose",
+      "actor": "Axel Vichten",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 562,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 566,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 570,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 578,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 582,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 586,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 590,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 591,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 595,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 599,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 603,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 607,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 611,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 615,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 619,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 623,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 627,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 631,
+      "type": "pose",
+      "actor": "Kaitlin",
+      "b": false
+    },
+    {
+      "line": 635,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 639,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 643,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 647,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 651,
+      "type": "pose",
+      "actor": "Via",
+      "b": false
+    },
+    {
+      "line": 655,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 659,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 663,
+      "type": "pose",
+      "actor": "Tyler Damion",
+      "b": false
+    },
+    {
+      "line": 667,
+      "type": "pose",
+      "actor": "Dain",
+      "b": false
+    },
+    {
+      "line": 671,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    }
+  ]
+}

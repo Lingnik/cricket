@@ -1,0 +1,787 @@
+{
+ "name": "RPlog_Dillon_and_Piper_Discuss_Kuxli",
+ "title": "Dillon and Piper Discuss Kuxli",
+ "summary": "Summoned to the Executive Office of the CSA headquarters on Etti IV, VicePrex Simone Drake (Piper) is confronted by ExO Dillon over the formal complaint of the young Defel cub Kuxli, who accuses her of ordering Espos to shoot him. Dillon mediates as Piper and Kuxli give conflicting accounts: Kuxli insists he was fired upon merely for trying to stay overnight with friends from Caspar and the New Republic, while Piper maintains she ordered the Espos only to keep him under guard for the good of the Authority and that he escalated by fleeing. Dillon presses Kuxli on why he defied Drake's diplomatic advice, eventually winning a grudging acknowledgment that his judgement was poor, while warning Piper that her heavy-handed actions will face an investigation. He rules that Kuxli is temporarily relieved of his duties and enrolled at the University of Kalla until deemed ready to return. Piper departs standing firmly by her actions, and Dillon holds Kuxli back to speak with him privately.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Piper",
+   "b": true
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Dillon",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Piper",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

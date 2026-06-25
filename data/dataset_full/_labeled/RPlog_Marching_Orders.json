@@ -1,0 +1,175 @@
+{
+  "name": "RPlog_Marching_Orders",
+  "title": "Marching Orders",
+  "summary": "Alone with a pot of strong caf in the ready room of the NRCV Audacity, Minister Leia Organa Solo waits to brief her Intelligence agent Drax on a sensitive operation. Their banter over the bitter caf gives way to a pointed parable, Leia's joke about a man trapped in a hole, meant to steer Drax toward accepting help rather than going it alone. The naval officers Cen and Rasi join them, and talk turns to the strategic stakes of any action near Trandosha and its risk to the defenses of Kashyyyk. Leia pledges to place whatever assets Drax needs at his disposal, affirming that the mission is his to run on his own terms but not a one-way trip. The meeting ends with marching orders set and the agent armed with both resources and Leia's confidence.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Cen",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Cen",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+ "name": "RPlog_Encounter_at_Nak_Shimor_pt._2",
+ "title": "Encounter at Nak Shimor Part 2",
+ "summary": "A second clash erupts in the contested space near Nak Shimor as the Imperial Marauder corvette Pillager and the Lancer frigate Stormfire, carrying Task Force Inquisitor's Marshal Krieg Inrokana, probe the New Republic corvette Audacity. With Ghost Squadron absent, the lone X-wing of the independent Jedi pilot Enb'Zik launches to face Krieg's TIE in a tense, evenly matched duel, while XO Rasi (Cen) maneuvers the Audacity and Caspian observers Lynae Cassius and Sadim advise on shield configurations and warn that these are known task-force assets. Lynae recognizes the Pillager and Stormfire from her own past service and presses Cen to carry the intelligence back in person, identifying Inrokana as the task force commander. Rasi springs a trap, detonating a cluster of sensor probes to blind the Pillager before raking it with fire, bloodying the Marauder before the Stormfire moves in to extract it. With both sides withdrawing, Enb'Zik covers the Audacity's jump with a strafing run on the Pillager's sensor array, Krieg salutes a worthy foe and breaks off, and Lynae resolves it is time to speak directly with the Republic admiralty about the Task Force's intentions.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Sadim",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  }
+ ]
+}

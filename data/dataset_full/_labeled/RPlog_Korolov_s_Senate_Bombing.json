@@ -1,0 +1,1093 @@
+{
+ "name": "RPlog_Korolov_s_Senate_Bombing",
+ "title": "Korolov's Senate Bombing",
+ "summary": "As the New Republic Senate debates a controversial military bill, with Chief of State Leia presiding and General Enb'Zik Ikihsa speaking, watchers and Marines including Rook, Vengan, and Snarl keep an uneasy eye on the chamber while a Force-vision sends Luke Skywalker racing to the building. The moment the vote concludes, a chain of bombs tears through the Senate Chambers, immolating delegations and pods as Senator Viktor Faust is revealed to be the Sith Lord Korolov in crimson armor, his disguised stormtrooper Guards turning their weapons inward. Amid the collapsing dome, Luke duels Korolov while Rook commandeers a repulsor pod and the surviving soldiers -- Vengan, Kesander, Aramis, Rasi, and the wounded Snarl -- fight a desperate retreat. As Korolov initiates Plan Retribution, the battered pod barely escapes through a crumbling wall, leaving the ruined chamber behind.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Jenya",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Celo",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Jenya",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Johmac Mabru",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Celo",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Mitali",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Johmac Mabru",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Celo",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Celo",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": true
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Rook",
+   "b": true
+  },
+  {
+   "line": 395,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Rook",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Rasi Cen",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Vengan",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Aramis",
+   "b": false
+  },
+  {
+   "line": 427,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 432,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

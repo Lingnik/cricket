@@ -1,0 +1,5119 @@
+{
+  "name": "RPlog_Mandalore_-_Arrival",
+  "title": "Mandalore: Arrival",
+  "summary": "The Corellian pilot Paul Nighman, his young companion the disguised bard Shenner, and the Mandalorian warrior Dane Noth touch down on the scarred, war-ravaged world of Mandalore aboard the Hawk's Wing. They are met by the cool, watchful Mandalorian Urio'kosh, who processes them through a retina-scan security clearance and grudgingly grants the offworlders limited access to a small hangar in the military complex. Dane reunites with his kinsmen, exchanging the ritual greeting 'Nava Choi' with the proud young warrior Kairne and arranging to visit his clan's lands while Paul prepares his expedition into the field. As the Mandalorians depart on their own errands, Paul and Shenner are left alone in the quiet hangar, where the weary girl finally lets her businesslike facade slip and the two share a tender, uncertain moment of closeness. Dane returns to check on them, and the arrival sets the stage for the dangerous archaeological venture to come on the forgotten planet.",
+  "rows": [
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "desc",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "desc",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": true
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": true
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "desc",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 351,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 366,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": true
+    },
+    {
+      "line": 370,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 376,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 378,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 379,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 382,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 386,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": true
+    },
+    {
+      "line": 391,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": true
+    },
+    {
+      "line": 392,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 394,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 395,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": true
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 420,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 428,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 431,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 433,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 434,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 436,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 437,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 439,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 440,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 442,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 443,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 445,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 446,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 447,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 448,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 449,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 450,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 453,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 454,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 456,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 457,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 459,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 461,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 462,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 464,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 466,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 468,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 469,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 471,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 472,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 475,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 477,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 478,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 481,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 483,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 484,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 485,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 491,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 493,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 495,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 496,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 499,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 500,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 503,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 504,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 506,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 508,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 512,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 513,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 515,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 516,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 517,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 520,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 521,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 523,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 524,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 526,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 527,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 528,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 529,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 531,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 532,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 534,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 535,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 536,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 537,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 538,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 540,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 541,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 542,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 544,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 545,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 546,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 548,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 549,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 551,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 553,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 554,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 555,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 556,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 560,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 561,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 563,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 564,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 565,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 567,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 568,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 569,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 570,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 572,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 575,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 577,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 578,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 579,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 581,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 583,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 584,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 585,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 587,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 588,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 589,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 590,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 591,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 592,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 593,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 594,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 595,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 597,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 599,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 600,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 601,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 602,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 604,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 605,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 606,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 607,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 608,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 610,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 611,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 613,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 614,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 615,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 616,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 618,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 619,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 621,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 622,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 624,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 626,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 628,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 629,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 630,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 631,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 632,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 633,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 634,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 635,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 636,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 637,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 638,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 639,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 640,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 642,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 644,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 645,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 647,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 649,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 650,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 651,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 652,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 654,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 655,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 656,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 658,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 659,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 660,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 661,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 662,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 663,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 664,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 665,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 667,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 668,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 669,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 670,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 672,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 673,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 674,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 675,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 676,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 677,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 678,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 680,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 681,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 682,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 683,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 685,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 686,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 688,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 690,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 691,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 692,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 694,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 695,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 696,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 697,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 699,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 700,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 701,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 702,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 703,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 705,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 706,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 707,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 708,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 709,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 711,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 712,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 714,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 715,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 716,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 718,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 719,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 720,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 721,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 722,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 723,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 725,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 726,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 727,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 728,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 729,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 730,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 731,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 732,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 734,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 735,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 737,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 738,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 739,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 740,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 742,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 744,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 745,
+      "type": "pose",
+      "actor": "Urio'kosh",
+      "b": false
+    },
+    {
+      "line": 747,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 748,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 749,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 751,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 752,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 753,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 754,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 755,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 757,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 758,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 759,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 760,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 761,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 763,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 764,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 765,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 766,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 767,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 768,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 769,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 771,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 772,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 774,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": true
+    },
+    {
+      "line": 776,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": true
+    },
+    {
+      "line": 777,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 779,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 780,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 781,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 783,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 784,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 786,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 787,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 789,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": true
+    },
+    {
+      "line": 791,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": true
+    },
+    {
+      "line": 793,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 794,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 796,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 797,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 799,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 800,
+      "type": "pose",
+      "actor": "Kairne",
+      "b": false
+    },
+    {
+      "line": 802,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 803,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 805,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 806,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 807,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 809,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 811,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 812,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 813,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 814,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 815,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 816,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 817,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 819,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 820,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 822,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 823,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 824,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 825,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 826,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 827,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 828,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 830,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 831,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 832,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 834,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 835,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 836,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 837,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 838,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 839,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 840,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 842,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 843,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 844,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 845,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 846,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 847,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 848,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 850,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 851,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 852,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 853,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 854,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 855,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 856,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 857,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 858,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 859,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 861,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 862,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 863,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 865,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 866,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 867,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 868,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 869,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 870,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 871,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 872,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 873,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 874,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 875,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 876,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 877,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 878,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 880,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 881,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 882,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 883,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 885,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 886,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 887,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 888,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 889,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 890,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 891,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 893,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 894,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 895,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 896,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 897,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 898,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 899,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 901,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 902,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 903,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 904,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 905,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 906,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 907,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 908,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 910,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 911,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 912,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 913,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 914,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 916,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 917,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 918,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 919,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 920,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 921,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 922,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 923,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 924,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 925,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 926,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 927,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 928,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 929,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 930,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 932,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 933,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 934,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 935,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 937,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 938,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 939,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 940,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 941,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 943,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 944,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 945,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 946,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 947,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 949,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 950,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 951,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 952,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 954,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 955,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 957,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 958,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 959,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 960,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 961,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 962,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 964,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 965,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 966,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 967,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 968,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 969,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 971,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 972,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 973,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 974,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 975,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 976,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 977,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 978,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 979,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 980,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 982,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 983,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 984,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 985,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 986,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 988,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 989,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 990,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 991,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 992,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 993,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 994,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 997,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 998,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1000,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1001,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1003,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": true
+    },
+    {
+      "line": 1004,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1006,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1007,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1008,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1010,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1011,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1013,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1014,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1015,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1016,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1017,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1018,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1020,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1021,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1022,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1024,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1025,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1027,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1028,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1030,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1031,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1032,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1033,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1034,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1036,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1037,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1038,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1040,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1041,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1042,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1043,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1044,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1045,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1046,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1048,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1049,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1051,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1052,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1053,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1055,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": true
+    },
+    {
+      "line": 1056,
+      "type": "pose",
+      "actor": "Dane Noth",
+      "b": false
+    },
+    {
+      "line": 1058,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1059,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1060,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1062,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1063,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1065,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1066,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1067,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1068,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1069,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1071,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1072,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1073,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1074,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1075,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1077,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": true
+    },
+    {
+      "line": 1078,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 1080,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1081,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1082,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1083,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1084,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1085,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1086,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 1087,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    }
+  ]
+}

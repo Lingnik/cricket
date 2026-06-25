@@ -1,0 +1,5533 @@
+{
+  "name": "RPlog_Imperial_Assault_on_Caspar",
+  "title": "The Imperial Assault on Caspar",
+  "summary": "In a massive battle for Caspar, General Veers leads the Imperial Army, backed by Commodore Ken Wolf and Warlord-era forces, across the blown bridges of the Sessapan River against the entrenched Casparian Defense Union Marines. Imperial walkers, stormtrooper legions, TIE fighters, and speeder bikes grind forward in overwhelming numbers, leveling the city block by block while CDU defenders including Commander Calder, Webb's recon platoon, the disguised street-musician Shenner, Athena, Elly, Rodo, Whitney, Stalh, and the Harpoon pilots of Royal Squadron mount a fierce but costly fighting withdrawal toward Trinumvira base. The bluffs of Trinumvira turn the Imperial advance into a killing field of anti-armor mines, Wraith gunships, and Hammerhead ambushes, but the Empire's relentless numbers press on regardless of losses. The battle reaches a grim climax when Webb snipes and wounds General Veers, prompting Veers to order the base annihilated and the troopers to gun down CDU positions in retaliation; with Veers injured, the Imperials withdraw just far enough to keep the battered Marines cornered, to be continued.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "desc",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Athena",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "Stalh",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 316,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 319,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 322,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 324,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 336,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 345,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 359,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 368,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 370,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 376,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 378,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 380,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 382,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 383,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 386,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 388,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 390,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 391,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 392,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 394,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 395,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 396,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 399,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 400,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 405,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 407,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 409,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 415,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 420,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": true
+    },
+    {
+      "line": 428,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 429,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 432,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 433,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 434,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 436,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 437,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 440,
+      "type": "pose",
+      "actor": "Devyn",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "pose",
+      "actor": "Devyn",
+      "b": false
+    },
+    {
+      "line": 442,
+      "type": "pose",
+      "actor": "Devyn",
+      "b": false
+    },
+    {
+      "line": 443,
+      "type": "pose",
+      "actor": "Devyn",
+      "b": false
+    },
+    {
+      "line": 444,
+      "type": "pose",
+      "actor": "Devyn",
+      "b": false
+    },
+    {
+      "line": 446,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 447,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 448,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 449,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 450,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 452,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 453,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 455,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 456,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 457,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 458,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 459,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 460,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 462,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 463,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 464,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 466,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 467,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 468,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 469,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 470,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 471,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 473,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 475,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 476,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 477,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 478,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 481,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 482,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 483,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 484,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 486,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 489,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 492,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 493,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 494,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 495,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 496,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 497,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 499,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 500,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 502,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 504,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 506,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 507,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 508,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 509,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 512,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 513,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 514,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 515,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 516,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 517,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 519,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 520,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 522,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 523,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 524,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 525,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 526,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 527,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 529,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 530,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 531,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 532,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 533,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 534,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 535,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 536,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 537,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 538,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 539,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 540,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 541,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 542,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 543,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 544,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 545,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 547,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 548,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 549,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 550,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 551,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 552,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 553,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 554,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 556,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 557,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 559,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 561,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 562,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 563,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 564,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 565,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 566,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 567,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 568,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 569,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 571,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 572,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 573,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 575,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 576,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 577,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 578,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 579,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 580,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 582,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 583,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 584,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 585,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 587,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 588,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 589,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 590,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 592,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 593,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 594,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 595,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 596,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 597,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 598,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 599,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 600,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 601,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 602,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 603,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 605,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 606,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 607,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 608,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 609,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 610,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 611,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 612,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 613,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 614,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 615,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 616,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 617,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 619,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 620,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 621,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 622,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 623,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 624,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 625,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 626,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 627,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 628,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 629,
+      "type": "pose",
+      "actor": "Calder",
+      "b": false
+    },
+    {
+      "line": 631,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 633,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 635,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 637,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 638,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 639,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 640,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 641,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 642,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 643,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 644,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 645,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 646,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 648,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 649,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 650,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 651,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 652,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 653,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 654,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 655,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 656,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 657,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 658,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 659,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 660,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 661,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 662,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 663,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 664,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 665,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 666,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 667,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 668,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 669,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 670,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 671,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 673,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 674,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 675,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 676,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 677,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 678,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 679,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 680,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 681,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 682,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 683,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 684,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 685,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 686,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 687,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 689,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 690,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 691,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 692,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 693,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 694,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 695,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 696,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 697,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 699,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 700,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 701,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 702,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 703,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 704,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 705,
+      "type": "pose",
+      "actor": "Elly",
+      "b": false
+    },
+    {
+      "line": 707,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 708,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 709,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 710,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 711,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 712,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 713,
+      "type": "pose",
+      "actor": "Rodo",
+      "b": false
+    },
+    {
+      "line": 715,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 716,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 717,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 718,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 719,
+      "type": "pose",
+      "actor": "Raj",
+      "b": false
+    },
+    {
+      "line": 721,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 723,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 724,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 725,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 726,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 727,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 728,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 729,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 730,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 731,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 732,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 733,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 734,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 735,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 736,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 737,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 738,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 739,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 740,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 741,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 742,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 743,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 744,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 745,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 746,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 747,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 749,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 750,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 751,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 752,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 753,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 754,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 755,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 756,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 757,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 758,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 759,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 760,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 761,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 762,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 763,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 764,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 765,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 766,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 767,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 769,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 770,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 771,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 772,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 773,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 774,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 775,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 777,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 778,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 779,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 780,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 781,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 782,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 783,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 784,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 786,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 787,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 788,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 789,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 790,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 791,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 793,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 794,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 795,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 796,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 797,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 798,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 800,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 801,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 802,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 803,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 804,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 805,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 806,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 807,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 808,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 809,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 810,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 811,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 812,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 813,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 815,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 816,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 817,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 818,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 819,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 820,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 821,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 822,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 823,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 824,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 825,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 826,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 827,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 828,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 829,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 830,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 831,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 833,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 834,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 835,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 836,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 837,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 838,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 840,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 841,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 842,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 843,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 844,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 845,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 846,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 847,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 848,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 849,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 850,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 851,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 852,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 853,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 854,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 855,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 856,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 857,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 858,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 859,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 860,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 861,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 862,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 863,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 864,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 865,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 866,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 867,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 868,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 869,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 870,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 871,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 872,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 873,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 874,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 875,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 876,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 877,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 878,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 880,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 881,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 882,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 883,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 884,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 885,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 886,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 887,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 888,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 889,
+      "type": "pose",
+      "actor": "Whitney",
+      "b": false
+    },
+    {
+      "line": 891,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 892,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 893,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 894,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 896,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 897,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 898,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 899,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 900,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 901,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 902,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 903,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 904,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 905,
+      "type": "pose",
+      "actor": "Shenner",
+      "b": false
+    },
+    {
+      "line": 907,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 909,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 910,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 911,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 912,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 913,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 915,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 916,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 917,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 918,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 919,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 920,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 922,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 923,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 924,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 925,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 926,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 927,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 928,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 930,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 931,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 932,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 933,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 934,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 935,
+      "type": "pose",
+      "actor": "Daxin",
+      "b": false
+    },
+    {
+      "line": 937,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 938,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 939,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 940,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 941,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 942,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 943,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 944,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 945,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 946,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 947,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 948,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 949,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 951,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 952,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 953,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 954,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 955,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 956,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 957,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 958,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 959,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 961,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 962,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 963,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 964,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 965,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 966,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 967,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 968,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 969,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 970,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 971,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 972,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 973,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 974,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 975,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 976,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 977,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 978,
+      "type": "pose",
+      "actor": "Webb",
+      "b": false
+    },
+    {
+      "line": 980,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 981,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 982,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 983,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 984,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 985,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 986,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 987,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 988,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 989,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 990,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 991,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 992,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 993,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 994,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 995,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 997,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 998,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 999,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1000,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1001,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1002,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1003,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1004,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1005,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1006,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1007,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1008,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1009,
+      "type": "pose",
+      "actor": "Veers",
+      "b": false
+    },
+    {
+      "line": 1011,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1012,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1013,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1014,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1015,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1016,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1017,
+      "type": "pose",
+      "actor": "Ken",
+      "b": false
+    },
+    {
+      "line": 1019,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1020,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1021,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1022,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1023,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 1025,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

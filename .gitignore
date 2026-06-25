@@ -24,5 +24,7 @@ config.toml
 /knowledge/sources/mush-dump/
 # Line-numbered render inputs are regenerable via `rplog_to_jsonl.py --render`.
 /data/dataset_full/_render/
+# Assembled turn-level JSONL is regenerable from _labeled maps + pages via rplog_assemble.
+/data/dataset_full/_assembled/
 # Scratch registry from the live-scene driver.
 /data/_scene_reg.json

@@ -1,0 +1,2377 @@
+{
+ "name": "RPlog_Seductions",
+ "title": "Seductions",
+ "summary": "In the lobby of the Grand Palanhi Hotel, the Corellian Paul Nighman helps the conflicted Jedi Jessalyn Valios and her young ward Shenner stage a desperate rescue of Jessalyn from the seductive pull of the dark side, personified by the cold Imperial agent Alora Antieres, who works to 'embrace' and corrupt her. Watched by Crimthan and his Espos, Paul plays a calculated game -- feigning a lovers' bond and steering Jessalyn away from Alora's taunts -- while Shenner anchors her emotionally as 'Aunt Jess.' The three eventually break free and flee through Palanhi to the Black Dragon, the sobbing Jessalyn half-carried aboard to the safety of Leia and Luke. Once she is settled, Paul lingers with Shenner, noting how the girl has changed, before quietly bedding down beside the cargo hold where the exhausted child has fallen asleep.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Vornhald",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Crimthan",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Alora Antieres",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 379,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 397,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 399,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 409,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 414,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 421,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 425,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 426,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 445,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 447,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 479,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "desc",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 502,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 518,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 526,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 530,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 536,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 544,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 545,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 549,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 551,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 553,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 562,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 575,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 577,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 581,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 585,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 593,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 597,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 602,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 603,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 611,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 617,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 627,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 629,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 631,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 633,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 637,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 639,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 641,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 643,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 645,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 649,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 651,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 653,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 657,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 658,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 659,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 660,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 664,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 665,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 666,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 667,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 677,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 683,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 685,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 687,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 688,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 690,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 692,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 693,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 695,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 696,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 697,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 699,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 702,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 704,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 706,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 707,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 708,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 710,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 712,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 713,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 714,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 716,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 718,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 719,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 721,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 722,
+   "type": "pose",
+   "actor": "Shenner",
+   "b": false
+  },
+  {
+   "line": 724,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 726,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 728,
+   "type": "pose",
+   "actor": "Paul Nighman",
+   "b": false
+  },
+  {
+   "line": 730,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

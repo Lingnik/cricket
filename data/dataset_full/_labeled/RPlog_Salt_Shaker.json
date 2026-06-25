@@ -1,0 +1,1927 @@
+{
+ "name": "RPlog_Salt_Shaker",
+ "title": "Salt Shaker",
+ "summary": "On the bustling starport of Drev'starn on Bothawui, the rogue Telgossian Simon Sezirok arranges escape passage and crosses paths with the Jedi Jessalyn Valios, the bounty hunter Racra and his partner Ayra, the Horansi leader Krinko, and the Twi'lek Jada Kadoth. Simon has come to barter Caspian salt to free the abducted Sarian chief Ubi Sunt, and Grand Protector Cernious Vry'lya grants an audience but denies holding her. Unknown to Simon, his Sarian ally Tarazed Brum has rigged the salt containers with chlorine-gas charges as revenge against the Bothans, and her mercenaries Dibar and Dar'siden plant the bombs. The charges detonate in waves, flooding the spaceport with poison gas and fire and killing thousands. Jessalyn runs Tarazed through to stop the carnage, Luke Skywalker arrives too late and confronts but ultimately spares the fleeing Simon, and Krinko's prized sword is shattered against Simon's Force-charged staff before Simon escapes with his ward Lucky.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 362,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 370,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 386,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 508,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 556,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 572,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 576,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 616,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 618,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 642,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Cernious Vry'lya",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 676,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 684,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 692,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Cernious Vry'lya",
+   "b": false
+  },
+  {
+   "line": 704,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 712,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 718,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 726,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 734,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 738,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 742,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 750,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 758,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 766,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 768,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 776,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 780,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 788,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 792,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 800,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 808,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 812,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 820,
+   "type": "pose",
+   "actor": "Dar'siden",
+   "b": false
+  },
+  {
+   "line": 828,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 836,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 844,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 848,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 852,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 860,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 868,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 876,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 884,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 892,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 896,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 904,
+   "type": "pose",
+   "actor": "Dar'siden",
+   "b": false
+  },
+  {
+   "line": 912,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 920,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 928,
+   "type": "pose",
+   "actor": "Edgar Krac'zah",
+   "b": false
+  },
+  {
+   "line": 932,
+   "type": "pose",
+   "actor": "Edgar Krac'zah",
+   "b": false
+  },
+  {
+   "line": 940,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 944,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 948,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 956,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 964,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 972,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 976,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 984,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 992,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 996,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1000,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1008,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 1016,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1024,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1032,
+   "type": "pose",
+   "actor": "Dar'siden",
+   "b": false
+  },
+  {
+   "line": 1040,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1048,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1052,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1060,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1064,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1068,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1076,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1080,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1084,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1088,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1092,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1100,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1106,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1118,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1122,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1126,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1130,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1134,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1138,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1142,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1146,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1150,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1154,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1158,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1168,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 1172,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 1176,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 1180,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 1184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1192,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1200,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1210,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1214,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1222,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1230,
+   "type": "pose",
+   "actor": "Racra",
+   "b": false
+  },
+  {
+   "line": 1238,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1242,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1246,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1254,
+   "type": "pose",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 1262,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1266,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1274,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1278,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1282,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1290,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1294,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1302,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1306,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1314,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1318,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1322,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1326,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1330,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1334,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1338,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1342,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1346,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1356,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1364,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 1368,
+   "type": "pose",
+   "actor": "Tarazed Brum",
+   "b": false
+  },
+  {
+   "line": 1376,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1384,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1388,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1392,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1396,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1400,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1408,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1412,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1420,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1424,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1432,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1436,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1446,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1450,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1454,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1462,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1466,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1474,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1482,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1486,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1490,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1494,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1502,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1506,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1510,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1518,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1522,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1530,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1534,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1538,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1548,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1556,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1564,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1568,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1572,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1580,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1584,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1590,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1598,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1606,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1610,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1614,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1618,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1622,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 1630,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1638,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1642,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1646,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1654,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1658,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1662,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1666,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1670,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1674,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1682,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1686,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1690,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1694,
+   "type": "pose",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1702,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1710,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1718,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1726,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1730,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1734,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 1742,
+   "type": "pose",
+   "actor": "Lucky",
+   "b": false
+  },
+  {
+   "line": 1750,
+   "type": "pose",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1758,
+   "type": "pose",
+   "actor": "Jada Kadoth",
+   "b": false
+  },
+  {
+   "line": 1764,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1766,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1768,
+   "type": "desc",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 1772,
+   "type": "desc",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 1776,
+   "type": "desc",
+   "actor": "Zarl",
+   "b": false
+  },
+  {
+   "line": 1780,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1782,
+   "type": "desc",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1784,
+   "type": "desc",
+   "actor": "Krinko",
+   "b": false
+  },
+  {
+   "line": 1788,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1792,
+   "type": "desc",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 1794,
+   "type": "desc",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 1796,
+   "type": "desc",
+   "actor": "Ayra",
+   "b": false
+  },
+  {
+   "line": 1802,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1806,
+   "type": "desc",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1808,
+   "type": "desc",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1812,
+   "type": "desc",
+   "actor": "Dibar",
+   "b": false
+  },
+  {
+   "line": 1816,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 1817,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

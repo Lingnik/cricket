@@ -1,0 +1,721 @@
+{
+  "name": "RPlog_Attempted_Arrest",
+  "title": "Attempted Arrest",
+  "summary": "In Plaxton's Sandbar cantina on Caspar, the Caspian naval officer Lynae Cassius locates the wanted former Grand Moff Scaven Marx and sits to share a drink, philosophizing about genocide and orders while quietly cueing a security team. When Lynae signals the combat droid HM743 and her officers to move in for the arrest, Scaven draws his Kylan-3 blaster and resists, flipping a table and taking Lynae as a near-hostage as the bar erupts into chaos. The off-duty pilots Ruen, the winged Chyleni Kyrin Sh'vani, and Shael Winters, along with the agent Rasi, are swept into the brawl; Kyrin dives in and is gravely shot through one heart while Lynae is caught in the crossfire and Shael takes a sword wound. As the federal Constabulary under Captain Cunha surrounds the building and issues a single surrender warning, they breach with stun and gas grenades, knocking Scaven unconscious and neutralizing the melee. The constables arrest everyone bearing arms -- including Scaven and the Navy personnel involved -- leaving the Sandbar wrecked and its staff to clean up.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Ruen",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 278,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 290,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 300,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "HM743",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Lynae",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "pose",
+      "actor": "Scaven",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Shael",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

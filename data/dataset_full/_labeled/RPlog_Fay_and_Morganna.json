@@ -1,0 +1,1925 @@
+{
+ "name": "RPlog_Fay_and_Morganna",
+ "title": "Sheltering from the Rain at Hideaway Beach",
+ "summary": "When a sudden downpour drives them to shelter inside an abandoned lighthouse on Caspar's Hideaway Beach, the Ambassador Fay and the scarred, one-eyed mercenary Morganna fall into a long, candid conversation beside a fire Morganna kindles by blasting a pile of musty wood. Their talk circles warily around the 'red-eyed bastard' Ozzle, the Force-user who once tried to control Morganna's mind and now keeps tabs on her, leaving her to hide out in the rain rather than return to KOS. Morganna confesses a brutal philosophy of kill-or-be-killed, demonstrating it by snatching and snapping the neck of a rodent and tossing it into the flames, even as glimpses of a more intelligent, less cold-blooded nature flicker across her ruined face. Fay listens with patient, disarming curiosity, gently pushing back on Morganna's hunger for power and her distrust, suggesting that power comes to those who stop grasping for it and that being trusted feels good. The fragile rapport, built partly on their shared connection to Vexa, is briefly broken when a soaked stranger named Zarl stumbles in seeking refuge from the tide, and after Morganna's reflexive reach for her blaster, Fay coaxes her into letting the shivering newcomer sit by the fire.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 25,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 26,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 27,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 28,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 31,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 32,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 33,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 40,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 362,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 381,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 383,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 386,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 401,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 411,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 416,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 421,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 428,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 431,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 451,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 452,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 453,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 456,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 457,
+   "type": "pose",
+   "actor": "Zarl"
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Zarl"
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Fay",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "pose",
+   "actor": "Fay"
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 469,
+   "type": "pose",
+   "actor": "Morganna",
+   "b": true
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 471,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Morganna"
+  },
+  {
+   "line": 474,
+   "type": "pose",
+   "actor": "Zarl",
+   "b": true
+  },
+  {
+   "line": 476,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

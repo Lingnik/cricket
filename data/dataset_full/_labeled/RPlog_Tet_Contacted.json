@@ -1,0 +1,24 @@
+{
+  "name": "RPlog_Tet_Contacted",
+  "title": "A Slicer Joins the Family",
+  "summary": "On Etti IV, the young Twi'lek slicer Tet ducks into a quiet alley when his comm flashes with a long-awaited encrypted message. The caller resolves into the Lethan woman Sinya, who confirms that his costly efforts to reach her organization have succeeded. Speaking in their native tongue, Sinya probes Tet's loyalty, clan, and morality, warning him that betrayal of the family would cost both their lives. Tet, confident and faintly amused, presents himself as a skilled virus-maker proud of his work and willing to fight when needed. Sinya promises to pass his name up the chain and expect an assignment soon, but rebuffs Tet's suggestion of a face-to-face meeting, insisting she is merely a link in the chain like him. The two part with Sinya wishing him luck as a new recruit and gifted slicer for the syndicate.",
+  "rows": [
+    {"line": 17, "type": "system", "actor": "", "b": false},
+    {"line": 19, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 21, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 23, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 25, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 27, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 29, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 31, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 33, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 35, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 37, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 39, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 41, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 43, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 46, "type": "pose", "actor": "Sinya", "b": false},
+    {"line": 48, "type": "pose", "actor": "Tet", "b": false},
+    {"line": 50, "type": "pose", "actor": "Sinya", "b": false}
+  ]
+}

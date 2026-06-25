@@ -1,0 +1,32 @@
+{
+  "name": "RPlog_The_Agent",
+  "title": "Recruiting a Smuggler on Corellia",
+  "summary": "Operating undercover as a freighter crew on an Imperial-held Corellia, Senator Tokoga and the officer Rasi scout a seedy dive bar and single out a Lethan Twi'lek named Raynn at the counter. Rasi summons him over, and the trio talk in careful abstractions about moving illicit 'product' past COMPNOR's encryption restrictions, framing themselves as businessmen dealing in 'live pyrotechnics' who need help reaching their clientele under tight security. Raynn, a stranded smuggler who lost his ship to an Imperial patrol, agrees to act as their courier in exchange for a ten-percent finder's fee, and assures them he honors his deals and won't betray them even if pressed by CorSec or other employers. Satisfied, Rasi gives Raynn a contact method, a message left for 'Mister Tagon' at the Long Slumber hotel, and the two agents take their leave to find better food, with Raynn returning to the bar for another drink.",
+  "rows": [
+    {"line": 18, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 21, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 24, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 27, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 30, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 33, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 36, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 39, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 42, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 45, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 48, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 51, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 53, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 56, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 59, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 62, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 65, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 68, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 71, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 74, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 75, "type": "pose", "actor": "Rasi", "b": false},
+    {"line": 78, "type": "pose", "actor": "Tokoga", "b": false},
+    {"line": 81, "type": "pose", "actor": "Raynn", "b": false},
+    {"line": 82, "type": "system", "actor": "", "b": false},
+    {"line": 83, "type": "system", "actor": "", "b": false}
+  ]
+}

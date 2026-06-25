@@ -1,0 +1,29 @@
+{
+  "name": "RPlog_Squid_Lake_Infiltrating_Aquarius",
+  "title": "Two Spacers in Fish-Land",
+  "summary": "Having undergone surgery to pose as the near-human stranded spacer Hjek Pathon, ISB Director Korynn Fleming reaches the domed undersea city of Aquarius to advance Operation Squid Lake. In a glass tunnel at the city's fringe, he meets his agent McKenna, who is working under the alias Antar Evoros, and the two perform an elaborate cover act of old friends reuniting before ducking into a quiet doorway. There McKenna passes Korynn a datapad loaded with building layouts, street maps, and dossiers on the city's prominent Quarren figures. Korynn marks one Quarren for McKenna to befriend and surveil, copies the intelligence, and issues new orders: dig up surviving records of the ancient Quarren-Mon Calamari civil war and the traitor-Senator Tikkes, whose history will be falsified to fuel the coming unrest. Their exchange complete and cover intact, the two agents part to continue blending into Quarren society.",
+  "rows": [
+    {"line": 19, "type": "desc", "actor": "Korynn Fleming", "b": false},
+    {"line": 20, "type": "desc", "actor": "Korynn Fleming", "b": false},
+    {"line": 21, "type": "desc", "actor": "Korynn Fleming", "b": false},
+    {"line": 27, "type": "scene", "actor": "", "b": false},
+    {"line": 28, "type": "scene", "actor": "", "b": false},
+    {"line": 29, "type": "scene", "actor": "", "b": false},
+    {"line": 34, "type": "pose", "actor": "McKenna", "b": false},
+    {"line": 39, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 40, "type": "pose", "actor": "Korynn Fleming", "b": true},
+    {"line": 41, "type": "pose", "actor": "Korynn Fleming", "b": true},
+    {"line": 46, "type": "pose", "actor": "McKenna", "b": false},
+    {"line": 47, "type": "pose", "actor": "McKenna", "b": true},
+    {"line": 52, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 57, "type": "pose", "actor": "McKenna", "b": false},
+    {"line": 62, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 67, "type": "pose", "actor": "McKenna", "b": false},
+    {"line": 72, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 77, "type": "pose", "actor": "McKenna", "b": false},
+    {"line": 82, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 87, "type": "pose", "actor": "McKenna", "b": false},
+    {"line": 92, "type": "pose", "actor": "Korynn Fleming", "b": false},
+    {"line": 97, "type": "pose", "actor": "McKenna", "b": false}
+  ]
+}

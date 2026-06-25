@@ -1,0 +1,29 @@
+{
+  "name": "RPlog_The_Search_Begins",
+  "title": "Two Hunters at Mos Eisley",
+  "summary": "Waiting impatiently at the Mos Eisley starport for the Jedi Luke Skywalker and Johanna te Danaan to return from their business with the Hutt Draga, the mercenary Brinaj falls into conversation with a newly arrived cloaked stranger. The man, an 'Imperial exile' named Dareus -- secretly a Sith -- probes Brinaj for information about the Jedi's movements, paying him credit sticks for what he knows. Brinaj sells the details: the Jedi bought a Twi'lek slave named Azya from Draga and agreed to hunt down the Twi'lek crime lord Tyy'sun Eson in exchange. Dareus deduces the slave is New Republic Intelligence and commissions Brinaj for further surveillance, adding a lucrative side bounty on the one-eyed gangster Gren Delede and his Twi'lek wife Twila. Each man leaves believing he has gotten the better of the exchange, with Dareus cryptically declaring he serves something greater than the Empire before departing aboard the Whipping Star.",
+  "rows": [
+    {"line": 17, "type": "pose", "actor": "Brinaj"},
+    {"line": 21, "type": "pose", "actor": "Dareus"},
+    {"line": 25, "type": "pose", "actor": "Brinaj"},
+    {"line": 29, "type": "pose", "actor": "Dareus"},
+    {"line": 33, "type": "pose", "actor": "Brinaj"},
+    {"line": 37, "type": "pose", "actor": "Dareus"},
+    {"line": 41, "type": "pose", "actor": "Brinaj"},
+    {"line": 45, "type": "pose", "actor": "Dareus"},
+    {"line": 49, "type": "pose", "actor": "Brinaj"},
+    {"line": 53, "type": "pose", "actor": "Dareus"},
+    {"line": 57, "type": "pose", "actor": "Dareus"},
+    {"line": 61, "type": "pose", "actor": "Brinaj"},
+    {"line": 65, "type": "pose", "actor": "Dareus"},
+    {"line": 69, "type": "pose", "actor": "Brinaj"},
+    {"line": 73, "type": "pose", "actor": "Dareus"},
+    {"line": 77, "type": "pose", "actor": "Brinaj"},
+    {"line": 81, "type": "pose", "actor": "Dareus"},
+    {"line": 85, "type": "pose", "actor": "Brinaj"},
+    {"line": 89, "type": "pose", "actor": "Dareus"},
+    {"line": 93, "type": "pose", "actor": "Brinaj"},
+    {"line": 97, "type": "pose", "actor": "Dareus"},
+    {"line": 99, "type": "system", "actor": ""}
+  ]
+}

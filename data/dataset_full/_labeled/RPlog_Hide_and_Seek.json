@@ -1,0 +1,24 @@
+{
+  "name": "RPlog_Hide_and_Seek",
+  "title": "A Hunting Lesson in Organa Park",
+  "summary": "In the lush gardens of Organa Park on New Alderaan, the Horansi mother K'tyyri uses an evening stroll to teach her cubs a lesson in hunting and patience, with the human woman Maris as their unwitting quarry. While K'tyyri and the cub Sufa lie concealed and motionless, the eager young cub Yadumu blows the ambush by emerging clumsily from a thorny bush into the pathway. A passing child spots her, shrieks \"Sand Panther!\" and flees, scattering the onlookers and ruining the hunt. Maris, intrigued and wary, crouches low to watch the unfamiliar feline creature. Yadumu, her cover exposed, abandons the chase and rises to walk on two legs toward her hidden family, while K'tyyri's maternal concern overtakes the game.",
+  "rows": [
+    {"line": 10, "type": "room", "actor": "", "b": false},
+    {"line": 12, "type": "room", "actor": "", "b": false},
+    {"line": 14, "type": "room", "actor": "", "b": false},
+    {"line": 16, "type": "room", "actor": "", "b": false},
+    {"line": 18, "type": "scene", "actor": "", "b": false},
+    {"line": 20, "type": "scene", "actor": "", "b": false},
+    {"line": 22, "type": "pose", "actor": "Maris", "b": false},
+    {"line": 24, "type": "pose", "actor": "Maris", "b": true},
+    {"line": 26, "type": "scene", "actor": "", "b": false},
+    {"line": 28, "type": "pose", "actor": "K'tyyri", "b": false},
+    {"line": 30, "type": "pose", "actor": "Yadumu", "b": false},
+    {"line": 32, "type": "pose", "actor": "Maris", "b": false},
+    {"line": 36, "type": "pose", "actor": "Yadumu", "b": false},
+    {"line": 38, "type": "pose", "actor": "Yadumu", "b": true},
+    {"line": 40, "type": "pose", "actor": "Maris", "b": false},
+    {"line": 42, "type": "pose", "actor": "Yadumu", "b": false},
+    {"line": 44, "type": "pose", "actor": "K'tyyri", "b": false}
+  ]
+}

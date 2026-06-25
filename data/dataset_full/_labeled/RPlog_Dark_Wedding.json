@@ -1,0 +1,511 @@
+{
+  "name": "RPlog_Dark_Wedding",
+  "title": "Dark Wedding",
+  "summary": "Aboard the Predator, in a shadowed ritual chamber dedicated to the Caspian god Olum, Captain Antoine Dareus weds Serenella Jordain in a dark handfasting ceremony presided over by the high priest Axel. Inanna escorts her sister Serenella, the bride, into the candlelit room alongside the quiet Sarian woman Lila, while Dareus stands nervously before his assembled officers. Axel rings the welcome bell, binds the couple's clasped hands around an obsidian dagger with a silver cord, and lights candles invoking Olum's blessings of understanding, strength, desire, and fulfillment. In place of spoken vows Serenella sings a tender love song, and Dareus answers with a heartfelt pledge to remain by her side until his last breath. Axel completes the rite by drawing the dagger to cut both their palms and catch their mingled blood in a chalice, sealing their souls with fire before pronouncing them husband and wife, after which the wedding party departs to celebrate.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "desc",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "desc",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "desc",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "desc",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "desc",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "desc",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "desc",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "desc",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "desc",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "desc",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "desc",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "desc",
+      "actor": "Lila",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "desc",
+      "actor": "Lila",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "desc",
+      "actor": "Lila",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Lila",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Lila",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Inanna",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Serenella",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

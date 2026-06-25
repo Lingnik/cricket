@@ -1,0 +1,391 @@
+{
+ "name": "RPlog_Sithly_Stroll_in_the_Park",
+ "title": "A Sithly Stroll in the Park",
+ "summary": "Seeking answers about a string of Force-user attacks, Chief of State Leia Organa and the Jedi trainee Colonel Leo meet a captured Sith agent shackled to a bench in Organa Park, guarded by elite Marines. Nearby, the Horansi mother K'tyyri conducts a hunting lesson with her cubs Yadumu and Sufa, the pregnant Doctor Lynae Cassius strolls the grounds, and the traveler Karina rests by a watercourse, all drawn into the Marines' security sweep. The Sith taunts Leo about Jedi philosophy and refuses to reveal his masters' aims, then suddenly shatters his Force restraints and tries to abduct Leia. As Marines and concealed Jedi converge, the Sith slaughters several guards with his chains before the Jedi overwhelm him; run through, he detonates a deadly shockwave that kills him and his Jedi attacker, and Leia is hurried to safety while K'tyyri gathers her cubs and flees.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Yadumu",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Sith Prisoner",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Yadumu",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Sith Prisoner",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Yadumu",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Sith Prisoner",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Karina",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Yadumu",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Sith Prisoner",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Yadumu",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Sith Prisoner",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Sith Prisoner",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Leo",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "K'tyyri",
+   "b": false
+  }
+ ]
+}

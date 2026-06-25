@@ -1,0 +1,835 @@
+{
+ "name": "RPlog_Escape_and_Evasion_Training",
+ "title": "Escape and Evasion Training",
+ "summary": "Aboard the Star Destroyer Inquisitor, Marshal Krieg and Captain Keline Nelhrn convene the starfighter corps for the final stage of survival training, introducing the training officer Wolf and the SERE lecturer Lieutenant Vextin Mandor, who regales the pilots with a case study of evasion on hostile Sullust. The exercise then unfolds on Sullust itself: pilots Krieg and Liza Molokai are 'shot down' in the jungle and must evade pursuing stormtrooper squads under TK-3118 and TK-3120, led by ISB agents Dreven Mercurio and Dorian Navtilos, while a Navy rescue team aboard a shuttle (crewed by Keline, Sharid, Xy'lear, Wolf, and the sniper Arissa) races to extract them. A pitched simulated firefight erupts around the pilots' crevasse: Xy'lear is captured by Dorian, Wolf and Liza are stunned and hauled off by the troopers and Dreven, and the shuttle pours covering fire as Arissa picks off attackers. Forced to cut his losses, Krieg seals the hatch and lifts off, recovering some of his people while leaving captives behind, the shuttle finally breaking for orbit. The brutal evasion drill ends as a partial success, setting the stage for the ISB's own turn to hone their interrogation skills on the captured pilots.",
+ "rows": [
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Vextin",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Vextin",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Vextin",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Vextin",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Vextin",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Sharid",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": true
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Sharid",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Sharid",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": true
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": true
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": true
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Xy'lear",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Arissa",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Liza",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Arissa",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Arissa",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Dreven",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Dorian",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Arissa",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Arissa",
+   "b": true
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "TK-3118",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "TK-3120",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Arissa",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

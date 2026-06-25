@@ -1,0 +1,601 @@
+{
+ "name": "RPlog_Trial_by_Fire",
+ "title": "Trial by Fire: Razor Squadron's First Lesson",
+ "summary": "Veteran TIE aces Line Captain Jal'Dana Rall (Vapor) and Fleet Commodore Krieg (Banger) spring a surprise live-fire training ambush on Razor Squadron above Bespin, with Rall flying a captured New Republic X-wing and Krieg in a TIE to school the green pilots in surviving an ambush. Squadron leader Dante (Alpha-1) and rookie Liza Molokai (Alpha-4) are caught flat-footed, their shields battered as the two veterans use a relentless lead-and-chase rotation to keep the youngsters confused and split. Despite Dante's attempts to break for Bespin's atmosphere and Molokai's stubborn refusal to quit, the seasoned pair systematically disable both fighters, leaving Dante dead in space and Molokai crippled. Satisfied that their pupils have learned to recognize and counter a coordinated threat, Krieg calls the exercise terminated and orders Razor Squadron back to the Inquisitor to stand up the new training regime.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  }
+ ]
+}

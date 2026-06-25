@@ -1,0 +1,1045 @@
+{
+ "name": "RPlog_Second_Battle_of_Mon_Calamari_First_Assault",
+ "title": "Second Battle of Mon Calamari: First Assault",
+ "summary": "Admiral Danik Kreldin leads an Imperial task force of three Star Destroyers, spearheaded by the Conqueror, in a surprise strike to destroy the Mon Calamari shipyards and finish off the New Republic flagship Crusader, captained by Mora Rodriga. As Captain Jet Farx's Scimitar and TIE bombers press their run, Imperial fighter aces like Dylan of War Shrike Squadron and Thralo clash with a host of Republic pilots -- Evir Yissik's Falcons, Latar Zaff, the homicidal-droid-piloted Johanna Damion, the relentless Sullustan Ikihsa Enb'Zik, the rogues Syyvos Rintari and Aaden Baeyal, and the reinforcing Ridge -- while even Han Solo joins the fray in a borrowed X-wing. The Republic starfighters gut the bomber wave and save the shipyards, but the three Star Destroyers nearly pound the Crusader to death until the Republic fleet rallies to its defense. With his ships battered and his vendetta against the Crusader once again unfulfilled, Kreldin orders a withdrawal to Corellia, leaving the broken but unbroken Crusader to greet the Calamari dawn.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Evir Yissik",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Dylan",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Latar Zaff",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Latar Zaff",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Dylan",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Latar Zaff",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Dylan",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Latar Zaff",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Thralo",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Elddid",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Ikihsa Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Rogue Eight",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Aaden Baeyal",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Aaden Baeyal",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Andra",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Andra",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Aren",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Aaden Baeyal",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Andra",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Aaden Baeyal",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 343,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Andra",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Andra",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Mora Rodriga",
+   "b": false
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Aren",
+   "b": false
+  },
+  {
+   "line": 367,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Aaden Baeyal",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Ridge",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Andra",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Rogue Ten",
+   "b": false
+  },
+  {
+   "line": 389,
+   "type": "pose",
+   "actor": "Rogue Seven",
+   "b": false
+  },
+  {
+   "line": 391,
+   "type": "pose",
+   "actor": "Syyvos Rintari",
+   "b": false
+  },
+  {
+   "line": 393,
+   "type": "pose",
+   "actor": "Rogue Ten",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Han Solo",
+   "b": false
+  },
+  {
+   "line": 401,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Aaden Baeyal",
+   "b": false
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 410,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Aren",
+   "b": false
+  },
+  {
+   "line": 416,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 418,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

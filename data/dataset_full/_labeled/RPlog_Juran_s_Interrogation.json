@@ -1,0 +1,385 @@
+{
+ "name": "RPlog_Juran_s_Interrogation",
+ "title": "Juran's Interrogation",
+ "summary": "Aboard the Star Destroyer Inquisitor, two captured Privateer crew -- the bomb expert Juran and the former Rebel Kyokusha -- are restrained in an interrogation room when ISB Director Korynn Fleming arrives to extract the truth about Danik Kreldin's attempted coup. When Juran cooperates but Korynn wants certainty, he unleashes a swarm of Yavin piranha beetles on the helpless Kyokusha, torturing her until Juran breaks and confirms every detail of Danik's plot. Satisfied, Korynn calls off the attack, has the descriptions recorded, and even tends Kyokusha's wounds while trading barbed words with her about loyalty and the Empire. He grants that Juran may be released on bail and leaves the two prisoners to their fate, having gotten exactly what he came for.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "name": "RPlog_Ephant_Mon_and_Malif",
+ "title": "Ephant Mon and Malif",
+ "summary": "In Chalmun's Cantina on Tatooine, the precise, well-dressed near-human hunter Malif Tal-Tahn approaches the former Jabba lieutenant Ephant Mon, the Chevin now claiming religious conversion and financial ruin, to confirm the rumors swirling around him. Ephant Mon recounts that Jabba kept several secret treasure vaults across the galaxy, all of which he has found already looted or destroyed, but insists one final vault holding Jabba's greatest treasures remains hidden, its location lost when the Hutt died at the Pit of Carkoon. Drawn by the thrill of the hunt more than greed, Malif eagerly accepts the quest. Ephant Mon suggests three starting points, Jabba's old palace, the Pit of Carkoon, and the Jawas who scavenged the wrecked sail barge, and Malif, a former OOAG investigator, judges the Jawas the most promising lead. They toast to the chase, Ephant Mon passes Malif his contact datacard, and the hunter slips back out into the crowd, alive with the prospect of the search.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": true
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Ephant Mon",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  }
+ ]
+}

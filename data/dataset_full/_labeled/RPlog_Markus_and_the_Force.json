@@ -1,0 +1,439 @@
+{
+  "name": "RPlog_Markus_and_the_Force",
+  "title": "Markus and the Force",
+  "summary": "Exploring an ancient Massassi temple on Yavin, the Corellian Markus Lisardis and his companion Simon sense a strange, malevolent presence as they wander its painted halls. When Markus touches an eye painted on the wall, a clawed statue-hand animates and a cold, whispering entity attacks, seizing his leg and creeping up his body to wrest control of his flesh. As Simon fights desperately with his green-bladed lightstaff, the entity blinds Markus by destroying his eyes, plunging him into agony and darkness. In his pain Markus surrenders his resistance and instead draws upon the Dark Side, channeling his fear, anger, and hatred to overpower and consume the manifestation itself. He rises transformed and strangely calm, the enemy devoured, and hands Simon back his weapon. Shaken but resolute, the two brothers acknowledge that something has fundamentally changed in Markus, a beginning rather than an end, as Simon leads his now-blind companion back out of the temple.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "desc",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "desc",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "desc",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 60,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 102,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 142,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Markus Lisardis",
+      "b": true
+    },
+    {
+      "line": 200,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

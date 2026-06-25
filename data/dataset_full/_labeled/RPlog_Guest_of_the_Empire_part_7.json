@@ -1,0 +1,30 @@
+{
+  "name": "RPlog_Guest_of_the_Empire_part_7",
+  "title": "Guest of the Empire, Part VII",
+  "summary": "Captured Chyleni pilot Kyrin Sh'vani, marked for execution by ISB Agent Korynn Fleming, is marched from the Broadsword's detention block past her silent tormentor and transferred by shuttle to an experimental Victory Star Destroyer run by an automated remote controller. Utterly defeated during the journey, Kyrin's spirit reignites the moment she recognizes the hangar's TIE racks, and she suddenly bolts, flaring her wings and vanishing into the ship's ductwork. Drawing on her past escape from the Malevolence, she washes, fashions makeshift robes, and arms herself from an armory before storming the bridge and taking the skeleton tech crew at blasterpoint. Promising the technicians safe repatriation or asylum, she compels the senior tech to override the obstructive remote controller and surrender manual control of the vessel. With the crew bound and cooperative, Kyrin calculates a hyperspace jump and escapes toward Republic space, leaving the watching Broadsword crew to report the Star Destroyer's vanishing.",
+  "rows": [
+    {"line": 20, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 23, "type": "pose", "actor": "Fleming", "b": false},
+    {"line": 24, "type": "pose", "actor": "Fleming", "b": true},
+    {"line": 27, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 30, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 33, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 36, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 39, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 42, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 45, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 48, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 51, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 54, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 57, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 60, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 63, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 66, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 69, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 72, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 75, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 76, "type": "pose", "actor": "Kyrin", "b": true},
+    {"line": 79, "type": "pose", "actor": "Keline", "b": false},
+    {"line": 81, "type": "system", "actor": "", "b": false}
+  ]
+}

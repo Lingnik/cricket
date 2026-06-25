@@ -1,0 +1,343 @@
+{
+ "name": "RPlog_Encounter_with_Simon_Sezirok",
+ "title": "Encounter with Simon Sezirok",
+ "summary": "In the cavernous main hangar of Pride-1, the medicated Duros Legato, newly employed and looking only for a bar, is approached by a cowled, horned man calling himself 'Petre Simonson', in truth the fallen Selas Simon Sezirok, who senses a kindred seeker and proposes they help one another. Jessalyn Valios descends from the ship Uwannabuyim, instantly recognizing Simon's corrupted, dark presence in the Force; the two carry on a wrenching telepathic exchange beneath the spoken conversation, Jessalyn offering peace and love while Simon, embittered since she severed his hand, coldly refuses to be deceived again. The clumsy, freshly-rebuilt droid 2SK-MI (TooSock) tumbles down the ramp and cheerfully prattles at everyone, disgusting Simon, who regards the soulless machine with contempt. Simon points his deformed bone hook at Jessalyn in silent menace, deferring his deal with the bewildered Legato to 'another time, if it is fated.' He withdraws with his nervous Griffon escort, and Jessalyn, though shaken, finds a measure of closure that this reunion ended in cold division rather than bloodshed, retreating to the ship with TooSock while Legato wanders off, eager to forget the whole strange encounter over a drink.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "desc",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "desc",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "desc",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "TooSock",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Legato",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

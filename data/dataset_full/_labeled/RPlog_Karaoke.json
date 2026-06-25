@@ -1,0 +1,979 @@
+{
+ "name": "RPlog_Karaoke",
+ "title": "Karaoke at Malif's",
+ "summary": "What begins as a small meeting in Malif's Coruscant office to discuss weapons contracts swells into a freewheeling 'Arms ball' of music, liquor, and dancers. The pirate Juran lounges and trades barbs with pilots Liza Molokai, Dante, and Keline, until the old Sith Lord Tyler Damion arrives, draws his blaster to clear the stage band, and declares karaoke night. Tyler and Juran launch into a raucous rendition of 'Alcohol,' and then Dante takes the mic for a string of bawdy fighter-pilot drinking songs to the crowd's delight and Liza's mortification. Amid smashed glasses, spilled ale, and Juran collapsing dramatically off the stage, the party carries on in good-natured chaos as the performers stagger through one filthy verse after another.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Tyler Damion",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Juran",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 327,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "pose",
+   "actor": "Dante",
+   "b": true
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Juran",
+   "b": false
+  }
+ ]
+}

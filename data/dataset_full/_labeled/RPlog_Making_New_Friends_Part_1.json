@@ -1,0 +1,265 @@
+{
+  "name": "RPlog_Making_New_Friends_Part_1",
+  "title": "Making New Friends (Part 1)",
+  "summary": "Aboard the freighter Hirakiis, the free-trader Jaspar tells his Twi'lek partner Lonrina that his contacts have turned up someone worth meeting, and she opts to stay behind while he goes alone. Jaspar lands on Tatooine and makes his way into the crowded Club Utinni in Mos Eisley, where a wary, black-clad man sits alone amid the throng. Despite drawing dangerous attention as an unarmed newcomer, Jaspar approaches the stranger and assures him he means no trouble, gradually easing the man's guard. The pair exchange names and cautious words, the prospect of business hinging on Jaspar's ability to pay. Apparently satisfied, the man rises and leads Jaspar out toward his shop, the deal still to be struck.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Lonrina",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Lonrina",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Lonrina",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "desc",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Jaspar",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Tritus",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

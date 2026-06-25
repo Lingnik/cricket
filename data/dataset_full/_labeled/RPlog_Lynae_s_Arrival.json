@@ -1,0 +1,115 @@
+{
+  "name": "RPlog_Lynae_s_Arrival",
+  "title": "Lynae's Arrival",
+  "summary": "At the New Republic supply depot on Ord Mantell, the recovering Marine Brandis is reunited with a face from his past as the prisoner Lynae Cassius is brought in under guard. Brandis recognizes her voice at once, his constant companion Kyrin watching the exchange with a friend's wary concern. When Lynae spots Brandis, her tone hardens into the impersonal manner of a career officer rather than the friend he remembers, leaving Kyrin visibly stung. Amid farewells, the Marine Gene keeps his composure even faced with Lynae's changed presence, declining to reach for his weapon. The brief, tense meeting underscores how much has shifted between old comrades now divided by rank and loyalty.",
+  "rows": [
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Brandis",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Brandis",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Gene",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Brandis",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Kyrin",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Gene",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Gene",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "name": "RPlog_Lessons_Learned_-_Part_1",
+  "title": "Lessons Learned: Spaceport Brawl",
+  "summary": "At a bustling Corellian starport, CorSec Colonel Twila Virda spends her day off lounging on the smuggler Cubitt Tethes's ship, the Red Dwarf, sharing a bottle while pilots Bren and Auo drift through the crowd. The Imperial officer Oren Balak provokes Twila with racist remarks about her being a non-human, and tempers ignite: Cubitt draws his sword, the Coreworlder Gren Delede intervenes, and a chaotic confrontation erupts across the tarmac. As CorSec troops and the bystander Wibble look on, the security droid 501-Zed wades in with a stun baton. In the melee Twila is struck down by the droid's neuro-suppressing weapon, ending the scene with the Colonel stunned and unconscious.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Bren",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Wibble",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Wibble",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Wibble",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

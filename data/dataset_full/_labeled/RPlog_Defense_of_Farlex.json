@@ -1,0 +1,619 @@
+{
+  "name": "RPlog_Defense_of_Farlex",
+  "title": "The Defense of Farlex",
+  "summary": "On the besieged mining world of Farlex, the aging Imperial commander Danik Kreldin makes a last stand in the bombarded capital of Morai, directing his dug-in troops, traps, and artillery from an underground bunker. The New Republic assault, coordinated by the Horansi Captain Snal'Fashtalli ('Snarl') with sniper Master Sergeant Sandor Woden feeding intelligence to the Imperials and Corporal Whorus rigging the streets with grisly traps and explosives, pushes in on all four gates at once. As Y-wings, Pathfinders under First Sergeant Giran Blaine, and ground troops breach the defenses, Kreldin unleashes brutal tactics: a high-frequency siren that incapacitates the non-human attackers, and waves of light-bearing civilians driven into the rebel guns to expose their firing positions. The Horansi rally their stricken troops by filtering out the siren and answer with thermal detonators, and despite ferocious house-to-house fighting the Imperials are slowly forced back. With the northern gate fallen and his forces whittled to a final stand at the plaza and capitol, Kreldin orders evacuation transport readied as the New Republic advances toward victory.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Snarl",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Sandor",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Whorus",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Evir",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Danik",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "RPlog_talk_Cochran_Invaded",
+  "title": "Talk Page: Template Parse Error Fixed",
+  "summary": "This is an out-of-character wiki talk page for the Cochran Invaded log. Danik Kreldin reports being unable to figure out what is wrong with the template, and the editor Hawke replies that a missing bracket after Cochran caused a parse error, which has been fixed. There is no in-character roleplay content.",
+  "rows": [
+    {"line": 5, "type": "ooc", "actor": "", "b": false},
+    {"line": 7, "type": "ooc", "actor": "", "b": false}
+  ]
+}

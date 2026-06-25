@@ -1,0 +1,145 @@
+{
+ "name": "RPlog_Smuggler_s_Folly_Part_2",
+ "title": "Smuggler's Folly (Part 2)",
+ "summary": "Running supplies to the blockaded Sarian homeworld of Caspar, the smuggler Jaspar pilots his freighter Hirakiis through an asteroid belt and slams into a debris field -- the wreck of another ship that tried the same gambit -- knocking out his weapons. Pressing on with passive sensors and a screen of white noise, he is detected by the Imperial Carrack cruiser Endurance, which orders him to stand down and launches TIE fighters when he refuses. Jaspar runs for the planet, taking heavy fire that strips his thrusters and shields, but his overstrained engines finally fail and the Hirakiis is left disabled. A tractor beam reels the burning freighter in, and the Endurance's captain places Jaspar under arrest, addressing the ship by its former name, Raven.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Endurance Captain",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Endurance Captain",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Endurance Captain",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

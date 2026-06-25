@@ -1,0 +1,751 @@
+{
+  "name": "RPlog_Luke_Skywalker_to_the_Rescue",
+  "title": "Luke Skywalker to the Rescue",
+  "summary": "Smoke still rises from an Imperial prison on Chandrila when the Sith warlord Darth Malign arrives to take command, joined by his officers Cantrell and Danik Kreldin. Outside the walls, a Rebel resistance force led by Luke Skywalker and demolitions teams under Sergeants Hoolihan and Bruntal Biggins creep into position to free the captives, among them Jack and Ridge. When the insurgents demand the prisoners' release, Malign instead orders the remaining captives executed and the batteries to open fire, triggering a coordinated Rebel assault as Charanta's and Biggins's charges blow the compound walls. A furious firefight erupts, with the pilot Paris Sieara dueling Malign and Garrett directing the Darksword strike flight overhead while Luke carves through a blast door to reach the prisoners. As the battle turns chaotic and the Imperials are overwhelmed, Malign forms a perimeter and withdraws by shuttle, leaving the Rebels to press their rescue amid the smoke and ruin.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Irru Gex",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Irru Gex",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Charanta",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Ratal",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ridge",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Irru Gex",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Charanta",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Bruntal Biggins",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Jack",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Ridge",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Nynaeve",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Bruntal Biggins",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Ratal",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Ridge",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Nynaeve",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Garrett",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Garrett",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Nynaeve",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Cantrell",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Paris Sieara",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Garrett",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Garrett",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Hoolihan",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Ridge",
+      "b": false
+    }
+  ]
+}

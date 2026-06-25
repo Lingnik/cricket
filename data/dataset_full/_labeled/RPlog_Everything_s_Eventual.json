@@ -1,0 +1,511 @@
+{
+ "name": "RPlog_Everything_s_Eventual",
+ "title": "Everything's Eventual",
+ "summary": "In the towering Library of the Republic on New Alderaan, the curious Fondorian officer Rasi (Mr Cen) approaches the wandering Imperial defector Lynae Cassius, a doctor and former naval commodore, and draws her into a charged debate over the differences between Empire and Republic. Joined by the smooth, near-human tactician Malif Tal-Tahn, the three spar over the destruction of Alderaan, the morality of order versus freedom, the estrangement of the Jedi, and whether the Republic will defend the independent worlds, with Lynae pressing that she is here to judge whether these people are worth fighting for. As the argument peaks, the library plunges into supernatural darkness and Darth Malign, the Sith Inquisitor, materializes, having jammed all communications and dismissed Lynae's Marine guards into a trance. He reveals Danik Kreldin is dead and offers to take Lynae back into Imperial service as a captain, trusting her precisely because he can see her hunger for the soldier's life and her regret. Torn by aching homesickness for the uniform yet unable to betray her conscience, Lynae tearfully refuses; Malign departs with a quiet 'So be it', wiping the memory from a struggling Rasi, who recovers confused and headachy to console the shaken doctor and offer his contact card as she retreats to her ship.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Malif",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": true
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Malign",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Lynae Cassius",
+   "b": false
+  }
+ ]
+}

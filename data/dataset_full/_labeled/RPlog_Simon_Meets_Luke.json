@@ -1,0 +1,331 @@
+{
+ "name": "RPlog_Simon_Meets_Luke",
+ "title": "Simon Meets Luke",
+ "summary": "In the lounge of the cruise ship Angry Rancor, the Telgossian Simon Sezirok and his troubled Corellian friend Markus Lisardis are both brooding over Simon's warnings about the dark nature of their Force connection when a cloaked stranger approaches. The stranger, asking after a group of heroes, turns out to be the Jedi Master Luke Skywalker, recognized when his friend Feylin Calenik rushes in and embraces him. Simon, who has long sought the Jedi, formally presents himself and Markus, and Luke confirms the Force has guided them, revealing that his apprentice Ethan was the lone survivor of some unspoken tragedy. When Markus falters from a hidden rib injury, Luke heals him with the Force, leaving Simon awed and wary of the Jedi's raw power, just as the intelligence figure Bazil McKenzie strolls in toward the group.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Feylin Calenik",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Feylin Calenik",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Feylin Calenik",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Feylin Calenik",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Bazil McKenzie",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Feylin Calenik",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Simon Sezirok",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Markus Lisardis",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

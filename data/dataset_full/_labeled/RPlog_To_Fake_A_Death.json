@@ -1,0 +1,24 @@
+{
+  "name": "RPlog_To_Fake_A_Death",
+  "title": "The Death of Phair Kreiss",
+  "summary": "In a hospital room, the Sith Senator Viktor Faust uses Force manipulation to puppet a head surgeon into pronouncing his 'assistant' Phair Kreiss mortally wounded and beyond saving. Phair, only half-sedated, realizes her master is staging her death to remove her from a dangerous mission and to manufacture a martyr whose loss will let him argue that safety matters more than freedom -- a step toward toppling the New Republic. Faust, uncharacteristically unwilling to truly kill her, instead reveals a softening affection and addresses her by her true name, Jal'Dana Rall, as he sends her back to the fleet aboard the Dies Irae to serve as his eyes and ears. Phair swallows a capsule that fakes her death, her heart monitor flatlines, and a Force-altered nurse smoothly arranges to waive the coroner's process and transfer the 'body' to Faust's ship, leaving him to face the waiting press as the grieving Senator.",
+  "rows": [
+    {"line": 17, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 19, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 21, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 23, "type": "pose", "actor": "Phair Kreiss"},
+    {"line": 25, "type": "pose", "actor": "Phair Kreiss"},
+    {"line": 27, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 29, "type": "pose", "actor": "Viktor Faust", "b": true},
+    {"line": 31, "type": "pose", "actor": "Phair Kreiss"},
+    {"line": 33, "type": "pose", "actor": "Phair Kreiss", "b": true},
+    {"line": 35, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 37, "type": "pose", "actor": "Phair Kreiss"},
+    {"line": 39, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 41, "type": "pose", "actor": "Viktor Faust", "b": true},
+    {"line": 43, "type": "pose", "actor": "Phair Kreiss"},
+    {"line": 45, "type": "pose", "actor": "Phair Kreiss", "b": true},
+    {"line": 47, "type": "pose", "actor": "Viktor Faust"},
+    {"line": 49, "type": "pose", "actor": "Nurse"}
+  ]
+}

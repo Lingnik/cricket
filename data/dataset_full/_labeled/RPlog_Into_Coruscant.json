@@ -1,0 +1,181 @@
+{
+  "name": "RPlog_Into_Coruscant",
+  "title": "Arrival on a Blockaded Coruscant",
+  "summary": "Disembarking from the White Ghost into an eerily empty Corusca City spaceport, emptied by the Imperial blockade overhead, the eccentric young woman Mira and the dark-sided Selas warrior Simon make their way into the city. Simon, who loathes the suffocating artificiality of Coruscant, is deeply uneasy and constantly on guard, his lightstaff lashed across his back to draw less notice, while Mira finds the deserted port merely boring. As a New Republic patrol passes and a scouting Imperial TIE fighter screams overhead, the pair take a cheery lift down into the city, intending to learn what is happening and find a way to leave unseen with the help of Markus Lisardis and his ship. The brief log ends on a comic note as Mira offers the distracted Simon a chunk of lint-covered jerky, which he absentmindedly eats and nearly retches up, casting an accusing look back at her.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "desc",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "desc",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "desc",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "desc",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "desc",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "desc",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "desc",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 62,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Mira",
+      "b": true
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Simon",
+      "b": true
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

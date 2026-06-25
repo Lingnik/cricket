@@ -1,0 +1,235 @@
+{
+ "name": "RPlog_Dressing_Room",
+ "title": "The Dressing Room",
+ "summary": "In a dressing room of the makeshift news studio on Charros IV, where the galaxy's press has descended to cover the late Xi Charrian Prelate and the new Union, freelance holonet influencer Nara Rhen relaxes after an interview with Pantoran executive Veruca Violet, COO of Biscuit Baron and the Silverwood House of Fashion. As Nara waits, stranded in her underwear by a delayed wardrobe delivery, the two friends chat about the Xi Charrians, rival journalist Thurston Unger, and the Secret Sidious marketing tie-in. Beneath the banter, Veruca, revealing that she and her colleague Zubindi are in fact spies, briefs Nara on her next assignment: traveling to Chandrila under her vacuous-influencer cover to investigate unrest and possible outside agitators stirred up by the Karthakk prison break and the return of Darth Malus. Veruca warns of the danger that troublemakers might hijack press coverage, citing Crestian's old broadcast-bombing exploit on Mergansar, while reassuring Nara that her small audience offers some protection. A wardrobe mix-up delivers a man's suit instead of Nara's outfit, prompting a warm hug between the two before Veruca, her briefing time spent, departs with a candid admission that hardship taught her to value people over possessions.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Nara Rhen",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": true
+  }
+ ]
+}

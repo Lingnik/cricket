@@ -1,0 +1,3325 @@
+{
+  "name": "RPlog_Luke_and_Leia_versus_Sabbath",
+  "title": "Luke and Leia versus Sabbath",
+  "summary": "Answering a summons to Palanhi, Jedi Master Luke Skywalker confronts the Dark Jedi Lord Sabbath in the Grand Palanhi Hotel, where Sabbath threatens to kill the captive Han Solo unless Luke turns to the dark side. Sabbath baits Luke into a lightsaber duel, taunting him to give in to anger, but Luke refuses to strike even when his sister Leia and the stowaway Jessalyn arrive to back him. When Luke disarms Sabbath with the Force and demands Han's whereabouts, the Sith retaliates by blasting Leia and Luke with Force lightning before snatching his saber back and fleeing the hotel. Battered but unbroken, the trio regroups aboard the Black Dragon, where Luke chastises Jessalyn for endangering herself and despairs that they never learned where Han is held. Winter then reveals she knows Sabbath is bound for Bilbringi, where Han must be, and sets course to mount a rescue.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 22,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "desc",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "desc",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 196,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 239,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 297,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 336,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 345,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 368,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 371,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 372,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 377,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 379,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 380,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 382,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 388,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 391,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 393,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 394,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 396,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 402,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 406,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": true
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 423,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 429,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 432,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 434,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 437,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 438,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 440,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 441,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 442,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 444,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 445,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 447,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 448,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 449,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 451,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 452,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 454,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 455,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 457,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 458,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 460,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 461,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 463,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 465,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 467,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 468,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 469,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 471,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 473,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 474,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 476,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 478,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 480,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 481,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 483,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 484,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 486,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 487,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 488,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 490,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 491,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 492,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 493,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 495,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 497,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 498,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 500,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 501,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 503,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 504,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 505,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 507,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 508,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 510,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 511,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 512,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 514,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 515,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 516,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 518,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 520,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 521,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 522,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 524,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 526,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 527,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 529,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 530,
+      "type": "pose",
+      "actor": "Lord Sabbath",
+      "b": false
+    },
+    {
+      "line": 532,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 534,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 536,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 537,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 538,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 540,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 542,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 543,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 545,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 546,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 547,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 549,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 550,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 552,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 553,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 555,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 556,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 558,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 559,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 561,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 562,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 563,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 565,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 567,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 568,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 570,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 571,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 573,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 574,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 575,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 577,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 578,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 580,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 581,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 582,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 584,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 585,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 587,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 588,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 589,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 591,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 593,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 594,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 595,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 597,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 598,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 600,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 601,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 603,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 604,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 606,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 607,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 609,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 610,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 611,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 612,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 613,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 614,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 615,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 616,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 617,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 618,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 619,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 620,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 621,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 622,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 623,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 624,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 625,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 626,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 627,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 628,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 629,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 630,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 631,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 633,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 635,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 636,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 637,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 638,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 639,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 640,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 641,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 642,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 643,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 644,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 645,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 646,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 647,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 648,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 649,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 650,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 651,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 652,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 653,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 654,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 656,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 657,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 659,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 660,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 662,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 663,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 664,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 666,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 667,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 669,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 670,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 671,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 673,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 674,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": true
+    },
+    {
+      "line": 676,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 677,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 678,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 680,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 681,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 682,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 683,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 684,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 685,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 687,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 688,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 689,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 690,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 691,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 692,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 693,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 695,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 696,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 698,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 699,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 701,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": true
+    },
+    {
+      "line": 702,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 704,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 705,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 707,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 708,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 710,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 711,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 713,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 714,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 716,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 717,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 719,
+      "type": "pose",
+      "actor": "Winter",
+      "b": true
+    },
+    {
+      "line": 721,
+      "type": "pose",
+      "actor": "Winter",
+      "b": true
+    },
+    {
+      "line": 723,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 725,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 726,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 728,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 729,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 730,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 732,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 733,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 735,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 736,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 737,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 739,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 740,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 742,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 743,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 745,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 746,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 748,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 749,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 751,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 753,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 754,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 756,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 758,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 759,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 760,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 761,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 763,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 764,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 766,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 767,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 768,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 770,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 771,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 773,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 774,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 775,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 777,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 778,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 780,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 781,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 782,
+      "type": "pose",
+      "actor": "Luke Skywalker",
+      "b": false
+    },
+    {
+      "line": 784,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    },
+    {
+      "line": 786,
+      "type": "pose",
+      "actor": "Leia Organa Solo",
+      "b": false
+    }
+  ]
+}

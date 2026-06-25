@@ -1,0 +1,1429 @@
+{
+ "name": "RPlog_Snowball_Fight",
+ "title": "Snowball Fight",
+ "summary": "On a snowy night in Fountain Square, the drunk and depressed Ambassador Morganna Tazecks stumbles in and kicks a news terminal, drawing the attention of the equally inebriated Troy and the disapproving Rodo. When Troy's errant snowball clips the cloaked ambassador, an all-out brawl erupts: Morganna tackles and flips Troy into a snowbank while the businessman Hugo Dracolysk, Troy's sister Stelita, and the watchful aide Kaley pile into the chaos of flying snow, slips, and shoves. Kaley drags the tipsy Morganna behind a tree to chastise her conduct and ask after Ozzle, while Troy, Dracolysk, and Stelita keep tumbling around the fountain. Eventually the bruised, snow-caked diplomat dusts herself off, repays Kaley with a snowball down the back, and fumbles off to sleep away the alcohol.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Rodo",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Morrison",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Hugo Dracolysk",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Leanna_Lar",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Leanna_Lar",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Leanna_Lar",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Troy",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Stelita",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Kaley",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

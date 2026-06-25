@@ -1,0 +1,181 @@
+{
+ "name": "RPlog_Skirmish_at_Gyndine",
+ "title": "Skirmish at Gyndine",
+ "summary": "Imperial Wing Commander Ilan briefs the Avenger pilots of Razor Squadron on a patrol-and-training run through the Gyndine system, singling out the cocky rookie Officer Jonas Alsten on his first real mission. Jonas trades jokes with his superstitious wingmate Kairo and the squadron leader before the squadron jumps out and spreads to patrol the asteroid belt. What was meant to be a routine sortie turns into a dogfight when a Rebel X-wing squadron drops out of hyperspace. Jonas tangles with a skilled Zabrak X-wing pilot, Ghost 7, exchanging laser and torpedo fire and taking a beating to his shields before the squadrons disengage. His wingmate Fortune calls him back to formation, wary of a trap, and Jonas reluctantly forms up.",
+ "rows": [
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Ilan",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ilan",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Squadron Leader",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Ilan",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Kairo",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Squadron Leader",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Fortune",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Fortune",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Ghost 7",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Ghost 7",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Ghost 7",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Ghost 7",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Fortune",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jonas Alsten",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

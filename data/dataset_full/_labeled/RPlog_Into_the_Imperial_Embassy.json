@@ -1,0 +1,271 @@
+{
+ "name": "RPlog_Into_the_Imperial_Embassy",
+ "title": "Crash Landing at the Imperial Embassy",
+ "summary": "The battered smuggler shuttle Sanguine Raptor crash-lands atop the Imperial Embassy's landing pad, and the Force-user Simon Sezirk carves his way out with his lightstaff alongside the fast-talking pilot Mira. Ambassador Kizuka and a squad of stormtroopers immediately move to arrest them, demanding Simon drop his weapon. When Mira's pleas and Simon's hesitation fail, the troopers open fire; Simon deflects the barrage with his staff while Mira flees into the cockpit and randomly jabs controls, accidentally setting off the failing ship. As stun grenades are hurled aboard and detonate inside the cracked hyperdrive, the shuttle lurches into the embassy wall and the cockpit floor gives way beneath Simon and Mira, dropping them out of the troopers' reach.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "desc",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Simon Sezirk",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Simon Sezirk",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "desc",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Kizuka",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Mira",
+   "b": true
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Simon Sezirk",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

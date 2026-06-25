@@ -1,0 +1,751 @@
+{
+  "name": "RPlog_Imperial_Gala_Continued",
+  "title": "The Imperial Gala on Coruscant",
+  "summary": "In the grand ballroom of the Imperial Museum on Coruscant, the Empire celebrates Imperial Day with a lavish gala hosted by High Marshal Krieg, who welcomes dignitaries including Director Korynn Fleming, Admiral Jal'Dana Rall, and the Grand Vizier Korolov. Across the room, conversations weave together: Fleming arrives with his date Jayla Burano and coldly interrogates the Twi'lek geneticist Doctor Dariza Ipex while his colleague Dorian looks on, the IGN reporter Sharidan interviews pilots Dante and Liza Molokai, and the undercover Sullustan agent Enb'Zik, posing as a flower-seller named Fiub Giun, befriends swoop racer Jeni Donella to keep tabs on the Imperials. Beneath the pleasantries run currents of menace: Fleming privately punishes Jayla for her clumsy seduction attempt and muses about the suffering of those who serve the Empire, and Korolov hints at his eagerness to crush the Republic. As the evening winds down, Fleming leads his trembling date away with dark intent, and the various guests gradually make their excuses and depart, with Dorian gallantly escorting Dariza out into the night.",
+  "rows": [
+    {
+      "line": 8,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": true
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Jayla Burano",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": true
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": true
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": true
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Kines",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": true
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": true
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Jayla Burano",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": true
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": true
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Jayla Burano",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Kines",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Sharidan",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": true
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Jayla Burano",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Korynn Fleming",
+      "b": true
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Jayla Burano",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Krieg",
+      "b": false
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 274,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Davyd",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Korolov",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Jeni",
+      "b": false
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Jal'Dana",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 304,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Liza",
+      "b": false
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Xy'lear",
+      "b": false
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Dante",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 338,
+      "type": "pose",
+      "actor": "Dorian",
+      "b": false
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Dariza",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

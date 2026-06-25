@@ -1,0 +1,19 @@
+{
+  "name": "RPlog_What_the...",
+  "title": "Qwynt's Failed Proposition",
+  "summary": "Over a one-sided holocall to his Corellian associate Smitherbodkins, the Toydarian revolutionary Qwynt of the newly formed Prex Liberation Army attempts to broker a deal: borrow warships from Smitherbodkins's freshly acquired Corellian Engineering Corporation, stir up galactic conflict, and split the profits. Smitherbodkins, coolly composed at his desk, deflects the overtures, thanks Qwynt for an introduction to a slicer, and makes clear he can run the shipyard profitably without the Toydarian's help. Rebuffed, Qwynt curses, threatens vague reprisal, and signs off with a toothy smile. Believing the connection cut, he begins barking orders to launch a surprise operation, only to realize in a flash of terror that the holocom is still transmitting before he finally severs the link.",
+  "rows": [
+    {"line": 16, "type": "pose", "actor": "Qwynt", "b": false},
+    {"line": 18, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 20, "type": "pose", "actor": "Qwynt", "b": false},
+    {"line": 22, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 24, "type": "pose", "actor": "Qwynt", "b": false},
+    {"line": 26, "type": "pose", "actor": "Qwynt", "b": true},
+    {"line": 28, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 30, "type": "pose", "actor": "Smitherbodkins", "b": true},
+    {"line": 32, "type": "pose", "actor": "Qwynt", "b": false},
+    {"line": 34, "type": "pose", "actor": "Qwynt", "b": true},
+    {"line": 36, "type": "pose", "actor": "Smitherbodkins", "b": false},
+    {"line": 38, "type": "pose", "actor": "Qwynt", "b": false}
+  ]
+}

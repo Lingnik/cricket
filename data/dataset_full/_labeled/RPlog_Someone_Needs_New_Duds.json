@@ -1,0 +1,409 @@
+{
+ "name": "RPlog_Someone_Needs_New_Duds",
+ "title": "Someone Needs New Duds",
+ "summary": "On a Cloud City landing pad, the off-duty mechanic Selko strikes up a conversation with the Kubaz fashion mogul Zubindi Hakoon, owner of the Silverwood House of Fashion, while he oversees cargo after the festival season. Despite her grease-stained coveralls, Selko knows her fashion and trades advice on Bespin accessories and durable Caspian fabrics with the designer, who recommends she visit his Caspar location. The pair are joined by the seasick socialite Lady Athena, CEO of a Coruscant PR firm, who fawns over Zubindi and laments her ship being stripped by Jawas, and then by the haughty but warm Nara, a devoted Silverwood customer. As Zubindi excuses himself for an appointment, the three women fall into playful banter about Jawas, lost ships, undergarments, and dancing, and Selko offers to lead them to her hotel's excellent bar.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "desc",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Nara",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Athena",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Selko",
+   "b": false
+  }
+ ]
+}

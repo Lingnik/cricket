@@ -1,0 +1,379 @@
+{
+  "name": "RPlog_Lost_Fingers",
+  "title": "Lost Fingers",
+  "summary": "Aboard the luxury cruise ship Angry Rancor, the troubled Simon is tinkering with a Nek battledog in the Wampa Lounge when the scatterbrained Mira interrupts him, startling him into cutting the wrong wire. The reprogrammed beast turns savage and mauls Simon's hand, and in his pain and fury he seizes it with the Force, his fragmented mind crowded with intrusive commands to flee to Caspar and rejoin Markus. As the ship's Animal Control team arrives and medics swarm him, Simon clings to Mira's company for comfort, struggling between violent impulses and the memory of Luke Skywalker. The pair flee to the hangar and board the shuttle Sanguine Raptor, where the heedless Mira insists on piloting despite having no real idea where she is going. Her bumbling flight lurches the ship out into space, leaving the wounded Simon strapped in helplessly as they drift off toward an uncertain destination.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Mira",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Simon",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

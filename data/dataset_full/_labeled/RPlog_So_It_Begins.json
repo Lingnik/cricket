@@ -1,0 +1,601 @@
+{
+ "name": "RPlog_So_It_Begins",
+ "title": "So It Begins",
+ "summary": "From his hidden meditation chamber aboard the Refrain of Anshalar parked far outside Tatooine, Luke Skywalker projects a fully solid Force doppelganger of himself aboard the Sith flagship Predator to confront its captain, Antoine Dareus. The two duel verbally over the dark side, redemption, and the returning Sith, with Luke claiming he has come merely on reconnaissance and goading Dareus into revealing that Cochran -- and the secrets of his droid army -- have been moved. When Luke begins wrecking the ship and battling waves of hidden combat droids, Dareus exults at apparently capturing the great Jedi as a prize for Malign, only for the doppelganger to dissolve into nothing, having absorbed everything Luke needed to know about the Predator's true droid capacity. Realizing he has been played on his own flagship, Dareus orders Cochran's evacuation while Luke, his reconnaissance complete, jumps the Refrain safely away.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Seth Senesca",
+   "b": false
+  }
+ ]
+}

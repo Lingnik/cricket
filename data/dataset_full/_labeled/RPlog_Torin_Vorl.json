@@ -1,0 +1,931 @@
+{
+ "name": "RPlog_Torin_Vorl",
+ "title": "Torin Vorl: Hijack of the HIMS Broadsword",
+ "summary": "While the Imperial cruiser Broadsword orbits Selene, a distorted transmission seizes control of the ship and reveals Torin Vorl, a pilot once left for dead at Endor and rebuilt as a cybernetic monster, bent on framing Commissar Lanil Jast and Captain Lynae Caiton as mutineers. Operating from the auxiliary bridge, Torin forces Caiton and Jast to execute crew members at blasterpoint, vents atmosphere, sets the ship on a crash course for Selene, and arms a silent self-destruct. With Sergeant Major Cantrell's stormtroopers, the technician Keline, and Lieutenant Dareus, the bridge crew jury-rig a power-cell surge to reset the ship's systems while War Shrike fighters under Krieg and the corvette Prowler under Commander Jal'Dana Rall move to disable the Broadsword's engines from outside. Through zero-gravity chaos and choking air, Jast and Caiton restore command authorization, cancel the self-destruct, regain control, and broadcast a stand-down. The ship is saved, control wrested back from the auxiliary bridge, and medical and repair teams from the Prowler are dispatched as the wounded crew take stock.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Comm Officer",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Comm Officer",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Comm Officer",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Trooper",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Sally",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Buck",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Harry",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Buck",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Harry",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Prowler Officer",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Torin Vorl",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Lanil Jast",
+   "b": false
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  }
+ ]
+}

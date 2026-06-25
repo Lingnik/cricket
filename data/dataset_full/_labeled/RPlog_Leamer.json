@@ -1,0 +1,3931 @@
+{
+ "name": "RPlog_Leamer",
+ "title": "Leamer the Guardian",
+ "summary": "In the medsuite of the NRV Deliverance, Jessalyn Valios keeps a tender vigil over the recovering Roark, their quiet, intimate conversation interrupted by the arrival of the towering Horansi officer Captain Leamer, who claims to be a 'Guardian' watching over important guests. Leamer's condescending, domineering manner toward Jessalyn and the young Horansi corporal Kuxli sparks a fierce confrontation in the crew lounge, where Leamer invokes Horansi caste hierarchy and military protocol to berate and command Kuxli, ordering him confined to quarters while Jessalyn furiously defends her friend. After Leamer departs and Jessalyn vows he will answer to his commanding officer, she retreats with Kuxli to the crew quarters, where their bond is reaffirmed -- Kuxli returning a pendant she once gave him, and Jessalyn quietly confiding the loss of the baby she was carrying before the two part for the night on warm terms.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 178,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 275,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 285,
+   "type": "desc",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "desc",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "desc",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 288,
+   "type": "desc",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "desc",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "desc",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 293,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 297,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 307,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 309,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 321,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 333,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 339,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 346,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 347,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 353,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 355,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 363,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 365,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 367,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 369,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 371,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 373,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 375,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 377,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 385,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 387,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 392,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 403,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 405,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 407,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 409,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 410,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 413,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 415,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 417,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 419,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 423,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 425,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 429,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 435,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 441,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 444,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 452,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 453,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 455,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 456,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 457,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 459,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 461,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 463,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 466,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 477,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 478,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 481,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 483,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 484,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 486,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 490,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 494,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 499,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 508,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 512,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 513,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 514,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 517,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 519,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 522,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 524,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 525,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 527,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 529,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 530,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 532,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 533,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 535,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 536,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 539,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 543,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 545,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 547,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 549,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 551,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 555,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 557,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 559,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 561,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 563,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 565,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 572,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 575,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 577,
+   "type": "pose",
+   "actor": "Roark",
+   "b": false
+  },
+  {
+   "line": 579,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 582,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 584,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 586,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 587,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 588,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 589,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 592,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 593,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 596,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 598,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 603,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 610,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 617,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 620,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 622,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 624,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 627,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 629,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 631,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 636,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 639,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 640,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 642,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 643,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 644,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 649,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 651,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 653,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 656,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 659,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 660,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 662,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 666,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 667,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 668,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 670,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 675,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 677,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 678,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 681,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 682,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 684,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 685,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 687,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 689,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 691,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 693,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 695,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 696,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 698,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 699,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 700,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 702,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 703,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 704,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 706,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 707,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 709,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 711,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 712,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 714,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 716,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 717,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 718,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 720,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 722,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 724,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 726,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 727,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 729,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 731,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 733,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 735,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 736,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 738,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 739,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 741,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 742,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 743,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 745,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 747,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 748,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 749,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 750,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 752,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 753,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 754,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 756,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 757,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 759,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 761,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 763,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 765,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 767,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 768,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 769,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 771,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 772,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 774,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 775,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 777,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 779,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 781,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 783,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 785,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 786,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 788,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 790,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 791,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 793,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 794,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 796,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 797,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 799,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 800,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 802,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 804,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 805,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 807,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 808,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 809,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 811,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 812,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 814,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 815,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 817,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": false
+  },
+  {
+   "line": 819,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 821,
+   "type": "pose",
+   "actor": "Leamer",
+   "b": true
+  },
+  {
+   "line": 823,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 825,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 827,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 828,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 829,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 831,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 832,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 834,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 836,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 837,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 838,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 839,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 840,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 842,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 844,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 845,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 847,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 848,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 850,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 851,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 853,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 854,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 855,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 856,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 857,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 858,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 860,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 862,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 864,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 866,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 867,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 869,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 871,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 873,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 874,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 875,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 876,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 878,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 879,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 881,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 882,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 884,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 885,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 886,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 888,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 889,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 890,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 891,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 893,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 894,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 895,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 897,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 898,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 900,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 901,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 903,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 904,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 907,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 908,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 909,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 911,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 912,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 914,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 915,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 916,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 917,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 918,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 920,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 921,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 922,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 924,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 925,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 927,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 928,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 929,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 930,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 931,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 933,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 934,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 935,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 936,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 938,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 939,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 940,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 942,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 943,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 945,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 946,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 949,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 950,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 952,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 954,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 955,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 956,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 958,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 959,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 960,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 962,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 963,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 965,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 966,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 968,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 969,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 971,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 972,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 973,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 974,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 976,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 977,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 979,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 981,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 982,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 984,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 985,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 987,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 988,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 990,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 991,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 993,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 994,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 995,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 997,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 998,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 1000,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1002,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 1004,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1005,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 1006,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 1008,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 1009,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 1011,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 1012,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 1014,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": false
+  },
+  {
+   "line": 1016,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

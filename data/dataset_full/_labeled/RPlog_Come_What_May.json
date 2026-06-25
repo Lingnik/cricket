@@ -1,0 +1,379 @@
+{
+  "name": "RPlog_Come_What_May",
+  "title": "Come What May",
+  "summary": "At the Union Starport on Caspar, the Sullustan Jedi Ikihsa Enb'Zik arrives in his fighter Ranger One with the dangerous Firrerreo half-breed Arissa, whom he has brought hoping Luke Skywalker will take her into the Jedi Order. As they wait, Enb'Zik counsels Arissa on the choice between wielding the Force to protect the innocent or to destroy them like the Sith Lord Korolov, unaware that a murderous nightsister spirit in her mind urges her to kill, and that Arissa secretly stalks her true target: Doctor Lynae Cassius, now a CDU cadet queuing for caf nearby. The three meet at the ship; Arissa, recognizing Lynae, masks her intent and departs to scout the city. Alone with Lynae, Enb'Zik shares his unease about Arissa while Lynae, who counts him among the very few she trusts, warns him bluntly to stay armed and alive, before a priority comm calls him back to his ship.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Arissa",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Enb'Zik",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    }
+  ]
+}

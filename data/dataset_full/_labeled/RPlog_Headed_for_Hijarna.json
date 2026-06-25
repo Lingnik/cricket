@@ -1,0 +1,2149 @@
+{
+  "name": "RPlog_Headed_for_Hijarna",
+  "title": "Passage to Hijarna Aboard the Comet's Tail",
+  "summary": "Archaeologist Paul Nighman and his companion Ylsa arrive at Coronet Space Port to board the battered freighter Comet's Tail, captained by the Rodian Leebo and crewed by Terrin and Fulk, for a voyage to the world of Hijarna. After settling their few belongings and a tender private moment between Paul and Ylsa, the ship departs. During the hours-long flight, Paul unwraps a gleaming gold-foiled goddess statue, several thousand years old, which captivates Terrin and rouses the normally taciturn, gun-toting Fulk's curiosity. Paul explains his xenoarchaeological quest to recover a set of such relics tied to a millennia-old holy war and the legend of Tamis, having traded the promise of a map to Leebo in exchange for passage. The log is a quiet character and exposition piece establishing the expedition's purpose and crew dynamics, ending with Terrin lost in admiration of the statue.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "desc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Leebo",
+      "b": true
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 117,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 151,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Ylsa",
+      "b": true
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 216,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 241,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 248,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 257,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 266,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 272,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 276,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 280,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 282,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 288,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 290,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 293,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 295,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 296,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 298,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 300,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 302,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 303,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 305,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 308,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 309,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 310,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 312,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 314,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 315,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 317,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 318,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 319,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 320,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 322,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 323,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 324,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 325,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 327,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 328,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 330,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 332,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 334,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 336,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 339,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 340,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 341,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 343,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 344,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 346,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 347,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 349,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 350,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 351,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 352,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 355,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 357,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 358,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 360,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 363,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 364,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 365,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 368,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 370,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 371,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 373,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 376,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 377,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 378,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 380,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 382,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 383,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 384,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 385,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 386,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 387,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 390,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 391,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 392,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 393,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 394,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 396,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 397,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 398,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 400,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 404,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 405,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 406,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 407,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 408,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 409,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 411,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 413,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 416,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 418,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 419,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 420,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 422,
+      "type": "pose",
+      "actor": "Fulk",
+      "b": true
+    },
+    {
+      "line": 424,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": false
+    },
+    {
+      "line": 425,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 426,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 427,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 428,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 429,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 430,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 432,
+      "type": "pose",
+      "actor": "Paul Nighman",
+      "b": true
+    },
+    {
+      "line": 434,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": false
+    },
+    {
+      "line": 435,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 436,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 437,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 438,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 439,
+      "type": "pose",
+      "actor": "Terrin",
+      "b": true
+    },
+    {
+      "line": 441,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

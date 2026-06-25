@@ -1,0 +1,307 @@
+{
+  "name": "RPlog_Basilica_Evacuation",
+  "title": "Basilica Evacuation",
+  "summary": "On Coruscant, the archaeologist Kyle Senesca is reunited with the recently freed Jedi Ai'kani at the Basilica, where he has been studying ancient stone tablets. He breaks the grim news that their comrade Brandis was captured and tortured by the Empire before being released, while Luke and Sabrina remain missing. As they travel by transit toward the Senate complex, Ai'kani confides her troubling, compassionate connection with a young Imperial who aided her in captivity, and the two worry the now-undefended Basilica has become a prime Imperial target. Meeting with Chief of State Leia Organa-Solo, they win her support to evacuate the Basilica's children, residents, and irreplaceable knowledge to safe locations arranged by her aide Winter. Leia gently insists, for everyone's protection, that Ai'kani stay apart from the wounded Brandis until she can be vetted for possible Imperial tampering, and tasks her and Kyle with organizing the evacuation of the Basilica's collection. Steeling herself against despair, Ai'kani accepts, and Kyle calls his brothers to begin the work.",
+  "rows": [
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Winter",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Leia",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Ai'kani",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Kyle Senesca",
+      "b": false
+    }
+  ]
+}

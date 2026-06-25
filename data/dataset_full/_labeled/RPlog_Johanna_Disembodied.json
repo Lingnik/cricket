@@ -1,0 +1,271 @@
+{
+ "name": "RPlog_Johanna_Disembodied",
+ "title": "Johanna Disembodied",
+ "summary": "Five nights running, the dark-altered Jedi Johanna returns to the rubble of the destroyed Basilica on Coruscant to gloat over her handiwork, unaware that a Force-cloaked Luke Skywalker has come to learn the truth of the catastrophe. When Luke witnesses the explosion through the Force and his concealment slips, he confronts Johanna, pleading with her to recognize that Vadim's dark influence has twisted her. Their argument escalates into a lightsaber duel, during which the ancient Sith spirit Vadim fully seizes control of Johanna's body and repels Luke with a devastating burst of power. The two settle into an uneasy parley in which Vadim disdains the Jedi Order and offers to release Johanna; when Luke refuses to grant him the satisfaction of permission, Vadim withdraws entirely, leaving Johanna's lifeless body behind as Luke grieves and calls for someone to retrieve her remains.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Vadim",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Vadim",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Vadim",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Vadim",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Vadim",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  }
+ ]
+}

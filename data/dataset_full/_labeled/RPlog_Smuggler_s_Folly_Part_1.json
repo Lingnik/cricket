@@ -1,0 +1,169 @@
+{
+ "name": "RPlog_Smuggler_s_Folly_Part_1",
+ "title": "Smuggler's Folly (Part 1)",
+ "summary": "Aboard his freighter Hirakiis, the smuggler Jaspar -- operating under the alias Captain Andromidas of Andromidas Galaxy Logistics -- receives a dark-net transmission from Ambassador Ambrosia Delgard of the New Republic. Delgard, stationed in the blockaded Caspia system, appeals to him to run food, water, medical supplies, and arms past the Imperial blockade to the beleaguered Caspian population. After haggling over the price and enduring an interruption from her malfunctioning protocol droid, the two strike a deal: a good-faith deposit now, with per-run payments from the Navy. Jaspar transmits his routing number, Delgard wires forty-five thousand credits and her backup contacts, and the smuggler settles in to prepare for a dangerous and lucrative new venture.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Ambrosia Delgard",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jaspar",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

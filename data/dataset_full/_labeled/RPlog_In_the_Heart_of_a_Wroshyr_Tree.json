@@ -1,0 +1,1255 @@
+{
+  "name": "RPlog_In_the_Heart_of_a_Wroshyr_Tree",
+  "title": "A Meeting in the Wroshyr Temple",
+  "summary": "In the sacred Wroshyr Temple of Rwookrrorro City on Kashyyyk, Ambassador Ambrosia Delgard sits in quiet contemplation among the offerings when the Corellian Ewan Dain, a former NRI Director and Starlight CEO, arrives to keep a long-delayed meeting about the disappearances plaguing the Wookiee world. They are joined by the FleetOps officer Lieutenant Commander Argon Brand, and the three discuss the Republic's ongoing intelligence efforts to investigate the slaving operations in the shadowlands. Dain offers to assemble a civilian team to hunt the responsible parties, but Ambrosia cautions him to coordinate with Republic Intelligence first rather than acting alone, and offers to arrange a meeting with NRI on his behalf. Dain accepts the wiser course, Argon pledges what limited help his short stay allows, and Ambrosia takes her leave to find the local Intel liaison, leaving the two men to the peace of the temple.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": true
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 115,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": true
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": true
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 169,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 202,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 204,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 210,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 214,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Argon",
+      "b": true
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Argon",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 224,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 228,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": true
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Ambrosia",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 238,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 240,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": true
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Ewan Dain",
+      "b": false
+    }
+  ]
+}

@@ -1,0 +1,2988 @@
+{
+ "rows": [
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 35,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 36,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 37,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 38,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 39,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 40,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 41,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 43,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 45,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 47,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 48,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 49,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 51,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 53,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 56,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 57,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 125,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 126,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 179,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 180,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 185,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 186,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 195,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 285,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 287,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 295,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 303,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 305,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 307,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 308,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 316,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 317,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 323,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 325,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 329,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 331,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 335,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 337,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 338,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 340,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 341,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 343,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 347,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 350,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 354,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 355,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 357,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 359,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 361,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 363,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 364,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 366,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 367,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 368,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 369,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 370,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 371,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 372,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 373,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 376,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 377,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 379,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 380,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 381,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 383,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 385,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 386,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 387,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 388,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 389,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 390,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 392,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 393,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 395,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 397,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 400,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 401,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 404,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 405,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 408,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 409,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 410,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 411,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 412,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 413,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 415,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 416,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 417,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 420,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 426,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 427,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 428,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 430,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 432,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 433,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 435,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 437,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 439,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 443,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 445,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 447,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 449,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 450,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 452,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 455,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 457,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 458,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 460,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 463,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 465,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 467,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 470,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 473,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 475,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 477,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 478,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 481,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 483,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 485,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 487,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 489,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 491,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 493,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 495,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 497,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 498,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 501,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 503,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 505,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 507,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 509,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 511,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 512,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 513,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 515,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 516,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 518,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 519,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 520,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 521,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 522,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 523,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 524,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 527,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 528,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 529,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 531,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 532,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 533,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 534,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 535,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 536,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 537,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 538,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 539,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 541,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 542,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 544,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 546,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 547,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 548,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 549,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 550,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 551,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 552,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 553,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 556,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 557,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 559,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 560,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 561,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 562,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 563,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 564,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 565,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 566,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 569,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 571,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 573,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 576,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 577,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 579,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 580,
+   "type": "ooc",
+   "actor": ""
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 583,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 587,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 588,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 591,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 593,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 595,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 596,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 597,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 599,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 600,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 601,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 603,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 604,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 605,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 606,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 608,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 610,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 612,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 614,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 616,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 618,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 620,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 626,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 628,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 630,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 631,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 632,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 634,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 635,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 637,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 638,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 640,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 641,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 642,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 644,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 646,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 647,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 649,
+   "type": "pose",
+   "actor": "Roark"
+  },
+  {
+   "line": 650,
+   "type": "pose",
+   "actor": "Roark",
+   "b": true
+  },
+  {
+   "line": 652,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 654,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 655,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 657,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 658,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 660,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 661,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 663,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 664,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 666,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 667,
+   "type": "scene",
+   "actor": ""
+  },
+  {
+   "line": 669,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 671,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 673,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 674,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 676,
+   "type": "pose",
+   "actor": "Chewbacca"
+  },
+  {
+   "line": 677,
+   "type": "pose",
+   "actor": "Chewbacca",
+   "b": true
+  },
+  {
+   "line": 679,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 680,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 682,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 683,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 684,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 685,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 686,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 687,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 690,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 691,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 692,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 693,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 694,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 696,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 697,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 699,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 700,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 702,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 703,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 704,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 705,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 707,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 708,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 709,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 710,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 711,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 712,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 714,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 715,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 716,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 717,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 718,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 719,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 720,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 721,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 722,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 723,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 724,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 725,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 726,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 727,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 728,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 729,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 730,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 731,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 732,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 733,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 736,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 737,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 739,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 740,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 741,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 742,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 743,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 744,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 745,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 746,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 747,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 748,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 750,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 751,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 752,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 753,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 754,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 757,
+   "type": "pose",
+   "actor": "Coreen"
+  },
+  {
+   "line": 758,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 760,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 762,
+   "type": "pose",
+   "actor": "Coreen"
+  },
+  {
+   "line": 764,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 765,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 767,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 769,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 770,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 772,
+   "type": "pose",
+   "actor": "Kuxli"
+  },
+  {
+   "line": 773,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 774,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 776,
+   "type": "pose",
+   "actor": "C3PO"
+  },
+  {
+   "line": 777,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 778,
+   "type": "pose",
+   "actor": "C3PO"
+  },
+  {
+   "line": 780,
+   "type": "pose",
+   "actor": "Coreen"
+  },
+  {
+   "line": 781,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 783,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 784,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 786,
+   "type": "pose",
+   "actor": "Coreen"
+  },
+  {
+   "line": 788,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 790,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 792,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 794,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 795,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 797,
+   "type": "pose",
+   "actor": "C3PO"
+  },
+  {
+   "line": 799,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 801,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 802,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 804,
+   "type": "pose",
+   "actor": "Kuxli"
+  },
+  {
+   "line": 805,
+   "type": "pose",
+   "actor": "Kuxli",
+   "b": true
+  },
+  {
+   "line": 807,
+   "type": "pose",
+   "actor": "Coreen"
+  },
+  {
+   "line": 808,
+   "type": "pose",
+   "actor": "Coreen",
+   "b": true
+  },
+  {
+   "line": 810,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 812,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 814,
+   "type": "system",
+   "actor": ""
+  }
+ ],
+ "name": "RPlog_The_Suicide_Attempt",
+ "title": "The Suicide Attempt",
+ "summary": "Aboard the freighter Black Dragon, the despondent Wookiee Chewbacca brings the Jedi Jessalyn Valios to translate a tense confrontation with the captive CSA Colonel Roark -- called Xegid -- revealing that Dillon and the Prex have betrayed them both. Through Jessalyn's careful translation, Chewbacca and Roark trade bitter philosophy about honor, selfishness, and profit, Chewbacca insisting his loyalty to Han Solo is the same fierce devotion Roark would show his own daughter. Roark, embittered and now free to go, is told he will be treated as a guest, but the wounding exchange ends with him walking out -- only for a guard to report he has done something terrible in the engine room. Chewbacca and Jessalyn rush to find Roark wedged into the machinery, having electrocuted himself in a suicide attempt. Chewbacca cuts the power and Jessalyn drags his limp, smoking body free; finding a pulse but no breathing, she revives him with rescue breaths until he gasps on his own. Chewbacca carries the barely living, badly burned Roark toward the medbay as the ship docks with the NRV Hyperon, and a frantic Jessalyn races ahead to beg Coreen and Kuxli for a medical team."
+}

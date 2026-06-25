@@ -1,0 +1,583 @@
+{
+ "name": "RPlog_Karrde_Gang_s_Great_Escape",
+ "title": "The Karrde Gang's Great Escape",
+ "summary": "On Imperial-occupied Chandrila, smuggler chief Talon Karrde and his guards Frey and Thom are spotted moving refugees through Hanna City by the hapless ISB Agent Sarbuck, sparking a running blaster chase through alleys with pursuing stormtroopers. Reaching the hidden Wild Karrde, where Leia Organa is helping load the last families aboard, Karrde faces down Captain Baggins and an encircling stormtrooper company. When Baggins fires, Karrde unleashes the freighter's concealed turbolasers and demolition charges, devastating the Imperials and their hover tanks as the ship blasts off. Hounded by Danik Kreldin's Star Destroyer and swarming TIE Interceptors, Karrde's desperate piloting -- aided by Leia's Force-guided course corrections -- threads the Wild Karrde out of the gravity well and into hyperspace, escaping Kreldin's grasp.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Agent Sarbuck",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Agent Sarbuck",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Agent Sarbuck",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Agent Sarbuck",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Agent Sarbuck",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Thom",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Agent Sarbuck",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Frey",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": true
+  },
+  {
+   "line": 76,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Captain Baggins",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Captain Baggins",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": true
+  },
+  {
+   "line": 166,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": true
+  },
+  {
+   "line": 173,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Talon Karrde",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Danik Kreldin",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Leia Organa",
+   "b": false
+  }
+ ]
+}

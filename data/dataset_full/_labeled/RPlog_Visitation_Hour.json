@@ -1,0 +1,313 @@
+{
+ "name": "RPlog_Visitation_Hour",
+ "title": "Visitation Hour: The Ambassador's Demands",
+ "summary": "Recovering in a New Republic medical bay after her rescue from the Nemesis, the hardened Ambassador Ambrosia Delgard finishes her last respirator treatment alongside her young daughter Gabi and the Imperial defector Liora Kovani when the Navy captain Rasi (Cen) arrives with work in hand. Their reunion is frosty: Ambrosia bristles at the marine guards Rasi brings, the propaganda film crew he wants her to face about her false confession, and the prospect of Kovani being taken to a holding cell rather than returned to her custody. As Kovani is led off for security questioning, Ambrosia--exhausted, traumatized, and refusing sedation--rips out her IV and presses Rasi for a private residence so she, Gabi, and Kovani can reclaim some normalcy, threatening worse if her demands aren't met. Rasi, plainly ill-suited to comforting her, promises a residence, ongoing counseling, and a private comm line, and the tense visitation ends with him assuring the unstable but unbroken ambassador that things will at least change.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "desc",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Gabi",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Kovani",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Ambrosia",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Rasi",
+   "b": false
+  }
+ ]
+}

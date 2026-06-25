@@ -1,0 +1,1321 @@
+{
+ "name": "RPlog_Shindig_on_Corellia",
+ "title": "Shindig on Corellia",
+ "summary": "A glittering charity gala at the Royale Casino in Coronet City draws a chaotic crowd of dignitaries, celebrities, and rogues. The flamboyant reporter Thurston Unger films live for The Cutting Edge, working the room from politician Crestian Tarasar to fashion mogul Zubindi Hakoon, while the harried Jedi Johanna Damion -- shadowed by the bodyguard Krackor Reincus -- tries to drum up donations for a school. The garishly glowing Zeltron smuggler Ezlo crashes the party as a fake 'Zeltron Syndicate' delegate, openly bragging about stolen spice to anyone who will listen, while spacers and operatives like Tiaryn, Siarra, Wrexan, Samyok, Malif, and the Dark Jedi Cort Stasus mingle and scheme. The evening peaks when the Imperator Darth Malign arrives with Grand Admiral Drayson Honos and aide Quaye, trading veiled barbs before being shuffled away, and winds down as Ezlo chases his 'best new friends' and the Corellian prime minister closes the festivities.",
+ "rows": [
+  {
+   "line": 11,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Veruca Violet",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Druze",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Zubindi Hakoon",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Samyok",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Krackor Reincus",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 265,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 273,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 279,
+   "type": "pose",
+   "actor": "Drayson Honos",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 291,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 300,
+   "type": "pose",
+   "actor": "Thurston Unger",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Siarra",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 313,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 315,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 319,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Tiaryn",
+   "b": false
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Wrexan",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Ezlo",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Cort Stasus",
+   "b": false
+  },
+  {
+   "line": 330,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

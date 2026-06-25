@@ -1,0 +1,193 @@
+{
+ "name": "RPlog_Eternal_Sunshine_of_A_estshy_s_Mind",
+ "title": "Eternal Sunshine of A'estshy's Mind",
+ "summary": "Trapped in a vivid nightmare, the Twi'lek A'estshy ('Shy') drifts through a shifting dreamscape that melds the bridge of the Pahgan and the hangar of the Hammer Head, replaying horrors of Sith war droids, screams, and the faces of those she holds dear, Thrask, Tyy'sun, Krackor, and others. A fiery, mechanically chuckling Mandalorian apparition, the spectral Cantrell, seizes her by the throat, taunting her about death as the dream ship explodes and her loved ones are torn into the vacuum of space one by one. Forced to watch them die and choked breathless, Shy screams her defiance, declaring she would give her own life for Thrask, only for the apparition's helmet to melt into a leering, demonic mirror-image of Thrask himself, demanding a kiss before condemning them all. A final blast hurls her out into the void, and she tumbles head over heels through the dream's collapsing reality. Shy wakes bolt upright in her dark bed, gasping and nearly striking her broken nose, fumbling for the light as the lingering shadows still echo her terror.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": true
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": true
+  },
+  {
+   "line": 39,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": true
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": true
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "A'estshy",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

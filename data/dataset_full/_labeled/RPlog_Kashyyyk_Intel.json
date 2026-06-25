@@ -1,0 +1,67 @@
+{
+ "name": "RPlog_Kashyyyk_Intel",
+ "title": "Kashyyyk Intel",
+ "summary": "Acting on scouting orders from Darth Malign, the lone Sith pilot Wolf takes his unmarked Black HeadHunter to Kashyyyk to quietly catalog ships and traffic in the system. New Republic Ghost Squadron, led by Major Kyrin and dispatched by General Antilles on a routine patrol, is alerted by Kashyyyk Control to the intruder ignoring identification hails. Kyrin closes in and demands Wolf identify himself and his intentions while he stalls, biding his time and gathering data. When her patience runs out, Kyrin orders her X-Wings to attack speed and S-foils to attack position, warning Wolf to comply or leave. (The log is marked unfinished.)",
+ "rows": [
+  {
+   "line": 16,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Kyrin",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": true
+  }
+ ]
+}

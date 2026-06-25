@@ -1,0 +1,307 @@
+{
+  "name": "RPlog_Coming_In_From_The_Cold_-_Part_2",
+  "title": "Coming In From The Cold, Part 2",
+  "summary": "Recovering aboard Doctor Lynae Cassius's medbay ship at Ord Mantell, the maimed NRI agent Drax Rendolen trades wry banter with the doctor about replacing his lost arm, until two of her own long-trusted guards, Coleman and Kretzman, reveal themselves as sleeper agents and open fire, declaring that the Sith never forgive. Drax and Cassius fight back in a brutal, close-quarters struggle, dropping both assailants with thrown blades, vibro-blade work, and blaster fire. In the bloody aftermath, the pair conclude that the presence of two of Malign's former marks together triggered the sleepers' orders, and Drax confesses he carries the dangerous, human-skin-bound text of an old Sith master that inspired what Malign did to him. Cassius, calling herself the butcher of Cochran, offers hard-won comfort, telling Drax that his very terror proves there is still enough of him left to come back from the edge, and sends him off to walk and clear his head.",
+  "rows": [
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 16,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 127,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Drax",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Lynae Cassius",
+      "b": false
+    }
+  ]
+}

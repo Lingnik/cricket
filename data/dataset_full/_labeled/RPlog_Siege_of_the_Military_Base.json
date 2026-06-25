@@ -1,0 +1,493 @@
+{
+ "name": "RPlog_Siege_of_the_Military_Base",
+ "title": "Siege of the Military Base",
+ "summary": "Darth Malign launches Operation Mayhem, a joint Imperial-Maffi strike to demolish a New Republic military base on Coruscant. Malign and his lieutenant Captain Jarek Syris, backed by stormtroopers Cantrell and Tanis Cadell and the bounty hunter Boba Fett, detonate explosives planted beneath the base while the Twi'lek crime lord Tyy'sun Eson and his Maffi -- including Siva Chantillis, Rogen, and Malif, who drags along the bound captive Kyokusha -- incite mass looting and chaos in the surrounding streets. The buried charges only partly succeed, the base's repulsor-protected core surviving, so the attackers pound it with grenade fire as rioters strip the avenue. As New Republic Marines and police converge, Luke Skywalker bursts from the rubble astride the Horansi Snarl to deflect fire and pursue Malign, while the Imperials and Maffi pile into speeders and scatter, leaving devastation behind.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Jarek Syris",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Boba Fett",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Boba Fett",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Jarek Syris",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Boba Fett",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Boba Fett",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Jarek Syris",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Jarek Syris",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Boba Fett",
+   "b": false
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jarek Syris",
+   "b": false
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Boba Fett",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Siva Chantillis",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Rogen",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Malif",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Cantrell",
+   "b": false
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Tanis Cadell",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Kyokusha",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Tal'sin",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Johanna Damion",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Tyy'sun Eson",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,697 @@
+{
+  "name": "RPlog_Battle_of_Bimmiel",
+  "title": "Battle of Bimmiel",
+  "summary": "The crippled Victory-class Star Destroyer HIMS Vindictive, stranded without hyperdrive and undergoing emergency repairs with only a skeleton crew, is hunted down by a New Republic task force of four capital ships led by the corvette Audacity, supported by Ghost and Falcon starfighter squadrons. Admiral Jal'Dana Rall refuses to abandon her wounded warship and mounts an aggressive last stand, ordering anti-fighter screens and concentrated fire even as the rookie Cerean pilot Ta-Nui-Bonda, the Chyleni squadron leader Kyrin Sh'vani, the A-wing ace Raxis 'Spider', and gunners like Sergeant Remy and Private Carver fight on both sides. The Republic methodically batters down the Vindictive's shield domes and exposed hull while the Imperial guns destroy the corvette Land Runner and cripple the Plaxiff. As the Star Destroyer breaks apart, Rall evacuates her surviving crew aboard shuttles and a Z-95 Headhunter, holding the pursuing X-wings at bay with a missile lock and a defiant warning before escaping into hyperspace just as the Vindictive's reactor detonates. The Republic wins the field at heavy cost, with Kyrin granting the gallant Admiral a mercy departure.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Maroc",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "pose",
+      "actor": "Grunax",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Carver",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Carver",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 79,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Grunax",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 98,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Carver",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Maroc",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Grunax",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 145,
+      "type": "pose",
+      "actor": "Carver",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Maroc",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Maroc",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 165,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 180,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 186,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Ta-Nui-Bonda",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "pose",
+      "actor": "Maroc",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Grunax",
+      "b": false
+    },
+    {
+      "line": 206,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 216,
+      "type": "pose",
+      "actor": "Plax",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Plax",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 220,
+      "type": "pose",
+      "actor": "Plax",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Remy",
+      "b": false
+    },
+    {
+      "line": 222,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 232,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 236,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "pose",
+      "actor": "Grunax",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Kyrin Sh'vani",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "pose",
+      "actor": "Maroc",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Raxis",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Grunax",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "pose",
+      "actor": "Rasi",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 268,
+      "type": "pose",
+      "actor": "Reynar Dax",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Jal'Dana Rall",
+      "b": false
+    }
+  ]
+}

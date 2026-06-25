@@ -1,0 +1,1339 @@
+{
+ "name": "RPlog_Johanna_Has_a_Ball_on_Bespin",
+ "title": "Johanna's Ball on Bespin",
+ "summary": "Johanna hosts a glittering ball in the Yarith Hotel ballroom on Cloud City, drawing together Jedi families, the Caspian contingent, and a crowd of teenagers -- among them Kiri Valios, Sabine, Sonja Damion, and the Imperium captain Kipran Jawatha, who sweeps Sonja onto the dance floor. The recovering newsman Loy Marin works the room with his protocol droid Bee, chasing a story among outlaws and Jedi alike, while the dark-skinned subplots simmer between Jessalyn, the apprehensive hosts, and the arriving Imperator Darth Malign with his unsettling Sith witch Quaye. Amid dancing, flirtation, propaganda sparring, and barely contained tension, Malign needles the Jedi and eventually sends his acolytes away, and the evening winds down with farewells. Far away, two salvagers recover a silent coffin-like pod from deep space, open it to find a goateed man with mismatched eyes -- and are never heard from again.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Tyler te Danaan",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": true
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": true
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": true
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Sabine",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Lon Van Sen",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Sha",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Alina",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Sonja Damion",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Drew",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Lon Van Sen",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Ashton",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Nasiri",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Sha",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Alina",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Jaina Solo",
+   "b": false
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Jaina Solo",
+   "b": true
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Bee",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Drew",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Ashton",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Sonja Damion",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Bee",
+   "b": true
+  },
+  {
+   "line": 228,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": true
+  },
+  {
+   "line": 236,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Kiri Valios",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 262,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": true
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "pose",
+   "actor": "Sha",
+   "b": false
+  },
+  {
+   "line": 280,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 286,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 292,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 302,
+   "type": "pose",
+   "actor": "Leda",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Quaye",
+   "b": false
+  },
+  {
+   "line": 306,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 310,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 312,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 316,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 324,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 326,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 330,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Sha",
+   "b": false
+  },
+  {
+   "line": 334,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 336,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 342,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 345,
+   "type": "pose",
+   "actor": "Sonja Damion",
+   "b": false
+  },
+  {
+   "line": 349,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 351,
+   "type": "pose",
+   "actor": "Ashton",
+   "b": false
+  },
+  {
+   "line": 354,
+   "type": "pose",
+   "actor": "Quaye",
+   "b": false
+  },
+  {
+   "line": 356,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 358,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 360,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 364,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 366,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 368,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 370,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 372,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 374,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 378,
+   "type": "pose",
+   "actor": "Sabine",
+   "b": false
+  },
+  {
+   "line": 380,
+   "type": "pose",
+   "actor": "Kiri Valios",
+   "b": false
+  },
+  {
+   "line": 382,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 384,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 388,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 390,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 394,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 396,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 398,
+   "type": "pose",
+   "actor": "Sha",
+   "b": false
+  },
+  {
+   "line": 402,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 404,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 406,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 408,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 412,
+   "type": "pose",
+   "actor": "Bee",
+   "b": true
+  },
+  {
+   "line": 414,
+   "type": "pose",
+   "actor": "Bee",
+   "b": true
+  },
+  {
+   "line": 418,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 422,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 424,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 430,
+   "type": "pose",
+   "actor": "Quaye",
+   "b": false
+  },
+  {
+   "line": 434,
+   "type": "pose",
+   "actor": "Quaye",
+   "b": true
+  },
+  {
+   "line": 436,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 438,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 440,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 442,
+   "type": "pose",
+   "actor": "Quaye",
+   "b": false
+  },
+  {
+   "line": 446,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 448,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 450,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 454,
+   "type": "pose",
+   "actor": "Alina",
+   "b": false
+  },
+  {
+   "line": 458,
+   "type": "pose",
+   "actor": "Sonja Damion",
+   "b": false
+  },
+  {
+   "line": 462,
+   "type": "pose",
+   "actor": "Ara",
+   "b": false
+  },
+  {
+   "line": 464,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 468,
+   "type": "pose",
+   "actor": "Sabine",
+   "b": false
+  },
+  {
+   "line": 472,
+   "type": "pose",
+   "actor": "Kiri Valios",
+   "b": false
+  },
+  {
+   "line": 476,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 480,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 482,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 484,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 486,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 488,
+   "type": "pose",
+   "actor": "Bee",
+   "b": true
+  },
+  {
+   "line": 492,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 496,
+   "type": "pose",
+   "actor": "Veruca",
+   "b": false
+  },
+  {
+   "line": 500,
+   "type": "pose",
+   "actor": "Kasha",
+   "b": false
+  },
+  {
+   "line": 504,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 506,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 510,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 512,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 516,
+   "type": "pose",
+   "actor": "Sabine",
+   "b": false
+  },
+  {
+   "line": 520,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 522,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 526,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 528,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 530,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 534,
+   "type": "pose",
+   "actor": "Crestian Tarasar",
+   "b": false
+  },
+  {
+   "line": 538,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 540,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 542,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 544,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 548,
+   "type": "pose",
+   "actor": "Sonja Damion",
+   "b": false
+  },
+  {
+   "line": 552,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 554,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 558,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 560,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 564,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 566,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 568,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 570,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": true
+  },
+  {
+   "line": 574,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 576,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 578,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 580,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": true
+  },
+  {
+   "line": 582,
+   "type": "pose",
+   "actor": "Bee",
+   "b": false
+  },
+  {
+   "line": 584,
+   "type": "pose",
+   "actor": "Bee",
+   "b": true
+  },
+  {
+   "line": 586,
+   "type": "pose",
+   "actor": "Loy Marin",
+   "b": false
+  },
+  {
+   "line": 590,
+   "type": "pose",
+   "actor": "Kipran Jawatha",
+   "b": false
+  },
+  {
+   "line": 594,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 601,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 605,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 607,
+   "type": "pose",
+   "actor": "Hairy",
+   "b": false
+  },
+  {
+   "line": 609,
+   "type": "pose",
+   "actor": "Scar-eye",
+   "b": false
+  },
+  {
+   "line": 611,
+   "type": "pose",
+   "actor": "Hairy",
+   "b": false
+  },
+  {
+   "line": 613,
+   "type": "pose",
+   "actor": "Scar-eye",
+   "b": false
+  },
+  {
+   "line": 615,
+   "type": "pose",
+   "actor": "Hairy",
+   "b": false
+  },
+  {
+   "line": 617,
+   "type": "pose",
+   "actor": "Scar-eye",
+   "b": false
+  },
+  {
+   "line": 619,
+   "type": "pose",
+   "actor": "Hairy",
+   "b": false
+  },
+  {
+   "line": 621,
+   "type": "pose",
+   "actor": "Scar-eye",
+   "b": false
+  },
+  {
+   "line": 623,
+   "type": "pose",
+   "actor": "Hairy",
+   "b": false
+  },
+  {
+   "line": 625,
+   "type": "pose",
+   "actor": "Scar-eye",
+   "b": false
+  },
+  {
+   "line": 627,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 629,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 631,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 633,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

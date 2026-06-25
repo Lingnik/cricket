@@ -1,0 +1,283 @@
+{
+ "name": "RPlog_Transfer_of_Command",
+ "title": "Transfer of Command: The Open Hand and the Closed Fist",
+ "summary": "Before the assembled ranks of Task Force Inquisitor in the flagship's hangar, Line Captain Jal'Dana Rall delivers an address on the Empire's twin duties of war and diplomacy, the closed fist and the open hand. She announces that High Command has named the politically adept Moff Laran--Bailey--as her executive officer and the new Captain of the Inquisitor, while Rall's own command component shifts to the Vindictive so she may remain the unseen 'closed fist.' Officers including Keline, Dante, Krieg, Davyd, Liza Molokai, and Odion react with veiled surprise and skepticism at a Moff turned military officer. Laran takes the podium with effusive praise and promises of increased training and improved morale, drawing private misgivings from Rall, who suspects the untested politician underestimates the loyalty of her command staff. The ceremony closes with Rall dismissing the fleet back to duty.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Bailey Laran",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Dante",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Odion",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Liza Molokai",
+   "b": false
+  }
+ ]
+}

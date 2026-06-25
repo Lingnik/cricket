@@ -1,0 +1,574 @@
+{
+  "summary": "Independent Opus audit of type+actor labeling accuracy on a 30-log sample",
+  "agentCount": 8,
+  "logs": [
+    "judging 30 logs in 8 batches of 4"
+  ],
+  "result": {
+    "logs_judged": 30,
+    "total_lines": 2602,
+    "type_disagree": 79,
+    "actor_disagree": 21,
+    "detail": [
+      {
+        "name": "RPlog_SW1_Log_1999-11-02",
+        "lines": 3,
+        "type_disagree": 1,
+        "actor_disagree": 0,
+        "examples": [
+          {
+            "line": 19,
+            "labeled": "scene/",
+            "correct": "pose/Gabrielle"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Semantics",
+        "lines": 12,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_SW1_Log_2000-08-08-2",
+        "lines": 147,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_SW1_Log_2000-06-12-2",
+        "lines": 93,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Beach_Getaway",
+        "lines": 163,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_The_Burial_of_Gavin_Shai",
+        "lines": 30,
+        "type_disagree": 1,
+        "actor_disagree": 0,
+        "examples": [
+          {
+            "line": 36,
+            "labeled": "system/",
+            "correct": "pose/Tyy'sun"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Ghastly_Gala_Episode_2",
+        "lines": 32,
+        "type_disagree": 0,
+        "actor_disagree": 1,
+        "examples": [
+          {
+            "line": 41,
+            "labeled": "pose/Atsvara",
+            "correct": "pose/Vee-Won"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Meeting_with_Petra_and_Davyd",
+        "lines": 88,
+        "type_disagree": 1,
+        "actor_disagree": 15,
+        "examples": [
+          {
+            "line": 104,
+            "labeled": "scene/",
+            "correct": "pose/Petra"
+          },
+          {
+            "line": 108,
+            "labeled": "pose/Davyd",
+            "correct": "pose/Axel"
+          },
+          {
+            "line": 110,
+            "labeled": "pose/Davyd",
+            "correct": "pose/Petra"
+          },
+          {
+            "line": 114,
+            "labeled": "pose/Davyd",
+            "correct": "pose/Axel"
+          },
+          {
+            "line": 116,
+            "labeled": "pose/Davyd",
+            "correct": "pose/Petra"
+          },
+          {
+            "line": 126,
+            "labeled": "pose/Davyd",
+            "correct": "pose/Axel"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_To_Hire_a_Smuggler",
+        "lines": 190,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Line_In_The_Sand",
+        "lines": 29,
+        "type_disagree": 0,
+        "actor_disagree": 1,
+        "examples": [
+          {
+            "line": 52,
+            "labeled": "pose/Luke Skywalker",
+            "correct": "pose/Leia Organa Solo"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Making_New_Friends_Part_2",
+        "lines": 41,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Some_New_Help",
+        "lines": 71,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Fixing_a_Hole",
+        "lines": 31,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Another_Fine_Mess",
+        "lines": 42,
+        "type_disagree": 2,
+        "actor_disagree": 3,
+        "examples": [
+          {
+            "line": 58,
+            "labeled": "pose/Thel",
+            "correct": "pose/Korolov"
+          },
+          {
+            "line": 91,
+            "labeled": "scene/",
+            "correct": "pose/Thel"
+          },
+          {
+            "line": 99,
+            "labeled": "pose/Korolov",
+            "correct": "pose/Thel"
+          },
+          {
+            "line": 122,
+            "labeled": "pose/Korolov",
+            "correct": "pose/Thel"
+          },
+          {
+            "line": 124,
+            "labeled": "scene/",
+            "correct": "pose/Thel"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Ai_kani_s_Knighting_Ceremony",
+        "lines": 46,
+        "type_disagree": 1,
+        "actor_disagree": 1,
+        "examples": [
+          {
+            "line": 128,
+            "labeled": "pose/Luke Skywalker",
+            "correct": "scene/"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Apprentice_Revealed",
+        "lines": 45,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_The_Closing_Act",
+        "lines": 271,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Coronation_Pre-Game",
+        "lines": 84,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Calling_in_on_Old_Friends",
+        "lines": 45,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Spycraft_-_Part_1",
+        "lines": 59,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_3",
+        "lines": 64,
+        "type_disagree": 11,
+        "actor_disagree": 0,
+        "examples": [
+          {
+            "line": 16,
+            "labeled": "scene/",
+            "correct": "pose/Shael"
+          },
+          {
+            "line": 28,
+            "labeled": "scene/",
+            "correct": "pose/Inanna"
+          },
+          {
+            "line": 44,
+            "labeled": "scene/",
+            "correct": "pose/Ramyxth"
+          },
+          {
+            "line": 70,
+            "labeled": "scene/",
+            "correct": "pose/Juran"
+          },
+          {
+            "line": 104,
+            "labeled": "scene/",
+            "correct": "pose/Rasi"
+          },
+          {
+            "line": 120,
+            "labeled": "scene/",
+            "correct": "pose/Kyrin"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Courtesy",
+        "lines": 69,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Mission_to_Ord_Mantell",
+        "lines": 92,
+        "type_disagree": 24,
+        "actor_disagree": 0,
+        "examples": [
+          {
+            "line": 11,
+            "labeled": "scene/",
+            "correct": "pose/Andra"
+          },
+          {
+            "line": 19,
+            "labeled": "scene/",
+            "correct": "pose/Kasha"
+          },
+          {
+            "line": 55,
+            "labeled": "scene/",
+            "correct": "pose/Casul"
+          },
+          {
+            "line": 83,
+            "labeled": "scene/",
+            "correct": "pose/Sasha"
+          },
+          {
+            "line": 107,
+            "labeled": "scene/",
+            "correct": "pose/Tiali"
+          },
+          {
+            "line": 25,
+            "labeled": "pose/Sasha",
+            "correct": "scene/"
+          }
+        ]
+      },
+      {
+        "name": "RPlog_Futile_Research_-_Reading",
+        "lines": 70,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Into_the_Underworld",
+        "lines": 58,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Casino_Royale",
+        "lines": 89,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Unexpected_Arrivals",
+        "lines": 78,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_End_Ceremony",
+        "lines": 92,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Dangerous_Decisions",
+        "lines": 185,
+        "type_disagree": 0,
+        "actor_disagree": 0,
+        "examples": []
+      },
+      {
+        "name": "RPlog_Miracles_and_Mayhem",
+        "lines": 283,
+        "type_disagree": 38,
+        "actor_disagree": 0,
+        "examples": [
+          {
+            "line": 57,
+            "labeled": "scene/",
+            "correct": "pose/Canto"
+          },
+          {
+            "line": 121,
+            "labeled": "scene/",
+            "correct": "pose/Canto"
+          },
+          {
+            "line": 163,
+            "labeled": "scene/",
+            "correct": "pose/Shenner"
+          },
+          {
+            "line": 239,
+            "labeled": "scene/",
+            "correct": "pose/Shenner"
+          },
+          {
+            "line": 241,
+            "labeled": "scene/",
+            "correct": "pose/Paul"
+          },
+          {
+            "line": 569,
+            "labeled": "scene/",
+            "correct": "pose/Canto"
+          }
+        ]
+      }
+    ]
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "judge 0-4",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a21511ee1b8981c2a",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711662,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[0:4].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for ea…",
+      "lastProgressAt": 1782358767153,
+      "tokens": 50327,
+      "toolCalls": 11,
+      "durationMs": 55491,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_SW1_Log_1999-11-02\",\"lines\":3,\"type_disagree\":1,\"actor_disagree\":0,\"examples\":[{\"line\":19,\"labeled\":\"scene/\",\"correct\":\"pose/Gabrielle\"}]},{\"name\":\"RPlog_Semantics\",\"lines\":12,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_SW1_Log_2000-08-08-2\",\"lines\":147,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_SW1_Log_2000-06-12-2\",\"lines\":93…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "judge 4-8",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a7affb35d52966db4",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711663,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[4:8].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for ea…",
+      "lastProgressAt": 1782358782949,
+      "tokens": 64119,
+      "toolCalls": 11,
+      "durationMs": 71285,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_Beach_Getaway\",\"lines\":163,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_The_Burial_of_Gavin_Shai\",\"lines\":30,\"type_disagree\":1,\"actor_disagree\":0,\"examples\":[{\"line\":36,\"labeled\":\"system/\",\"correct\":\"pose/Tyy'sun\"}]},{\"name\":\"RPlog_Ghastly_Gala_Episode_2\",\"lines\":32,\"type_disagree\":0,\"actor_disagree\":1,\"examples\":[{\"line\":41,\"labeled\":\"pose/Atsvara\",\"c…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "judge 8-12",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a1d288f51162a03f1",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711664,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[8:12].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for e…",
+      "lastProgressAt": 1782358779907,
+      "tokens": 64998,
+      "toolCalls": 11,
+      "durationMs": 68243,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_To_Hire_a_Smuggler\",\"lines\":190,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Line_In_The_Sand\",\"lines\":29,\"type_disagree\":0,\"actor_disagree\":1,\"examples\":[{\"line\":52,\"labeled\":\"pose/Luke Skywalker\",\"correct\":\"pose/Leia Organa Solo\"}]},{\"name\":\"RPlog_Making_New_Friends_Part_2\",\"lines\":41,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "judge 12-16",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a40cfe011056f04cf",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711664,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[12:16].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for …",
+      "lastProgressAt": 1782358812540,
+      "tokens": 72939,
+      "toolCalls": 10,
+      "durationMs": 100876,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_Fixing_a_Hole\",\"lines\":31,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Another_Fine_Mess\",\"lines\":42,\"type_disagree\":2,\"actor_disagree\":3,\"examples\":[{\"line\":58,\"labeled\":\"pose/Thel\",\"correct\":\"pose/Korolov\"},{\"line\":91,\"labeled\":\"scene/\",\"correct\":\"pose/Thel\"},{\"line\":99,\"labeled\":\"pose/Korolov\",\"correct\":\"pose/Thel\"},{\"line\":122,\"labeled\":\"pose/Korol…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "judge 16-20",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "aa2cf82e382fe48e2",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711665,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[16:20].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for …",
+      "lastProgressAt": 1782358771453,
+      "tokens": 101400,
+      "toolCalls": 10,
+      "durationMs": 59788,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_The_Closing_Act\",\"lines\":271,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Coronation_Pre-Game\",\"lines\":84,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Calling_in_on_Old_Friends\",\"lines\":45,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Spycraft_-_Part_1\",\"lines\":59,\"type_disagree\":0,\"actor_disagree\":0,\"examples…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "judge 20-24",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a0f08c7a74195dece",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711665,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[20:24].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for …",
+      "lastProgressAt": 1782358833395,
+      "tokens": 89583,
+      "toolCalls": 10,
+      "durationMs": 121730,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_Masquerade_Ball_A_Night_on_Yavin_Part_3\",\"lines\":64,\"type_disagree\":11,\"actor_disagree\":0,\"examples\":[{\"line\":16,\"labeled\":\"scene/\",\"correct\":\"pose/Shael\"},{\"line\":28,\"labeled\":\"scene/\",\"correct\":\"pose/Inanna\"},{\"line\":44,\"labeled\":\"scene/\",\"correct\":\"pose/Ramyxth\"},{\"line\":70,\"labeled\":\"scene/\",\"correct\":\"pose/Juran\"},{\"line\":104,\"labeled\":\"scene/\",\"correct\":\"pose/Rasi\"},{…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "judge 24-28",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a62c471abf39a76bd",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711666,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 4 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[24:28].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for …",
+      "lastProgressAt": 1782358771180,
+      "tokens": 131586,
+      "toolCalls": 12,
+      "durationMs": 59514,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_Into_the_Underworld\",\"lines\":58,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Casino_Royale\",\"lines\":89,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Unexpected_Arrivals\",\"lines\":78,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_End_Ceremony\",\"lines\":92,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]}]}"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "judge 28-30",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a55725515f221db18",
+      "model": "claude-opus-4-8",
+      "state": "done",
+      "startedAt": 1782358711666,
+      "queuedAt": 1782358711644,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a STRICT but FAIR independent auditor of RP-log line labeling. Judge 2 logs.\n\nRead `data/dataset_full/_judge_sample.json` (JSON array of log names). Audit exactly names[28:30].\n\nFor EACH name:\n1. Read `data/dataset_full/_render/<name>.txt` (line-numbered content) and `data/dataset_full/_labeled/<name>.json` (the existing {rows:[{line,type,actor,...}]} labels).\n2. INDEPENDENTLY decide, for …",
+      "lastProgressAt": 1782358818903,
+      "tokens": 99556,
+      "toolCalls": 10,
+      "durationMs": 107237,
+      "resultPreview": "{\"logs\":[{\"name\":\"RPlog_Dangerous_Decisions\",\"lines\":185,\"type_disagree\":0,\"actor_disagree\":0,\"examples\":[]},{\"name\":\"RPlog_Miracles_and_Mayhem\",\"lines\":283,\"type_disagree\":38,\"actor_disagree\":0,\"examples\":[{\"line\":57,\"labeled\":\"scene/\",\"correct\":\"pose/Canto\"},{\"line\":121,\"labeled\":\"scene/\",\"correct\":\"pose/Canto\"},{\"line\":163,\"labeled\":\"scene/\",\"correct\":\"pose/Shenner\"},{\"line\":239,\"labeled\":\"scen…"
+    }
+  ],
+  "totalTokens": 674508,
+  "totalToolCalls": 85
+}

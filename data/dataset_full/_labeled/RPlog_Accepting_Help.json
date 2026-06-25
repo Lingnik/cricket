@@ -1,0 +1,1106 @@
+{
+ "name": "RPlog_Accepting_Help",
+ "title": "Accepting Help in the Forest Clearing",
+ "summary": "In a secluded forest clearing on Caspar, the Jedi Master Kyyel sits brooding over a pair of silver wings when the silver-haired Jessalyn slips silently from the shadows to speak with him before her departure. She apologizes for dragging him into her troubles, and he gently renews his offer to help, revealing he owns a fast ship and would gladly take her wherever she needs to go. As the conversation turns to the Jedi Code and the questions stirred in him by his late mother's dying words, Jessalyn warns him not to trust her, confessing that a darkness has overtaken her and that her career as a Jedi Teacher may be over before it began. Kyyel counters that giving up on herself will only let that darkness grow, and that Master Skywalker's evident trust in her must count for something. Unable to commit, Jessalyn promises only to find him again if she must, and as night deepens over the planet Kyyel presses a comm frequency upon her so she can reach him, bidding her to stay safe.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 21,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 23,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": ""
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 28,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 29,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 30,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 31,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 32,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 33,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 34,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 35,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 36,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 37,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 38,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 39,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 40,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 41,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 42,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 43,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 44,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 45,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 46,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 47,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 48,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 49,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 50,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 51,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 52,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 53,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 54,
+   "type": "desc",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 56,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 57,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 58,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 59,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 60,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 61,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 62,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 64,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 65,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 66,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 67,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 68,
+   "type": "desc",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 71,
+   "type": "system",
+   "actor": ""
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 128,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 145,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 162,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 164,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 168,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 176,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 182,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 186,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 190,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 196,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 204,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 210,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 212,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 218,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 236,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Jessalyn",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 246,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 247,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 250,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 251,
+   "type": "pose",
+   "actor": "Jessalyn"
+  },
+  {
+   "line": 253,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 255,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 256,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 258,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Kyyel"
+  },
+  {
+   "line": 263,
+   "type": "system",
+   "actor": ""
+  }
+ ]
+}

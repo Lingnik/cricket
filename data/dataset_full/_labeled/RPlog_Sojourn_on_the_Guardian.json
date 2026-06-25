@@ -1,0 +1,271 @@
+{
+ "name": "RPlog_Sojourn_on_the_Guardian",
+ "title": "Sojourn on the Guardian",
+ "summary": "In the dim officers' lounge aboard an Imperial vessel, the cold and rigidly formal Director Joir finds the holidaying Ambassador Morganna Tazecks drawn to the same starfield viewport. Joir reluctantly thaws his military bearing, offering her Corellian brandy and, once she is 'relieved of duty,' permitting her to address him by his first name, Tsaran. Their guarded conversation is interrupted by the stiff Stormtrooper Mevid, whom Joir coldly dismisses before he and Morganna retreat to the quiet senior officers' tier. There Joir probes Morganna for information about Prime Minister Darkstar but finds she knows little of use; their talk drifts to her next destination of Bonadan before a waiter delivers a datapad summoning Joir back to duty, and the two part with cool courtesy.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Mevid",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Mevid",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Mevid",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Morganna Tazecks",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Joir",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

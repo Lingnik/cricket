@@ -1,0 +1,307 @@
+{
+ "name": "RPlog_Establishing_Task_Force_Inquisitor",
+ "title": "Establishing Task Force Inquisitor",
+ "summary": "Aboard the Star Destroyer Inquisitor, the assembled command staff of the Broadsword's victorious battle group gathers in the conference chamber, with Jal'Dana Rall, now a civilian Military Advisor to the Warlord, watching from beside the dais. Warlord Korolov, newly appointed Grand Inquisitor by Emperor Vadim, announces the formation of Task Force Inquisitor, a roving, base-less fleet charged with hunting down the shattered Republic and its Jedi to the outer rim. He elevates Captain Lynae Caiton to Commodore and direct command of the Inquisitor, assigns General Doom and the 501st Legion to ground operations, and stuns ISB interrogator Korynn Fleming by naming him Systems Director, all to work alongside Commissar Jast and advisor Rall. Newly minted Commodore Caiton accepts with a sharp speech on surgical strikes over blunt force, promoting Keline Nelhrn to Commander and Executive Officer, Krieg Inrokana to CAG, and reshuffling the rest of the command structure. As the briefing breaks up, Caiton, Keline, Davyd, Fleming, and Jast exchange congratulations and resolve, with Caiton urging delegation and openness to bold ideas as the new Inquisition fleet sets out to become the terror-striking spear tip of Imperial power.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Jast",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": true
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Jal'Dana",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Krieg",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jast",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": true
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Korolov",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 112,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Korynn Fleming",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Jast",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Davyd",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "ooc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 146,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Keline",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "pose",
+   "actor": "Caiton",
+   "b": false
+  }
+ ]
+}

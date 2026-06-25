@@ -1,0 +1,30 @@
+{
+  "name": "RPlog_The_Price_of_Failure",
+  "title": "The Price of Failure",
+  "summary": "Aboard the Imperial flagship Nemesis in orbit over Caspar, the future Emperor Lord Aldus Thel rages over a string of disasters: a rebel boarding that freed the prisoner Ambrosia Delgard, and a costly asteroid-belt battle in which Lieutenant Commander Roosh ordered ships to hold the line and burn. Thel summons the wounded Commander Tychus Varian, who had countermanded that order with a fighting withdrawal, and forces Varian to render judgment by handing him an ornate blaster. Varian executes the quaking Roosh on the spot, denouncing him for the deaths of Relentless Squadron. Thel rewards Varian with promotion to acting commanding officer, ordering him to repair the ship for an incoming new captain, recall the fleet from Ketterslea, and prepare a plan to seize Kichnar's orbital stations from the Republic.",
+  "rows": [
+    {"line": 11, "type": "scene", "actor": ""},
+    {"line": 13, "type": "scene", "actor": ""},
+    {"line": 15, "type": "scene", "actor": ""},
+    {"line": 17, "type": "scene", "actor": ""},
+    {"line": 19, "type": "scene", "actor": ""},
+    {"line": 21, "type": "scene", "actor": ""},
+    {"line": 23, "type": "pose", "actor": "Aldus Thel"},
+    {"line": 27, "type": "pose", "actor": "Tychus Varian"},
+    {"line": 31, "type": "pose", "actor": "Aldus Thel"},
+    {"line": 33, "type": "pose", "actor": "Aldus Thel", "b": true},
+    {"line": 37, "type": "pose", "actor": "Tychus Varian"},
+    {"line": 41, "type": "pose", "actor": "Aldus Thel"},
+    {"line": 45, "type": "pose", "actor": "Tychus Varian"},
+    {"line": 49, "type": "pose", "actor": "Aldus Thel"},
+    {"line": 51, "type": "pose", "actor": "Aldus Thel", "b": true},
+    {"line": 53, "type": "pose", "actor": "Aldus Thel", "b": true},
+    {"line": 57, "type": "pose", "actor": "Tychus Varian"},
+    {"line": 60, "type": "scene", "actor": ""},
+    {"line": 64, "type": "pose", "actor": "Aldus Thel"},
+    {"line": 68, "type": "pose", "actor": "Tychus Varian"},
+    {"line": 72, "type": "pose", "actor": "Aldus Thel"},
+    {"line": 74, "type": "pose", "actor": "Aldus Thel", "b": true},
+    {"line": 78, "type": "pose", "actor": "Tychus Varian"}
+  ]
+}

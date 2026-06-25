@@ -1,0 +1,28 @@
+{
+  "name": "RPlog_The_Price_of_Freedom",
+  "title": "A Royal Reserve for the Lorda",
+  "summary": "In the opulent Hutt-built hall of the Ol'jeliic Clan on Nar Shaddaa, the Falleen crime lord Nasiri Gejalli holds court over a den of pirates and smugglers. The Alderaanian operative Drax Rendolen arrives bearing a rare bottle of Alderaanian Royal Reserve and, after a tense greeting at gunpoint, buys an audience to ask about a missing friend -- the Jedi Johanna Siri te Danaan, abducted by a Trandoshan bounty hunter during a sabacc tournament. Over shared wine, Drax negotiates for information, ultimately paying thirty thousand and the friend's holo-image. Nasiri points him toward the rough cantinas and port records, confirming the hunter is the fringe Trandoshan Nachkt'lyssk, and warns Drax that angry Wookiees have placed a twenty-thousand bounty on his own head. The two trade veiled speculation about a disciplined group emptying Wookiee villages, and Drax departs with leads in hand and a growing list of enemies.",
+  "rows": [
+    {"line": 9, "type": "room", "actor": ""},
+    {"line": 13, "type": "scene", "actor": ""},
+    {"line": 17, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 19, "type": "pose", "actor": "Drax Rendolen", "b": true},
+    {"line": 22, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 26, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 29, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 33, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 36, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 40, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 43, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 47, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 50, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 54, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 57, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 61, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 64, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 68, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 71, "type": "pose", "actor": "Nasiri Gejalli"},
+    {"line": 75, "type": "pose", "actor": "Drax Rendolen"},
+    {"line": 77, "type": "pose", "actor": "Drax Rendolen", "b": true}
+  ]
+}

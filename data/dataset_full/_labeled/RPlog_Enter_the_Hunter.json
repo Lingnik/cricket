@@ -1,0 +1,475 @@
+{
+ "name": "RPlog_Enter_the_Hunter",
+ "title": "Enter the Hunter",
+ "summary": "In the Smuggler's Dig cantina by the Coronet space port on Corellia, the foreign warrior-mystic Simon and the white-haired Corellian Markus Lisardis talk while waiting out pursuing law officers, Markus admiring Simon's lightstaff and revealing he suffers nightmarish waking visions a Rebellion friend said only Skywalker could help. Simon, recognizing in Markus the same 'Unborn' affliction known to his Selas people, offers to help him find Skywalker. Their talk is cut short when the dangerous Force-using Huntress Kacela enters, drawn to a brewing bar fight, and uses her powers to terrorize an old enemy named Darkan into drawing a blaster on her, only for Simon to invisibly jam the trigger and save her life. Sensing his intervention, Kacela locks eyes with Simon and approaches, curious to find another gifted being; she offers to find Markus a teacher who would 'love to see' him, hinting at her dark master, while Simon coldly refuses to duel her this day. Wary of escalating into another fight and worried for the girl Mira (who fled the chaos), Simon and Markus carefully back out of the cantina, with Kacela promising they will meet again, certain now that Mira, Markus, and the Huntress are all bound to Simon's destiny.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "desc",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "desc",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "desc",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "desc",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "desc",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 94,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 104,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 118,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 170,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": true
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": true
+  },
+  {
+   "line": 180,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 188,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 202,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Mira",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 224,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 230,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 238,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 244,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 250,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 264,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 274,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": true
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 294,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 298,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": true
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 318,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 322,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 328,
+   "type": "pose",
+   "actor": "Markus",
+   "b": false
+  },
+  {
+   "line": 332,
+   "type": "pose",
+   "actor": "Markus",
+   "b": true
+  },
+  {
+   "line": 338,
+   "type": "pose",
+   "actor": "Kacela",
+   "b": false
+  },
+  {
+   "line": 344,
+   "type": "pose",
+   "actor": "Simon",
+   "b": false
+  },
+  {
+   "line": 348,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 352,
+   "type": "pose",
+   "actor": "Simon",
+   "b": true
+  },
+  {
+   "line": 354,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+  "name": "RPlog_Life_Begins_Young",
+  "title": "Life Begins Young",
+  "summary": "In the Vulgar Mynock cantina on Mutanda's moon, the Horansi spiritual advisor Kasha reunites with two precocious young agents she once knew, the eleven-year-old Atsvara and the teenaged Veruca Violet. Over drinks the girls catch Kasha up on how much has changed during her long absence, trading stories of past missions to Ord Mantell and Spira and a turned informant feeding them intelligence on the Nova Syndicate. Talk ranges from Atsvara's ambition to open a Biscuit Baron franchise on Mutanda to a porf-trafficking problem the Golden Bantha Group hopes to resolve with the Corporate Sector Authority. Amid banter about megalomania and growing up too fast, the conversation strays toward classified matters and Sith politics, with the older friends gently steering the irrepressible Atsvara back from oversharing. The warm reunion leaves Kasha amazed at how the children have grown and resolved to get reacquainted with galactic affairs.",
+  "rows": [
+    {
+      "line": 11,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "desc",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "desc",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "desc",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    }
+  ]
+}

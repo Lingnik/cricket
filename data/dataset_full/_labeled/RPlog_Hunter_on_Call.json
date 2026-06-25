@@ -1,0 +1,22 @@
+{
+  "name": "RPlog_Hunter_on_Call",
+  "title": "Customs Clearance on Bothawui",
+  "summary": "At the Drev'starn City Starport on an Imperial-occupied Bothawui, where customs has become a rigorous naval-run affair, a bored and vindictive Imperial Sub-Lieutenant processes the queue of travelers. When the Rodian bounty hunter Zeebo Bex reaches the kiosk seeking work, the officer seizes on him as a potential victim, pressing him about his profession and threatening charges for fraudulent representation. Zeebo nervously explains that he is a big-game and bounty hunter and points to the Imperial license encoded on his identity card. Finding the credentials genuine, the disappointed officer grudgingly stamps Zeebo's travel papers, granting him passage to lower-category regions and the licensed carry of a sidearm and rifle while pursuing warranted fugitives, with stern warnings against explosives. The brief scene ends as the officer barks for the next in line.",
+  "rows": [
+    {"line": 11, "type": "room", "actor": "", "b": false},
+    {"line": 13, "type": "pose", "actor": "Sub-Lieutenant", "b": false},
+    {"line": 17, "type": "pose", "actor": "Zeebo Bex", "b": false},
+    {"line": 21, "type": "pose", "actor": "Sub-Lieutenant", "b": false},
+    {"line": 23, "type": "pose", "actor": "Sub-Lieutenant", "b": true},
+    {"line": 27, "type": "pose", "actor": "Zeebo Bex", "b": false},
+    {"line": 31, "type": "pose", "actor": "Sub-Lieutenant", "b": false},
+    {"line": 33, "type": "pose", "actor": "Sub-Lieutenant", "b": true},
+    {"line": 37, "type": "pose", "actor": "Zeebo Bex", "b": false},
+    {"line": 41, "type": "pose", "actor": "Sub-Lieutenant", "b": false},
+    {"line": 43, "type": "pose", "actor": "Sub-Lieutenant", "b": true},
+    {"line": 45, "type": "pose", "actor": "Sub-Lieutenant", "b": true},
+    {"line": 49, "type": "pose", "actor": "Zeebo Bex", "b": false},
+    {"line": 53, "type": "pose", "actor": "Sub-Lieutenant", "b": false},
+    {"line": 55, "type": "pose", "actor": "Sub-Lieutenant", "b": true}
+  ]
+}

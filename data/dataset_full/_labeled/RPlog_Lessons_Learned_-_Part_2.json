@@ -1,0 +1,343 @@
+{
+  "name": "RPlog_Lessons_Learned_-_Part_2",
+  "title": "Lessons Learned: The Reckoning",
+  "summary": "In the aftermath of the starport brawl, Governor Bailey Laran arrives to find her CorSec Colonel Twila Virda stunned on the ground and the security droid 501-Zed at the center of the chaos. As Auo, the smuggler Cubitt Tethes, and the ESPO Gren Delede argue over who provoked the violence, Bailey questions the Imperial officer Oren Balak and the droid, vowing both will stand trial. Tensions flare further when Commander Wolf and a squadron of Imperial pilots descend on the port to take custody of Balak. The Falleen Malif counsels diplomacy with the Governor while Delede trades barbs, and a battered Twila insists on taking charge of the droid and prisoner, leaving the standoff uneasily resolved under a sky full of arriving TIEs.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Wibble",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Wibble",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "pose",
+      "actor": "Cubitt Tethes",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 137,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 143,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Commander Wolf",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Auo",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Twila Virda",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Oren Balak",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Gren Delede",
+      "b": false
+    },
+    {
+      "line": 167,
+      "type": "pose",
+      "actor": "Commander Wolf",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Malif",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "501-Zed",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Bailey Laran",
+      "b": false
+    },
+    {
+      "line": 182,
+      "type": "pose",
+      "actor": "Sal Estos",
+      "b": false
+    }
+  ]
+}

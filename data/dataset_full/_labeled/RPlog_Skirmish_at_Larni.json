@@ -1,0 +1,739 @@
+{
+ "name": "RPlog_Skirmish_at_Larni",
+ "title": "Skirmish at Larni",
+ "summary": "An Imperial TIE patrol led by Commander Seifer Wolf and inspected by Admiral Jal'Dana Rall encounters the New Republic corvette Audacity and its Ghost Squadron amid the asteroid field on the Larni-system border. The starfighters tangle in a swirling dogfight -- Wolf, Rall, and her wingman Boomer against Republic aces Kesander 'Sandman' Beysarus, Raxis 'Raptor' L'ygr, and the Dug pilot Shovadu -- with Raxis recognizing and dueling the distinctively white TIE of Admiral Rall. Meanwhile the bridge crews play their own game of hide-and-seek: aboard the cloaked Imperial Marauder Emancipator, the historian-turned-officer Vextin Mandor and Captain Keline Nelhrn ambush the Audacity, whose XO Rasi Praddhan Cen directs gunnery officer Amelia Hawthorne and engineer Ohao Ostivort to cripple the enemy's sensors. With the Vindictive inbound on the Imperial side and the Emancipator's sensors knocked out, the skirmish ends in a hard-fought draw, the Emancipator finally surrendering as its sensors fail.",
+ "rows": [
+  {
+   "line": 10,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 11,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 12,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 14,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 15,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 16,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Keline Nelhrn",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Seifer Wolf",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Jal'Dana Rall",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Boomer",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Raxis L'ygr",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Shovadu",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "pose",
+   "actor": "Ohaotrantak Ostivort",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 171,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 177,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 179,
+   "type": "pose",
+   "actor": "Ohaotrantak Ostivort",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Keline Nelhrn",
+   "b": false
+  },
+  {
+   "line": 183,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 185,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "pose",
+   "actor": "Ohaotrantak Ostivort",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 195,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Keline Nelhrn",
+   "b": false
+  },
+  {
+   "line": 201,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Ohaotrantak Ostivort",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 213,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 217,
+   "type": "pose",
+   "actor": "Keline Nelhrn",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Ohaotrantak Ostivort",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 229,
+   "type": "pose",
+   "actor": "Keline Nelhrn",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 235,
+   "type": "pose",
+   "actor": "Keline Nelhrn",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "pose",
+   "actor": "Rasi Praddhan Cen",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Vextin Mandor",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Ohaotrantak Ostivort",
+   "b": false
+  },
+  {
+   "line": 245,
+   "type": "pose",
+   "actor": "Amelia Hawthorne",
+   "b": false
+  }
+ ]
+}

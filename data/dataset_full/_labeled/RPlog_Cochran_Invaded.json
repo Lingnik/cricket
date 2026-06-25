@@ -1,0 +1,769 @@
+{
+  "name": "RPlog_Cochran_Invaded",
+  "title": "The Invasion of Cochran",
+  "summary": "Newly appointed Grand Admiral Danik Kreldin, broken-backed and commanding from a medical bed aboard the Star Dreadnought Malevolence, springs a surprise three-pronged Imperial assault, Operation Retribution, on the unsuspecting Griffon home fleet over Cochran. The Griffon defenders scramble: the silver-haired Captain of the Mako cruiser Gabriel, the Black Eagle's mustachioed captain, and Captain Sesbtain Williams of the Admiral Rishar maneuver to shield the planet and the fleeing civilians. Imperial commanders Felipe del Montefort of the Malignant and the Warlord Vassily Korolov pour concussion-missile fire into the Gabriel, while bomber pilots Seifer Wolf, Tellain, Antilles, and Vorenus dogfight Griffon pilots like Theta One and Dak Storkrom. As Kreldin closes his vise and the Gabriel's shields fail, the doomed flagship's captain orders a ramming run into the Imperial armada; with the New Republic fleet arriving, the surviving Griffon ships fall back to regroup with their allies.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 22,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Felipe del Montefort",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "pose",
+      "actor": "Felipe del Montefort",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Seifer Wolf",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Seifer Wolf",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Sesbtain Williams",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "pose",
+      "actor": "Vassily Korolov",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "pose",
+      "actor": "Theta One",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Antilles",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Dak Storkrom",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Vorenus",
+      "b": false
+    },
+    {
+      "line": 141,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Felipe del Montefort",
+      "b": false
+    },
+    {
+      "line": 171,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 173,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 184,
+      "type": "pose",
+      "actor": "Seifer Wolf",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 190,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 192,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Sesbtain Williams",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 208,
+      "type": "pose",
+      "actor": "Vassily Korolov",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Sesbtain Williams",
+      "b": false
+    },
+    {
+      "line": 218,
+      "type": "pose",
+      "actor": "Theta One",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Antilles",
+      "b": false
+    },
+    {
+      "line": 234,
+      "type": "pose",
+      "actor": "Dak Storkrom",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Vorenus",
+      "b": false
+    },
+    {
+      "line": 242,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 247,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 249,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 260,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 262,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 264,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 270,
+      "type": "pose",
+      "actor": "Sesbtain Williams",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Felipe del Montefort",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 284,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 286,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 294,
+      "type": "pose",
+      "actor": "Seifer Wolf",
+      "b": false
+    },
+    {
+      "line": 299,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 301,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 306,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 307,
+      "type": "pose",
+      "actor": "Vassily Korolov",
+      "b": false
+    },
+    {
+      "line": 309,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 311,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 313,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 320,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 321,
+      "type": "pose",
+      "actor": "Antilles",
+      "b": false
+    },
+    {
+      "line": 326,
+      "type": "pose",
+      "actor": "Vorenus",
+      "b": false
+    },
+    {
+      "line": 329,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 331,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 333,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 335,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 337,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 342,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 343,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 348,
+      "type": "pose",
+      "actor": "Felipe del Montefort",
+      "b": false
+    },
+    {
+      "line": 353,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 354,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 356,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 361,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 362,
+      "type": "pose",
+      "actor": "Seifer Wolf",
+      "b": false
+    },
+    {
+      "line": 366,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 367,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 369,
+      "type": "pose",
+      "actor": "Tellain",
+      "b": false
+    },
+    {
+      "line": 370,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 374,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 375,
+      "type": "pose",
+      "actor": "Vassily Korolov",
+      "b": false
+    },
+    {
+      "line": 380,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 381,
+      "type": "pose",
+      "actor": "Theta One",
+      "b": false
+    },
+    {
+      "line": 383,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 389,
+      "type": "pose",
+      "actor": "Antilles",
+      "b": false
+    },
+    {
+      "line": 394,
+      "type": "pose",
+      "actor": "Vorenus",
+      "b": false
+    },
+    {
+      "line": 398,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 399,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 401,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 403,
+      "type": "pose",
+      "actor": "Danik Kreldin",
+      "b": false
+    },
+    {
+      "line": 408,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 410,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 412,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 414,
+      "type": "pose",
+      "actor": "Griffon Captain",
+      "b": false
+    },
+    {
+      "line": 416,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 417,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 421,
+      "type": "pose",
+      "actor": "Felipe del Montefort",
+      "b": false
+    },
+    {
+      "line": 427,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 429,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    },
+    {
+      "line": 431,
+      "type": "pose",
+      "actor": "Black Eagle captain",
+      "b": false
+    }
+  ]
+}

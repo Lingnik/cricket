@@ -1,0 +1,133 @@
+{
+ "name": "RPlog_Twenty_Years_Hard_Labor",
+ "title": "Twenty Years Hard Labor: Delede's Recruitment",
+ "summary": "Over Etti IV, the freighter Doghouse piloted by the Biscuit Baron delivery man Shas Krutz is intercepted and forced down by the CSA Star Destroyer Litigator on a trumped-up smuggling charge. Krutz is detained and confronted by the crooked, ambitious Captain Gren Delede, who claims to have found a shipment of illegal unregistered carbines aboard his ship and threatens him with twenty years on a hard-labor colony. Rather than imprison him, Delede offers Krutz a way out: become an informant and smuggler for Delede's organization, exploiting his legitimate Biscuit Baron runs--including a route to refugees on Mon Calamari--to open new black markets. Krutz, cornered, agrees, and Delede promises to bury the incident, deal with the crewmen who 'found' the carbines, and call on him for future favors, leaving the pilot firmly in his debt and under threat of bounty hunters should he ever betray the arrangement.",
+ "rows": [
+  {
+   "line": 16,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Sergeant Travlen",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 47,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Krutz",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Gren Delede",
+   "b": false
+  }
+ ]
+}

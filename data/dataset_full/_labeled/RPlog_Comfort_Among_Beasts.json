@@ -1,0 +1,511 @@
+{
+  "name": "RPlog_Comfort_Among_Beasts",
+  "title": "Comfort Among Beasts",
+  "summary": "Aboard an Imperial station, the smuggler Captain Morganna delivers Fleet Admiral Adlerson's daughter and braces for another cutting encounter with the shadow-cloaked Captain Atrox, trading acid-laced barbs while demanding her ship be refueled. Station business swirls around them, a yellow alert, the arrest of a CSA trader named Mekeal, and the silent observation of Adlerson, but Atrox quietly orders the Sable Fox fueled and steers the conversation toward the two of them. Beneath their mutual cruelty, the hardened pair confront something neither knows how to name: a raw, terrifying tenderness. They circle each other through tears, fear, and confusion, admitting they think of one another constantly, before regaining their sadistic composure, parting as the bonded predators they are with a promise to meet again.",
+  "rows": [
+    {
+      "line": 16,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 36,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 38,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 44,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Mekeal",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Adlerson",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Mekeal",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "desc",
+      "actor": "Mekeal",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "pose",
+      "actor": "Maljoro",
+      "b": false
+    },
+    {
+      "line": 93,
+      "type": "pose",
+      "actor": "Mekeal",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 102,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 104,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 132,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 150,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 156,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 158,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 162,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Atrox",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Morganna",
+      "b": false
+    }
+  ]
+}

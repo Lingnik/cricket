@@ -122,16 +122,48 @@ Opus only.
 - **Cache windows / pacing:** see ScheduleWakeup guidance; sub-5-min polls stay
   cache-warm.
 
+## Audit outcome (full-corpus labels)
+
+A "Full" audit was run on the 1,220 labeled logs:
+
+- **Structural (deterministic, gating):** the assembler enforces full line coverage,
+  round-trip text fidelity, contiguous seqs. After fixes, **1220/1220 pass.** Fixes:
+  (a) `rplog_assemble.is_noise` now treats pure divider/rule lines (`----`, `____`,
+  `====`, `* * *`) as non-content -- not required for coverage, dropped from output,
+  never a round-trip obligation (resolved phantom-line + most uncovered-line fails
+  without re-labeling, no regressions); (b) two targeted re-label passes fixed 42
+  then 12 logs whose real defect was dropped hard-wrapped-prose continuation lines
+  (`_relabel.json`, `_relabel2.json`).
+- **Smell triage (heuristic):** 26 zero-pose logs (all `talk_`/redirect/system
+  dumps -- correctly non-pose) and 21 no-actor poses (unnamed-NPC poses, e.g. "The
+  nurse...") were both **false alarms** -- labeler discrimination is clean.
+- **Semantic (independent Opus judge, 30-log stratified sample, `_judge_report.json`):**
+  2,602 lines judged -> **~3.0% type / 0.8% actor disagreement; 22/30 logs flawless.**
+  The one systematic weakness: **narrative third-person poses (no `Name ` prefix)
+  sometimes typed `scene`** -- an undercount (~2,800 lines across ~477 logs by the
+  `scene`-row-with-dialogue heuristic, an upper bound). A pose mislabeled `scene` is
+  *lost as a training target but not corrupted* (remaining 70k poses are correctly
+  attributed); it hurts wiki attribution more than training.
+- **DECISION (user): train as-is.** Accept 97% line-accuracy; NO pose-as-scene
+  re-label. Known limitation recorded here. (Cheap wins left on the table if ever
+  revisited: 53 `<Location - Name>`-tagged poses across 5 logs with actor in the tag;
+  the actor-swap logs the judge flagged, e.g. `Meeting_with_Petra_and_Davyd`.)
+
+Corpus now: `data/dataset_full/_assembled/<name>.jsonl` (1,220 turn-level logs, same
+schema as `data/dataset2`, gitignored -- regenerable from `_labeled` + pages via the
+assembler). 70,586 attributed poses.
+
 ## Next steps
 
-1. Finish labeling (retry remainder until `_todo` empty), then validate the
-   `_labeled/` maps (assemble + the deterministic checks) and hand titles/summaries
-   to the wiki.
-2. Eval the `lunaris-rp-12x-lora` epoch-1 checkpoint: base vs tuned on the
-   held-out cantina scene (`finetune_eval.py`-style), check the `<pose char>`
-   contract + impersonation vs the 130-sample smoke.
-3. Rebuild `build_finetune.py` over the FULL labeled corpus (far beyond 29 logs)
-   once labeling completes; reconcile profile slugs (a couple of alt-slug dupes
-   like `liza-molokai`/`crestian-tarasar`).
+1. DONE: labeling (1220/1220) + full audit (train-as-is at 97%). Titles/summaries
+   in `_labeled/<name>.json` are ready to hand to the wiki.
+2. Eval the `lunaris-rp-12x-lora` adapter once the 12x run (`bafej3v8y`) finishes
+   and frees the GPU (eval during training OOMs at 24 GB): base vs tuned on a
+   held-out scene, check `<pose char>` contract + impersonation vs the smoke.
+   `checkpoint-198` = epoch 1, preserved for an epoch-1-vs-epoch-2 compare.
+3. Build the FULL-corpus training set: point `build_finetune.py` at
+   `data/dataset_full/_assembled` (1,220 logs, 70k poses) instead of `data/dataset2`,
+   derive `present` cast from pose actors (assembled meta lacks a `characters` key),
+   use the `_labeled` title. Then the full training run.
 4. Open: Blackwell/4-bit research (a prompt was drafted for deep research) to
    enable a 12B Rocinante/Nemo (128k) base — bf16 12B won't fit 24 GB training.

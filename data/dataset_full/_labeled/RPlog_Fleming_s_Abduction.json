@@ -1,0 +1,583 @@
+{
+  "name": "RPlog_Fleming_s_Abduction",
+  "title": "Fleming's Abduction",
+  "summary": "On Theseus Station, Imperial Security Bureau Sector Director Korynn Fleming tours the Titiana swoop track with a light CompForce escort, unaware that Darth Malign has infiltrated Hypolita Park with a force of disguised agents. While Malign, his captain Dareus, and the watcher Dreven shadow the target from concealment, the Sith waits until Fleming enters the stables before springing the trap, firing tailored Sith-toxin barbs that drop the bodyguards while his men reveal heavy weapons. Fleming resists fiercely, venting a coolant tank into a blinding cloud and finally pressing a blaster beneath his own chin rather than be taken, but Malign crosses the distance with Force-augmented speed, crushes the weapon, and paralyzes the Director with a special barb. Dareus seals the perimeter with glop grenades and non-lethal fire, sparing the CompForce reinforcements per Malign's order, and the group spacewalks across the station's hull to a waiting YT-2400. Aboard the freighter Whipping Star, Malign launches sixty decoy probe droids and randomized false jumps while the Star Destroyer Inquisitor, commanded by Line Captain Jal'Dana, pours fire after them; Dareus shrugs off ion damage, sends the droids into hyperspace, and escapes into lightspeed, leaving the Imperial task force scrambling and the abduction continued in part two.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 18,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 20,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 30,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 41,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 42,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": true
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Dreven",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 66,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 83,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 96,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 100,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "ooc",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 117,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 118,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 128,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 129,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 145,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 147,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 154,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 165,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 171,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 176,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 178,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 188,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 193,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 194,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 196,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 198,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 200,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 210,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 212,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 220,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 226,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Korynn",
+      "b": true
+    },
+    {
+      "line": 230,
+      "type": "pose",
+      "actor": "Malign",
+      "b": true
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 238,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 244,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": true
+    },
+    {
+      "line": 250,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 251,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 255,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

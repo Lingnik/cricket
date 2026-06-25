@@ -1,0 +1,277 @@
+{
+ "name": "RPlog_Training_Day",
+ "title": "Training Day: Cadet Varn's Simulator Run",
+ "summary": "At a New Republic military base, 2nd Lieutenant Raxis L'ygr is assigned to evaluate the freshly arrived Cadet Rebecca Varn, a Corellian who began her flight training under CorSec before the Imperial takeover of her homeworld. Raxis lays down the rules of cadet life and runs her through an X-wing combat simulator, where Rebecca dispatches wave after wave of simulated TIE fighters with confident, skilled flying. Impressed but unwilling to inflate her ego, Raxis reveals the run was set to the lowest difficulty and promises far harder training, live skirmishes, and a place among the Ghost squadron if she earns it. Rebecca, prideful but apologetic for an earlier sexist remark, accepts the challenge, and Raxis closes with a candid speech about the squadron being a family before sending her off, the cadet tossing back a sly, faintly insubordinate parting word.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 66,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 84,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 99,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Raxis",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Rebecca",
+   "b": false
+  }
+ ]
+}

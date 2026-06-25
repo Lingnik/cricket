@@ -1,0 +1,277 @@
+{
+ "name": "RPlog_Jessa_Drops_a_Bomb",
+ "title": "Jessa Drops a Bomb",
+ "summary": "On Bespin, the recently returned Corellian Jedi Kyyel meditates over an unresponsive lightsaber in Johanna's penthouse when she offers to gift him a ship. Jessalyn Valios arrives wanting a private word with Johanna, only for Moff Elana Tracer and the Caspian Presav Crestian Tracer (with his young daughter Atsvara) to show up at the same moment to pay their respects before departing. Amid warm banter about ships, children, and Elana's reconciliation with Johanna over their courting offspring, Jessalyn pulls Johanna onto the veranda and silently transfers a flood of troubling Force-visions to her. On her way out, Jessalyn stuns the room by telling Crestian she hopes he can bring the plague-engineer Basca Starker to justice -- a remark that leaves Crestian apoplectic, demanding from Johanna why the Jedi who once protected Starker now seemingly encourages his death.",
+ "rows": [
+  {
+   "line": 12,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 13,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": true
+  },
+  {
+   "line": 15,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 17,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": true
+  },
+  {
+   "line": 19,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 39,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Atsvara",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Jessalyn Valios",
+   "b": false
+  },
+  {
+   "line": 73,
+   "type": "pose",
+   "actor": "Elana Tracer",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 76,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": true
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": true
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": true
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Kyyel",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Crestian Tracer",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

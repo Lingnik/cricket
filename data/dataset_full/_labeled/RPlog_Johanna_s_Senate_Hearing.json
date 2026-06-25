@@ -1,0 +1,529 @@
+{
+ "name": "RPlog_Johanna_s_Senate_Hearing",
+ "title": "Johanna's Senate Hearing",
+ "summary": "In the New Republic Senate Chambers on Coruscant, Jedi Knight Johanna Siri te Danaan stands trial for acts of war, defended by Luke Skywalker and supported by General Enb'Zik Ikihsa, with General Crix Madine presiding and the zealous Counselor Shamus prosecuting. Shamus presents damning evidence -- including a recording of Ikihsa's own transmission -- and Johanna, wracked by guilt, declines to claim innocence. Luke mounts a defense arguing that dark forces manipulated Johanna and that condemning her would play into their hands, while Senator Viktor Faust forces the defense to answer the body's questions. After the stunning revelation that Johanna's brother Tyler is a Sith and Ikihsa testifies on her behalf, Madine declines to send her to a military court and instead puts her fate to a Senate vote that will help shape the galaxy's destiny.",
+ "rows": [
+  {
+   "line": 17,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "desc",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "desc",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "desc",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 26,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 41,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": true
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 78,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 79,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 84,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 87,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": true
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": true
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 97,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 101,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": true
+  },
+  {
+   "line": 105,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 107,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 110,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 113,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": true
+  },
+  {
+   "line": 119,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 120,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 121,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 125,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": false
+  },
+  {
+   "line": 126,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Johanna",
+   "b": true
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 132,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Viktor Faust",
+   "b": false
+  },
+  {
+   "line": 137,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 138,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Shamus",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": false
+  },
+  {
+   "line": 143,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Enb'Zik Ikihsa",
+   "b": true
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 150,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 151,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": true
+  },
+  {
+   "line": 153,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": true
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": true
+  },
+  {
+   "line": 157,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": true
+  },
+  {
+   "line": 159,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Crix Madine",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 162,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  }
+ ]
+}

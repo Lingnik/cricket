@@ -1,0 +1,223 @@
+{
+  "name": "RPlog_Love_Story_on_Caspar",
+  "title": "A Love Story on Caspar",
+  "summary": "Returning to Starker Keep on Caspar at the end of a long day, Jessalyn Valios finds her beloved Basca Starker waiting and confides that she has begun to sense someone watching her. Their easy, teasing banter, complete with Basca's playful 'Burrow Mice' imagery, masks the deeper intimacy between them as the servant Naria helps carry off Jessalyn's parcels. Basca leads her out across the beach, promising to show her something, and through the Force he opens himself fully to her, letting her feel the depth of his devotion. Shaken and moved by the unguarded intensity of his feelings, Jessalyn realizes how completely he embraces his choices, a quality both liberating and overwhelming. The scene closes with the two sharing a joyful, infectious kiss as the sun sets over the isle.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 14,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 32,
+      "type": "pose",
+      "actor": "Naria",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Naria",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 56,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 62,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 65,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 73,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Basca Starker",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Jessalyn Valios",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "system",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

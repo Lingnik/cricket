@@ -1,0 +1,751 @@
+{
+ "name": "RPlog_Showdown_at_Cochran",
+ "title": "Showdown at Cochran",
+ "summary": "Acting on his own initiative, General Luke Skywalker leads Forward Auresh Group -- the Jedi cruiser Refrain of Anshalar and its escorts, screened by Major Kyrin Sh'vani's Ghost Squadron and pilots like Rebecca Varn and Kesander Beysarus -- into the dead, dark-side-soaked Cochran system to confront the Sith. The Sith captain Dareus, commanding the Star Destroyer Predator under the watchful eye of Darth Malign, refuses Skywalker's demand to surrender and the two fleets join battle as TIE squadrons under pilots like Wolf engage the Republic fighters. After several rounds of capital-ship and starfighter combat, Skywalker springs his trap, micro-jumping in the rest of the Second Fleet, but Dareus answers by detonating a vast minefield in the asteroid belt; Luke's Force warning spares the Republic fleet from the cataclysm while the Sith ships slip away into hyperspace, leaving the battle a costly draw.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 35,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 63,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 81,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 82,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 87,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 90,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 101,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 102,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 107,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 109,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 115,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 116,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 123,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 128,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 129,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 131,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 134,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 135,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 140,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 142,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 148,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 153,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 154,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 156,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 159,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 160,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 165,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 167,
+   "type": "pose",
+   "actor": "Wolf",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 173,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 174,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 180,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 187,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 191,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 193,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 198,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 199,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 205,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 207,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 208,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 215,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 220,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 221,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 223,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 226,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 227,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 232,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 233,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 239,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 241,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 242,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 247,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 248,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 253,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 256,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 258,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 259,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 261,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 267,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 268,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 270,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 271,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 276,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 277,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 282,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 283,
+   "type": "pose",
+   "actor": "Kesander Beysarus",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 289,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 295,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 296,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "RPlog_Malign_Visit",
+  "title": "Malign's Visit",
+  "summary": "In the crowded medical bay of a newly refitted Imperial ship, the wounded Lieutenant Dareus lies recovering when the Sith warlord Darth Malign comes to call. Malign assures the gut-shot officer that Captain Caiton will see him patched up and presses for details on the recent incident at Bothawui to aid the ongoing investigation. Dareus, fearful of being blamed and worried he may never walk again, answers as best he can while Malign offers an unexpected note of reassurance about discovering one's potential late in life. After advising Dareus to finish his reports and rest, Malign confirms that several non-Bothan terrorists were captured in the action. The visit leaves the anxious lieutenant steadied, if uneasy, under the Sith's watchful attention.",
+  "rows": [
+    {
+      "line": 17,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 51,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Dareus",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Darth Malign",
+      "b": false
+    }
+  ]
+}

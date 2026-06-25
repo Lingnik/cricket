@@ -1,0 +1,29 @@
+{
+  "name": "RPlog_To_Corellia",
+  "title": "Bound for Corellian Space",
+  "summary": "Aboard the Imperial Star Destroyer Inquisitor as it travels through hyperspace, executive officer Valerius gathers several crew on the observation deck: the off-duty stormtrooper Brek Halsmer, absorbed in a Corellian text on the psychology of governments; the bored pilot Jonas; and the gambling Lieutenant Rainier. After teasing the assembled men about their unknown destination, Valerius reveals the Inquisitor is being deployed to Corellia to lend Imperial presence to the unrest there. He then surprises Brek with a promotion to Trooper, Senior Grade, citing his courage in enemy territory and his role in keeping Rainier alive. Amid wry congratulations and warnings about insurgents and dangerous missions ahead, the officers disperse, and Brek returns contentedly to his book.",
+  "rows": [
+    {"line": 17, "type": "pose", "actor": "Valerius"},
+    {"line": 20, "type": "pose", "actor": "Brek Halsmer"},
+    {"line": 23, "type": "pose", "actor": "Jonas"},
+    {"line": 26, "type": "pose", "actor": "Rainier"},
+    {"line": 29, "type": "pose", "actor": "Rainier"},
+    {"line": 32, "type": "pose", "actor": "Brek Halsmer"},
+    {"line": 35, "type": "pose", "actor": "Rainier"},
+    {"line": 38, "type": "pose", "actor": "Valerius"},
+    {"line": 41, "type": "pose", "actor": "Brek Halsmer"},
+    {"line": 44, "type": "pose", "actor": "Jonas"},
+    {"line": 47, "type": "pose", "actor": "Rainier"},
+    {"line": 50, "type": "pose", "actor": "Valerius"},
+    {"line": 53, "type": "pose", "actor": "Brek Halsmer"},
+    {"line": 56, "type": "pose", "actor": "Jonas"},
+    {"line": 59, "type": "pose", "actor": "Rainier"},
+    {"line": 62, "type": "pose", "actor": "Valerius"},
+    {"line": 65, "type": "pose", "actor": "Brek Halsmer"},
+    {"line": 68, "type": "pose", "actor": "Jonas"},
+    {"line": 71, "type": "pose", "actor": "Rainier"},
+    {"line": 74, "type": "pose", "actor": "Valerius"},
+    {"line": 77, "type": "pose", "actor": "Brek Halsmer"},
+    {"line": 80, "type": "pose", "actor": "Jonas"}
+  ]
+}

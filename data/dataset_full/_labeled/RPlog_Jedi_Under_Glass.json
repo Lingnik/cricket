@@ -1,0 +1,115 @@
+{
+ "name": "RPlog_Jedi_Under_Glass",
+ "title": "Jedi Under Glass",
+ "summary": "Imperial TIE pilot Lt. Commander Rall enters the detention block to interview the captured Jedi Ai'kani, who lies on the cold floor of her chilled cell rationing her strength. Tasked vaguely to 'know the enemy,' Rall engages her in a philosophical sparring match about morality, loyalty, and the deeds that brought her into Imperial hands. Ai'kani turns the questioning back on Rall, sensing the pilot's hidden turmoil and secret double life and warning that some Imperials are more perceptive than Rall realizes. Rall offers a parable about a scorpion's nature, then departs, resolving to return and continue this first feeling-out of his prisoner.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 24,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 30,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 32,
+   "type": "pose",
+   "actor": "Rall",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Rall",
+   "b": true
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 46,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Rall",
+   "b": true
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Ai'kani",
+   "b": false
+  },
+  {
+   "line": 52,
+   "type": "pose",
+   "actor": "Rall",
+   "b": false
+  }
+ ]
+}

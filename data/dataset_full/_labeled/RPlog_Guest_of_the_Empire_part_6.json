@@ -1,0 +1,27 @@
+{
+  "name": "RPlog_Guest_of_the_Empire_part_6",
+  "title": "Guest of the Empire, Part VI",
+  "summary": "Aboard the Star Destroyer Broadsword, the broken New Republic pilot Kyrin Sh'vani lies catatonic in her cell, forced to watch a vid-feed of an Imperial fleet ambushing and devastating a Republic task force whose position she had given up under interrogation. Captain Caiton enters, has guards douse the listless Chyleni with cold water and drag her into the light, and coldly taunts her about the civilians killed on the destroyed freighters. When Kyrin, summoning her last defiance, calls the captain a heartless monster, Caiton revels in it, threatening to collect breeding pairs from her homeworld and rousing her with stimulants whenever she drifts toward oblivion. Finally Caiton reveals her true purpose: she has no questions, only a message for the Jedi Brandis Finian, that his single act of kindness was the final key and that every Rebel she kills dies in his place. Kyrin, utterly resigned and certain of her own coming death, refuses the role of messenger, and Caiton departs laughing, vowing to send the message through others if need be.",
+  "rows": [
+    {"line": 19, "type": "room", "actor": "", "b": false},
+    {"line": 20, "type": "room", "actor": "", "b": false},
+    {"line": 22, "type": "system", "actor": "", "b": false},
+    {"line": 25, "type": "scene", "actor": "", "b": false},
+    {"line": 28, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 31, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 34, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 37, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 40, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 43, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 46, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 49, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 52, "type": "system", "actor": "", "b": false},
+    {"line": 55, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 58, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 61, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 64, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 67, "type": "pose", "actor": "Kyrin", "b": false},
+    {"line": 70, "type": "pose", "actor": "Caiton", "b": false},
+    {"line": 72, "type": "system", "actor": "", "b": false}
+  ]
+}

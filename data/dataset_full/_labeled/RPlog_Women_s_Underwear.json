@@ -1,0 +1,33 @@
+{
+  "name": "RPlog_Women_s_Underwear",
+  "title": "Hiring the Givin Technician",
+  "summary": "At the Ord Mantell spaceport, the Calamari first mate Barnacle Bill is approached by Winthrop, a prim Givin master technician who has traveled four days at his own expense to meet Captain Salty Jack about a job. Bill awkwardly admits the crew's ship was lost and a replacement not yet secured, much to the heat-averse Givin's mounting dismay. The cranky Quarren captain Salty Jack arrives fresh from a frustrating comlink call with Senator Marx's secretary and, in his changeable mood, warmly welcomes Winthrop while skirting the question of whether the promised ship actually exists. When Winthrop's luggage droid spills his trunks, revealing fine Corellian silks and a glossy red undergarment wrapped around delicate machine parts, Bill and the metal-toothed crewwoman Sally snicker at the apparent women's clothing. Jack accidentally rips one garment on his peg leg, then settles Winthrop's contract at five thousand credits a week plus an advance, which Bill covers with a sock of pooled (and pilfered) credits, as the crew looks forward to seeing their soon-to-be-acquired ship.",
+  "rows": [
+    {"line": 17, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 19, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 21, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 23, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 25, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 27, "type": "pose", "actor": "Sally", "b": false},
+    {"line": 29, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 31, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 33, "type": "pose", "actor": "Sally", "b": false},
+    {"line": 35, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 37, "type": "pose", "actor": "Jack", "b": false},
+    {"line": 39, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 41, "type": "pose", "actor": "Sally", "b": false},
+    {"line": 43, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 45, "type": "pose", "actor": "Jack", "b": false},
+    {"line": 47, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 49, "type": "pose", "actor": "Sally", "b": false},
+    {"line": 51, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 53, "type": "pose", "actor": "Jack", "b": false},
+    {"line": 55, "type": "pose", "actor": "Winthrop", "b": false},
+    {"line": 57, "type": "pose", "actor": "Sally", "b": false},
+    {"line": 59, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 61, "type": "pose", "actor": "Jack", "b": false},
+    {"line": 63, "type": "pose", "actor": "Sally", "b": false},
+    {"line": 65, "type": "pose", "actor": "Bill", "b": false},
+    {"line": 67, "type": "pose", "actor": "Jack", "b": false}
+  ]
+}

@@ -1,0 +1,127 @@
+{
+ "name": "RPlog_Showdown_Briefing",
+ "title": "Showdown Briefing",
+ "summary": "Aboard the Jedi cruiser Refrain of Anshalar, General Luke Skywalker summons the pilots of Ghost Squadron for a private briefing before the New Republic Second Fleet jumps to Cochran. Ghost Leader Major Kyrin Sh'vani stands at his side as Flight Officer Rebecca Varn and the other pilots report in. Skywalker reveals that the Imperial Task Force at Cochran is commanded by the Sith Lord Darth Malign, formerly the Ghost pilot Tyler 'Fossil' Damion, and warns the squadron to hold their escort orders and never break formation to engage Malign personally. The pilots acknowledge, Skywalker dismisses them with a charge to do their duty, and Kyrin leads her squadron back into space for the coming battle.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 19,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 21,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 27,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 43,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 44,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 49,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 54,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 60,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 70,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  },
+  {
+   "line": 75,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Rebecca Varn",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Kyrin Sh'vani",
+   "b": false
+  }
+ ]
+}

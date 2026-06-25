@@ -1,0 +1,21 @@
+{
+  "name": "RPlog_HIMS_Predator_Day_3",
+  "title": "Aboard the Predator, Day Three",
+  "summary": "In the hangar bay of the Sith Star Destroyer Predator, Dr. Lynae Cassius sits contemplating her decision when the smuggler Axel Vichten lands his modified Headhunter and climbs out to stretch and smoke. The two fall into an easy conversation comparing the instinctive feel a good pilot has for a ship to the certainty Lynae feels in surgery, and Axel offers to teach her flying tricks one day. He gently presses her to recognize the opportunity before her, asking whether she wants to settle into a quiet domestic or hospital life or instead make a galaxy-changing difference. Lynae rejects the idea of a family or a desk career, citing old injuries and her abiding love of the Empire, and frames her choice as whether the order's goals align with that love. Axel candidly admits he serves not the Empire but Vadim's Sith Empire, free of political restraints and corrupt Moffs, doing what the Galactic Empire cannot for the galaxy's good.",
+  "rows": [
+    {"line": 18, "type": "system", "actor": "", "b": false},
+    {"line": 20, "type": "system", "actor": "", "b": false},
+    {"line": 21, "type": "room", "actor": "", "b": false},
+    {"line": 23, "type": "room", "actor": "", "b": false},
+    {"line": 25, "type": "room", "actor": "", "b": false},
+    {"line": 27, "type": "room", "actor": "", "b": false},
+    {"line": 30, "type": "pose", "actor": "Lynae", "b": false},
+    {"line": 32, "type": "pose", "actor": "Axel", "b": false},
+    {"line": 35, "type": "pose", "actor": "Lynae", "b": false},
+    {"line": 38, "type": "pose", "actor": "Axel", "b": false},
+    {"line": 41, "type": "pose", "actor": "Lynae", "b": false},
+    {"line": 44, "type": "pose", "actor": "Axel", "b": false},
+    {"line": 47, "type": "pose", "actor": "Lynae", "b": false},
+    {"line": 50, "type": "pose", "actor": "Axel", "b": false}
+  ]
+}

@@ -1,0 +1,175 @@
+{
+ "name": "RPlog_Johanna_Must_Be_Saved",
+ "title": "Johanna Must Be Saved",
+ "summary": "In a secure wing of the New Republic Military Headquarters on Coruscant, Luke Skywalker keeps vigil over Johanna's bacta-preserved body, meditating on the problem of her spirit having been forced into another man's body by the Sith. Leia arrives, and the Horansi guardian Snarl brings jerky and snacks as the three reunite warmly. Moving away from the cell to speak privately, Luke and Leia weigh the grave risks of reuniting Johanna's spirit with her body -- fearing a Sith trap, the danger to the host man, and the perils of the transfer itself. Leia pledges Luke all her strength, and the two resolve to go forward, sharing a tender exchange about their father Anakin and Obi-Wan before returning to inform the others and prepare through meditation.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 23,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 26,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 29,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 34,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 37,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 40,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": true
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 51,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 55,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 57,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 59,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 62,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 65,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 68,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 71,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 86,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 89,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  },
+  {
+   "line": 92,
+   "type": "pose",
+   "actor": "Leia Organa Solo",
+   "b": false
+  },
+  {
+   "line": 95,
+   "type": "pose",
+   "actor": "Luke Skywalker",
+   "b": false
+  }
+ ]
+}

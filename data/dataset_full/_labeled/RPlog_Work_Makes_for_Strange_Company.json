@@ -1,0 +1,32 @@
+{
+  "name": "RPlog_Work_Makes_for_Strange_Company",
+  "title": "A Smuggler and a Privateer",
+  "summary": "In the dining room of a hotel, the archaeologist-smuggler Paul Nighman works late over ancient Corellian texts and a curious statue when the smug, cigarra-smoking privateer Vermillion saunters in and invites himself to Paul's table. Vermillion probes Paul about his line of work, hinting he could use a researcher on his payroll, particularly one who studies creatures with profitable qualities. Paul deflects, identifying himself only as a man in shipping and transportation, the words carrying the clear undertone of smuggling. The two trade veiled, predatory banter about live cargo before Vermillion introduces himself as Khaj Greengrass, Privateer, and the pair shake hands as wary fellow entrepreneurs. Vermillion departs, leaving Paul to ponder the red-haired stranger's intentions as a message arrives on his terminal.",
+  "rows": [
+    {"line": 17, "type": "desc", "actor": "Paul", "b": false},
+    {"line": 18, "type": "desc", "actor": "Paul", "b": false},
+    {"line": 20, "type": "system", "actor": "", "b": false},
+    {"line": 22, "type": "desc", "actor": "Vermillion", "b": false},
+    {"line": 23, "type": "desc", "actor": "Vermillion", "b": false},
+    {"line": 25, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 27, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 29, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 31, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 33, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 35, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 37, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 39, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 41, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 43, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 45, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 47, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 49, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 51, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 53, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 55, "type": "pose", "actor": "Vermillion", "b": false},
+    {"line": 57, "type": "pose", "actor": "Paul", "b": false},
+    {"line": 59, "type": "system", "actor": "", "b": false},
+    {"line": 60, "type": "system", "actor": "", "b": false},
+    {"line": 62, "type": "system", "actor": "", "b": false}
+  ]
+}

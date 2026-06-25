@@ -1,0 +1,361 @@
+{
+  "name": "RPlog_Chasing_Shadows",
+  "title": "Chasing Shadows over Ord Vaxal",
+  "summary": "Fleeing the Sith-occupied world of Ord Vaxal aboard the fighter Ranger One, the Sullustan Jedi Ikihsa Enb'Zik and his wife Snarl break atmosphere just as a New Republic recon flight of the 22nd Starfighter Wing jumps into the system. Colonel Feth's Falcon and Rogue squadrons, including Leo Corak, Lance 'Wildman' Corbet, Johmac Mabru, the veteran OB, Kit, and Ranma, detect a cloaked Sith capital ship, the Dark Presence, which deploys R-41 Starchasers under Captain Cato while the Sith Lord Malign observes from his meditation sphere. A sharp dogfight erupts as Zik races for jump coordinates, urging the Republic pilots to disengage; he outpaces his pursuers, and Captain Cato, weighing restraint against force, deliberately lets the Republic fighters withdraw rather than reveal the full strength of the shadow fleet quietly seizing worlds while the galaxy watches the Empire.",
+  "rows": [
+    {
+      "line": 21,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 24,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 26,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 28,
+      "type": "pose",
+      "actor": "Feth",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "pose",
+      "actor": "Leo Corak",
+      "b": false
+    },
+    {
+      "line": 34,
+      "type": "pose",
+      "actor": "Lance Corbet",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "pose",
+      "actor": "Johmac Mabru",
+      "b": false
+    },
+    {
+      "line": 40,
+      "type": "pose",
+      "actor": "OB",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "pose",
+      "actor": "Kit",
+      "b": false
+    },
+    {
+      "line": 46,
+      "type": "pose",
+      "actor": "Kit",
+      "b": false
+    },
+    {
+      "line": 49,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 52,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 54,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "pose",
+      "actor": "Siege",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "pose",
+      "actor": "Malign",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 67,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 69,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 71,
+      "type": "pose",
+      "actor": "Feth",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "pose",
+      "actor": "Leo Corak",
+      "b": false
+    },
+    {
+      "line": 77,
+      "type": "pose",
+      "actor": "Lance Corbet",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Lance Corbet",
+      "b": false
+    },
+    {
+      "line": 83,
+      "type": "pose",
+      "actor": "Johmac Mabru",
+      "b": false
+    },
+    {
+      "line": 86,
+      "type": "pose",
+      "actor": "OB",
+      "b": false
+    },
+    {
+      "line": 88,
+      "type": "pose",
+      "actor": "Kit",
+      "b": false
+    },
+    {
+      "line": 91,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "pose",
+      "actor": "Leo Corak",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Lance Corbet",
+      "b": false
+    },
+    {
+      "line": 106,
+      "type": "pose",
+      "actor": "Ranma",
+      "b": false
+    },
+    {
+      "line": 109,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 111,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 113,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 121,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 123,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 125,
+      "type": "pose",
+      "actor": "Leo Corak",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Lance Corbet",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "pose",
+      "actor": "Ranma",
+      "b": false
+    },
+    {
+      "line": 134,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 139,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Lance Corbet",
+      "b": false
+    },
+    {
+      "line": 152,
+      "type": "pose",
+      "actor": "Ranma",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Zik",
+      "b": false
+    },
+    {
+      "line": 160,
+      "type": "pose",
+      "actor": "Leo Corak",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    }
+  ]
+}

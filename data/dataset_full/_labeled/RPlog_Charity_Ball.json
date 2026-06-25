@@ -1,0 +1,931 @@
+{
+  "name": "RPlog_Charity_Ball",
+  "title": "The Arkanis Sector Children's Relief Masquerade",
+  "summary": "At a masked charity ball in the Royale Hotel on Corellia, raising funds for famine relief in the Arkanis Sector, the galaxy's elite mingle in costume around a silent auction. The Grand Admiral Axel Vichten quietly places proxy bids and departs early, while Caspian Presav Crestian Tarasar (as Count Dooku), his daughter Atsvara, the Biscuit Baron models Euphoria and Veruca Violet, the fashion designer Zubindi, and the foul-mouthed astromech Cricket in pilfered finery work the crowd. Two parallel flirtations unfold: the masked 'Silent Curator,' posing as a Jedi archivist, dances and verbally fences with the enigmatic captain 'Starlight,' while sounding out a petite, red-clad 'Sexy Red Guard' who wins a contested painting. As bids close, alliances and identities stay half-hidden behind vocoders and masks, and the Curator slips away into the resort, his suspicions about Starlight quietly bearing fruit.",
+  "rows": [
+    {
+      "line": 10,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 12,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 13,
+      "type": "room",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 15,
+      "type": "desc",
+      "actor": "Vanilla",
+      "b": false
+    },
+    {
+      "line": 17,
+      "type": "desc",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 19,
+      "type": "desc",
+      "actor": "Cherish",
+      "b": false
+    },
+    {
+      "line": 21,
+      "type": "desc",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 23,
+      "type": "desc",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 25,
+      "type": "desc",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 27,
+      "type": "desc",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 29,
+      "type": "desc",
+      "actor": "Euphoria",
+      "b": false
+    },
+    {
+      "line": 31,
+      "type": "desc",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 33,
+      "type": "desc",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 35,
+      "type": "desc",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 37,
+      "type": "desc",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 39,
+      "type": "desc",
+      "actor": "Zubindi",
+      "b": false
+    },
+    {
+      "line": 43,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 45,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 47,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 48,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 50,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 53,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 55,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 57,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 58,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 59,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 60,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 61,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 63,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 64,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 66,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 68,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 70,
+      "type": "pose",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 72,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 74,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 75,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 76,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 78,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 80,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 81,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 82,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 84,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 85,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 87,
+      "type": "pose",
+      "actor": "Lirae Moncair",
+      "b": false
+    },
+    {
+      "line": 89,
+      "type": "pose",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 90,
+      "type": "system",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 92,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 94,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 95,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 97,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 99,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 101,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 103,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 105,
+      "type": "pose",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 107,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 108,
+      "type": "pose",
+      "actor": "Zubindi",
+      "b": false
+    },
+    {
+      "line": 110,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 112,
+      "type": "pose",
+      "actor": "Dash Blazer",
+      "b": false
+    },
+    {
+      "line": 114,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 116,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 118,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 119,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 120,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 122,
+      "type": "pose",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 124,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 126,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 128,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 130,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 131,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 133,
+      "type": "pose",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 135,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 136,
+      "type": "pose",
+      "actor": "Tessari Vonn",
+      "b": false
+    },
+    {
+      "line": 138,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 140,
+      "type": "pose",
+      "actor": "Krayt Dragon",
+      "b": false
+    },
+    {
+      "line": 142,
+      "type": "pose",
+      "actor": "Euphoria",
+      "b": false
+    },
+    {
+      "line": 144,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 146,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 148,
+      "type": "pose",
+      "actor": "ak",
+      "b": false
+    },
+    {
+      "line": 149,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 151,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 153,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 155,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 157,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 159,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 161,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 163,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 164,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 166,
+      "type": "pose",
+      "actor": "Vanilla",
+      "b": false
+    },
+    {
+      "line": 168,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 170,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 172,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 174,
+      "type": "desc",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 175,
+      "type": "desc",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 177,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 179,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 181,
+      "type": "pose",
+      "actor": "Vanilla",
+      "b": false
+    },
+    {
+      "line": 183,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 185,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 187,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 189,
+      "type": "pose",
+      "actor": "Vanilla",
+      "b": false
+    },
+    {
+      "line": 191,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 193,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 195,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 197,
+      "type": "pose",
+      "actor": "Vanilla",
+      "b": false
+    },
+    {
+      "line": 199,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 201,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 203,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 205,
+      "type": "pose",
+      "actor": "Vanilla",
+      "b": false
+    },
+    {
+      "line": 207,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 209,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 211,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 213,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 215,
+      "type": "pose",
+      "actor": "Zubindi",
+      "b": false
+    },
+    {
+      "line": 217,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 219,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 221,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 223,
+      "type": "pose",
+      "actor": "Starlight",
+      "b": false
+    },
+    {
+      "line": 225,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 227,
+      "type": "pose",
+      "actor": "Lirae Moncair",
+      "b": false
+    },
+    {
+      "line": 229,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 231,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 233,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 235,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 237,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 239,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 241,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 243,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 245,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 246,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 248,
+      "type": "scene",
+      "actor": "",
+      "b": false
+    },
+    {
+      "line": 250,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 252,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 253,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 254,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 256,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 258,
+      "type": "pose",
+      "actor": "Euphoria",
+      "b": false
+    },
+    {
+      "line": 259,
+      "type": "pose",
+      "actor": "Veruca Violet",
+      "b": false
+    },
+    {
+      "line": 261,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 263,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 265,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 267,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 269,
+      "type": "pose",
+      "actor": "Dash Blazer",
+      "b": false
+    },
+    {
+      "line": 271,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 273,
+      "type": "pose",
+      "actor": "Cricket",
+      "b": false
+    },
+    {
+      "line": 275,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 277,
+      "type": "pose",
+      "actor": "Atsvara",
+      "b": false
+    },
+    {
+      "line": 279,
+      "type": "pose",
+      "actor": "Crestian",
+      "b": false
+    },
+    {
+      "line": 281,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 283,
+      "type": "pose",
+      "actor": "Kasha",
+      "b": false
+    },
+    {
+      "line": 285,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 287,
+      "type": "pose",
+      "actor": "Axel",
+      "b": false
+    },
+    {
+      "line": 289,
+      "type": "pose",
+      "actor": "Sexy Red Guard",
+      "b": false
+    },
+    {
+      "line": 291,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    },
+    {
+      "line": 292,
+      "type": "pose",
+      "actor": "Silent Curator",
+      "b": false
+    }
+  ]
+}

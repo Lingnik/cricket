@@ -1,0 +1,715 @@
+{
+ "name": "RPlog_Unexpected_Arrivals",
+ "title": "Unexpected Arrivals: The Recruitment of Lynae Cassius",
+ "summary": "In the rain-soaked Chianar Plaza on Ord Mantell, the exiled former Imperial doctor Lynae Cassius--having handed the New Republic intelligence on the Imperial fleet--crosses paths with the Jedi Ikihsa Enb'Zik and his Horansi wife Snarl, who recognize her and learn of her burned bridges and the standing offer Darth Malign once made her. The quiet conversation is shattered by the arrival of the ex-Imperial Antoine Dareus and the Sith fringer Axel Vichten with armored bodyguard droids, soon joined by the vengeful Cade and Darth Malign himself. Enb'Zik and Snarl try to spirit Lynae to safety, but she chooses to stay and hear out her old comrades, who reveal they serve a breakaway Sith battle group under Malign and offer her command of a modified Interdictor Cruiser. Aboard Lynae's ship, Dareus and Axel make their case for her to join their 'family' as they dock at the black-painted Star Destroyer Predator, where she is welcomed as an honored guest to weigh their offer at her leisure.",
+ "rows": [
+  {
+   "line": 18,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 20,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 22,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 25,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 28,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 31,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 33,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 36,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 38,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 42,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 45,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 48,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 50,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 53,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 56,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 58,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 61,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 64,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 67,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 69,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 72,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 74,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 77,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 80,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 83,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 85,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 88,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 91,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 93,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 96,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 98,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 100,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 103,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 106,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 108,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 111,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 114,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 117,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 119,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 122,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 124,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 127,
+   "type": "pose",
+   "actor": "Cade",
+   "b": false
+  },
+  {
+   "line": 130,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 133,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 136,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 139,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 141,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 144,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 147,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 149,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 152,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 155,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 158,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 161,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 163,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 166,
+   "type": "pose",
+   "actor": "Cade",
+   "b": false
+  },
+  {
+   "line": 169,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 172,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 175,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 178,
+   "type": "pose",
+   "actor": "Cade",
+   "b": false
+  },
+  {
+   "line": 181,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 182,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 184,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 186,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 188,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 189,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 192,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 194,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 197,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 200,
+   "type": "pose",
+   "actor": "Snarl",
+   "b": false
+  },
+  {
+   "line": 203,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 206,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 209,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 211,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 214,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 216,
+   "type": "pose",
+   "actor": "Enb'Zik",
+   "b": false
+  },
+  {
+   "line": 219,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 222,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 225,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 228,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 231,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 234,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 237,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 240,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 243,
+   "type": "pose",
+   "actor": "Darth Malign",
+   "b": false
+  },
+  {
+   "line": 246,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 249,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 252,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 254,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 257,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 260,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 263,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 266,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 269,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 272,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 275,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 278,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 281,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 284,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 287,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 288,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 290,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 292,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 294,
+   "type": "room",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 299,
+   "type": "scene",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 301,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 304,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 308,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 311,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 314,
+   "type": "pose",
+   "actor": "Axel",
+   "b": false
+  },
+  {
+   "line": 317,
+   "type": "pose",
+   "actor": "Lynae",
+   "b": false
+  },
+  {
+   "line": 320,
+   "type": "pose",
+   "actor": "Dareus",
+   "b": false
+  },
+  {
+   "line": 322,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 323,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 325,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 326,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 327,
+   "type": "system",
+   "actor": "",
+   "b": false
+  },
+  {
+   "line": 328,
+   "type": "system",
+   "actor": "",
+   "b": false
+  }
+ ]
+}
